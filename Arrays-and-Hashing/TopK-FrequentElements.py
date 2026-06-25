@@ -18,9 +18,9 @@ def TopKFreq(nums,k):
     heap = []
 
     for x in hashmap.keys():
-        heapq.heappush(heap, hashmap[x], x)
+        heapq.heappush(heap, (hashmap[x], x))
         
-        if(len(heapq) > k):
+        if(len(heap) > k):
             heapq.heappop(heap)
             
     for x in range(k):
