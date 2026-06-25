@@ -13,7 +13,7 @@ from collections import defaultdict
 def ValidSudoku(board):
 	rows = defaultdict(set())
 	cols = defaultdict(set())
-	squares = rows = defaultdict(set())
+	squares = defaultdict(set())
 
 	for r in range(len(board)):
 		for c in range(len(board[0])):
