@@ -1,45 +1,33 @@
-# Number 1: Valid Parentheses
-# Given a string `s` containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
-# An input string is valid if:
-# 1. Open brackets must be closed by the same type of brackets.
-# 2. Open brackets must be closed in the correct order.
-# 3. Every close bracket has a corresponding open bracket of the same type.
+# Number 1: Contains Duplicates
+# Given an integer array nums return true if any value appears at least twice in the array, and return false otherwise
 
-def ValidParentheses(s):
-    stack = []
-    bracketsHash = {"]":"[","}":"{",")":"("}
+def ContainsDuplicates(nums):
+    seenCharacters = set()
 
-    for x in s:
-        if x in bracketsHash:
-            if stack and stack[-1] != bracketsHash[x]:
-                return False
-            else:
-                stack.pop()
-        else:
-            stack.append(x)
+    for x in nums:
+        if x in seenCharacters:
+            return True
+        seenCharacters.add(x)
     
-    if stack:
-        return True
     return False
 
-# Number 2: Longest Rectangle in Histogram
-# Given an array of integers heights representing the  
-# histogram's bar height where the width of each bar is 1, return the area of the largest rectangle in the histogram.
+# Number 2: Valid Anagram
+# Given two strings s and t, return true if t is an anagram of s, and return false otherwise
 
-def LongestRectangleinHistogram(heights):
-    maxArea = 0
-    stack = []
+def ValidAnagram(s,t):
+    if len(s) != len(t):
+        return False
+    return sorted(s) == sorted(t)
 
-    for x in range(len(heights)):
-        start = x
+# Number 3: Two Sum:
+# Given an array and a target return the indices of the two numbers such that they add up to target
 
-        while stack and heights[x] < heights[stack[-1]]:
-            index, height = stack.pop()
-            maxArea = max(maxArea, (height * (x - index)))
-            start = index
-        stack.append(start,height)
+def TwoSum(target, nums):
+    hashmap = {}
 
-        for i,h in stack:
-            maxArea = max(maxArea, h * (len(stack)- i))
-        return maxArea
-    
+    for x in range(len(nums)):
+        difference = target - nums[x]
+        if difference in hashmap:
+            return [x,hashmap[difference]]
+        hashmap[nums[x]] = x
+    return 
