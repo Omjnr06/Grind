@@ -62,6 +62,5 @@ def decode(string):
 
         result.append(string[i:j])
         i = j
-        i += 1
     return result
 
