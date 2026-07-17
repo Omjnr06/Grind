@@ -1,5 +1,6 @@
 import os
 import ssl
+import json
 import smtplib
 import urllib.request
 from email.message import EmailMessage
@@ -17,14 +18,12 @@ def ntfy_push(posting, tier):
         priority, label, tags = "2", "NEW", "seedling"
     title = _ascii(f"{label}: {posting['company']}") or label
     body = f"{posting['title']}\n{posting['location']} - {posting.get('season') or 'season n/a'} [{posting['source']}]"
-    headers = {
-        "Title": title,
-        "Priority": priority,
-        "Tags": tags,
-        "Click": posting["url"],
-    }
-    if posting["url"] and "," not in posting["url"]:
-        headers["Actions"] = f"view, Open posting, {posting['url']}"
+    headers = {"Title": title, "Priority": priority, "Tags": tags}
+    url = posting.get("url") or ""
+    if url:
+        headers["Click"] = url
+        if "," not in url:
+            headers["Actions"] = f"view, Open posting, {url}"
     req = urllib.request.Request(
         f"{config.NTFY_SERVER}/{config.NTFY_TOPIC}",
         data=body.encode("utf-8"), headers=headers, method="POST",
@@ -37,13 +36,34 @@ def ntfy_push(posting, tier):
         return False
 
 
-def send_email(subject, body_text):
+def _send_via_resend(subject, body_text):
+    key = os.environ.get("RESEND_API_KEY")
+    to = os.environ.get("MAIL_TO")
+    if not key or not to:
+        return None
+    frm = os.environ.get("RESEND_FROM", "onboarding@resend.dev")
+    payload = json.dumps({"from": frm, "to": [to], "subject": subject, "text": body_text}).encode()
+    req = urllib.request.Request(
+        "https://api.resend.com/emails", data=payload,
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        urllib.request.urlopen(req, timeout=20)
+        print("  email sent via Resend")
+        return True
+    except Exception as e:
+        print(f"  resend failed: {e}")
+        return False
+
+
+def _send_via_smtp(subject, body_text):
     host = os.environ.get("SMTP_HOST")
     user = os.environ.get("SMTP_USER")
     pw = os.environ.get("SMTP_PASS")
     to = os.environ.get("MAIL_TO")
     if not all([host, user, pw, to]):
-        print("  email skipped (SMTP secrets not set)")
+        print("  email skipped (no Resend key and SMTP secrets incomplete)")
         return False
     port = int(os.environ.get("SMTP_PORT", "465"))
     msg = EmailMessage()
@@ -56,10 +76,18 @@ def send_email(subject, body_text):
         with smtplib.SMTP_SSL(host, port, context=ctx) as s:
             s.login(user, pw)
             s.send_message(msg)
+        print("  email sent via SMTP")
         return True
     except Exception as e:
         print(f"  email failed: {e}")
         return False
+
+
+def send_email(subject, body_text):
+    r = _send_via_resend(subject, body_text)
+    if r is not None:
+        return r
+    return _send_via_smtp(subject, body_text)
 
 
 def _row(p):
@@ -67,31 +95,10 @@ def _row(p):
 
 
 def send_email_digest(a_list, b_list):
-    host = os.environ.get("SMTP_HOST")
-    user = os.environ.get("SMTP_USER")
-    pw = os.environ.get("SMTP_PASS")
-    to = os.environ.get("MAIL_TO")
-    if not all([host, user, pw, to]):
-        print("  email skipped (SMTP secrets not set)")
-        return False
-    port = int(os.environ.get("SMTP_PORT", "465"))
-    n_a, n_b = len(a_list), len(b_list)
     parts = []
     if a_list:
         parts.append("=== TARGET COMPANIES ===\n" + "\n".join(_row(p) for p in a_list))
     if b_list:
         parts.append("=== OTHER RELEVANT ===\n" + "\n".join(_row(p) for p in b_list))
-    msg = EmailMessage()
-    msg["Subject"] = f"[{n_a} target / {n_b} other] new internship postings"
-    msg["From"] = user
-    msg["To"] = to
-    msg.set_content("\n\n".join(parts) or "No new postings.")
-    try:
-        ctx = ssl.create_default_context()
-        with smtplib.SMTP_SSL(host, port, context=ctx) as s:
-            s.login(user, pw)
-            s.send_message(msg)
-        return True
-    except Exception as e:
-        print(f"  email failed: {e}")
-        return False
+    subject = f"[{len(a_list)} target / {len(b_list)} other] new internship postings"
+    return send_email(subject, "\n\n".join(parts) or "No new postings.")
