@@ -1,0 +1,62 @@
+name: intern-alerts
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: intern-alerts
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code (main)
+        uses: actions/checkout@v4
+
+      - name: Checkout state branch
+        uses: actions/checkout@v4
+        with:
+          ref: bot-state
+          path: _state
+
+      - name: Load prior state
+        run: |
+          cp _state/seen.json internship-alerts/seen.json 2>/dev/null || true
+          cp _state/log.csv internship-alerts/log.csv 2>/dev/null || true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run watcher
+        working-directory: internship-alerts
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python main.py
+
+      - name: Publish state to bot-state branch
+        run: |
+          cd _state
+          git config user.name "intern-alerts-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git rm -r --quiet --ignore-unmatch . || true
+          cp ../internship-alerts/seen.json seen.json 2>/dev/null || true
+          cp ../internship-alerts/log.csv log.csv 2>/dev/null || true
+          git add seen.json log.csv
+          if git diff --cached --quiet; then
+            echo "no state change"
+          else
+            git commit -m "state: $(date -u +%FT%TZ)"
+            git push origin HEAD:bot-state
+          fi
