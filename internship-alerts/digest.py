@@ -7,6 +7,7 @@ import config
 
 INCLUDE_TIER_B = True
 EMAIL_TIER_B = False
+BOARD_URL = "https://github.com/Omjnr06/Grind/blob/bot-state/OPEN_ROLES.md"
 
 
 def _key(p):
@@ -66,8 +67,8 @@ def main_run():
     notify.send_email(f"Daily board: {len(a)} target roles open", render_email(a, b))
     summary = {
         "company": f"{len(a)} target roles open",
-        "title": "Daily board updated — see email / OPEN_ROLES.md",
-        "location": "", "season": "", "url": "", "source": "digest",
+        "title": "Daily board updated - see email / OPEN_ROLES.md",
+        "location": "", "season": "", "url": BOARD_URL, "source": "digest",
     }
     notify.ntfy_push(summary, "B")
 
