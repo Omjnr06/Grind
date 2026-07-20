@@ -35,6 +35,18 @@ def _req(method, path, body=None):
         print(f"  [notion {e.code}] {method} {path} -> {detail}")
         raise
 
+
+def print_schema():
+    db = _req("GET", f"/v1/databases/{LEETCODE_DB_ID}")
+    title = "".join(t.get("plain_text", "") for t in db.get("title", []))
+    print(f"[schema] title: {title!r}")
+    props = db.get("properties", {})
+    if not props:
+        print("[schema] NO PROPERTIES returned -> likely a data-source database (new Notion model)")
+    for name, prop in props.items():
+        print(f"    - {name!r} ({prop.get('type')})")
+
+
 def slug_from_url(url):
     u = (url or "").strip().rstrip("/").split("?")[0]
     if "/problems/" in u:
@@ -81,6 +93,7 @@ def enrich():
     if not NOTION_TOKEN or not LEETCODE_DB_ID:
         print("[abort] NOTION_TOKEN or LEETCODE_DB_ID not set")
         return
+    print_schema()
     rows = fetch_candidate_rows()
     print(f"[info] {len(rows)} rows with empty Companies")
     filled, skipped_nomatch, skipped_nourl = 0, 0, 0
