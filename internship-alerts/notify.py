@@ -4,12 +4,32 @@ import json
 import smtplib
 import urllib.request
 import urllib.error
+import urllib.parse
 from email.message import EmailMessage
 import config
 
 
 def _ascii(s):
     return s.encode("ascii", "ignore").decode("ascii").strip()
+
+
+def _track_action(posting, url):
+    endpoint = (os.environ.get("TRACK_ENDPOINT") or "").strip()
+    if not endpoint or posting.get("source") == "digest":
+        return None
+    secret = (os.environ.get("TRACK_SECRET") or "").strip()
+
+    def q(s):
+        return urllib.parse.quote((s or "")[:150], safe="")
+
+    track_url = (
+        f"{endpoint}?k={q(secret)}&c={q(posting.get('company'))}"
+        f"&r={q(posting.get('title'))}&loc={q(posting.get('location'))}"
+        f"&u={q(url)}&src={q(posting.get('source'))}"
+    )
+    if "," in track_url or ";" in track_url:
+        return None
+    return f"http, Applied, {track_url}, method=POST"
 
 
 def ntfy_push(posting, tier):
@@ -21,10 +41,16 @@ def ntfy_push(posting, tier):
     body = f"{posting['title']}\n{posting['location']} - {posting.get('season') or 'season n/a'} [{posting['source']}]"
     headers = {"Title": title, "Priority": priority, "Tags": tags}
     url = posting.get("url") or ""
+    actions = []
     if url:
         headers["Click"] = url
         if "," not in url:
-            headers["Actions"] = f"view, Open posting, {url}"
+            actions.append(f"view, Open posting, {url}")
+    track = _track_action(posting, url)
+    if track:
+        actions.append(track)
+    if actions:
+        headers["Actions"] = "; ".join(actions)
     req = urllib.request.Request(
         f"{config.NTFY_SERVER}/{config.NTFY_TOPIC}",
         data=body.encode("utf-8"), headers=headers, method="POST",
