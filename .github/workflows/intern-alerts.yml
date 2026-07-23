@@ -54,7 +54,6 @@ jobs:
           cd _state
           git config user.name "intern-alerts-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git rm -r --quiet --ignore-unmatch . || true
           cp ../internship-alerts/seen.json seen.json 2>/dev/null || true
           cp ../internship-alerts/log.csv log.csv 2>/dev/null || true
           git add seen.json log.csv 2>/dev/null || git add seen.json
