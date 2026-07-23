@@ -133,7 +133,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
 
-## Other relevant (246)
+## Other relevant (245)
 - ABC News — Product Management and Engineering Intern — New York, NY · Summer  
   https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896
 - Ada — Software Engineering Intern — Remote - Canada · term n/a  
@@ -338,7 +338,7 @@
   https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523
 - GSA — Software Developer - Intern — London, United Kingdom · term n/a  
   https://www.gsacapital.com/careers/gh/?gh_jid=8570668002
-- Halo Industries — Software Engineer Intern - Machine Learning Workflow — Santa Clara, CA · term n/a  
+- Halo Industries — Software Engineer Intern - Machine Learning Workflow — Santa Clara, California, United States · Summer 2027  
   https://apply.workable.com/halo-industries/j/29728B1DAF/
 - Hewlett Packard (HP) — Software Engineering Intern, Device Experiences — San Francisco, California, United States of America · Summer 2027  
   https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1
@@ -536,8 +536,6 @@
   https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026
 - Sony — Research Intern on Generative and Protective AI for Content Creation — Remote - New York · Summer 2027  
   https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335
-- SS&C — Healthcare AI & Automation Intern — Remote - Florida, US · Summer 2027  
-  https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126
 - Super.com — Software Engineering Intern - Product - Full-Stack — Toronto, Canada · term n/a  
   https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5
 - Susquehanna — Quantitative Systematic Trading Intern (Master's, Summer 2027) — New York, NY · term n/a  
