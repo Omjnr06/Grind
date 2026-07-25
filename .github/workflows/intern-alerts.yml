@@ -57,7 +57,7 @@ jobs:
           cp ../internship-alerts/seen.json seen.json 2>/dev/null || true
           cp ../internship-alerts/log.csv log.csv 2>/dev/null || true
           cp ../internship-alerts/open_roles.json open_roles.json 2>/dev/null || true
-          git add seen.json log.csv 2>/dev/null || git add seen.json
+          git add seen.json log.csv open_roles.json 2>/dev/null || git add seen.json
           if git diff --cached --quiet; then
             echo "no state change"
           else
