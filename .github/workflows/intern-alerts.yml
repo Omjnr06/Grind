@@ -56,6 +56,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           cp ../internship-alerts/seen.json seen.json 2>/dev/null || true
           cp ../internship-alerts/log.csv log.csv 2>/dev/null || true
+          cp ../internship-alerts/open_roles.json open_roles.json 2>/dev/null || true
           git add seen.json log.csv 2>/dev/null || git add seen.json
           if git diff --cached --quiet; then
             echo "no state change"
@@ -63,3 +64,5 @@ jobs:
             git commit -m "state: $(date -u +%FT%TZ)"
             git push origin HEAD:bot-state
           fi
+
+

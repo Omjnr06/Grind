@@ -56,6 +56,21 @@ def dedupe(postings):
     return list(merged.values())
 
 
+def write_open_roles(open_roles, now):
+    open_roles.sort(key=lambda r: (r["tier"], r["company"].lower(), r["location"].lower()))
+    payload = {
+        "generated_at": now,
+        "counts": {
+            "target": sum(1 for r in open_roles if r["tier"] == "A"),
+            "relevant": sum(1 for r in open_roles if r["tier"] == "B"),
+        },
+        "roles": open_roles,
+    }
+    with open("open_roles.json", "w") as f:
+        json.dump(payload, f, indent=1)
+    print(f"[info] wrote open_roles.json ({payload['counts']['target']} target, {payload['counts']['relevant']} relevant)")
+
+
 def main():
     now = _now()
     postings, errors = sources.fetch_all()
@@ -74,13 +89,24 @@ def main():
         state = {}
         print("[seed] first run: recording current postings WITHOUT notifying")
 
-    a_new, b_new, log_rows = [], [], []
+    a_new, b_new, log_rows, open_roles = [], [], [], []
 
     for p in postings:
         key = p["url_key"]
         if not key:
             continue
         tier = classify.tier_for(p)
+        if p["is_open"] and tier in ("A", "B"):
+            open_roles.append({
+                "tier": tier,
+                "company": p["company"],
+                "title": p["title"],
+                "location": p["location"],
+                "season": p.get("season") or "",
+                "sponsorship": p.get("sponsorship") or "",
+                "source": p["source"],
+                "url": p["url"],
+            })
         prev = state.get(key)
         reopened = bool(prev) and (not prev.get("is_open", True)) and p["is_open"]
         is_new = prev is None or reopened
@@ -102,6 +128,7 @@ def main():
                 b_new.append(p)
 
     save_state(state)
+    write_open_roles(open_roles, now)
 
     if seeding:
         print(f"[seed] recorded {len(state)} postings. Alerts start on next run.")
