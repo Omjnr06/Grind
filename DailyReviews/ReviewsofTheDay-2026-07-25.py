@@ -55,7 +55,7 @@ def trappingRainWater(heights):
 
 def search2DMAtrix(matrix, target):
     rows, cols = len(matrix),len(matrix[0])
-    top,bottom = 0, cols - 1
+    top,bottom = 0, rows - 1
 
     while top <= bottom:
         currentRow = (top + bottom )// 2

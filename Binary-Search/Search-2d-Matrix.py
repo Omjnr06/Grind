@@ -8,7 +8,7 @@ def search(matrix,target):
     rows = len(matrix)
     cols = len(matrix[0])
     top = 0
-    bottom = cols - 1
+    bottom = rows - 1
 
     if not matrix:
         return False
