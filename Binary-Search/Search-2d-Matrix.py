@@ -29,7 +29,7 @@ def search(matrix,target):
         return False
     
     row = (top + bottom) // 2
-    l,r = 0, len(cols) - 1
+    l,r = 0, cols - 1
 
     while l <= r:
         mid = (l + r) // 2
