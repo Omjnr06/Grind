@@ -97,6 +97,7 @@ def main():
             continue
         tier = classify.tier_for(p)
         if p["is_open"] and tier in ("A", "B"):
+            prev_seen = (state.get(key) or {}).get("first_seen")
             open_roles.append({
                 "tier": tier,
                 "company": p["company"],
@@ -106,6 +107,7 @@ def main():
                 "sponsorship": p.get("sponsorship") or "",
                 "source": p["source"],
                 "url": p["url"],
+                "first_seen": prev_seen or now,
             })
         prev = state.get(key)
         reopened = bool(prev) and (not prev.get("is_open", True)) and p["is_open"]
