@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T12:14:23Z",
+ "generated_at": "2026-07-26T13:57:06Z",
  "counts": {
   "target": 44,
   "relevant": 259
@@ -1405,23 +1405,23 @@
   {
    "tier": "B",
    "company": "Google",
-   "title": "Software Developer Intern - BS - Summer 2027",
-   "location": "Waterloo, Canada +2",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558",
-   "first_seen": "2026-07-21T14:55:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "Google",
    "title": "Software Developer Intern - MS - Summer 2027",
    "location": "Waterloo, Canada +2",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630",
+   "first_seen": "2026-07-21T14:55:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Google",
+   "title": "Software Developer Intern - BS - Summer 2027",
+   "location": "Waterloo, Canada +2",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558",
    "first_seen": "2026-07-21T14:55:28Z"
   },
   {
@@ -2967,17 +2967,6 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
-   "location": "Sydney, Australia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660767857640802565",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
    "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
@@ -2995,6 +2984,17 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7660769585826154805",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
+   "location": "Sydney, Australia",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7660767857640802565",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
