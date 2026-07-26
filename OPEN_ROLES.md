@@ -1,4 +1,4 @@
-# Open roles board — 2026-07-25
+# Open roles board — 2026-07-26
 
 **44 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -136,25 +136,21 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
 
-## Other relevant (263)
+## Other relevant (259)
 - ABC News — Product Management and Engineering Intern — New York, NY · Summer  
   https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896
 - Ada — Software Engineering Intern — Remote - Canada · term n/a  
   https://job-boards.greenhouse.io/ada18/jobs/5180710007
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
+- Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
+  https://www.amazon.jobs/jobs/10401402/apply
 - Amazon — 2027 Software Dev Engineer Intern — Dublin, Ireland · term n/a  
   https://www.amazon.jobs/jobs/10418355/apply
 - Amazon — Software Development Engineer Intern - AWS Data Services - Fall 2026 - US — Seattle, WA · term n/a  
   https://www.amazon.jobs/jobs/10412530/apply
 - Amazon — Operations Finance Rotational Program Intern 🛂 — Seattle, WA / Arlington, VA · term n/a  
   https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship
-- Amazon — Software Dev Engineer Intern - Manufacturing &Ops 2026 Shenzhen — Shenzhen, China · term n/a  
-  https://www.amazon.jobs/jobs/10377845/apply
-- Amazon — SEED Engineer Program - Software Development Engineer Intern - 2026 Shenzhen — Shenzhen, China · term n/a  
-  https://www.amazon.jobs/jobs/10377042/apply
-- Amazon — Software Dev Engineer Intern - Alexa 2026 Shenzhen — Shenzhen, China · term n/a  
-  https://www.amazon.jobs/jobs/10377010/apply
 - Amazon — Software Development Engineer Intern, AWS Data Services — Seattle, Washington, USA · Fall  
   https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us
 - Amazon — Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics — North Reading, Massachusetts, USA · Fall 2026  
@@ -197,8 +193,6 @@
   https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2
 - Autodesk — Intern Software Developer - Stagiaire en Développement Logiciel — Remote - Québec, Canada · term n/a  
   https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2
-- Autodesk — Intern - Machine Learning Developer — Toronto, Canada · term n/a  
-  https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2
 - Beaconsoftware — Software Engineering Intern — San Francisco, CA · Fall 2026  
   https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1
 - Bild AI — AI/SWE Intern — San Francisco, CA · term n/a  
@@ -211,8 +205,6 @@
   https://jobs.ashbyhq.com/blackstar/cdf1a311-09a2-4591-85ce-606bf0120700
 - Blockhouse — Rust Developer Intern - Summer 2026 — New York City, NY · term n/a  
   https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c
-- Bosch — Hardware & Embedded Research Intern - Fall 2026 — Sunnyvale, CA · term n/a  
-  https://jobs.smartrecruiters.com/BoschGroup/744000131150005-hardware-embedded-research-intern-fall-2026-?oga=true
 - Cadence — Software Intern — San Jose, CA · term n/a  
   https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R53282-1
 - Circleback — Software Engineering Intern (Summer 2027) 🛂 — San Francisco, CA · term n/a  
@@ -311,10 +303,10 @@
   https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709
 - Gemini — Software Engineering Intern (Fall 2026) — New York, New York · Fall 2026  
   https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125
-- Google — Software Developer Intern - MS - Summer 2027 — Waterloo, Canada +2 · term n/a  
-  https://www.google.com/about/careers/applications/jobs/results/95423484271698630
 - Google — Software Developer Intern - BS - Summer 2027 — Waterloo, Canada +2 · term n/a  
   https://www.google.com/about/careers/applications/jobs/results/76982475250639558
+- Google — Software Developer Intern - MS - Summer 2027 — Waterloo, Canada +2 · term n/a  
+  https://www.google.com/about/careers/applications/jobs/results/95423484271698630
 - Gritt Robotics — ML & Cloud Infrastructure Engineer Intern — South San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523
 - GSA — Software Developer - Intern — London, United Kingdom · term n/a  
@@ -471,7 +463,7 @@
   https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1
 - PathAI — Machine Learning Intern, AI Product and ML Core — Boston, MA / New York, NY / Remote · Fall  
   https://www.pathai.com/career/job-post?gh_jid=8202342002
-- PDT Partners — Summer 2027 Software Engineering Intern — New York, NY · Summer 2027  
+- PDT Partners — Summer 2027 Software Engineering Intern — New York City, NY · Summer 2027  
   https://job-boards.greenhouse.io/pdtpartners/jobs/8077685
 - Pear VC — Software Engineering Intern — London, United Kingdom · term n/a  
   https://jobs.ashbyhq.com/pear-vc/781a43c0-a13a-4e27-95a8-0dde6279d33f
@@ -483,10 +475,10 @@
   https://www.pinterestcareers.com/jobs/7258004/software-engineer-intern-fall-2026-toronto/?gh_jid=7258004
 - Pinterest — Software Engineer Intern — Toronto, Canada · Winter  
   https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/
-- Plus — Software Engineer Intern- Runtime - Robotics — Santa Clara, CA · term n/a  
-  https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4
 - Plus — Software Engineer Intern - Robotics — Santa Clara, CA · term n/a  
   https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db
+- Plus — Software Engineer Intern- Runtime - Robotics — Santa Clara, CA · term n/a  
+  https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4
 - Plus — Full Stack Engineer Intern — Santa Clara, CA · term n/a  
   https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40
 - Point72 — Quantitative Research Intern (Summer 2027) — New York, NY · term n/a  
@@ -593,12 +585,12 @@
   https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job
 - The Trade Desk — 2027 North America Software Engineering Internship — Bellevue; Boulder; Denver; Irvine; New York; Seattle · Summer 2027  
   https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007
-- TikTok — Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS — Sydney, Australia · term n/a  
-  https://lifeattiktok.com/search/7660769585826154805
 - TikTok — Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7660767857640802565
 - TikTok — Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7660769587276892469
+- TikTok — Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS — Sydney, Australia · term n/a  
+  https://lifeattiktok.com/search/7660769585826154805
 - TikTok — Software Engineer Intern - Multimedia Arch-Live - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7659948535374776629
 - TikTok — Software Engineer Intern - TikTok Live - 2027 Start - BS/MS — Sydney, Australia · term n/a  
@@ -611,10 +603,10 @@
   https://lifeattiktok.com/search/7657823445841955125
 - TikTok — Frontend Engineer Intern - TikTok Live - 2026 start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7626306561301612805
-- TikTok — Site Reliability Engineer Intern - Video & Edge Global Engineering - 2027 Start - BS/MS — Sydney, Australia · term n/a  
-  https://lifeattiktok.com/search/7626192517295556869
 - TikTok — Backend Engineer Intern - TikTok LIVE - Sydney - 2026 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7626286575904164149
+- TikTok — Site Reliability Engineer Intern - Video & Edge Global Engineering - 2027 Start - BS/MS — Sydney, Australia · term n/a  
+  https://lifeattiktok.com/search/7626192517295556869
 - TikTok — Software Development Engineer in Test Intern - QA - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7623380937004894469
 - TikTok — Software Engineer Intern, Recommendation Infrastructure — Seattle, WA · Fall  
