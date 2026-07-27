@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-27T18:44:32Z",
+ "generated_at": "2026-07-27T20:08:54Z",
  "counts": {
   "target": 44,
-  "relevant": 262
+  "relevant": 261
  },
  "roles": [
   {
@@ -1459,12 +1459,12 @@
   },
   {
    "tier": "B",
-   "company": "Gritt Robotics",
+   "company": "GRITT ROBOTICS INC",
    "title": "ML & Cloud Infrastructure Engineer Intern",
    "location": "South San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
    "first_seen": "2026-07-22T15:15:34Z"
   },
@@ -2259,17 +2259,6 @@
    "source": "vanshb03",
    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Palantir Technologies",
-   "title": "Forward Deployed Infrastructure Engineer Intern",
-   "location": "Palo Alto, CA",
-   "season": "Fall",
-   "sponsorship": "Offers Sponsorship",
-   "source": "vanshb03",
-   "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-   "first_seen": "2026-07-24T09:31:28Z"
   },
   {
    "tier": "B",
