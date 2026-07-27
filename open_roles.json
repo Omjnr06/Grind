@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T08:45:21Z",
+ "generated_at": "2026-07-27T12:11:14Z",
  "counts": {
   "target": 44,
   "relevant": 261
@@ -873,17 +873,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c",
    "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
-   "company": "Bosch",
-   "title": "Autonomous Driving \u2013 Internship in Machine Learning",
-   "location": "Sunnyvale, CA, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
-   "first_seen": "2026-07-24T17:49:01Z"
   },
   {
    "tier": "B",
@@ -2666,6 +2655,17 @@
    "source": "vanshb03",
    "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Robert Bosch LLC",
+   "title": "Software Engineer Intern, Autonomous Driving",
+   "location": "Sunnyvale, CA, United States",
+   "season": "Fall",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+   "first_seen": "2026-07-24T17:49:01Z"
   },
   {
    "tier": "B",
