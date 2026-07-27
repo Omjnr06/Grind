@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T01:16:42Z",
+ "generated_at": "2026-07-27T05:02:26Z",
  "counts": {
   "target": 44,
   "relevant": 259
@@ -598,17 +598,6 @@
    "source": "vanshb03",
    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Anthelion Capital",
-   "title": "Quant Developer / Quant Research Intern - 2026/2027",
-   "location": "New York City, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96",
-   "first_seen": "2026-07-24T11:22:13Z"
   },
   {
    "tier": "B",
@@ -1470,12 +1459,12 @@
   },
   {
    "tier": "B",
-   "company": "HireVue",
-   "title": "Data Science Intern | Fully Remote US",
+   "company": "Hirevue Inc",
+   "title": "Data Science Intern",
    "location": "Sandy, UT, United States (Remote)",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "season": "null",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://jobs.smartrecruiters.com/HireVue/744000138728139",
    "first_seen": "2026-07-22T11:41:45Z"
   },
@@ -2285,11 +2274,11 @@
   {
    "tier": "B",
    "company": "PDT Partners",
-   "title": "Summer 2027 Software Engineering Intern",
+   "title": "Software Engineering Intern",
    "location": "New York City, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
    "first_seen": "2026-07-25T11:35:18Z"
   },
@@ -2405,25 +2394,25 @@
   },
   {
    "tier": "B",
-   "company": "Pony Dot Ai",
-   "title": "Research Intern - Deep Learning",
+   "company": "Pony.ai",
+   "title": "Software Engineer Intern",
    "location": "Fremont, California, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
-   "first_seen": "2026-07-22T21:44:39Z"
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
+   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
-   "company": "Pony Dot Ai",
-   "title": "Software Engineer Intern - Generalist",
+   "company": "Pony.ai",
+   "title": "Research Intern - Deep Learning",
    "location": "Fremont, California, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
-   "first_seen": "2026-07-17T02:04:04Z"
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
+   "first_seen": "2026-07-22T21:44:39Z"
   },
   {
    "tier": "B",
@@ -2449,12 +2438,12 @@
   },
   {
    "tier": "B",
-   "company": "Quadrillion",
-   "title": "Software Engineering Intern (Summer 2027)",
+   "company": "Quadrillion Labs",
+   "title": "Software Engineering Intern",
    "location": "New York City",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
    "first_seen": "2026-07-24T07:08:44Z"
   },
@@ -2890,6 +2879,17 @@
   {
    "tier": "B",
    "company": "Tenstorrent",
+   "title": "Software Engineering Intern, Power Modeling & AI Tools",
+   "location": "Santa Clara, California, United States",
+   "season": "Fall",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
+   "first_seen": "2026-07-23T19:43:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Tenstorrent",
    "title": "CPU/AI Workload Analysis Intern",
    "location": "Santa Clara, California, United States",
    "season": "Summer 2027",
@@ -2897,17 +2897,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Tenstorrent",
-   "title": "Software Engineering Intern, Power Modeling & AI Tools",
-   "location": "Santa Clara, California, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
-   "first_seen": "2026-07-23T19:43:04Z"
   },
   {
    "tier": "B",
@@ -3219,12 +3208,23 @@
   },
   {
    "tier": "B",
+   "company": "Virtu",
+   "title": "Quantitative Trading Intern",
+   "location": "Austin, TX / Chicago, IL / New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+   "first_seen": "2026-07-27T05:02:26Z"
+  },
+  {
+   "tier": "B",
    "company": "Virtu Financial",
-   "title": "2027 Internship - Software Engineer",
-   "location": "Austin, TX; New York",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "title": "Software Engineer Intern",
+   "location": "Austin, TX / New York",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
    "first_seen": "2026-07-21T16:16:46Z"
   },
