@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-27T12:11:14Z",
+ "generated_at": "2026-07-27T15:11:19Z",
  "counts": {
   "target": 44,
-  "relevant": 261
+  "relevant": 262
  },
  "roles": [
   {
@@ -767,6 +767,17 @@
   {
    "tier": "B",
    "company": "Atomic Semi",
+   "title": "Software Engineer Intern, Chip Design Tools",
+   "location": "San Francisco, CA",
+   "season": "Fall",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true",
+   "first_seen": "2026-07-27T15:11:19Z"
+  },
+  {
+   "tier": "B",
+   "company": "Atomic Semi",
    "title": "Infrastructure Software Engineering Intern",
    "location": "San Francisco, CA / Austin, TX",
    "season": "Fall",
@@ -774,6 +785,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/AtomicSemi/867c67f7-20b5-4726-b9da-85a760d3851e/application?jr_id=69e8eecae0cd471b2f138f47",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Atomic Semi",
+   "title": "Infrastructure Software Engineering Intern",
+   "location": "San Francisco, CA / Austin, TX",
+   "season": "Fall",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true",
+   "first_seen": "2026-07-27T15:11:19Z"
   },
   {
    "tier": "B",
@@ -1470,17 +1492,6 @@
   },
   {
    "tier": "B",
-   "company": "Hewlett Packard (HP)",
-   "title": "Software Engineering Intern, Device Experiences",
-   "location": "San Francisco, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1",
-   "first_seen": "2026-07-22T23:39:45Z"
-  },
-  {
-   "tier": "B",
    "company": "Hirevue Inc",
    "title": "Data Science Intern",
    "location": "Sandy, UT, United States (Remote)",
@@ -1966,7 +1977,7 @@
   {
    "tier": "B",
    "company": "Moog",
-   "title": "Software Engineer Intern, Fleet Health Instrumentation",
+   "title": "Software Engineer Intern",
    "location": "Buffalo, NY",
    "season": "Fall",
    "sponsorship": "Other",
