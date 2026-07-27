@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-27T05:02:26Z",
+ "generated_at": "2026-07-27T08:45:21Z",
  "counts": {
   "target": 44,
-  "relevant": 259
+  "relevant": 261
  },
  "roles": [
   {
@@ -547,6 +547,17 @@
   {
    "tier": "B",
    "company": "Amazon",
+   "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
+   "location": "North Reading, Massachusetts, USA",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
    "title": "Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics",
    "location": "North Reading, Massachusetts, USA",
    "season": "Fall 2026",
@@ -597,6 +608,17 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
+   "title": "Software Development Engineer Internship - Fall 2026 (US)",
+   "location": "Seattle, Washington, USA",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -788,7 +810,7 @@
   },
   {
    "tier": "B",
-   "company": "Beaconsoftware",
+   "company": "Beacon Software",
    "title": "Software Engineering Intern",
    "location": "San Francisco, CA",
    "season": "Fall 2026",
@@ -851,6 +873,17 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c",
    "first_seen": "2026-07-22T15:15:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bosch",
+   "title": "Autonomous Driving \u2013 Internship in Machine Learning",
+   "location": "Sunnyvale, CA, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+   "first_seen": "2026-07-24T17:49:01Z"
   },
   {
    "tier": "B",
@@ -2633,17 +2666,6 @@
    "source": "vanshb03",
    "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Robert Bosch Venture Capital",
-   "title": "Autonomous Driving \u2013 Internship in Machine Learning",
-   "location": "Sunnyvale, CA, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
-   "first_seen": "2026-07-24T17:49:01Z"
   },
   {
    "tier": "B",
