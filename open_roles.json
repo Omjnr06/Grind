@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-27T20:08:54Z",
+ "generated_at": "2026-07-27T21:21:48Z",
  "counts": {
   "target": 44,
-  "relevant": 261
+  "relevant": 256
  },
  "roles": [
   {
@@ -989,7 +989,7 @@
    "company": "ConnectPrep",
    "title": "Data Analyst Internship",
    "location": "Washington, District of Columbia, United States (Remote)",
-   "season": "Summer 2027",
+   "season": "Not stated",
    "sponsorship": "citizens-only",
    "source": "zshah101",
    "url": "https://apply.workable.com/connectprep/j/C0CA13664F/",
@@ -1484,7 +1484,7 @@
    "company": "Halo Industries",
    "title": "Software Engineer Intern - Machine Learning Workflow",
    "location": "Santa Clara, California, United States",
-   "season": "Summer 2027",
+   "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://apply.workable.com/halo-industries/j/29728B1DAF/",
@@ -1605,7 +1605,7 @@
    "company": "iHerb",
    "title": "Software Development Intern",
    "location": "United States of America - Remote / Home Office",
-   "season": "Summer 2027",
+   "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/iherb/jobs/7776154003",
@@ -1616,7 +1616,7 @@
    "company": "Institute of Foundation Models",
    "title": "AI Research Internship - WM",
    "location": "Sunnyvale, CA",
-   "season": "Summer 2027",
+   "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678",
@@ -1924,7 +1924,7 @@
    "company": "Lila Sciences",
    "title": "Co-Op, ML Scientist for Protein Engineering",
    "location": "San Francisco, CA USA",
-   "season": "Summer 2027",
+   "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4289387009",
@@ -2075,17 +2075,6 @@
   },
   {
    "tier": "B",
-   "company": "Nio",
-   "title": "AI Robotics Researcher Intern (Dexterous Manipulation)",
-   "location": "San Jose-US",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000144",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Notion",
    "title": "Software Engineer, AI Intern",
    "location": "San Francisco, CA / New York, NY",
@@ -2166,7 +2155,7 @@
    "company": "Palantir",
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
    "location": "New York, NY (multiple US)",
-   "season": "Summer 2027",
+   "season": "Not stated",
    "sponsorship": "citizens-only",
    "source": "zshah101",
    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
@@ -2504,17 +2493,6 @@
   },
   {
    "tier": "B",
-   "company": "RFCUNY",
-   "title": "Data Analyst Intern",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
@@ -2702,17 +2680,6 @@
   },
   {
    "tier": "B",
-   "company": "Scale AI",
-   "title": "AI Builder Intern",
-   "location": "San Francisco, CA; New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Serval",
    "title": "Software Engineer Intern",
    "location": "San Francisco, CA",
@@ -2804,7 +2771,7 @@
    "company": "Sony",
    "title": "Research Intern on Generative and Protective AI for Content Creation",
    "location": "Remote - New York",
-   "season": "Summer 2027",
+   "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
@@ -2892,7 +2859,7 @@
    "company": "Tencent",
    "title": "Research Intern \u2013 Video World Models (Research & ML Systems)",
    "location": "US-California-Palo Alto",
-   "season": "Summer 2027",
+   "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
@@ -2908,17 +2875,6 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
    "first_seen": "2026-07-23T19:43:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Tenstorrent",
-   "title": "CPU/AI Workload Analysis Intern",
-   "location": "Santa Clara, California, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
@@ -3337,17 +3293,6 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
    "first_seen": "2026-07-20T21:21:37Z"
-  },
-  {
-   "tier": "B",
-   "company": "XPENG Motors",
-   "title": "AI Infra Onboard Performance Intern",
-   "location": "Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
