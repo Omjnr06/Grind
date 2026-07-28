@@ -29,7 +29,7 @@ def _track_action(posting, url):
     )
     if "," in track_url or ";" in track_url:
         return None
-    return f"view, Applied, {track_url}"
+    return f"http, Applied, {track_url}, method=POST"
 
 
 def ntfy_push(posting, tier):
@@ -63,14 +63,13 @@ def ntfy_push(posting, tier):
         return False
 
 
-def _send_via_resend(subject, body_text):
+def _send_via_resend(subject, body_text, to_list):
     key = (os.environ.get("RESEND_API_KEY") or "").strip()
-    to = (os.environ.get("MAIL_TO") or "").strip()
-    if not key or not to:
+    if not key or not to_list:
         return None
     frm = (os.environ.get("RESEND_FROM") or "onboarding@resend.dev").strip()
-    print(f"  [resend] key_len={len(key)} starts_ok={key.startswith('re_')} to={to}")
-    payload = json.dumps({"from": frm, "to": [to], "subject": subject, "text": body_text}).encode()
+    print(f"  [resend] key_len={len(key)} starts_ok={key.startswith('re_')} to={to_list}")
+    payload = json.dumps({"from": frm, "to": to_list, "subject": subject, "text": body_text}).encode()
     req = urllib.request.Request(
         "https://api.resend.com/emails", data=payload,
         headers={
@@ -97,19 +96,18 @@ def _send_via_resend(subject, body_text):
         return False
 
 
-def _send_via_smtp(subject, body_text):
+def _send_via_smtp(subject, body_text, to_list):
     host = os.environ.get("SMTP_HOST")
     user = os.environ.get("SMTP_USER")
     pw = os.environ.get("SMTP_PASS")
-    to = os.environ.get("MAIL_TO")
-    if not all([host, user, pw, to]):
+    if not all([host, user, pw, to_list]):
         print("  email skipped (no Resend key and SMTP secrets incomplete)")
         return False
     port = int(os.environ.get("SMTP_PORT", "465"))
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = user
-    msg["To"] = to
+    msg["To"] = ", ".join(to_list)
     msg.set_content(body_text)
     try:
         ctx = ssl.create_default_context()
@@ -123,11 +121,17 @@ def _send_via_smtp(subject, body_text):
         return False
 
 
-def send_email(subject, body_text):
-    r = _send_via_resend(subject, body_text)
+def _split(env_val):
+    return [e.strip() for e in (env_val or "").split(",") if e.strip()]
+
+
+def send_email(subject, body_text, to_list=None):
+    if to_list is None:
+        to_list = _split(os.environ.get("MAIL_TO"))
+    r = _send_via_resend(subject, body_text, to_list)
     if r is not None:
         return r
-    return _send_via_smtp(subject, body_text)
+    return _send_via_smtp(subject, body_text, to_list)
 
 
 def _row(p):
@@ -141,4 +145,9 @@ def send_email_digest(a_list, b_list):
     if b_list:
         parts.append("=== OTHER RELEVANT ===\n" + "\n".join(_row(p) for p in b_list))
     subject = f"[{len(a_list)} target / {len(b_list)} other] new internship postings"
-    return send_email(subject, "\n\n".join(parts) or "No new postings.")
+    recipients, seen = [], set()
+    for e in _split(os.environ.get("MAIL_TO")) + _split(os.environ.get("DIGEST_EXTRA")):
+        if e.lower() not in seen:
+            seen.add(e.lower())
+            recipients.append(e)
+    return send_email(subject, "\n\n".join(parts) or "No new postings.", recipients)
