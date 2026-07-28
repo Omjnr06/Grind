@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-28T15:52:55Z",
+ "generated_at": "2026-07-28T17:18:50Z",
  "counts": {
   "target": 42,
-  "relevant": 250
+  "relevant": 249
  },
  "roles": [
   {
@@ -1940,17 +1940,6 @@
    "source": "speedyapply",
    "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
    "first_seen": "2026-07-23T15:23:45Z"
-  },
-  {
-   "tier": "B",
-   "company": "MSM Inc.",
-   "title": "AI Solutions Co-op (Fall 2026)",
-   "location": "Webster, NY",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4",
-   "first_seen": "2026-07-25T11:35:18Z"
   },
   {
    "tier": "B",
