@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-28T22:31:12Z",
+ "generated_at": "2026-07-28T23:37:26Z",
  "counts": {
   "target": 42,
-  "relevant": 249
+  "relevant": 250
  },
  "roles": [
   {
@@ -1907,6 +1907,17 @@
    "source": "speedyapply_intl",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Modal",
+   "title": "ML Research Intern",
+   "location": "New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+   "first_seen": "2026-07-28T23:37:26Z"
   },
   {
    "tier": "B",
