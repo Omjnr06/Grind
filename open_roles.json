@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-27T23:42:39Z",
+ "generated_at": "2026-07-28T01:02:48Z",
  "counts": {
   "target": 44,
-  "relevant": 256
+  "relevant": 255
  },
  "roles": [
   {
@@ -1609,17 +1609,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/iherb/jobs/7776154003",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Institute of Foundation Models",
-   "title": "AI Research Internship - WM",
-   "location": "Sunnyvale, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
