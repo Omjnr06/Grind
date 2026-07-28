@@ -1,4 +1,4 @@
-# Open roles board — 2026-07-27
+# Open roles board — 2026-07-28
 
 **44 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -136,7 +136,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
 
-## Other relevant (262)
+## Other relevant (255)
 - ABC News — Product Management and Engineering Intern — New York, NY · Summer  
   https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896
 - Ada — Software Engineering Intern — Remote - Canada · term n/a  
@@ -227,7 +227,7 @@
   http://getfiber.ai/careers?gh_jid=5152467007
 - Composio — Full-stack Intern — San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9
-- ConnectPrep — Data Analyst Internship — Washington, District of Columbia, United States (Remote) · Summer 2027  
+- ConnectPrep — Data Analyst Internship — Washington, District of Columbia, United States (Remote) · Not stated  
   https://apply.workable.com/connectprep/j/C0CA13664F/
 - CTGT — Software Engineering Intern / Research Intern, Interpretability (Summer 2027) — San Francisco, CA · term n/a  
   https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027
@@ -313,11 +313,11 @@
   https://www.google.com/about/careers/applications/jobs/results/95423484271698630
 - Google — Software Developer Intern - BS - Summer 2027 — Waterloo, Canada +2 · term n/a  
   https://www.google.com/about/careers/applications/jobs/results/76982475250639558
-- Gritt Robotics — ML & Cloud Infrastructure Engineer Intern — South San Francisco, CA · term n/a  
+- GRITT ROBOTICS INC — ML & Cloud Infrastructure Engineer Intern — South San Francisco, CA · Fall  
   https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523
 - GSA — Software Developer - Intern — London, United Kingdom · term n/a  
   https://www.gsacapital.com/careers/gh/?gh_jid=8570668002
-- Halo Industries — Software Engineer Intern - Machine Learning Workflow — Santa Clara, California, United States · Summer 2027  
+- Halo Industries — Software Engineer Intern - Machine Learning Workflow — Santa Clara, California, United States · Not stated  
   https://apply.workable.com/halo-industries/j/29728B1DAF/
 - Hirevue Inc — Data Science Intern — Sandy, UT, United States (Remote) · null  
   https://jobs.smartrecruiters.com/HireVue/744000138728139
@@ -339,10 +339,8 @@
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083
 - Human Computer Lab — Intern - Software/ML Engineering — San Francisco, CA +1 · term n/a  
   https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705
-- iHerb — Software Development Intern — United States of America - Remote / Home Office · Summer 2027  
+- iHerb — Software Development Intern — United States of America - Remote / Home Office · Not stated  
   https://job-boards.greenhouse.io/iherb/jobs/7776154003
-- Institute of Foundation Models — AI Research Internship - WM — Sunnyvale, CA · Summer 2027  
-  https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678
 - Intercontinental Exchange, Inc. — Artificial Intelligence, Data & Machine Learning Intern — New York, NY · Summer  
   https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9
 - Intuitive Surgical — Computer Vision Engineering Intern - Fall 2026 — Sunnyvale, CA, United States · Fall 2026  
@@ -397,7 +395,7 @@
   https://job-boards.greenhouse.io/later/jobs/8621762002
 - Later — Software Development Co-op — Vancouver, Canada · Fall  
   https://job-boards.greenhouse.io/later/jobs/8643138002
-- Lila Sciences — Co-Op, ML Scientist for Protein Engineering — San Francisco, CA USA · Summer 2027  
+- Lila Sciences — Co-Op, ML Scientist for Protein Engineering — San Francisco, CA USA · Not stated  
   https://job-boards.greenhouse.io/lilasciences/jobs/4289387009
 - LiveRamp — Software Engineer Intern, Pixel Serving — New York, NY · Summer  
   https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201
@@ -425,8 +423,6 @@
   https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true
 - Neuralink — Software Engineer Intern, BCI Applications — Fremont, CA · term n/a  
   https://job-boards.greenhouse.io/neuralink/jobs/6594422003
-- Nio — AI Robotics Researcher Intern (Dexterous Manipulation) — San Jose-US · Summer 2027  
-  https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000144
 - Notion — Software Engineer Intern — San Francisco, California · Fall  
   https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90
 - Notion — Software Engineer, AI Intern — San Francisco, CA / New York, NY · Winter  
@@ -441,7 +437,7 @@
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488
 - Orion Innovation — Software Engineer Intern - Bioinformatics & Genomics — Remote - Belgrade, Serbia · term n/a  
   https://www.orioninc.com/careers/job/?gh_jid=4697184006
-- Palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial — New York, NY (multiple US) · Summer 2027  
+- Palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial — New York, NY (multiple US) · Not stated  
   https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3
 - Palantir Technologies — Forward Deployed Software Engineer Intern — New York, NY · Fall  
   https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6
@@ -451,8 +447,6 @@
   https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116
 - Palantir Technologies — Forward Deployed Software Engineer Intern — New York, NY (multiple US) · Fall  
   https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2
-- Palantir Technologies — Forward Deployed Infrastructure Engineer Intern — Palo Alto, CA · Fall  
-  https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69
 - Palantir Technologies — Software Engineer Intern, Defense Tech — Palo Alto, CA · Fall  
   https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d
 - Palantir Technologies — Software Engineer Intern, Infrastructure — Palo Alto, CA · Fall  
@@ -505,8 +499,6 @@
   https://rakuten.wd1.myworkdayjobs.com/en-US/kobo/job/Toronto-Canada/Dev-Ops-Engineer--12-month-Co-op-_1033844
 - Revvity — Full-Stack AI Developer Intern — Remote - Cidade Ademar, Brazil · term n/a  
   https://revvity.wd103.myworkdayjobs.com/en-US/external/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905
-- RFCUNY — Data Analyst Intern — New York, NY · Summer 2027  
-  https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987
 - Rippling — Software Engineer Intern, Backend / Full Stack / ML (Winter 2027) — San Francisco, CA / New York, NY / Seattle, WA · term n/a  
   https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484
 - Rippling — Frontend Software Engineer Intern — New York, NY / San Francisco, CA · Winter  
@@ -539,8 +531,6 @@
   https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1
 - Samsung Research America — 2026 Fall Intern, ML/NLP Research — 665 Clyde Avenue, Mountain View,  CA, USA · Fall 2026  
   https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002
-- Scale AI — AI Builder Intern — San Francisco, CA; New York, NY · Summer 2027  
-  https://job-boards.greenhouse.io/scaleai/jobs/4703343005
 - Scale AI — Technical Advisor Intern, GenAI — San Francisco, CA · Winter  
   https://scale.com/careers/4611533005
 - Serval — Software Engineer Intern — San Francisco, CA · term n/a  
@@ -559,7 +549,7 @@
   https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026
 - Snowflake — Software Engineer Intern (Core Engineering) — Menlo Park, CA / Bellevue, WA · Fall  
   https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026
-- Sony — Research Intern on Generative and Protective AI for Content Creation — Remote - New York · Summer 2027  
+- Sony — Research Intern on Generative and Protective AI for Content Creation — Remote - New York · Not stated  
   https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335
 - SPREEAI — Software Engineer Intern, AI Infrastructure / Training / Inference — San Francisco, CA · Fall  
   https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1
@@ -575,12 +565,10 @@
   https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/university/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1
 - Tencent — Cloud Media Services Intern — Palo Alto, CA · term n/a  
   https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R106872
-- Tencent — Research Intern – Video World Models (Research & ML Systems) — US-California-Palo Alto · Summer 2027  
+- Tencent — Research Intern – Video World Models (Research & ML Systems) — US-California-Palo Alto · Not stated  
   https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1
 - Tenstorrent — Software Engineering Intern, Power Modeling & AI Tools — Santa Clara, California, United States · Fall  
   https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007
-- Tenstorrent — CPU/AI Workload Analysis Intern — Santa Clara, California, United States · Summer 2027  
-  https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007
 - Terranova — Embedded Systems Intern — Berkeley, CA · term n/a  
   https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da
 - Tesla — Software Engineer Intern, Information Security — Bellevue, WA · Winter  
@@ -657,7 +645,5 @@
   https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship
 - Western Digital — Summer 2027 - Software Engineering Internship — San Jose, CA, United States · Summer 2027  
   https://jobs.smartrecruiters.com/WesternDigital/744000138727213
-- XPENG Motors — AI Infra Onboard Performance Intern — Santa Clara, CA · Summer 2027  
-  https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002
 - Zipline — Software Engineer Intern - Fall 2026 — South San Francisco, CA · term n/a  
   https://www.zipline.com/open-roles?gh_jid=7787509003
