@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-28T13:30:14Z",
+ "generated_at": "2026-07-28T15:52:55Z",
  "counts": {
-  "target": 44,
-  "relevant": 255
+  "target": 42,
+  "relevant": 250
  },
  "roles": [
   {
@@ -80,28 +80,6 @@
    "sponsorship": "",
    "source": "sndsh404",
    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
-   "first_seen": "2026-07-21T14:55:28Z"
-  },
-  {
-   "tier": "A",
-   "company": "Google",
-   "title": "Software Engineering Intern - MS - Summer 2027",
-   "location": "Mountain View, CA +29",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
-   "first_seen": "2026-07-21T14:55:28Z"
-  },
-  {
-   "tier": "A",
-   "company": "Google",
-   "title": "Software Engineering Intern - BS - Summer 2027",
-   "location": "Mountain View, CA +29",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
    "first_seen": "2026-07-21T14:55:28Z"
   },
   {
@@ -498,17 +476,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Ada",
-   "title": "Software Engineering Intern",
-   "location": "Remote - Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://job-boards.greenhouse.io/ada18/jobs/5180710007",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1328,23 +1295,23 @@
   {
    "tier": "B",
    "company": "Eulerity",
-   "title": "Mobile iOS Developer Intern",
-   "location": "New York City, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671025006",
-   "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
-   "company": "Eulerity",
    "title": "Android Developer Intern",
    "location": "New York City, NY",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006",
+   "first_seen": "2026-07-22T15:15:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "Eulerity",
+   "title": "Mobile iOS Developer Intern",
+   "location": "New York City, NY",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671025006",
    "first_seen": "2026-07-22T15:15:34Z"
   },
   {
@@ -1437,28 +1404,6 @@
   },
   {
    "tier": "B",
-   "company": "Google",
-   "title": "Software Developer Intern - MS - Summer 2027",
-   "location": "Waterloo, Canada +2",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630",
-   "first_seen": "2026-07-21T14:55:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "Google",
-   "title": "Software Developer Intern - BS - Summer 2027",
-   "location": "Waterloo, Canada +2",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558",
-   "first_seen": "2026-07-21T14:55:28Z"
-  },
-  {
-   "tier": "B",
    "company": "GRITT ROBOTICS INC",
    "title": "ML & Cloud Infrastructure Engineer Intern",
    "location": "South San Francisco, CA",
@@ -1542,7 +1487,7 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
+   "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1",
    "first_seen": "2026-07-23T15:23:45Z"
   },
   {
@@ -1553,7 +1498,7 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1",
+   "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
    "first_seen": "2026-07-23T15:23:45Z"
   },
   {
@@ -2460,17 +2405,6 @@
   },
   {
    "tier": "B",
-   "company": "Rakuten Kobo",
-   "title": "Dev Ops Engineer - 12-month Co-op",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/kobo/job/Toronto-Canada/Dev-Ops-Engineer--12-month-Co-op-_1033844",
-   "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
    "company": "Revvity",
    "title": "Full-Stack AI Developer Intern",
    "location": "Remote - Cidade Ademar, Brazil",
@@ -2923,12 +2857,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
+   "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660769587276892469",
+   "url": "https://lifeattiktok.com/search/7660767857640802565",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2945,12 +2879,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
+   "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660767857640802565",
+   "url": "https://lifeattiktok.com/search/7660769587276892469",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -3050,17 +2984,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7623380937004894469",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "TMX",
-   "title": "Software Engineer Intern - Java",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://tmx.wd3.myworkdayjobs.com/en-US/tmx_careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
