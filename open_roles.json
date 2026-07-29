@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-29T21:49:35Z",
+ "generated_at": "2026-07-29T22:50:23Z",
  "counts": {
   "target": 42,
-  "relevant": 251
+  "relevant": 252
  },
  "roles": [
   {
@@ -3128,6 +3128,17 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
    "first_seen": "2026-07-21T16:16:46Z"
+  },
+  {
+   "tier": "B",
+   "company": "Virtu Financial",
+   "title": "2027 Internship - Frontend & User Experience",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+   "first_seen": "2026-07-29T22:50:23Z"
   },
   {
    "tier": "B",
