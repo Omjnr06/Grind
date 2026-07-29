@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T12:17:25Z",
+ "generated_at": "2026-07-29T14:37:40Z",
  "counts": {
   "target": 42,
   "relevant": 250
@@ -865,6 +865,17 @@
   },
   {
    "tier": "B",
+   "company": "Bosch",
+   "title": "Autonomous Driving \u2013 Internship in Machine Learning",
+   "location": "Sunnyvale, CA, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140462550",
+   "first_seen": "2026-07-29T14:37:40Z"
+  },
+  {
+   "tier": "B",
    "company": "Cadence",
    "title": "Software Intern",
    "location": "San Jose, CA",
@@ -1295,23 +1306,23 @@
   {
    "tier": "B",
    "company": "Eulerity",
-   "title": "Android Developer Intern",
-   "location": "New York City, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006",
-   "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
-   "company": "Eulerity",
    "title": "Mobile iOS Developer Intern",
    "location": "New York City, NY",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671025006",
+   "first_seen": "2026-07-22T15:15:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "Eulerity",
+   "title": "Android Developer Intern",
+   "location": "New York City, NY",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006",
    "first_seen": "2026-07-22T15:15:34Z"
   },
   {
@@ -2285,23 +2296,23 @@
   {
    "tier": "B",
    "company": "Plus",
-   "title": "Software Engineer Intern - Robotics",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Plus",
    "title": "Software Engineer Intern- Runtime - Robotics",
    "location": "Santa Clara, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Plus",
+   "title": "Software Engineer Intern - Robotics",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2857,23 +2868,23 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
-   "location": "Sydney, Australia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660767857640802565",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
    "title": "Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7660769585826154805",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
+   "location": "Sydney, Australia",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7660767857640802565",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2974,17 +2985,6 @@
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7626192517295556869",
    "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Software Development Engineer in Test Intern - QA - 2027 Start - BS/MS",
-   "location": "Sydney, Australia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7623380937004894469",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
