@@ -1,4 +1,4 @@
-# Open roles board — 2026-07-29
+# Open roles board — 2026-07-30
 
 **42 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -131,8 +131,6 @@
   https://lifeattiktok.com/search/7631599293708126517
 
 ## Other relevant (250)
-- ABC News — Product Management and Engineering Intern — New York, NY · Summer  
-  https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -203,6 +201,8 @@
   https://jobs.ashbyhq.com/blackstar/cdf1a311-09a2-4591-85ce-606bf0120700
 - Blockhouse — Rust Developer Intern - Summer 2026 — New York City, NY · term n/a  
   https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c
+- Bosch — Autonomous Driving – Internship in Machine Learning — Sunnyvale, CA, United States · Not stated  
+  https://jobs.smartrecruiters.com/BoschGroup/744000140462550
 - Cadence — Software Intern — San Jose, CA · term n/a  
   https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R53282-1
 - Circleback — Software Engineering Intern (Summer 2027) 🛂 — San Francisco, CA · term n/a  
@@ -281,10 +281,10 @@
   https://jobs.ashbyhq.com/ethglobal/4522a1d6-956c-4434-a6db-9365f19c60fb
 - Eulerity — Website Developer & Content Marketing Intern - AI & Automation — New York City, NY · term n/a  
   https://job-boards.greenhouse.io/eulerity/jobs/4694300006
-- Eulerity — Android Developer Intern — New York City, NY · term n/a  
-  https://job-boards.greenhouse.io/eulerity/jobs/4671031006
 - Eulerity — Mobile iOS Developer Intern — New York City, NY · term n/a  
   https://job-boards.greenhouse.io/eulerity/jobs/4671025006
+- Eulerity — Android Developer Intern — New York City, NY · term n/a  
+  https://job-boards.greenhouse.io/eulerity/jobs/4671031006
 - fab2 — Software Engineering Intern — San Francisco, CA · Fall  
   https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true
 - Figure — Firmware Intern [Fall 2026] — San Jose, CA · Fall 2026  
@@ -461,10 +461,10 @@
   https://www.pinterestcareers.com/jobs/7258004/software-engineer-intern-fall-2026-toronto/?gh_jid=7258004
 - Pinterest — Software Engineer Intern — Toronto, Canada · Winter  
   https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/
-- Plus — Software Engineer Intern - Robotics — Santa Clara, CA · term n/a  
-  https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db
 - Plus — Software Engineer Intern- Runtime - Robotics — Santa Clara, CA · term n/a  
   https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4
+- Plus — Software Engineer Intern - Robotics — Santa Clara, CA · term n/a  
+  https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db
 - Plus — Full Stack Engineer Intern — Santa Clara, CA · term n/a  
   https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40
 - Point72 — Quantitative Research Intern (Summer 2027) — New York, NY · term n/a  
@@ -483,6 +483,8 @@
   https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05
 - Rakuten Kobo — Software Quality Assurance Engineer Co-op — Toronto, Canada · term n/a  
   https://rakuten.wd1.myworkdayjobs.com/en-US/kobo/job/Toronto-Canada/Software-Quality-Assurance-Engineer-Co-op_1035873
+- Redwood Materials — Embedded Software Engineer Intern - Fall 2026 — San Francisco, California, United States · Fall 2026  
+  https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004
 - Revvity — Full-Stack AI Developer Intern — Remote - Cidade Ademar, Brazil · term n/a  
   https://revvity.wd103.myworkdayjobs.com/en-US/external/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905
 - Rippling — Software Engineer Intern, Backend / Full Stack / ML (Winter 2027) — San Francisco, CA / New York, NY / Seattle, WA · term n/a  
@@ -535,8 +537,6 @@
   https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026
 - Snowflake — Software Engineer Intern (Core Engineering) — Menlo Park, CA / Bellevue, WA · Fall  
   https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026
-- Sony — Research Intern on Generative and Protective AI for Content Creation — Remote - New York · Not stated  
-  https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335
 - SPREEAI — Software Engineer Intern, AI Infrastructure / Training / Inference — San Francisco, CA · Fall  
   https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1
 - SpreeAI — Mobile Software Engineer Intern — San Francisco, CA · Fall  
@@ -563,10 +563,10 @@
   https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job
 - The Trade Desk — 2027 North America Software Engineering Internship — Bellevue; Boulder; Denver; Irvine; New York; Seattle · Summer 2027  
   https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007
-- TikTok — Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
-  https://lifeattiktok.com/search/7660767857640802565
 - TikTok — Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7660769585826154805
+- TikTok — Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
+  https://lifeattiktok.com/search/7660767857640802565
 - TikTok — Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7660769587276892469
 - TikTok — Software Engineer Intern - Multimedia Arch-Live - 2027 Start - BS/MS — Sydney, Australia · term n/a  
@@ -585,8 +585,6 @@
   https://lifeattiktok.com/search/7626286575904164149
 - TikTok — Site Reliability Engineer Intern - Video & Edge Global Engineering - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7626192517295556869
-- TikTok — Software Development Engineer in Test Intern - QA - 2027 Start - BS/MS — Sydney, Australia · term n/a  
-  https://lifeattiktok.com/search/7623380937004894469
 - TikTok — Software Engineer Intern, Recommendation Infrastructure — Seattle, WA · Fall  
   https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy
 - Tower Research — Quantitative Developer Intern — Chicago, IL / New York, NY · Summer  
@@ -615,6 +613,8 @@
   https://job-boards.greenhouse.io/virtu/jobs/8142539002
 - Virtu Financial — Software Engineer Intern — Austin, TX / New York · Summer  
   https://job-boards.greenhouse.io/virtu/jobs/8624410002
+- Virtu Financial — 2027 Internship - Frontend & User Experience — New York · Summer 2027  
+  https://job-boards.greenhouse.io/virtu/jobs/8657500002
 - Walleye Capital — Investment Data Science Intern — New York, New York · Summer  
   https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006
 - Walleye Capital — Risk Technology Analyst Intern — New York, NY · Summer  
