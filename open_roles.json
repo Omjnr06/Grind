@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-30T07:11:15Z",
+ "generated_at": "2026-07-30T09:39:47Z",
  "counts": {
   "target": 42,
-  "relevant": 251
+  "relevant": 250
  },
  "roles": [
   {
@@ -2698,17 +2698,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Sony",
-   "title": "Research Intern on Generative and Protective AI for Content Creation",
-   "location": "Remote - New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
