@@ -1,4 +1,4 @@
-# Open roles board — 2026-07-30
+# Open roles board — 2026-07-31
 
 **42 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -130,7 +130,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
 
-## Other relevant (250)
+## Other relevant (253)
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -301,12 +301,16 @@
   https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709
 - Gemini — Software Engineering Intern (Fall 2026) — New York, New York · Fall 2026  
   https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125
+- General Dynamics Information Technology — Systems Engineer Intern — Albany, NY · Summer  
+  https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity
 - GRITT ROBOTICS INC — ML & Cloud Infrastructure Engineer Intern — South San Francisco, CA · Fall  
   https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523
 - GSA — Software Developer - Intern — London, United Kingdom · term n/a  
   https://www.gsacapital.com/careers/gh/?gh_jid=8570668002
 - Halo Industries — Software Engineer Intern - Machine Learning Workflow — Santa Clara, California, United States · Not stated  
   https://apply.workable.com/halo-industries/j/29728B1DAF/
+- Heliux — Software Engineer (Internship, Summer 2027) — HQ (San Francisco, CA) · Summer 2027  
+  https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef
 - Hirevue Inc — Data Science Intern — Sandy, UT, United States (Remote) · null  
   https://jobs.smartrecruiters.com/HireVue/744000138728139
 - Hitachi — Software Analyst Intern - Fall 2026 - 8 months — Toronto, Canada · term n/a  
@@ -387,6 +391,8 @@
   https://job-boards.greenhouse.io/lilasciences/jobs/4289387009
 - LiveRamp — Software Engineer Intern, Pixel Serving — New York, NY · Summer  
   https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201
+- Melius — Software Engineering Intern — New York City · Not stated  
+  https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf
 - Microsoft — Software Engineering INTERN — Brazil · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556875247
 - Microsoft — Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities — Cairo, Egypt · term n/a  
@@ -613,7 +619,7 @@
   https://job-boards.greenhouse.io/virtu/jobs/8142539002
 - Virtu Financial — Software Engineer Intern — Austin, TX / New York · Summer  
   https://job-boards.greenhouse.io/virtu/jobs/8624410002
-- Virtu Financial — 2027 Internship - Frontend & User Experience — New York · Summer 2027  
+- Virtu Financial — Frontend & User Experience Intern — New York, NY · Summer  
   https://job-boards.greenhouse.io/virtu/jobs/8657500002
 - Walleye Capital — Investment Data Science Intern — New York, New York · Summer  
   https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006
