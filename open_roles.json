@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-31T20:14:22Z",
+ "generated_at": "2026-07-31T21:28:53Z",
  "counts": {
   "target": 42,
-  "relevant": 255
+  "relevant": 256
  },
  "roles": [
   {
@@ -2710,6 +2710,17 @@
    "source": "vanshb03",
    "url": "https://www.workatastartup.com/jobs/85257",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "SK Hynix Memory Solution",
+   "title": "Software Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
+   "first_seen": "2026-07-31T21:28:53Z"
   },
   {
    "tier": "B",
