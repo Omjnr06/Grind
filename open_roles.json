@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-31T15:47:51Z",
+ "generated_at": "2026-07-31T17:19:10Z",
  "counts": {
   "target": 42,
-  "relevant": 250
+  "relevant": 255
  },
  "roles": [
   {
@@ -887,6 +887,28 @@
   },
   {
    "tier": "B",
+   "company": "Castleton Commodities International",
+   "title": "Data Science Machine Learning Intern",
+   "location": "Stamford, CT / Houston, TX / New York City, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+   "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "Castleton Commodities International",
+   "title": "Data Engineering Intern",
+   "location": "Stamford, CT / Houston, TX / New York City, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
+   "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
    "company": "Circleback",
    "title": "Software Engineering Intern (Summer 2027) \ud83d\udec2",
    "location": "San Francisco, CA",
@@ -1104,6 +1126,17 @@
    "source": "vanshb03",
    "url": "https://www.workatastartup.com/jobs/94211",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "DRW",
+   "title": "Quantitative Research Intern",
+   "location": "Chicago, IL / New York City, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670",
+   "first_seen": "2026-07-31T17:19:10Z"
   },
   {
    "tier": "B",
@@ -1368,6 +1401,17 @@
    "source": "sndsh404",
    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "FTI Consulting",
+   "title": "Technology Intern",
+   "location": "Atlanta, GA / Chicago, IL / Houston, TX / Los Angeles, CA / New York, NY / San Francisco, CA / Washington, DC / Chicago, IL / Los Angeles, CA / New York, NY / San Francisco, CA / Washington, DC",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1",
+   "first_seen": "2026-07-31T17:19:10Z"
   },
   {
    "tier": "B",
@@ -1878,13 +1922,24 @@
   {
    "tier": "B",
    "company": "Melius",
-   "title": "Software Engineering Intern",
+   "title": "Software Engineering Intern [Fall/Winter 2026]",
    "location": "New York City",
-   "season": "Not stated",
+   "season": "Fall 2026",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf",
    "first_seen": "2026-07-31T13:40:01Z"
+  },
+  {
+   "tier": "B",
+   "company": "Melius",
+   "title": "Software Engineering Intern [Spring/Summer 2027]",
+   "location": "New York City",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
+   "first_seen": "2026-07-31T17:19:10Z"
   },
   {
    "tier": "B",
@@ -2494,17 +2549,6 @@
   {
    "tier": "B",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Embedded Platforms - Fall 2026",
-   "location": "Palo Alto, CA +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rivian",
    "title": "Software Engineering Intern - Applications - Fall-Spring Co-op",
    "location": "Toronto, Canada +1",
    "season": "",
@@ -2566,6 +2610,17 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rivian and Volkswagen Group Technologies",
+   "title": "Software Engineer Intern, Embedded Platforms",
+   "location": "Palo Alto, CA / Irvine, CA",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
