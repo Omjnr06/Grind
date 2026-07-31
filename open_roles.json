@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-31T11:46:53Z",
+ "generated_at": "2026-07-31T13:40:01Z",
  "counts": {
   "target": 42,
-  "relevant": 251
+  "relevant": 253
  },
  "roles": [
   {
@@ -1448,6 +1448,17 @@
   },
   {
    "tier": "B",
+   "company": "Heliux",
+   "title": "Software Engineer (Internship, Summer 2027)",
+   "location": "HQ (San Francisco, CA)",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
+   "first_seen": "2026-07-31T13:40:01Z"
+  },
+  {
+   "tier": "B",
    "company": "Hirevue Inc",
    "title": "Data Science Intern",
    "location": "Sandy, UT, United States (Remote)",
@@ -1885,6 +1896,17 @@
    "source": "vanshb03",
    "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Melius",
+   "title": "Software Engineering Intern",
+   "location": "New York City",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf",
+   "first_seen": "2026-07-31T13:40:01Z"
   },
   {
    "tier": "B",
