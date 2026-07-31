@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-07-31T13:40:01Z",
+ "generated_at": "2026-07-31T15:47:51Z",
  "counts": {
   "target": 42,
-  "relevant": 253
+  "relevant": 250
  },
  "roles": [
   {
@@ -667,6 +667,17 @@
   },
   {
    "tier": "B",
+   "company": "Astera Institute",
+   "title": "Software Engineering Intern - Distributed Simulation Systems",
+   "location": "Emeryville, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
    "company": "Astranis",
    "title": "Flight Software Intern (Fall 2026)",
    "location": "San Francisco, CA",
@@ -1074,6 +1085,17 @@
   },
   {
    "tier": "B",
+   "company": "Dexmate",
+   "title": "Frontend Engineer Intern",
+   "location": "Fremont, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
    "company": "DimeHealth AI",
    "title": "Forward Deployed Engineering Intern",
    "location": "New York, NY",
@@ -1305,17 +1327,6 @@
   },
   {
    "tier": "B",
-   "company": "Eulerity",
-   "title": "Android Developer Intern",
-   "location": "New York City, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006",
-   "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
    "company": "fab2",
    "title": "Software Engineering Intern",
    "location": "San Francisco, CA",
@@ -1415,6 +1426,17 @@
   },
   {
    "tier": "B",
+   "company": "General Motors",
+   "title": "2026 Fall Co-op Digital Vehicle Experience Software Developer",
+   "location": "Markham, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330",
+   "first_seen": "2026-07-31T15:47:51Z"
+  },
+  {
+   "tier": "B",
    "company": "GRITT ROBOTICS INC",
    "title": "ML & Cloud Infrastructure Engineer Intern",
    "location": "South San Francisco, CA",
@@ -1500,28 +1522,6 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "HP",
-   "title": "Software Engineering Intern - Device Experiences",
-   "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1",
-   "first_seen": "2026-07-23T15:23:45Z"
-  },
-  {
-   "tier": "B",
-   "company": "HP",
-   "title": "Software Engineering Intern - Device Experiences",
-   "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
-   "first_seen": "2026-07-23T15:23:45Z"
   },
   {
    "tier": "B",
@@ -1800,17 +1800,6 @@
   },
   {
    "tier": "B",
-   "company": "Kabam",
-   "title": "Software Engineer - Gameplay Co-op",
-   "location": "Vancouver, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Kearney & Company",
    "title": "IT Audit Intern (Summer 2027) \ud83c\uddfa\ud83c\uddf8",
    "location": "Alexandria, VA (remote)",
@@ -1863,17 +1852,6 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/later/jobs/8643138002",
    "first_seen": "2026-07-23T15:23:45Z"
-  },
-  {
-   "tier": "B",
-   "company": "Later",
-   "title": "Software Development Co-op - React + Node/NestJS + Agentic Development",
-   "location": "Vancouver, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://job-boards.greenhouse.io/later/jobs/8621762002",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
@@ -1976,14 +1954,14 @@
   },
   {
    "tier": "B",
-   "company": "Moog",
-   "title": "Intern - Software Engineering",
-   "location": "Buffalo, NY",
+   "company": "Motorola Solutions",
+   "title": "Software Engineering - Co-Op",
+   "location": "Remote - Massachusetts, USA +10",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
-   "first_seen": "2026-07-23T15:23:45Z"
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728",
+   "first_seen": "2026-07-31T15:47:51Z"
   },
   {
    "tier": "B",
@@ -2082,17 +2060,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "NVIDIA",
-   "title": "DGX Cloud Kubernetes Runtime Intern - Fall 2026",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2318,23 +2285,23 @@
   {
    "tier": "B",
    "company": "Plus",
-   "title": "Software Engineer Intern- Runtime - Robotics",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Plus",
    "title": "Software Engineer Intern - Robotics",
    "location": "Santa Clara, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Plus",
+   "title": "Software Engineer Intern- Runtime - Robotics",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2413,6 +2380,17 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "QuadReal",
+   "title": "AI Software Engineering - Fall 2026 - Toronto - Co-op/Internship - 4 Months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://quadreal.wd10.myworkdayjobs.com/en-US/quadreal/job/Toronto/AI-Software-Engineering--Fall-2026---Toronto--Co-op-Internship----4-Months_R0006673",
+   "first_seen": "2026-07-31T15:47:51Z"
   },
   {
    "tier": "B",
@@ -2533,17 +2511,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rivian",
-   "title": "Software Engineer Intern - Android Connectivity - Fall-Spring Co-op",
-   "location": "Vancouver, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2735,6 +2702,17 @@
   },
   {
    "tier": "B",
+   "company": "Spacial AI",
+   "title": "Software Engineering Intern - Summer 2026",
+   "location": "Palo Alto, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
    "company": "SPREEAI",
    "title": "Software Engineer Intern, AI Infrastructure / Training / Inference",
    "location": "San Francisco, CA",
@@ -2890,6 +2868,17 @@
   {
    "tier": "B",
    "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
+   "location": "Sydney, Australia",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7660769587276892469",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
    "title": "Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
@@ -2907,17 +2896,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7660767857640802565",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
-   "location": "Sydney, Australia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660769587276892469",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2941,17 +2919,6 @@
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7659284975782611253",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Site Reliability Engineer Intern - Video & Edge Global Engineering - 2026 Start - BS/MS",
-   "location": "Sydney, Australia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7658171807993170181",
-   "first_seen": "2026-07-22T15:15:34Z"
   },
   {
    "tier": "B",
@@ -3143,17 +3110,6 @@
   {
    "tier": "B",
    "company": "Virtu Financial",
-   "title": "Frontend & User Experience Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-   "first_seen": "2026-07-29T22:50:23Z"
-  },
-  {
-   "tier": "B",
-   "company": "Virtu Financial",
    "title": "Quant Research Intern (Undergrad)",
    "location": "New York, NY",
    "season": "",
@@ -3238,6 +3194,17 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
    "first_seen": "2026-07-20T21:21:37Z"
+  },
+  {
+   "tier": "B",
+   "company": "WindBorne Systems",
+   "title": "Firmware Intern",
+   "location": "Palo Alto, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b",
+   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
