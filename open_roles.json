@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-01T12:59:24Z",
+ "generated_at": "2026-08-01T14:27:28Z",
  "counts": {
-  "target": 42,
-  "relevant": 256
+  "target": 41,
+  "relevant": 257
  },
  "roles": [
   {
@@ -454,17 +454,6 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7629500062003218741",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "A",
-   "company": "TikTok",
-   "title": "Software Engineer Project Intern - Model Infrastructure - 2026 Start - BS/MS",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7624284785283746053",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1525,6 +1514,17 @@
   },
   {
    "tier": "B",
+   "company": "Heliux",
+   "title": "Software Engineer - Internship - Spring 2027",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c",
+   "first_seen": "2026-08-01T14:27:28Z"
+  },
+  {
+   "tier": "B",
    "company": "Hirevue Inc",
    "title": "Data Science Intern",
    "location": "Sandy, UT, United States (Remote)",
@@ -1542,7 +1542,7 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1553,7 +1553,7 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1966,6 +1966,17 @@
   {
    "tier": "B",
    "company": "Microsoft",
+   "title": "Cloud Solution Architect - Erada Internship",
+   "location": "Doha, Qatar",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556942310",
+   "first_seen": "2026-08-01T14:27:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
    "title": "Software Engineering INTERN",
    "location": "India",
    "season": "",
@@ -1973,6 +1984,28 @@
    "source": "speedyapply_intl",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
+   "title": "Cloud Solution Architect - Kuwait Nationalization Internship",
+   "location": "Kuwait City, Kuwait",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556944017",
+   "first_seen": "2026-08-01T14:27:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
+   "title": "Cloud Solution Architect - Ru'aa Internship",
+   "location": "Riyadh, Saudi Arabia",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556942312",
+   "first_seen": "2026-08-01T14:27:28Z"
   },
   {
    "tier": "B",
@@ -2346,17 +2379,6 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Plus",
-   "title": "Software Engineer Intern- Runtime - Robotics",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2846,17 +2868,6 @@
   {
    "tier": "B",
    "company": "Tencent",
-   "title": "Cloud Media Services Intern",
-   "location": "Palo Alto, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R106872",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Tencent",
    "title": "Research Intern \u2013 Video World Models (Research & ML Systems)",
    "location": "US-California-Palo Alto",
    "season": "Not stated",
@@ -2934,17 +2945,6 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
-   "location": "Sydney, Australia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660769587276892469",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
    "title": "Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
@@ -2962,6 +2962,17 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7660767857640802565",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
+   "location": "Sydney, Australia",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7660769587276892469",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -3193,17 +3204,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Walleye Capital",
-   "title": "Volatility Trading Developer Intern (Summer 2027)",
-   "location": "New York, New York",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
