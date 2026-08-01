@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-01T14:27:28Z",
+ "generated_at": "2026-08-01T15:35:18Z",
  "counts": {
   "target": 41,
-  "relevant": 257
+  "relevant": 258
  },
  "roles": [
   {
@@ -2446,6 +2446,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Postman",
+   "title": "AI Engineer, Intern",
+   "location": "Berkeley, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
+   "first_seen": "2026-08-01T15:35:18Z"
   },
   {
    "tier": "B",
