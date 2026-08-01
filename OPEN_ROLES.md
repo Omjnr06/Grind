@@ -1,6 +1,6 @@
 # Open roles board — 2026-08-01
 
-**42 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
+**41 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
 ## Target companies
 - **Amazon** — Robotics - Software Development Engineer Intern/Co-op  
@@ -123,14 +123,11 @@
 - **TikTok** — Software Engineer Project Intern - Recommendation Infrastructure - TikTok Video Social - 2026 Start - BS/MS  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7629500062003218741
-- **TikTok** — Software Engineer Project Intern - Model Infrastructure - 2026 Start - BS/MS  
-  San Jose, CA · term n/a · [speedyapply]  
-  https://lifeattiktok.com/search/7624284785283746053
 - **TikTok** — LLM Post-training Engineer Intern, Research & Product  
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
 
-## Other relevant (256)
+## Other relevant (258)
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -321,14 +318,16 @@
   https://www.gsacapital.com/careers/gh/?gh_jid=8570668002
 - Halo Industries — Software Engineer Intern - Machine Learning Workflow — Santa Clara, California, United States · Not stated  
   https://apply.workable.com/halo-industries/j/29728B1DAF/
+- Heliux — Software Engineer - Internship - Spring 2027 — San Francisco, CA · term n/a  
+  https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c
 - Heliux — Software Engineer (Internship, Summer 2027) — HQ (San Francisco, CA) · Summer 2027  
   https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef
 - Hirevue Inc — Data Science Intern — Sandy, UT, United States (Remote) · null  
   https://jobs.smartrecruiters.com/HireVue/744000138728139
 - Hitachi — Software Analyst Intern - Fall 2026 - 8 months — Toronto, Canada · term n/a  
-  https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1
-- Hitachi — Software Analyst Intern - Fall 2026 - 8 months — Toronto, Canada · term n/a  
   https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1
+- Hitachi — Software Analyst Intern - Fall 2026 - 8 months — Toronto, Canada · term n/a  
+  https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1
 - Homebase — Forward Deployed Engineering Intern, AI-Native — Houston, TX / San Francisco, CA · Summer  
   https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2
 - Hudson River Trading — Software Engineer Intern — Austin, TX / Chicago, IL / New York, NY · Summer  
@@ -403,8 +402,14 @@
   https://apply.careers.microsoft.com/careers/job/1970393556875247
 - Microsoft — Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities — Cairo, Egypt · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556866895
+- Microsoft — Cloud Solution Architect - Erada Internship — Doha, Qatar · term n/a  
+  https://apply.careers.microsoft.com/careers/job/1970393556942310
 - Microsoft — Software Engineering INTERN — India · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556911730
+- Microsoft — Cloud Solution Architect - Kuwait Nationalization Internship — Kuwait City, Kuwait · term n/a  
+  https://apply.careers.microsoft.com/careers/job/1970393556944017
+- Microsoft — Cloud Solution Architect - Ru'aa Internship — Riyadh, Saudi Arabia · term n/a  
+  https://apply.careers.microsoft.com/careers/job/1970393556942312
 - Modal — ML Research Intern — New York · Not stated  
   https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a
 - Moog — Software Engineer Intern — Buffalo, NY · Fall  
@@ -473,8 +478,6 @@
   https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/
 - Plus — Software Engineer Intern - Robotics — Santa Clara, CA · term n/a  
   https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db
-- Plus — Software Engineer Intern- Runtime - Robotics — Santa Clara, CA · term n/a  
-  https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4
 - Plus — Full Stack Engineer Intern — Santa Clara, CA · term n/a  
   https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40
 - Point72 — Quantitative Research Intern (Summer 2027) — New York, NY · term n/a  
@@ -487,6 +490,8 @@
   https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/
 - Poshmark — Cloud Platform Engineer Intern, Growth — Redwood City, CA · Summer  
   https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa
+- Postman — AI Engineer, Intern — Berkeley, California, United States · Not stated  
+  https://job-boards.greenhouse.io/postman/jobs/7823417003
 - Pylon — Software Engineer - Intern — San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d
 - QuadReal — AI Software Engineering - Fall 2026 - Toronto - Co-op/Internship - 4 Months — Toronto, Canada · term n/a  
@@ -563,8 +568,6 @@
   https://careers.sig.com/jobs/10725
 - Synchrony Bank — Software Engineer Intern - Fall 2026 — Remote - Guangzhou, China +1 · term n/a  
   https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/university/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1
-- Tencent — Cloud Media Services Intern — Palo Alto, CA · term n/a  
-  https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R106872
 - Tencent — Research Intern – Video World Models (Research & ML Systems) — US-California-Palo Alto · Not stated  
   https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1
 - Tenstorrent — Software Engineering Intern, Power Modeling & AI Tools — Santa Clara, California, United States · Fall  
@@ -577,12 +580,12 @@
   https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job
 - The Trade Desk — 2027 North America Software Engineering Internship — Bellevue; Boulder; Denver; Irvine; New York; Seattle · Summer 2027  
   https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007
-- TikTok — Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
-  https://lifeattiktok.com/search/7660769587276892469
 - TikTok — Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7660769585826154805
 - TikTok — Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7660767857640802565
+- TikTok — Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
+  https://lifeattiktok.com/search/7660769587276892469
 - TikTok — Software Engineer Intern - Multimedia Arch-Live - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7659948535374776629
 - TikTok — Software Engineer Intern - TikTok Live - 2027 Start - BS/MS — Sydney, Australia · term n/a  
@@ -631,8 +634,6 @@
   https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006
 - Walleye Capital — Technology Intern — New York, NY · Summer  
   https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006
-- Walleye Capital — Volatility Trading Developer Intern (Summer 2027) — New York, New York · Summer 2027  
-  https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006
 - Western Digital — Software Engineering Co-op (Winter 2027) — Milpitas, CA · term n/a  
   https://jobs.smartrecruiters.com/WesternDigital/744000138184309
 - Western Digital — Software Engineering Intern (Summer 2027) — San Jose, CA · term n/a  
