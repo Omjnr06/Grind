@@ -1,4 +1,4 @@
-# Open roles board — 2026-08-01
+# Open roles board — 2026-08-02
 
 **41 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
