@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-02T12:03:06Z",
+ "generated_at": "2026-08-02T13:51:00Z",
  "counts": {
   "target": 41,
-  "relevant": 258
+  "relevant": 256
  },
  "roles": [
   {
@@ -1492,17 +1492,6 @@
   },
   {
    "tier": "B",
-   "company": "Halo Industries",
-   "title": "Software Engineer Intern - Machine Learning Workflow",
-   "location": "Santa Clara, California, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/halo-industries/j/29728B1DAF/",
-   "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
    "company": "Heliux",
    "title": "Software Engineer (Internship, Summer 2027)",
    "location": "HQ (San Francisco, CA)",
@@ -1599,17 +1588,6 @@
    "source": "vanshb03",
    "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=",
    "first_seen": "2026-07-24T09:31:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "Human Computer Lab",
-   "title": "Intern - Software/ML Engineering",
-   "location": "San Francisco, CA +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705",
-   "first_seen": "2026-07-22T15:15:34Z"
   },
   {
    "tier": "B",
