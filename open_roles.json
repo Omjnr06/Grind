@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-03T16:02:45Z",
+ "generated_at": "2026-08-03T18:02:45Z",
  "counts": {
   "target": 42,
-  "relevant": 255
+  "relevant": 252
  },
  "roles": [
   {
@@ -1571,7 +1571,7 @@
    "tier": "B",
    "company": "Hudson River Trading",
    "title": "Software Engineering Internship (C++ or Python) \u2013 Summer 2027",
-   "location": "Austin, TX, United States; Chicago, Illinois, United States; New York, NY, United States; Singapore",
+   "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
@@ -2076,7 +2076,7 @@
   {
    "tier": "B",
    "company": "Neuralink",
-   "title": "Software Engineer Intern, BCI Applications",
+   "title": "Software Engineer Intern, BCI Applications \u23f3",
    "location": "Fremont, CA",
    "season": "",
    "sponsorship": "",
@@ -2727,7 +2727,7 @@
    "company": "SK Hynix Memory Solution",
    "title": "Software Engineer Intern",
    "location": "San Jose, CA",
-   "season": "Summer",
+   "season": "Fall",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
@@ -3183,39 +3183,6 @@
    "source": "sndsh404",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Walleye Capital",
-   "title": "Investment Data Science Intern",
-   "location": "New York, New York",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Walleye Capital",
-   "title": "Risk Technology Analyst Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
-   "first_seen": "2026-07-24T09:31:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "Walleye Capital",
-   "title": "Technology Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
-   "first_seen": "2026-07-24T09:31:28Z"
   },
   {
    "tier": "B",
