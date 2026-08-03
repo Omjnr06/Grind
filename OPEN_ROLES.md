@@ -1,6 +1,6 @@
-# Open roles board — 2026-08-02
+# Open roles board — 2026-08-03
 
-**41 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
+**42 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
 ## Target companies
 - **Amazon** — Robotics - Software Development Engineer Intern/Co-op  
@@ -51,6 +51,9 @@
 - **Tesla** — Software Engineer Intern, Service Engineering  
   Palo Alto, CA · Fall · [vanshb03]  
   https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119
+- **Tesla** — Software Compiler Engineer Intern, AI Inference  
+  Palo Alto, CA · Fall · [vanshb03]  
+  https://www.tesla.com/careers/search/job/278847
 - **Tesla** — Software Engineer Intern, Vehicle Engineering  
   Palo Alto, CA / Fremont, CA · Fall · [vanshb03]  
   https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106
@@ -127,7 +130,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
 
-## Other relevant (258)
+## Other relevant (255)
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -164,7 +167,7 @@
   https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships
 - Aquatic Capital — Software Engineer Intern — New York, NY · Summer  
   https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002
-- Astera Institute — Software Engineering Intern - Distributed Simulation Systems — Emeryville, CA · term n/a  
+- Astera — Software Engineering Intern, Neuro & AGI — Emeryville, CA · Fall  
   https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066
 - Astranis — Flight Software Intern (Fall 2026) — San Francisco, CA · Fall 2026  
   https://job-boards.greenhouse.io/astranis/jobs/4619283006
@@ -316,13 +319,9 @@
   https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523
 - GSA — Software Developer - Intern — London, United Kingdom · term n/a  
   https://www.gsacapital.com/careers/gh/?gh_jid=8570668002
-- Halo Industries — Software Engineer Intern - Machine Learning Workflow — Santa Clara, California, United States · Not stated  
-  https://apply.workable.com/halo-industries/j/29728B1DAF/
 - Heliux — Software Engineer - Internship - Spring 2027 — San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c
-- Heliux — Software Engineer (Internship, Summer 2027) — HQ (San Francisco, CA) · Summer 2027  
-  https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef
-- Hirevue Inc — Data Science Intern — Sandy, UT, United States (Remote) · null  
+- HireVue — Data Science Intern | Fully Remote US — Sandy, UT, United States (Remote) · Not stated  
   https://jobs.smartrecruiters.com/HireVue/744000138728139
 - Hitachi — Software Analyst Intern - Fall 2026 - 8 months — Toronto, Canada · term n/a  
   https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1
@@ -336,8 +335,6 @@
   https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=
 - Hudson River Trading — Software Engineering Internship (C++ or Python) – Summer 2027 — Austin, TX, United States; Chicago, Illinois, United States; New York, NY, United States; Singapore · Summer 2027  
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083
-- Human Computer Lab — Intern - Software/ML Engineering — San Francisco, CA +1 · term n/a  
-  https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705
 - iHerb — Software Development Intern — United States of America - Remote / Home Office · Not stated  
   https://job-boards.greenhouse.io/iherb/jobs/7776154003
 - Intercontinental Exchange, Inc. — Artificial Intelligence, Data & Machine Learning Intern — New York, NY · Summer  
@@ -490,7 +487,7 @@
   https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/
 - Poshmark — Cloud Platform Engineer Intern, Growth — Redwood City, CA · Summer  
   https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa
-- Postman — AI Engineer, Intern — Berkeley, California, United States · Not stated  
+- Postman — AI Engineer Intern — Berkeley, California, United States · Fall  
   https://job-boards.greenhouse.io/postman/jobs/7823417003
 - Pylon — Software Engineer - Intern — San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d
