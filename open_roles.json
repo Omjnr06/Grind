@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-03T20:54:46Z",
+ "generated_at": "2026-08-03T21:58:29Z",
  "counts": {
   "target": 42,
-  "relevant": 251
+  "relevant": 252
  },
  "roles": [
   {
@@ -1962,6 +1962,17 @@
    "source": "speedyapply_intl",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556944017",
    "first_seen": "2026-08-01T14:27:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
+   "title": "Software Engineer Intern, CoreAI",
+   "location": "Multiple Locations, United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
+   "first_seen": "2026-08-03T21:58:29Z"
   },
   {
    "tier": "B",
