@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-03T18:02:45Z",
+ "generated_at": "2026-08-03T19:54:39Z",
  "counts": {
   "target": 42,
-  "relevant": 252
+  "relevant": 251
  },
  "roles": [
   {
@@ -1394,7 +1394,7 @@
   {
    "tier": "B",
    "company": "Flow Traders",
-   "title": "Quantitative Trading Intern",
+   "title": "Quantitative Trading Intern (Summer 2027)",
    "location": "New York, NY",
    "season": "",
    "sponsorship": "",
@@ -1511,17 +1511,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c",
    "first_seen": "2026-08-01T14:27:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "HireVue",
-   "title": "Data Science Intern | Fully Remote US",
-   "location": "Sandy, UT, United States (Remote)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/HireVue/744000138728139",
-   "first_seen": "2026-07-22T11:41:45Z"
   },
   {
    "tier": "B",
@@ -2835,7 +2824,7 @@
   {
    "tier": "B",
    "company": "Susquehanna",
-   "title": "Macro Analyst Intern \ud83d\udec2",
+   "title": "Macro Analyst Intern (Summer 2027, June start) \ud83d\udec2",
    "location": "New York, NY",
    "season": "",
    "sponsorship": "",
@@ -3055,7 +3044,7 @@
   {
    "tier": "B",
    "company": "Tower Research Capital",
-   "title": "Quantitative Trader Intern",
+   "title": "Quantitative Trader Intern (Summer 2027)",
    "location": "New York, NY / Chicago, IL",
    "season": "",
    "sponsorship": "",
@@ -3066,7 +3055,7 @@
   {
    "tier": "B",
    "company": "Tower Research Capital",
-   "title": "Quantitative Developer Intern",
+   "title": "Quantitative Developer Intern (Summer 2027)",
    "location": "New York, NY / Chicago, IL",
    "season": "",
    "sponsorship": "",
@@ -3176,7 +3165,7 @@
   {
    "tier": "B",
    "company": "Virtu Financial",
-   "title": "Quant Research Intern (Undergrad)",
+   "title": "Quantitative Researcher Intern (2027, Undergrad)",
    "location": "New York, NY",
    "season": "",
    "sponsorship": "",
