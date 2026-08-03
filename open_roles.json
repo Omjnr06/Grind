@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-03T06:51:27Z",
+ "generated_at": "2026-08-03T10:32:40Z",
  "counts": {
-  "target": 41,
-  "relevant": 256
+  "target": 42,
+  "relevant": 255
  },
  "roles": [
   {
@@ -382,6 +382,17 @@
   {
    "tier": "A",
    "company": "Tesla",
+   "title": "Software Compiler Engineer Intern, AI Inference",
+   "location": "Palo Alto, CA",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://www.tesla.com/careers/search/job/278847",
+   "first_seen": "2026-08-03T10:32:40Z"
+  },
+  {
+   "tier": "A",
+   "company": "Tesla",
    "title": "Backend Software Engineer Intern, Diagnostics",
    "location": "Palo Alto, CA / Austin, TX",
    "season": "Winter",
@@ -656,12 +667,12 @@
   },
   {
    "tier": "B",
-   "company": "Astera Institute",
-   "title": "Software Engineering Intern - Distributed Simulation Systems",
+   "company": "Astera",
+   "title": "Software Engineering Intern, Neuro & AGI",
    "location": "Emeryville, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
+   "season": "Fall",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066",
    "first_seen": "2026-07-17T02:04:04Z"
   },
@@ -1493,17 +1504,6 @@
   {
    "tier": "B",
    "company": "Heliux",
-   "title": "Software Engineer (Internship, Summer 2027)",
-   "location": "HQ (San Francisco, CA)",
-   "season": "Summer 2027",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
-   "first_seen": "2026-07-31T13:40:01Z"
-  },
-  {
-   "tier": "B",
-   "company": "Heliux",
    "title": "Software Engineer - Internship - Spring 2027",
    "location": "San Francisco, CA",
    "season": "",
@@ -1514,12 +1514,12 @@
   },
   {
    "tier": "B",
-   "company": "Hirevue Inc",
-   "title": "Data Science Intern",
+   "company": "HireVue",
+   "title": "Data Science Intern | Fully Remote US",
    "location": "Sandy, UT, United States (Remote)",
-   "season": "null",
-   "sponsorship": "Other",
-   "source": "vanshb03",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/HireVue/744000138728139",
    "first_seen": "2026-07-22T11:41:45Z"
   },
@@ -2428,11 +2428,11 @@
   {
    "tier": "B",
    "company": "Postman",
-   "title": "AI Engineer, Intern",
+   "title": "AI Engineer Intern",
    "location": "Berkeley, California, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
    "first_seen": "2026-08-01T15:35:18Z"
   },
