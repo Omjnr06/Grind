@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-04T13:21:37Z",
+ "generated_at": "2026-08-04T15:42:58Z",
  "counts": {
-  "target": 42,
-  "relevant": 251
+  "target": 72,
+  "relevant": 258
  },
  "roles": [
   {
@@ -26,6 +26,28 @@
    "source": "vanshb03",
    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "A",
+   "company": "ByteDance",
+   "title": "Software Engineer Intern, AI Platform",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://joinbytedance.com/search/7668212952030841093",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "ByteDance",
+   "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://joinbytedance.com/search/7668374190764050741",
+   "first_seen": "2026-08-04T15:42:58Z"
   },
   {
    "tier": "A",
@@ -415,6 +437,17 @@
   {
    "tier": "A",
    "company": "TikTok",
+   "title": "Software Engineer Intern, PGC Creator Strategy",
+   "location": "San Jose",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667933770819897605",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
    "title": "LLM Post-training Engineer Intern, Research & Product",
    "location": "San Jose, CA",
    "season": "Summer",
@@ -422,6 +455,303 @@
    "source": "vanshb03",
    "url": "https://lifeattiktok.com/search/7631599293708126517",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Global Live-Foundation",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667935150530840837",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Frontend Engineer Intern, Global CRM",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7669711026846058757",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7669712589169117445",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Intelligent Creation-Camera",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668862422178318597",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Transaction Platform",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7669943120351906053",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern, Product Infrastructure",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667935633764370741",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668725183121000757",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern, Global E-Commerce",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668834837268138293",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Ads Interface",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7669705785962727733",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Shoot Experience Optimization",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668921505254410549",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Global CRM",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7669711844487399685",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Trust and Safety-Engineering",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7662700594251958581",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern, Social Foundation",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667935565120112949",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Growth Innovation",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667934860750063925",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern, PGC-Digital Content Center",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667934302872537397",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, TikTok-Social-Friending",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667935399050692917",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern, Search",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667933335084124469",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern, Social Friending",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667934635573692725",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Frontend Engineer Intern, TikTok-Open Platform",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667935739300792629",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Privacy and Security",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667935739300317493",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Code Graph and Quality Validation",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7667935738376227077",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Agentic Creation-Effect Platform",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668445566565321013",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Business Integrity",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668584916620527925",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668642761473902901",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668582031916435717",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668584161852229893",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668675500744837381",
+   "first_seen": "2026-08-04T15:42:58Z"
   },
   {
    "tier": "A",
@@ -576,6 +906,17 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
+   "title": "Product Management Intern",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+   "first_seen": "2026-08-04T15:42:58Z"
   },
   {
    "tier": "B",
@@ -873,6 +1214,17 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140462550",
    "first_seen": "2026-07-29T14:37:40Z"
+  },
+  {
+   "tier": "B",
+   "company": "ByteDance",
+   "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+   "location": "Seattle, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://joinbytedance.com/search/7668373268886161669",
+   "first_seen": "2026-08-04T15:42:58Z"
   },
   {
    "tier": "B",
@@ -1900,11 +2252,11 @@
   {
    "tier": "B",
    "company": "Melius",
-   "title": "Software Engineering Intern [Spring/Summer 2027]",
-   "location": "New York City",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "title": "Software Engineering Intern",
+   "location": "New York City, NY",
+   "season": "Spring/Summer 2027",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
    "first_seen": "2026-07-31T17:19:10Z"
   },
@@ -1989,10 +2341,10 @@
    "tier": "B",
    "company": "Modal",
    "title": "ML Research Intern",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "location": "New York, NY / San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
    "first_seen": "2026-07-28T23:37:26Z"
   },
@@ -2658,6 +3010,17 @@
   },
   {
    "tier": "B",
+   "company": "Samsara",
+   "title": "Software Engineering Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "B",
    "company": "Scale AI",
    "title": "Technical Advisor Intern, GenAI",
    "location": "San Francisco, CA",
@@ -2919,6 +3282,50 @@
    "source": "vanshb03",
    "url": "https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern, Global E-Commerce",
+   "location": "Seattle, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668834837268416821",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Trust and Safety-Engineering",
+   "location": "Seattle, WA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7662684280234232117",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Data Arch - E-commerce",
+   "location": "Seattle, WA",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668582146236631349",
+   "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Data Arch - E-commerce",
+   "location": "Seattle, WA",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://lifeattiktok.com/search/7668582086899763461",
+   "first_seen": "2026-08-04T15:42:58Z"
   },
   {
    "tier": "B",
