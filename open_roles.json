@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-04T03:33:25Z",
+ "generated_at": "2026-08-04T06:14:27Z",
  "counts": {
   "target": 42,
-  "relevant": 252
+  "relevant": 251
  },
  "roles": [
   {
@@ -2654,17 +2654,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Samsung Research America",
-   "title": "2026 Fall Intern, ML/NLP Research",
-   "location": "665 Clyde Avenue, Mountain View,  CA, USA",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
