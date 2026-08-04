@@ -1,4 +1,4 @@
-# Open roles board — 2026-08-03
+# Open roles board — 2026-08-04
 
 **42 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -130,7 +130,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
 
-## Other relevant (255)
+## Other relevant (251)
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -299,7 +299,7 @@
   https://job-boards.greenhouse.io/figureai/jobs/4691070006
 - Five Rings — Quantitative Trader Intern (Summer 2027) — New York, NY · term n/a  
   https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008
-- Flow Traders — Quantitative Trading Intern — New York, NY · term n/a  
+- Flow Traders — Quantitative Trading Intern (Summer 2027) — New York, NY · term n/a  
   https://job-boards.greenhouse.io/flowtraders/jobs/8047166
 - FTI Consulting — Technology Intern — Atlanta, GA / Chicago, IL / Houston, TX / Los Angeles, CA / New York, NY / San Francisco, CA / Washington, DC / Chicago, IL / Los Angeles, CA / New York, NY / San Francisco, CA / Washington, DC · Summer  
   https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1
@@ -321,8 +321,6 @@
   https://www.gsacapital.com/careers/gh/?gh_jid=8570668002
 - Heliux — Software Engineer - Internship - Spring 2027 — San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c
-- HireVue — Data Science Intern | Fully Remote US — Sandy, UT, United States (Remote) · Not stated  
-  https://jobs.smartrecruiters.com/HireVue/744000138728139
 - Hitachi — Software Analyst Intern - Fall 2026 - 8 months — Toronto, Canada · term n/a  
   https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1
 - Hitachi — Software Analyst Intern - Fall 2026 - 8 months — Toronto, Canada · term n/a  
@@ -333,7 +331,7 @@
   https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=
 - Hudson River Trading — Intern — New York, NY · Summer  
   https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=
-- Hudson River Trading — Software Engineering Internship (C++ or Python) – Summer 2027 — Austin, TX, United States; Chicago, Illinois, United States; New York, NY, United States; Singapore · Summer 2027  
+- Hudson River Trading — Software Engineering Internship (C++ or Python) – Summer 2027 — Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore · Summer 2027  
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083
 - iHerb — Software Development Intern — United States of America - Remote / Home Office · Not stated  
   https://job-boards.greenhouse.io/iherb/jobs/7776154003
@@ -407,6 +405,8 @@
   https://apply.careers.microsoft.com/careers/job/1970393556944017
 - Microsoft — Cloud Solution Architect - Ru'aa Internship — Riyadh, Saudi Arabia · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556942312
+- Microsoft — Software Engineer Intern, CoreAI — Multiple Locations, United States · Summer  
+  https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0
 - Modal — ML Research Intern — New York · Not stated  
   https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a
 - Moog — Software Engineer Intern — Buffalo, NY · Fall  
@@ -423,7 +423,7 @@
   https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true
 - Netic — Forward Deployed Engineer Intern — San Francisco, CA · Winter  
   https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true
-- Neuralink — Software Engineer Intern, BCI Applications — Fremont, CA · term n/a  
+- Neuralink — Software Engineer Intern, BCI Applications ⏳ — Fremont, CA · term n/a  
   https://job-boards.greenhouse.io/neuralink/jobs/6594422003
 - Notion — Software Engineer Intern — San Francisco, California · Fall  
   https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90
@@ -529,8 +529,6 @@
   https://jobs.smartrecruiters.com/BoschGroup/744000139649345
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027) — San Francisco, CA / Palo Alto, CA / New York, NY / Seattle, WA / Burlington, MA · Summer  
   https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1
-- Samsung Research America — 2026 Fall Intern, ML/NLP Research — 665 Clyde Avenue, Mountain View,  CA, USA · Fall 2026  
-  https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002
 - Scale AI — Technical Advisor Intern, GenAI — San Francisco, CA · Winter  
   https://scale.com/careers/4611533005
 - Serval — Software Engineer Intern — San Francisco, CA · term n/a  
@@ -541,7 +539,7 @@
   https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd
 - Sixtyfour (X25) — Full-Stack Software Engineering Intern — San Francisco, CA · Winter  
   https://www.workatastartup.com/jobs/85257
-- SK Hynix Memory Solution — Software Engineer Intern — San Jose, CA · Summer  
+- SK Hynix Memory Solution — Software Engineer Intern — San Jose, CA · Fall  
   https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009
 - Skydio — Software Engineer Intern — San Mateo, California, United States · Fall  
   https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee
@@ -561,7 +559,7 @@
   https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5
 - Susquehanna — Quantitative Systematic Trading Intern (Master's, Summer 2027) — New York, NY · term n/a  
   https://careers.sig.com/jobs/10823
-- Susquehanna — Macro Analyst Intern 🛂 — New York, NY · term n/a  
+- Susquehanna — Macro Analyst Intern (Summer 2027, June start) 🛂 — New York, NY · term n/a  
   https://careers.sig.com/jobs/10725
 - Synchrony Bank — Software Engineer Intern - Fall 2026 — Remote - Guangzhou, China +1 · term n/a  
   https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/university/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1
@@ -601,9 +599,9 @@
   https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy
 - Tower Research — Quantitative Developer Intern — Chicago, IL / New York, NY · Summer  
   https://tower-research.com/open-positions/?gh_jid=8044334
-- Tower Research Capital — Quantitative Trader Intern — New York, NY / Chicago, IL · term n/a  
+- Tower Research Capital — Quantitative Trader Intern (Summer 2027) — New York, NY / Chicago, IL · term n/a  
   https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128
-- Tower Research Capital — Quantitative Developer Intern — New York, NY / Chicago, IL · term n/a  
+- Tower Research Capital — Quantitative Developer Intern (Summer 2027) — New York, NY / Chicago, IL · term n/a  
   https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334
 - TribalScale — Agile Software Engineer - Co-op — Toronto, Canada · term n/a  
   https://job-boards.greenhouse.io/tribalscale/jobs/4687337006
@@ -621,16 +619,10 @@
   https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101
 - Virtu — Quantitative Trading Intern — Austin, TX / Chicago, IL / New York, NY · Summer  
   https://job-boards.greenhouse.io/virtu/jobs/8624408002
-- Virtu Financial — Quant Research Intern (Undergrad) — New York, NY · term n/a  
+- Virtu Financial — Quantitative Researcher Intern (2027, Undergrad) — New York, NY · term n/a  
   https://job-boards.greenhouse.io/virtu/jobs/8142539002
 - Virtu Financial — Software Engineer Intern — Austin, TX / New York · Summer  
   https://job-boards.greenhouse.io/virtu/jobs/8624410002
-- Walleye Capital — Investment Data Science Intern — New York, New York · Summer  
-  https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006
-- Walleye Capital — Risk Technology Analyst Intern — New York, NY · Summer  
-  https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006
-- Walleye Capital — Technology Intern — New York, NY · Summer  
-  https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006
 - Western Digital — Software Engineering Co-op (Winter 2027) — Milpitas, CA · term n/a  
   https://jobs.smartrecruiters.com/WesternDigital/744000138184309
 - Western Digital — Software Engineering Intern (Summer 2027) — San Jose, CA · term n/a  
