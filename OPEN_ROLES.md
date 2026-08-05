@@ -1,6 +1,6 @@
-# Open roles board — 2026-08-04
+# Open roles board — 2026-08-05
 
-**42 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
+**72 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
 ## Target companies
 - **Amazon** — Robotics - Software Development Engineer Intern/Co-op  
@@ -15,6 +15,12 @@
 - **ByteDance** — Student Researcher, Vision Foundation Model (Seed)  
   San Jose, CA · term n/a · [sndsh404]  
   https://joinbytedance.com/search/7623544831999346997
+- **ByteDance** — Software Engineer Intern, AI Platform  
+  San Jose, CA · Summer · [vanshb03]  
+  https://joinbytedance.com/search/7668212952030841093
+- **ByteDance** — Software Engineer Intern, Distributed NoSQL Database Systems  
+  San Jose, CA · Summer · [vanshb03]  
+  https://joinbytedance.com/search/7668374190764050741
 - **Databricks** — Product Management Intern (Summer 2027)  
   San Francisco, CA · term n/a · [sndsh404]  
   https://job-boards.greenhouse.io/databricks/jobs/6883068002
@@ -126,11 +132,95 @@
 - **TikTok** — Software Engineer Project Intern - Recommendation Infrastructure - TikTok Video Social - 2026 Start - BS/MS  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7629500062003218741
+- **TikTok** — Software Engineer Intern, PGC Creator Strategy  
+  San Jose · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667933770819897605
 - **TikTok** — LLM Post-training Engineer Intern, Research & Product  
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
+- **TikTok** — Software Engineer Intern, Global Live-Foundation  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667935150530840837
+- **TikTok** — Frontend Engineer Intern, Global CRM  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7669711026846058757
+- **TikTok** — Software Engineer Intern, AI Agent & Global Revenue Platform  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7669712589169117445
+- **TikTok** — Software Engineer Intern, Intelligent Creation-Camera  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668862422178318597
+- **TikTok** — Software Engineer Intern, Transaction Platform  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7669943120351906053
+- **TikTok** — Backend Software Engineer Intern, Product Infrastructure  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667935633764370741
+- **TikTok** — Software Engineer Intern  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668725183121000757
+- **TikTok** — Backend Software Engineer Intern, Global E-Commerce  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668834837268138293
+- **TikTok** — Software Engineer Intern, Ads Interface  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7669705785962727733
+- **TikTok** — Software Engineer Intern, Shoot Experience Optimization  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668921505254410549
+- **TikTok** — Software Engineer Intern, Global CRM  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7669711844487399685
+- **TikTok** — Software Engineer Intern, Trust and Safety-Engineering  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7662700594251958581
+- **TikTok** — Backend Software Engineer Intern, Social Foundation  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667935565120112949
+- **TikTok** — Software Engineer Intern, Growth Innovation  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667934860750063925
+- **TikTok** — Backend Software Engineer Intern, PGC-Digital Content Center  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667934302872537397
+- **TikTok** — Software Engineer Intern, TikTok-Social-Friending  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667935399050692917
+- **TikTok** — Backend Software Engineer Intern, Search  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667933335084124469
+- **TikTok** — Backend Software Engineer Intern, Social Friending  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667934635573692725
+- **TikTok** — Frontend Engineer Intern, TikTok-Open Platform  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667935739300792629
+- **TikTok** — Software Engineer Intern, Privacy and Security  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667935739300317493
+- **TikTok** — Software Engineer Intern, Code Graph and Quality Validation  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7667935738376227077
+- **TikTok** — Software Engineer Intern, Agentic Creation-Effect Platform  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668445566565321013
+- **TikTok** — Software Engineer Intern, Business Integrity  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668584916620527925
+- **TikTok** — Software Engineer Intern, Creative Intelligence and Brand Innovation  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668642761473902901
+- **TikTok** — Software Engineer Intern, Ads Measurement Signal and Privacy  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668582031916435717
+- **TikTok** — Frontend Software Engineer Intern, Ads Measurement Signal and Privacy  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668584161852229893
+- **TikTok** — Software Engineer Intern, TikTok-Agentic Creation-AIGC  
+  San Jose, CA · Summer · [vanshb03]  
+  https://lifeattiktok.com/search/7668675500744837381
 
-## Other relevant (251)
+## Other relevant (259)
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -151,6 +241,8 @@
   https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us
 - Amazon — Business Intelligence Engineer Co-Op — Seattle, WA · Winter  
   https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us
+- American Express — Product Management Intern — New York, NY · Summer  
+  https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916
 - Apple — Hardware Undergrad Engineering Internship — hardware intern (undergrad) · term n/a  
   https://jobs.apple.com/en-us/details/200663981-3810/hardware-undergrad-engineering-internships
 - Apple — Machine Learning & AI Undergrad Internship — ML / AI intern (undergrad) · term n/a  
@@ -203,8 +295,12 @@
   https://jobs.ashbyhq.com/blackstar/cdf1a311-09a2-4591-85ce-606bf0120700
 - Blockhouse — Rust Developer Intern - Summer 2026 — New York City, NY · term n/a  
   https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c
+- Boeing — Data Analytics Intern — Everett, WA / Saint Charles, MO / Huntsville, AL / Charleston, SC / Oklahoma City, OK / Berkeley, MO / Huntington Beach, CA / Hazelwood, MO / El Segundo, CA / Herndon, VA / Plano, TX / Arlington, VA / Ridley Park, PA / Tukwila, WA / North Charleston, SC / Fairfax, VA / Colorado Springs, CO / Chicago, IL / Seal Beach, CA / Mukilteo, WA / Long Beach, CA / Atlanta, GA / Renton, WA / Dallas, TX / Seattle, WA / Auburn, WA / Bellevue, WA / San Antonio, TX / Kent, WA / Mesa, AZ / Tukwila, WA · Summer  
+  https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976
 - Bosch — Autonomous Driving – Internship in Machine Learning — Sunnyvale, CA, United States · Not stated  
   https://jobs.smartrecruiters.com/BoschGroup/744000140462550
+- ByteDance — Software Engineer Intern, Distributed NoSQL Database Systems — Seattle, WA · Summer  
+  https://joinbytedance.com/search/7668373268886161669
 - Cadence — Software Intern — San Jose, CA · term n/a  
   https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R53282-1
 - Castleton Commodities International — Data Science Machine Learning Intern — Stamford, CT / Houston, TX / New York City, NY · Summer  
@@ -391,7 +487,7 @@
   https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201
 - Melius — Software Engineering Intern [Fall/Winter 2026] — New York City · Fall 2026  
   https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf
-- Melius — Software Engineering Intern [Spring/Summer 2027] — New York City · Summer 2027  
+- Melius — Software Engineering Intern — New York City, NY · Summer  
   https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280
 - Microsoft — Software Engineering INTERN — Brazil · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556875247
@@ -407,7 +503,7 @@
   https://apply.careers.microsoft.com/careers/job/1970393556942312
 - Microsoft — Software Engineer Intern, CoreAI — Multiple Locations, United States · Summer  
   https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0
-- Modal — ML Research Intern — New York · Not stated  
+- Modal — ML Research Intern — New York, NY / San Francisco, CA · Summer  
   https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a
 - Moog — Software Engineer Intern — Buffalo, NY · Fall  
   https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1
@@ -529,6 +625,8 @@
   https://jobs.smartrecruiters.com/BoschGroup/744000139649345
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027) — San Francisco, CA / Palo Alto, CA / New York, NY / Seattle, WA / Burlington, MA · Summer  
   https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1
+- Samsara — Software Engineering Intern — San Francisco, CA · Summer  
+  https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091
 - Scale AI — Technical Advisor Intern, GenAI — San Francisco, CA · Winter  
   https://scale.com/careers/4611533005
 - Serval — Software Engineer Intern — San Francisco, CA · term n/a  
@@ -597,6 +695,14 @@
   https://lifeattiktok.com/search/7626192517295556869
 - TikTok — Software Engineer Intern, Recommendation Infrastructure — Seattle, WA · Fall  
   https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy
+- TikTok — Backend Software Engineer Intern, Global E-Commerce — Seattle, WA · Summer  
+  https://lifeattiktok.com/search/7668834837268416821
+- TikTok — Software Engineer Intern, Trust and Safety-Engineering — Seattle, WA · Summer  
+  https://lifeattiktok.com/search/7662684280234232117
+- TikTok — Software Engineer Intern, Data Arch - E-commerce — Seattle, WA · Summer  
+  https://lifeattiktok.com/search/7668582146236631349
+- TikTok — Software Engineer Intern, Data Arch - E-commerce — Seattle, WA · Summer  
+  https://lifeattiktok.com/search/7668582086899763461
 - Tower Research — Quantitative Developer Intern — Chicago, IL / New York, NY · Summer  
   https://tower-research.com/open-positions/?gh_jid=8044334
 - Tower Research Capital — Quantitative Trader Intern (Summer 2027) — New York, NY / Chicago, IL · term n/a  
