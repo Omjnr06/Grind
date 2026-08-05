@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-05T19:51:36Z",
+ "generated_at": "2026-08-05T20:57:03Z",
  "counts": {
   "target": 74,
-  "relevant": 274
+  "relevant": 275
  },
  "roles": [
   {
@@ -2556,6 +2556,17 @@
    "source": "zshah101",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "NVIDIA",
+   "title": "Software Engineering Intern, Dynamo - Fall 2026",
+   "location": "US, CA, Santa Clara",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+   "first_seen": "2026-08-05T20:57:03Z"
   },
   {
    "tier": "B",
