@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-05T16:21:12Z",
+ "generated_at": "2026-08-05T18:00:14Z",
  "counts": {
   "target": 74,
-  "relevant": 273
+  "relevant": 274
  },
  "roles": [
   {
@@ -3018,6 +3018,17 @@
    "source": "vanshb03",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
    "first_seen": "2026-07-24T17:49:01Z"
+  },
+  {
+   "tier": "B",
+   "company": "Roblox",
+   "title": "[Summer 2027] Software Engineer Intern",
+   "location": "San Mateo, CA, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+   "first_seen": "2026-08-05T18:00:14Z"
   },
   {
    "tier": "B",
