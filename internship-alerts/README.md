@@ -2,7 +2,7 @@
 
 Watches three internship trackers every 15 min and pushes **loud ntfy + email** for target companies, **quiet ntfy** for anything else relevant in your locations, and silently logs the rest. Runs entirely on free GitHub Actions. No server, no dependencies (Python stdlib only).
 
-Sources: `vanshb03/Summer2027-Internships`, `zshah101` engine, `sndsh404/summer-2027-internships`, `speedyapply/2027-SWE-College-Jobs` (USA + international feeds). Adding **SimplifyJobs/Summer2027-Internships** when it launches is a one-line addition to `config.py` (same JSON schema as vanshb03 — use `"type": "simplify_json"`).
+Sources: `vanshb03/Summer2027-Internships`, `zshah101` engine, `sndsh404/summer-2027-internships`, `speedyapply/2027-SWE-College-Jobs` (USA + international feeds), and  `SimplifyJobs/Summer2027-Internships`
 
 ## What each tier does
 

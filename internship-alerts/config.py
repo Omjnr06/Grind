@@ -67,6 +67,11 @@ SOURCES = {
         "url": "https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md",
         "fallback_url": "https://raw.githubusercontent.com/sndsh404/summer-2027-internships/master/README.md",
     },
+    "simplify": {
+        "type": "readme_table",
+        "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md",
+        "fallback_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/main/README.md",
+    },
     "speedyapply": {
         "type": "readme_table",
         "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",

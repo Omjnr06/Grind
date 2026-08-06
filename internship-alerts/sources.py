@@ -72,12 +72,23 @@ def parse_zshah_json(raw, source):
 
 _HREF = re.compile(r'href=["\']([^"\']+)["\']')
 _MDLINK = re.compile(r'\[([^\]]*)\]\(([^)]+)\)')
+_EMOJI = re.compile(
+    "[\U0001F000-\U0001FAFF"   # pictographs / emoji
+    "\U00002600-\U000026FF"    # misc symbols
+    "\U00002700-\U000027BF"    # dingbats
+    "\U0001F1E6-\U0001F1FF"    # regional indicators (flags)
+    "\U00002B00-\U00002BFF"    # misc symbols/arrows
+    "\U0000FE00-\U0000FE0F"    # variation selectors
+    "\U0000200D"               # zero-width joiner
+    "]+"
+)
 
 
 def _clean_cell(c):
     c = re.sub(r"<[^>]+>", " ", c)
     c = _MDLINK.sub(r"\1", c)
     c = c.replace("**", "").replace("*", "").replace("`", "")
+    c = _EMOJI.sub("", c)
     return re.sub(r"\s+", " ", c).strip()
 
 
@@ -123,9 +134,10 @@ def parse_readme_table(raw, source):
         title = _clean_cell(cells[1])
         location = _clean_cell(cells[2])
         url = _row_urls(cells)
+        is_open = "\U0001F512" not in line  # closed roles are marked with a lock
         if not url or not company or not title:
             continue
-        out.append(_posting(company, title, location, url, "", "", True, source))
+        out.append(_posting(company, title, location, url, "", "", is_open, source))
     return out
 
 

@@ -1,4 +1,5 @@
 import os
+import re
 import csv
 import json
 import datetime
@@ -38,6 +39,12 @@ def append_log(rows):
             ])
 
 
+def _content_key(p):
+    def n(s):
+        return re.sub(r"[^a-z0-9]", "", (s or "").lower())
+    return (n(p["company"]), n(p["title"]), n(p["location"]))
+
+
 def dedupe(postings):
     merged = {}
     for p in postings:
@@ -53,7 +60,26 @@ def dedupe(postings):
                 cur["location"] = p["location"]
             if not cur.get("season") and p.get("season"):
                 cur["season"] = p["season"]
-    return list(merged.values())
+
+    # Second pass: the same role often appears across multiple sources with
+    # different URLs. Collapse by normalized company+title+location so it only
+    # alerts once. The representative is chosen deterministically (smallest
+    # url_key) so the choice never changes between runs -> no cross-run doubles.
+    by_content = {}
+    for p in merged.values():
+        ck = _content_key(p)
+        if not (ck[0] and ck[1]):
+            ck = ("url", p["url_key"])
+        cur = by_content.get(ck)
+        if cur is None:
+            by_content[ck] = p
+        else:
+            rep = cur if cur["url_key"] <= p["url_key"] else p
+            rep["is_open"] = cur["is_open"] or p["is_open"]
+            if not rep.get("season") and p.get("season"):
+                rep["season"] = p["season"]
+            by_content[ck] = rep
+    return list(by_content.values())
 
 
 def write_open_roles(open_roles, now):
