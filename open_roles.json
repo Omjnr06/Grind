@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-07T12:26:24Z",
+ "generated_at": "2026-08-07T13:47:34Z",
  "counts": {
-  "target": 78,
-  "relevant": 270
+  "target": 79,
+  "relevant": 276
  },
  "roles": [
   {
@@ -767,6 +767,17 @@
   {
    "tier": "A",
    "company": "TikTok",
+   "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7670738362521520437",
+   "first_seen": "2026-08-07T13:47:34Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
    "title": "Software Engineer Intern - Media Engine - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
@@ -1042,23 +1053,23 @@
   {
    "tier": "B",
    "company": "Apple",
-   "title": "Software Undergrad Engineering Internships",
-   "location": "USA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.apple.com/en-us/details/200664785-3810",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Apple",
    "title": "Software Engineering Masters Internships",
    "location": "USA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://jobs.apple.com/en-us/details/200664320-3810",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Apple",
+   "title": "Software Undergrad Engineering Internships",
+   "location": "USA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.apple.com/en-us/details/200664785-3810",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2174,6 +2185,17 @@
   },
   {
    "tier": "B",
+   "company": "Kastle",
+   "title": "Software Engineer - Intern",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee",
+   "first_seen": "2026-08-07T13:47:34Z"
+  },
+  {
+   "tier": "B",
    "company": "Kearney & Company",
    "title": "IT Audit Intern (Summer 2027)",
    "location": "Alexandria, VA (remote)",
@@ -2351,17 +2373,6 @@
   {
    "tier": "B",
    "company": "Microsoft",
-   "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond",
-   "location": "Washington, DC",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
    "title": "Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students",
    "location": "Washington, DC",
    "season": "",
@@ -2390,6 +2401,17 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
+   "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond",
+   "location": "Washington, DC",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3285,6 +3307,39 @@
   },
   {
    "tier": "B",
+   "company": "Terminal",
+   "title": "Software Engineering Intern - Data Platform",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729",
+   "first_seen": "2026-08-07T13:47:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "Terminal",
+   "title": "Software Engineering Intern - Backend",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde",
+   "first_seen": "2026-08-07T13:47:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "Terranova",
+   "title": "Software Engineering Intern",
+   "location": "Berkeley, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0",
+   "first_seen": "2026-08-07T13:47:34Z"
+  },
+  {
+   "tier": "B",
    "company": "Terranova",
    "title": "Embedded Systems Intern",
    "location": "Berkeley, CA",
@@ -3374,6 +3429,17 @@
   {
    "tier": "B",
    "company": "TikTok",
+   "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
+   "location": "Seattle, WA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7670700387322300677",
+   "first_seen": "2026-08-07T13:47:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
    "title": "Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer",
    "location": "Seattle, WA",
    "season": "",
@@ -3381,6 +3447,17 @@
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7668837276597127477",
    "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Project Intern - Global E-Commerce Search Infrastructure - 2026 Start",
+   "location": "Seattle, WA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7662594807715072261",
+   "first_seen": "2026-08-07T13:47:34Z"
   },
   {
    "tier": "B",
@@ -3825,12 +3902,12 @@
   {
    "tier": "B",
    "company": "Zipline",
-   "title": "Software Engineer Intern - Fall 2026",
+   "title": "Enterprise Systems Software Engineer Intern - Fall 2026",
    "location": "South San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://www.zipline.com/open-roles?gh_jid=7787509003",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7767667003",
    "first_seen": "2026-07-17T02:04:04Z"
   }
  ]
