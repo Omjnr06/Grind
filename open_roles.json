@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-06T19:12:46Z",
+ "generated_at": "2026-08-07T00:35:51Z",
  "counts": {
-  "target": 81,
-  "relevant": 272
+  "target": 78,
+  "relevant": 260
  },
  "roles": [
   {
@@ -422,39 +422,6 @@
    "source": "vanshb03",
    "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "A",
-   "company": "Tesla",
-   "title": "Software Engineer Intern, Update Systems",
-   "location": "Palo Alto, CA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-update-systems-fall-2026-267002",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "A",
-   "company": "Tesla",
-   "title": "Software Engineer Intern, Service Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "A",
-   "company": "Tesla",
-   "title": "Software Compiler Engineer Intern, AI Inference",
-   "location": "Palo Alto, CA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://www.tesla.com/careers/search/job/278847",
-   "first_seen": "2026-08-03T10:32:40Z"
   },
   {
    "tier": "A",
@@ -976,7 +943,7 @@
   {
    "tier": "B",
    "company": "Amazon",
-   "title": "Operations Finance Rotational Program Intern \ud83d\udec2",
+   "title": "Operations Finance Rotational Program Intern",
    "location": "Seattle, WA / Arlington, VA",
    "season": "",
    "sponsorship": "",
@@ -1184,17 +1151,6 @@
   },
   {
    "tier": "B",
-   "company": "Atomic Semi",
-   "title": "Infrastructure Software Engineering Intern",
-   "location": "San Francisco, CA / Austin, TX",
-   "season": "Fall",
-   "sponsorship": "Offers Sponsorship",
-   "source": "vanshb03",
-   "url": "https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true",
-   "first_seen": "2026-07-27T15:11:19Z"
-  },
-  {
-   "tier": "B",
    "company": "Auctor",
    "title": "Software Engineering Intern",
    "location": "New York City, NY",
@@ -1335,17 +1291,6 @@
    "source": "vanshb03",
    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
    "first_seen": "2026-07-31T17:19:10Z"
-  },
-  {
-   "tier": "B",
-   "company": "Circleback",
-   "title": "Software Engineering Intern (Summer 2027) \ud83d\udec2",
-   "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "sndsh404",
-   "url": "https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
@@ -1603,7 +1548,7 @@
   {
    "tier": "B",
    "company": "DTCC",
-   "title": "Information Technology Intern (2027 Summer) \ud83d\udec2",
+   "title": "Information Technology Intern (2027 Summer)",
    "location": "Jersey City, NJ (multiple US)",
    "season": "",
    "sponsorship": "",
@@ -1649,43 +1594,10 @@
    "company": "Etched",
    "title": "Supercomputing Intern",
    "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Etched",
-   "title": "Supercomputing Intern",
-   "location": "San Jose, CA",
    "season": "Spring",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/Etched/20f77518-1699-4184-ac8e-9fa2f614d6fb",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Etched",
-   "title": "Supercomputing Intern",
-   "location": "San Jose, CA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Etched",
-   "title": "Infrastructure Intern",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1702,45 +1614,12 @@
   {
    "tier": "B",
    "company": "Etched",
-   "title": "Infrastructure Intern",
-   "location": "San Jose, CA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://jobs.ashbyhq.com/Etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Etched",
-   "title": "Firmware Intern",
-   "location": "San Jose, CA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Etched",
    "title": "Firmware Intern",
    "location": "San Jose, CA",
    "season": "Spring",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/Etched/0e78a385-c450-4749-9803-0970ce2971a5",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Etched",
-   "title": "Firmware Intern",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1916,17 +1795,6 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Hitachi",
-   "title": "Software Analyst Intern - Fall 2026 - 8 months",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
    "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1",
    "first_seen": "2026-07-17T02:04:04Z"
   },
@@ -2027,17 +1895,6 @@
    "sponsorship": "Offers Sponsorship",
    "source": "vanshb03",
    "url": "https://www.janestreet.com/join-jane-street/position/8419303002/",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Jane Street",
-   "title": "Software Engineer Intern",
-   "location": "New York City, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://www.janestreet.com/join-jane-street/position/8599644002/",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2219,7 +2076,7 @@
   {
    "tier": "B",
    "company": "Kearney & Company",
-   "title": "IT Audit Intern (Summer 2027) \ud83c\uddfa\ud83c\uddf8",
+   "title": "IT Audit Intern (Summer 2027)",
    "location": "Alexandria, VA (remote)",
    "season": "",
    "sponsorship": "",
@@ -2812,17 +2669,6 @@
   },
   {
    "tier": "B",
-   "company": "Pinterest",
-   "title": "Software Engineer Intern",
-   "location": "Toronto, Canada",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://www.pinterestcareers.com/jobs/7258004/software-engineer-intern-fall-2026-toronto/?gh_jid=7258004",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Plus",
    "title": "Software Engineer Intern - Robotics",
    "location": "Santa Clara, CA",
@@ -2831,6 +2677,17 @@
    "source": "speedyapply",
    "url": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "PlusAI",
+   "title": "Deep Learning Research Intern \u2014 Multimodal BEV Perception",
+   "location": "Santa Clara, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62",
+   "first_seen": "2026-08-07T00:35:51Z"
   },
   {
    "tier": "B",
@@ -3098,17 +2955,6 @@
   },
   {
    "tier": "B",
-   "company": "Salesforce",
-   "title": "Software Engineer Intern(Futureforce Summer 2027)",
-   "location": "San Francisco, CA / Palo Alto, CA / New York, NY / Seattle, WA / Burlington, MA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Samsara",
    "title": "Software Engineering Intern",
    "location": "San Francisco, CA",
@@ -3143,7 +2989,7 @@
   {
    "tier": "B",
    "company": "SharkNinja",
-   "title": "Fall 2026: SharkByte Applied AI & Analytics Co-op (July/August to December)",
+   "title": "Fall 2026: AI/Sharks Applied AI & Analytics Co-op (August to December)",
    "location": "Miami, Florida, United States; Needham, MA, United States; New York, New York, United States",
    "season": "Fall 2026",
    "sponsorship": "unknown",
@@ -3286,7 +3132,7 @@
   {
    "tier": "B",
    "company": "Susquehanna",
-   "title": "Macro Analyst Intern (Summer 2027, June start) \ud83d\udec2",
+   "title": "Macro Analyst Intern (Summer 2027, June start)",
    "location": "New York, NY",
    "season": "",
    "sponsorship": "",
@@ -3402,17 +3248,6 @@
    "sponsorship": "Does Not Offer Sponsorship",
    "source": "vanshb03",
    "url": "https://lifeattiktok.com/search/7662684280234232117",
-   "first_seen": "2026-08-04T15:42:58Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Data Arch - E-commerce",
-   "location": "Seattle, WA",
-   "season": "Summer",
-   "sponsorship": "Offers Sponsorship",
-   "source": "vanshb03",
-   "url": "https://lifeattiktok.com/search/7668582146236631349",
    "first_seen": "2026-08-04T15:42:58Z"
   },
   {
