@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-07T00:35:51Z",
+ "generated_at": "2026-08-07T03:37:21Z",
  "counts": {
   "target": 78,
-  "relevant": 260
+  "relevant": 270
  },
  "roles": [
   {
@@ -1496,7 +1496,7 @@
    "title": "Technical Intern- Software  (Fall 2026)",
    "location": "Mountain View, CA",
    "season": "Fall 2026",
-   "sponsorship": "citizens-only",
+   "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/densityai/jobs/4336452009",
    "first_seen": "2026-08-05T14:43:11Z"
@@ -1533,6 +1533,17 @@
    "source": "vanshb03",
    "url": "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670",
    "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "DRW",
+   "title": "Quantitative Research Intern",
+   "location": "Chicago, New York City",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+   "first_seen": "2026-08-07T03:37:21Z"
   },
   {
    "tier": "B",
@@ -1702,22 +1713,22 @@
   {
    "tier": "B",
    "company": "Five Rings",
-   "title": "Quantitative Trader Intern (Summer 2027)",
+   "title": "Summer Intern 2027 - Quantitative Trader",
    "location": "New York, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "sndsh404",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
    "company": "Flow Traders",
-   "title": "Quantitative Trading Intern (Summer 2027)",
+   "title": "Quantitative Trading Intern Summer 2027",
    "location": "New York, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "sndsh404",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
    "first_seen": "2026-07-17T02:04:04Z"
   },
@@ -1823,12 +1834,12 @@
   {
    "tier": "B",
    "company": "Hudson River Trading",
-   "title": "Software Engineering Internship (C++ or Python) \u2013 Summer 2027",
+   "title": "Algorithm Development (Quant Research & Trading) Internship \u2013 Summer 2027",
    "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1841,6 +1852,17 @@
    "source": "vanshb03",
    "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "InfiniteQuant",
+   "title": "Quantitative Researcher - Internship - Summer 2027",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439",
+   "first_seen": "2026-08-07T03:37:21Z"
   },
   {
    "tier": "B",
@@ -2050,6 +2072,83 @@
    "source": "vanshb03",
    "url": "https://www.janestreet.com/join-jane-street/position/8628843002/",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "JPMorganChase",
+   "title": "2027 Code for Good Hackathon - Software Engineer Program - Summer Internship \u2013 United States",
+   "location": "Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Wilmington, DE, United States; Tampa, FL, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759",
+   "first_seen": "2026-08-03T06:51:27Z"
+  },
+  {
+   "tier": "B",
+   "company": "JPMorganChase",
+   "title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
+   "location": "Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869",
+   "first_seen": "2026-08-03T06:51:27Z"
+  },
+  {
+   "tier": "B",
+   "company": "JPMorganChase",
+   "title": "2027 Data for Good Hackathon - Data & AI Program - Summer Internship",
+   "location": "Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223",
+   "first_seen": "2026-08-03T06:51:27Z"
+  },
+  {
+   "tier": "B",
+   "company": "JPMorganChase",
+   "title": "2027 Quantitative Research \u2013 Markets \u2013 Summer Internship - Analyst \u2013 United States",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774038",
+   "first_seen": "2026-08-07T03:37:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "JPMorganChase",
+   "title": "2027 Quantitative Research \u2013 Markets \u2013 Summer Internship - Associate\u2013 United States",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774061",
+   "first_seen": "2026-08-07T03:37:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "JPMorganChase",
+   "title": "2027 Quantitative Research \u2013 Asset Management \u2013 Summer Internship \u2013 Analyst - United States",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774074",
+   "first_seen": "2026-08-07T03:37:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "JPMorganChase",
+   "title": "2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States",
+   "location": "New York, NY, United States; Plano, TX, United States; Chicago, IL, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773978",
+   "first_seen": "2026-08-07T03:37:21Z"
   },
   {
    "tier": "B",
@@ -2486,7 +2585,7 @@
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
    "location": "New York, NY (multiple US)",
    "season": "Not stated",
-   "sponsorship": "citizens-only",
+   "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
    "first_seen": "2026-07-17T02:04:04Z"
@@ -2688,6 +2787,17 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62",
    "first_seen": "2026-08-07T00:35:51Z"
+  },
+  {
+   "tier": "B",
+   "company": "Point72",
+   "title": "Summer 2027 Quantitative Research Internship",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
+   "first_seen": "2026-08-07T03:37:21Z"
   },
   {
    "tier": "B",
@@ -3660,11 +3770,11 @@
   {
    "tier": "B",
    "company": "Virtu Financial",
-   "title": "Quantitative Researcher Intern (2027, Undergrad)",
+   "title": "2027 Internship - Quantitative Researcher (Undergrad)",
    "location": "New York, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "sndsh404",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "first_seen": "2026-07-17T02:04:04Z"
   },
