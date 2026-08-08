@@ -10,7 +10,7 @@ class ListNode:
         right = head
 
         while n > 0 and right:
-            right = right.nex
+            right = right.next
             n -= 1
 
         while right:
