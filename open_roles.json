@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-08T10:20:53Z",
+ "generated_at": "2026-08-08T10:57:18Z",
  "counts": {
   "target": 79,
-  "relevant": 276
+  "relevant": 277
  },
  "roles": [
   {
@@ -3854,6 +3854,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "WallStreetQuants",
+   "title": "Quantitative Researcher - Internship",
+   "location": "New York, New York, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/wallstreetquants/j/494E392FD3/",
+   "first_seen": "2026-08-08T10:57:18Z"
   },
   {
    "tier": "B",
