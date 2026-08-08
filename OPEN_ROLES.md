@@ -1,6 +1,6 @@
-# Open roles board — 2026-08-07
+# Open roles board — 2026-08-08
 
-**78 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
+**79 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
 ## Target companies
 - **Amazon** — Robotics - Software Development Engineer Intern/Co-op  
@@ -123,6 +123,9 @@
 - **Tesla** — Backend Software Engineer Intern, Diagnostics  
   Palo Alto, CA / Austin, TX · Winter · [vanshb03]  
   https://www.tesla.com/careers/search/job/248358
+- **TikTok** — Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer  
+  San Jose, CA · term n/a · [speedyapply]  
+  https://lifeattiktok.com/search/7670738362521520437
 - **TikTok** — Software Engineer Intern - Media Engine - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7670295535077427509
@@ -238,7 +241,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7668675500744837381
 
-## Other relevant (270)
+## Other relevant (277)
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -267,10 +270,10 @@
   https://jobs.apple.com/en-us/details/200664780-3810/machine-learning-and-artificial-intelligence-undergrad-internships
 - Apple — Software Undergrad Engineering Internship — SWE intern (undergrad) · term n/a  
   https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships
-- Apple — Software Undergrad Engineering Internships — USA · term n/a  
-  https://jobs.apple.com/en-us/details/200664785-3810
 - Apple — Software Engineering Masters Internships — USA · term n/a  
   https://jobs.apple.com/en-us/details/200664320-3810
+- Apple — Software Undergrad Engineering Internships — USA · term n/a  
+  https://jobs.apple.com/en-us/details/200664785-3810
 - Apple — Software Engineering Intern, Masters — United States · Summer  
   https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships
 - Apple — Software Engineer Intern, Undergrad — United States · Summer  
@@ -477,6 +480,8 @@
   https://www.jumptrading.com/hr/job?gh_jid=7848371
 - Junior — Software Engineering Intern — Fall 2026 — New York City, NY · Fall 2026  
   https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891
+- Kastle — Software Engineer - Intern — San Francisco, CA · term n/a  
+  https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee
 - Kearney & Company — IT Audit Intern (Summer 2027) — Alexandria, VA (remote) · term n/a  
   https://careers.kearneyco.com/jobs/5168
 - kos.ai — Software Engineer Intern — San Francisco, CA · term n/a  
@@ -507,14 +512,14 @@
   https://apply.careers.microsoft.com/careers/job/1970393556942312
 - Microsoft — Research Intern - Firmware Security — Washington, DC · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556955518
-- Microsoft — Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
-  https://apply.careers.microsoft.com/careers/job/1970393556922929
 - Microsoft — Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students — Washington, DC · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556922922
 - Microsoft — Software Engineer: Data Platform/Analytics Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556922931
 - Microsoft — Software Engineer: Security & Identity Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556922930
+- Microsoft — Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
+  https://apply.careers.microsoft.com/careers/job/1970393556922929
 - Microsoft — Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556922923
 - Microsoft — Software Engineer: Intern Opportunities for University Students - CoreAI — Washington, DC · term n/a  
@@ -676,9 +681,15 @@
 - Synchrony Bank — Software Engineer Intern - Fall 2026 — Remote - Guangzhou, China +1 · term n/a  
   https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/university/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1
 - Tencent — Research Intern – Video World Models (Research & ML Systems) — US-California-Palo Alto · Not stated  
-  https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752
+  https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1
 - Tenstorrent — Software Engineering Intern, Power Modeling & AI Tools — Santa Clara, California, United States · Fall  
   https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007
+- Terminal — Software Engineering Intern - Data Platform — Toronto, Canada · term n/a  
+  https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729
+- Terminal — Software Engineering Intern - Backend — Toronto, Canada · term n/a  
+  https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde
+- Terranova — Software Engineering Intern — Berkeley, CA · term n/a  
+  https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0
 - Terranova — Embedded Systems Intern — Berkeley, CA · term n/a  
   https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da
 - Tesla — Software Engineer Intern, Information Security — Bellevue, WA · Winter  
@@ -687,8 +698,12 @@
   https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job
 - The Trade Desk — 2027 North America Software Engineering Internship — Bellevue; Boulder; Denver; Irvine; New York; Seattle · Summer 2027  
   https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007
+- TikTok — Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer — Seattle, WA · term n/a  
+  https://lifeattiktok.com/search/7670700387322300677
 - TikTok — Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer — Seattle, WA · term n/a  
   https://lifeattiktok.com/search/7668837276597127477
+- TikTok — Software Engineer Project Intern - Global E-Commerce Search Infrastructure - 2026 Start — Seattle, WA · term n/a  
+  https://lifeattiktok.com/search/7662594807715072261
 - TikTok — Software Test Engineer Intern - AI - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7670062655184308533
 - TikTok — Backend Engineer Intern - TikTok Shop - Europe - 2027 Start — Singapore · term n/a  
@@ -769,6 +784,8 @@
   https://job-boards.greenhouse.io/virtu/jobs/8624410002
 - Virtu Financial — 2027 Internship - Quantitative Researcher (Undergrad) — New York, NY · Summer 2027  
   https://job-boards.greenhouse.io/virtu/jobs/8142539002
+- WallStreetQuants — Quantitative Researcher - Internship — New York, New York, United States · Not stated  
+  https://apply.workable.com/wallstreetquants/j/494E392FD3/
 - Western Digital — Software Engineering Co-op (Winter 2027) — Milpitas, CA · term n/a  
   https://jobs.smartrecruiters.com/WesternDigital/744000138184309
 - Western Digital — Software Engineering Intern (Summer 2027) — San Jose, CA · term n/a  
@@ -777,5 +794,5 @@
   https://jobs.smartrecruiters.com/WesternDigital/744000138727213
 - WindBorne Systems — Firmware Intern — Palo Alto, CA · term n/a  
   https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b
-- Zipline — Software Engineer Intern - Fall 2026 — South San Francisco, CA · term n/a  
-  https://www.zipline.com/open-roles?gh_jid=7787509003
+- Zipline — Enterprise Systems Software Engineer Intern - Fall 2026 — South San Francisco, CA · term n/a  
+  https://www.zipline.com/open-roles?gh_jid=7767667003
