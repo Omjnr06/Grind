@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-10T23:03:25Z",
+ "generated_at": "2026-08-10T23:48:45Z",
  "counts": {
   "target": 81,
-  "relevant": 283
+  "relevant": 284
  },
  "roles": [
   {
@@ -1599,6 +1599,17 @@
    "source": "sndsh404",
    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "DV Trading",
+   "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+   "first_seen": "2026-08-10T23:48:45Z"
   },
   {
    "tier": "B",
