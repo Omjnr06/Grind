@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-10T14:04:26Z",
+ "generated_at": "2026-08-10T15:14:32Z",
  "counts": {
   "target": 81,
-  "relevant": 281
+  "relevant": 283
  },
  "roles": [
   {
@@ -1896,6 +1896,28 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439",
    "first_seen": "2026-08-07T03:37:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "ING",
+   "title": "Summer 2027 Internship - Tech (Information Security)",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620",
+   "first_seen": "2026-08-10T15:14:32Z"
+  },
+  {
+   "tier": "B",
+   "company": "ING",
+   "title": "Summer 2027 Internship - Tech (Infrastructure)",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621",
+   "first_seen": "2026-08-10T15:14:32Z"
   },
   {
    "tier": "B",
