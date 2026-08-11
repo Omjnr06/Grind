@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-11T12:08:17Z",
+ "generated_at": "2026-08-11T13:38:33Z",
  "counts": {
   "target": 81,
-  "relevant": 284
+  "relevant": 289
  },
  "roles": [
   {
@@ -800,17 +800,6 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - Media Engine - 2027 Summer",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7670295535077427509",
-   "first_seen": "2026-08-06T15:37:52Z"
-  },
-  {
-   "tier": "A",
-   "company": "TikTok",
    "title": "Software Engineer Intern - Foundation Platform - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
@@ -828,6 +817,17 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7670289874020993285",
+   "first_seen": "2026-08-06T15:37:52Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Media Engine - 2027 Summer",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7670295535077427509",
    "first_seen": "2026-08-06T15:37:52Z"
   },
   {
@@ -1075,23 +1075,23 @@
   {
    "tier": "B",
    "company": "Apple",
-   "title": "Software Engineering Masters Internships",
-   "location": "USA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.apple.com/en-us/details/200664320-3810",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Apple",
    "title": "Software Undergrad Engineering Internships",
    "location": "USA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://jobs.apple.com/en-us/details/200664785-3810",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Apple",
+   "title": "Software Engineering Masters Internships",
+   "location": "USA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.apple.com/en-us/details/200664320-3810",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1603,8 +1603,19 @@
   {
    "tier": "B",
    "company": "DV Trading",
+   "title": "Software Engineer Intern - Summer 2027 - DV Commodities",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+   "first_seen": "2026-08-11T13:38:33Z"
+  },
+  {
+   "tier": "B",
+   "company": "DV Trading",
    "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
-   "location": "New York",
+   "location": "New York City, NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
@@ -1742,6 +1753,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Figma",
+   "title": "Software Engineer Intern - Winter 2027",
+   "location": "San Francisco, CA +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+   "first_seen": "2026-08-11T13:38:33Z"
   },
   {
    "tier": "B",
@@ -2428,23 +2450,45 @@
   {
    "tier": "B",
    "company": "Microsoft",
-   "title": "Software Engineer: Intern Opportunities for University Students - CoreAI",
-   "location": "Washington, DC",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
    "title": "Research Intern - Firmware Security",
    "location": "Washington, DC",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
+   "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond",
+   "location": "Washington, DC",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
+   "title": "Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students",
+   "location": "Washington, DC",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
+   "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students - Redmond",
+   "location": "Washington, DC",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -2467,39 +2511,6 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
-   "title": "Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students",
-   "location": "Washington, DC",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
-   "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond",
-   "location": "Washington, DC",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
-   "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students - Redmond",
-   "location": "Washington, DC",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3528,6 +3539,28 @@
   {
    "tier": "B",
    "company": "TikTok",
+   "title": "Software Engineer Intern - Global E-commerce-Search - 2027 Fall",
+   "location": "Seattle, WA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7670839752644233525",
+   "first_seen": "2026-08-11T13:38:33Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Global E-commerce-Search - 2027 Summer",
+   "location": "Seattle, WA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7670839727059339525",
+   "first_seen": "2026-08-11T13:38:33Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
    "title": "Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer",
    "location": "Seattle, WA",
    "season": "",
@@ -3550,34 +3583,34 @@
   {
    "tier": "B",
    "company": "TikTok",
+   "title": "Android Software Engineer Intern - Global LIVE Platform - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7672395757573474565",
+   "first_seen": "2026-08-11T13:38:33Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Mobile Software Engineer Intern - Global Live Revenue - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7672397362020862213",
+   "first_seen": "2026-08-11T13:38:33Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
    "title": "Software Test Engineer Intern - AI - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7670062655184308533",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Backend Engineer Intern - TikTok Shop - Europe - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668567025010690357",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668566238498408709",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3594,12 +3627,23 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Start",
+   "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667920559239317765",
+   "url": "https://lifeattiktok.com/search/7668566238498408709",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Backend Engineer Intern - TikTok Shop - Europe - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7668567025010690357",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3616,23 +3660,23 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667911731242420533",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
    "title": "Software Engineer Intern - TikTok Recommendation Architecture - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7667908293442275589",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7667920559239317765",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3649,12 +3693,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Engineer Intern - Data Platform - Global E-Commerce - 2027 Start",
+   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7664888369046620469",
+   "url": "https://lifeattiktok.com/search/7667911731242420533",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3671,6 +3715,17 @@
   {
    "tier": "B",
    "company": "TikTok",
+   "title": "Backend Engineer Intern - Data Platform - Global E-Commerce - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7664888369046620469",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
    "title": "Backend Software Engineer Intern - Global LIVE Transaction - 2027 Start",
    "location": "Singapore",
    "season": "",
@@ -3682,23 +3737,23 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Global LIVE Data Platform - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7663398719949687045",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
    "title": "Backend Software Engineer Intern - Global LIVE Service Arch - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7663383164115437877",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - Global LIVE Data Platform - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7663398719949687045",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3726,12 +3781,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
+   "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660767857640802565",
+   "url": "https://lifeattiktok.com/search/7660769587276892469",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -3748,12 +3803,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
+   "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660769587276892469",
+   "url": "https://lifeattiktok.com/search/7660767857640802565",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
