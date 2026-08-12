@@ -1,4 +1,4 @@
-# Open roles board — 2026-08-11
+# Open roles board — 2026-08-12
 
 **81 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -132,15 +132,15 @@
 - **TikTok** — Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7670738362521520437
-- **TikTok** — Software Engineer Intern - Media Engine - 2027 Summer  
-  San Jose, CA · term n/a · [speedyapply]  
-  https://lifeattiktok.com/search/7670295535077427509
 - **TikTok** — Software Engineer Intern - Foundation Platform - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7670281449668905269
 - **TikTok** — Backend Software Engineer Intern - Creation Platform - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7670289874020993285
+- **TikTok** — Software Engineer Intern - Media Engine - 2027 Summer  
+  San Jose, CA · term n/a · [speedyapply]  
+  https://lifeattiktok.com/search/7670295535077427509
 - **TikTok** — Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7668837275459324213
@@ -247,7 +247,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7668675500744837381
 
-## Other relevant (284)
+## Other relevant (290)
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -276,10 +276,10 @@
   https://jobs.apple.com/en-us/details/200664780-3810/machine-learning-and-artificial-intelligence-undergrad-internships
 - Apple — Software Undergrad Engineering Internship — SWE intern (undergrad) · term n/a  
   https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships
-- Apple — Software Engineering Masters Internships — USA · term n/a  
-  https://jobs.apple.com/en-us/details/200664320-3810
 - Apple — Software Undergrad Engineering Internships — USA · term n/a  
   https://jobs.apple.com/en-us/details/200664785-3810
+- Apple — Software Engineering Masters Internships — USA · term n/a  
+  https://jobs.apple.com/en-us/details/200664320-3810
 - Apple — Software Engineering Intern, Masters — United States · Summer  
   https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships
 - Apple — Software Engineer Intern, Undergrad — United States · Summer  
@@ -376,7 +376,9 @@
   https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670
 - DTCC — Information Technology Intern (2027 Summer) — Jersey City, NJ (multiple US) · term n/a  
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158
-- DV Trading — Software Engineer Intern - Summer 2027 (DV Commodities) — New York · Summer 2027  
+- DV Trading — Software Engineer Intern - Summer 2027 - DV Commodities — London, United Kingdom · term n/a  
+  https://job-boards.greenhouse.io/dvtrading/jobs/4719125005
+- DV Trading — Software Engineer Intern - Summer 2027 (DV Commodities) — New York City, NY · Summer 2027  
   https://job-boards.greenhouse.io/dvtrading/jobs/4719119005
 - EdgeTrace — AI Full-Stack Engineering Intern — San Mateo, CA · Winter  
   https://www.workatastartup.com/jobs/86239
@@ -402,6 +404,8 @@
   https://job-boards.greenhouse.io/eulerity/jobs/4694300006
 - fab2 — Software Engineering Intern — San Francisco, CA · Fall  
   https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true
+- Figma — Software Engineer Intern - Winter 2027 — San Francisco, CA +1 · term n/a  
+  https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004
 - Figure — Firmware Intern [Fall 2026] — San Jose, CA · Fall 2026  
   https://job-boards.greenhouse.io/figureai/jobs/4691070006
 - Five Rings — Summer Intern 2027 - Quantitative Trader — New York, NY · Summer 2027  
@@ -524,20 +528,18 @@
   https://apply.careers.microsoft.com/careers/job/1970393556944017
 - Microsoft — Cloud Solution Architect - Ru'aa Internship — Riyadh, Saudi Arabia · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556942312
-- Microsoft — Software Engineer: Intern Opportunities for University Students - CoreAI — Washington, DC · term n/a  
-  https://apply.careers.microsoft.com/careers/job/1970393556951950
 - Microsoft — Research Intern - Firmware Security — Washington, DC · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556955518
+- Microsoft — Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
+  https://apply.careers.microsoft.com/careers/job/1970393556922929
+- Microsoft — Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students — Washington, DC · term n/a  
+  https://apply.careers.microsoft.com/careers/job/1970393556922922
+- Microsoft — Software Engineer: Data Platform/Analytics Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
+  https://apply.careers.microsoft.com/careers/job/1970393556922931
 - Microsoft — Software Engineer: Security & Identity Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556922930
 - Microsoft — Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556922923
-- Microsoft — Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students — Washington, DC · term n/a  
-  https://apply.careers.microsoft.com/careers/job/1970393556922922
-- Microsoft — Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
-  https://apply.careers.microsoft.com/careers/job/1970393556922929
-- Microsoft — Software Engineer: Data Platform/Analytics Intern Opportunities for University Students - Redmond — Washington, DC · term n/a  
-  https://apply.careers.microsoft.com/careers/job/1970393556922931
 - Microsoft — Software Engineer Intern, CoreAI — Multiple Locations, United States · Summer  
   https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0
 - Modal — ML Research Intern — New York, NY / San Francisco, CA · Summer  
@@ -666,6 +668,8 @@
   https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091
 - Scale AI — Technical Advisor Intern, GenAI — San Francisco, CA · Winter  
   https://scale.com/careers/4611533005
+- Sentry — Software Engineer, Intern (Summer 2027) — San Francisco, California · Summer 2027  
+  https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1
 - Serval — Software Engineer Intern — San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b
 - SharkNinja — Fall 2026: AI/Sharks Applied AI & Analytics Co-op (August to December) — Miami, Florida, United States; Needham, MA, United States; New York, New York, United States · Fall 2026  
@@ -718,48 +722,56 @@
   https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007
 - TikTok — Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer — Seattle, WA · term n/a  
   https://lifeattiktok.com/search/7670700387322300677
+- TikTok — Software Engineer Intern - Global E-commerce-Search - 2027 Fall — Seattle, WA · term n/a  
+  https://lifeattiktok.com/search/7670839752644233525
+- TikTok — Software Engineer Intern - Global E-commerce-Search - 2027 Summer — Seattle, WA · term n/a  
+  https://lifeattiktok.com/search/7670839727059339525
 - TikTok — Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer — Seattle, WA · term n/a  
   https://lifeattiktok.com/search/7668837276597127477
 - TikTok — Software Engineer Project Intern - Global E-Commerce Search Infrastructure - 2026 Start — Seattle, WA · term n/a  
   https://lifeattiktok.com/search/7662594807715072261
+- TikTok — Android Software Engineer Intern - Global LIVE Platform - 2027 Start — Singapore · term n/a  
+  https://lifeattiktok.com/search/7672395757573474565
+- TikTok — Mobile Software Engineer Intern - Global Live Revenue - 2027 Start — Singapore · term n/a  
+  https://lifeattiktok.com/search/7672397362020862213
 - TikTok — Software Test Engineer Intern - AI - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7670062655184308533
-- TikTok — Backend Engineer Intern - TikTok Shop - Europe - 2027 Start — Singapore · term n/a  
-  https://lifeattiktok.com/search/7668567025010690357
-- TikTok — AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start — Singapore · term n/a  
-  https://lifeattiktok.com/search/7668566238498408709
 - TikTok — Site Reliability Engineer Intern - Global SRE- GMPT - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7668635915812342069
-- TikTok — Software Engineer Intern - TikTok Search Architecture - 2027 Start — Singapore · term n/a  
-  https://lifeattiktok.com/search/7667920559239317765
+- TikTok — AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start — Singapore · term n/a  
+  https://lifeattiktok.com/search/7668566238498408709
+- TikTok — Backend Engineer Intern - TikTok Shop - Europe - 2027 Start — Singapore · term n/a  
+  https://lifeattiktok.com/search/7668567025010690357
 - TikTok — Software Engineer Intern - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7667912295692093749
-- TikTok — Software Engineer Intern - TikTok Recommendation Platform - 2027 Start — Singapore · term n/a  
-  https://lifeattiktok.com/search/7667911731242420533
 - TikTok — Software Engineer Intern - TikTok Recommendation Architecture - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7667908293442275589
+- TikTok — Software Engineer Intern - TikTok Search Architecture - 2027 Start — Singapore · term n/a  
+  https://lifeattiktok.com/search/7667920559239317765
 - TikTok — Software Engineer Intern - TikTok Live Recommendation Architecture - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7667916202236348725
-- TikTok — Backend Engineer Intern - Data Platform - Global E-Commerce - 2027 Start — Singapore · term n/a  
-  https://lifeattiktok.com/search/7664888369046620469
+- TikTok — Software Engineer Intern - TikTok Recommendation Platform - 2027 Start — Singapore · term n/a  
+  https://lifeattiktok.com/search/7667911731242420533
 - TikTok — Frontend Software Engineer Intern - Global Live Transaction - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7664843924874004741
+- TikTok — Backend Engineer Intern - Data Platform - Global E-Commerce - 2027 Start — Singapore · term n/a  
+  https://lifeattiktok.com/search/7664888369046620469
 - TikTok — Backend Software Engineer Intern - Global LIVE Transaction - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7664847124735068421
-- TikTok — Backend Software Engineer Intern - Global LIVE Data Platform - 2027 Start — Singapore · term n/a  
-  https://lifeattiktok.com/search/7663398719949687045
 - TikTok — Backend Software Engineer Intern - Global LIVE Service Arch - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7663383164115437877
+- TikTok — Backend Software Engineer Intern - Global LIVE Data Platform - 2027 Start — Singapore · term n/a  
+  https://lifeattiktok.com/search/7663398719949687045
 - TikTok — Backend Software Engineer Intern - Global LIVE Fund Safety - 2027 Start — Singapore · term n/a  
   https://lifeattiktok.com/search/7663396538815826229
 - TikTok — iOS Software Engineer Intern - TikTok Live Foundation - 2027 start — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7661940129289947397
-- TikTok — Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
-  https://lifeattiktok.com/search/7660767857640802565
-- TikTok — Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS — Sydney, Australia · term n/a  
-  https://lifeattiktok.com/search/7660769585826154805
 - TikTok — Backend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7660769587276892469
+- TikTok — Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS — Sydney, Australia · term n/a  
+  https://lifeattiktok.com/search/7660769585826154805
+- TikTok — Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS — Sydney, Australia · term n/a  
+  https://lifeattiktok.com/search/7660767857640802565
 - TikTok — Software Engineer Intern - Multimedia Arch-Live - 2027 Start - BS/MS — Sydney, Australia · term n/a  
   https://lifeattiktok.com/search/7659948535374776629
 - TikTok — Software Engineer Intern - TikTok Live - 2027 Start - BS/MS — Sydney, Australia · term n/a  
