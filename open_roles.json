@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-12T21:25:36Z",
+ "generated_at": "2026-08-12T22:08:23Z",
  "counts": {
   "target": 81,
-  "relevant": 288
+  "relevant": 286
  },
  "roles": [
   {
@@ -2834,17 +2834,6 @@
   },
   {
    "tier": "B",
-   "company": "PlusAI",
-   "title": "Deep Learning Research Intern \u2014 Multimodal BEV Perception",
-   "location": "Santa Clara, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62",
-   "first_seen": "2026-08-07T00:35:51Z"
-  },
-  {
-   "tier": "B",
    "company": "Point72",
    "title": "Summer 2027 Quantitative Research Internship",
    "location": "New York",
@@ -4019,17 +4008,6 @@
    "source": "sndsh404",
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship",
    "first_seen": "2026-07-21T14:55:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "Western Digital",
-   "title": "Summer 2027 - Software Engineering Internship",
-   "location": "San Jose, CA, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
-   "first_seen": "2026-07-20T21:21:37Z"
   },
   {
    "tier": "B",
