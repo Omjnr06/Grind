@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-12T20:32:41Z",
+ "generated_at": "2026-08-12T21:25:36Z",
  "counts": {
   "target": 81,
-  "relevant": 287
+  "relevant": 288
  },
  "roles": [
   {
@@ -4030,6 +4030,17 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
    "first_seen": "2026-07-20T21:21:37Z"
+  },
+  {
+   "tier": "B",
+   "company": "Western Digital",
+   "title": "Summer 2027 Intern - Software Engineering",
+   "location": "San Jose, CA, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
+   "first_seen": "2026-08-12T21:25:36Z"
   },
   {
    "tier": "B",
