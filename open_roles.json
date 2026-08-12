@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-12T22:08:23Z",
+ "generated_at": "2026-08-12T22:57:58Z",
  "counts": {
   "target": 81,
-  "relevant": 286
+  "relevant": 287
  },
  "roles": [
   {
@@ -2831,6 +2831,17 @@
    "source": "speedyapply",
    "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "PlusAI",
+   "title": "Deep Learning Research Intern \u2014 Multimodal BEV Perception",
+   "location": "Santa Clara, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62",
+   "first_seen": "2026-08-07T00:35:51Z"
   },
   {
    "tier": "B",
