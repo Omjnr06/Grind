@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-13T11:26:56Z",
+ "generated_at": "2026-08-13T12:07:39Z",
  "counts": {
   "target": 81,
-  "relevant": 287
+  "relevant": 288
  },
  "roles": [
   {
@@ -1929,6 +1929,17 @@
    "source": "vanshb03",
    "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "InfiniteQuant",
+   "title": "Quantitative Developer - Internship - Summer 2027",
+   "location": "New York, New York, United States (Remote)",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
+   "first_seen": "2026-08-13T12:07:39Z"
   },
   {
    "tier": "B",
