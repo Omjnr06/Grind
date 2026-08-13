@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-13T05:03:49Z",
+ "generated_at": "2026-08-13T06:42:30Z",
  "counts": {
   "target": 81,
-  "relevant": 287
+  "relevant": 286
  },
  "roles": [
   {
@@ -1104,17 +1104,6 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Assured Guaranty",
-   "title": "Fall 2026 Intern - Product Software Developer",
-   "location": "New York, NY, United States",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002",
-   "first_seen": "2026-08-12T18:33:16Z"
   },
   {
    "tier": "B",
