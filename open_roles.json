@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-13T08:04:53Z",
+ "generated_at": "2026-08-13T09:31:13Z",
  "counts": {
   "target": 81,
-  "relevant": 286
+  "relevant": 287
  },
  "roles": [
   {
@@ -1742,6 +1742,17 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4694300006",
    "first_seen": "2026-07-22T15:15:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "Exa Labs",
+   "title": "Software Engineer, Intern",
+   "location": "San Francisco, California",
+   "season": "Not stated",
+   "sponsorship": "offers",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
+   "first_seen": "2026-08-13T09:31:13Z"
   },
   {
    "tier": "B",
