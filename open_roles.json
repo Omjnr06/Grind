@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-14T00:42:10Z",
+ "generated_at": "2026-08-14T03:11:46Z",
  "counts": {
   "target": 80,
-  "relevant": 287
+  "relevant": 286
  },
  "roles": [
   {
@@ -2325,17 +2325,6 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/later/jobs/8643138002",
    "first_seen": "2026-07-23T15:23:45Z"
-  },
-  {
-   "tier": "B",
-   "company": "Lila Sciences",
-   "title": "Co-Op, ML Scientist for Protein Engineering",
-   "location": "San Francisco, CA USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4289387009",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
