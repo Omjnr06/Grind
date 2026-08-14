@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-14T22:38:53Z",
+ "generated_at": "2026-08-14T22:57:22Z",
  "counts": {
   "target": 80,
-  "relevant": 279
+  "relevant": 280
  },
  "roles": [
   {
@@ -1764,6 +1764,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "First American",
+   "title": "Software Engineering Intern",
+   "location": "USA, California, Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261",
+   "first_seen": "2026-08-14T22:57:22Z"
   },
   {
    "tier": "B",
