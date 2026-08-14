@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-14T12:41:17Z",
+ "generated_at": "2026-08-14T14:01:36Z",
  "counts": {
   "target": 80,
-  "relevant": 286
+  "relevant": 279
  },
  "roles": [
   {
@@ -1283,17 +1283,6 @@
   },
   {
    "tier": "B",
-   "company": "Cadence",
-   "title": "Software Intern",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R53282-1",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Castleton Commodities International",
    "title": "Data Science Machine Learning Intern",
    "location": "Stamford, CT / Houston, TX / New York City, NY",
@@ -1394,13 +1383,13 @@
   {
    "tier": "B",
    "company": "Composio",
-   "title": "Full-stack Intern",
+   "title": "Fullstack and Product Engineering Internship - Fall 2026 & Winter 2027",
    "location": "San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9",
-   "first_seen": "2026-07-17T14:10:36Z"
+   "url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d",
+   "first_seen": "2026-08-14T14:01:36Z"
   },
   {
    "tier": "B",
@@ -2306,17 +2295,6 @@
   },
   {
    "tier": "B",
-   "company": "Latent Defense",
-   "title": "Software Engineer Intern",
-   "location": "New York City, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Later",
    "title": "Software Development Co-op",
    "location": "Vancouver, Canada",
@@ -2339,17 +2317,6 @@
   },
   {
    "tier": "B",
-   "company": "Loblaw Companies",
-   "title": "Software Development - Co-op Student",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000693078",
-   "first_seen": "2026-08-13T13:43:09Z"
-  },
-  {
-   "tier": "B",
    "company": "Melius",
    "title": "Software Engineering Intern [Fall/Winter 2026]",
    "location": "New York City",
@@ -2369,17 +2336,6 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
    "first_seen": "2026-07-31T17:19:10Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
-   "title": "Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities",
-   "location": "Cairo, Egypt",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556866895",
-   "first_seen": "2026-07-21T14:55:28Z"
   },
   {
    "tier": "B",
@@ -2754,17 +2710,6 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
    "first_seen": "2026-07-25T11:35:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Pear VC",
-   "title": "Software Engineering Intern",
-   "location": "London, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/pear-vc/781a43c0-a13a-4e27-95a8-0dde6279d33f",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
@@ -3340,28 +3285,6 @@
   },
   {
    "tier": "B",
-   "company": "Terminal",
-   "title": "Software Engineering Intern - Data Platform",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729",
-   "first_seen": "2026-08-07T13:47:34Z"
-  },
-  {
-   "tier": "B",
-   "company": "Terminal",
-   "title": "Software Engineering Intern - Backend",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde",
-   "first_seen": "2026-08-07T13:47:34Z"
-  },
-  {
-   "tier": "B",
    "company": "Terranova",
    "title": "Software Engineering Intern",
    "location": "Berkeley, CA",
@@ -3660,12 +3583,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Frontend Software Engineer Intern - Global Live Transaction - 2027 Start",
+   "title": "Backend Engineer Intern - Data Platform - Global E-Commerce - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7664843924874004741",
+   "url": "https://lifeattiktok.com/search/7664888369046620469",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3682,23 +3605,23 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Engineer Intern - Data Platform - Global E-Commerce - 2027 Start",
+   "title": "Frontend Software Engineer Intern - Global Live Transaction - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7664888369046620469",
+   "url": "https://lifeattiktok.com/search/7664843924874004741",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Global LIVE Service Arch - 2027 Start",
+   "title": "Backend Software Engineer Intern - Global LIVE Data Platform - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7663383164115437877",
+   "url": "https://lifeattiktok.com/search/7663398719949687045",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3715,12 +3638,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Global LIVE Data Platform - 2027 Start",
+   "title": "Backend Software Engineer Intern - Global LIVE Service Arch - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7663398719949687045",
+   "url": "https://lifeattiktok.com/search/7663383164115437877",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
