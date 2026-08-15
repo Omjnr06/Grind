@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-15T01:23:42Z",
+ "generated_at": "2026-08-15T02:29:03Z",
  "counts": {
   "target": 80,
-  "relevant": 280
+  "relevant": 281
  },
  "roles": [
   {
@@ -1797,6 +1797,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Freeform",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "Los Angeles, CA (On-site)",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
+   "first_seen": "2026-08-15T02:29:03Z"
   },
   {
    "tier": "B",
