@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-15T12:17:27Z",
+ "generated_at": "2026-08-15T13:05:09Z",
  "counts": {
   "target": 80,
-  "relevant": 281
+  "relevant": 283
  },
  "roles": [
   {
@@ -767,6 +767,17 @@
   {
    "tier": "A",
    "company": "TikTok",
+   "title": "Mobile Software Engineer Intern - Global E-Commerce - 2027 Summer",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7673663349758675205",
+   "first_seen": "2026-08-15T13:05:09Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
    "title": "Frontend Engineer Intern - Ads Interface - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
@@ -789,17 +800,6 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - Media Engine - 2027 Summer",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7670295535077427509",
-   "first_seen": "2026-08-06T15:37:52Z"
-  },
-  {
-   "tier": "A",
-   "company": "TikTok",
    "title": "Software Engineer Intern - Foundation Platform - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
@@ -817,6 +817,17 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7670289874020993285",
+   "first_seen": "2026-08-06T15:37:52Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Media Engine - 2027 Summer",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7670295535077427509",
    "first_seen": "2026-08-06T15:37:52Z"
   },
   {
@@ -875,15 +886,15 @@
    "first_seen": "2026-07-22T15:15:34Z"
   },
   {
-   "tier": "A",
-   "company": "TikTok",
-   "title": "Software Engineer Project Intern - Recommendation Infrastructure - TikTok Video Social - 2026 Start - BS/MS",
-   "location": "San Jose, CA",
+   "tier": "B",
+   "company": "Abridge",
+   "title": "Software Engineer - Intern",
+   "location": "San Francisco, CA +1",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7629500062003218741",
-   "first_seen": "2026-07-17T02:04:04Z"
+   "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883",
+   "first_seen": "2026-08-15T13:05:09Z"
   },
   {
    "tier": "B",
@@ -1075,23 +1086,23 @@
   {
    "tier": "B",
    "company": "Apple",
-   "title": "Software Undergrad Engineering Internships",
-   "location": "USA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.apple.com/en-us/details/200664785-3810",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Apple",
    "title": "Software Engineering Masters Internships",
    "location": "USA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://jobs.apple.com/en-us/details/200664320-3810",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Apple",
+   "title": "Software Undergrad Engineering Internships",
+   "location": "USA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.apple.com/en-us/details/200664785-3810",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1360,17 +1371,6 @@
   },
   {
    "tier": "B",
-   "company": "CMiC",
-   "title": "Software Engineer Co-op",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://apply.workable.com/cmic/j/63A27830D0/",
-   "first_seen": "2026-08-12T14:31:28Z"
-  },
-  {
-   "tier": "B",
    "company": "CNO Financial Group",
    "title": "Cyber Security IT Intern",
    "location": "Remote / Carmel, IN",
@@ -1383,7 +1383,7 @@
   {
    "tier": "B",
    "company": "Composio",
-   "title": "Fullstack and Product Engineering Internship - Fall 2026 & Winter 2027",
+   "title": "Fullstack Engineering Internship - Product Team - Fall 2026 & Winter 2027",
    "location": "San Francisco, CA",
    "season": "",
    "sponsorship": "",
@@ -1769,6 +1769,17 @@
    "tier": "B",
    "company": "First American",
    "title": "Software Engineering Intern",
+   "location": "Remote - California, MD",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260",
+   "first_seen": "2026-08-15T13:05:09Z"
+  },
+  {
+   "tier": "B",
+   "company": "First American",
+   "title": "Software Engineering Intern",
    "location": "USA, California, Remote",
    "season": "Not stated",
    "sponsorship": "unknown",
@@ -1929,6 +1940,17 @@
    "source": "vanshb03",
    "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Hypercubic",
+   "title": "Software Engineering Internship",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490",
+   "first_seen": "2026-08-15T13:05:09Z"
   },
   {
    "tier": "B",
@@ -2512,6 +2534,17 @@
    "source": "sndsh404",
    "url": "https://job-boards.greenhouse.io/neuralink/jobs/6594422003",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Notion",
+   "title": "Software Engineer Intern - Winter 2027",
+   "location": "San Francisco, CA +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
+   "first_seen": "2026-08-15T13:05:09Z"
   },
   {
    "tier": "B",
@@ -3204,17 +3237,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Spacial AI",
-   "title": "Software Engineering Intern - Summer 2026",
-   "location": "Palo Alto, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
