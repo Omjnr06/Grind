@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-15T18:47:28Z",
+ "generated_at": "2026-08-15T19:14:15Z",
  "counts": {
   "target": 80,
-  "relevant": 283
+  "relevant": 284
  },
  "roles": [
   {
@@ -2963,6 +2963,17 @@
    "source": "zshah101",
    "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004",
    "first_seen": "2026-07-29T21:49:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "Replit",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+   "first_seen": "2026-08-15T19:14:15Z"
   },
   {
    "tier": "B",
