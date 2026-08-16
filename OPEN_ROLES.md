@@ -1,4 +1,4 @@
-# Open roles board — 2026-08-15
+# Open roles board — 2026-08-16
 
 **80 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -123,21 +123,24 @@
 - **Tesla** — Backend Software Engineer Intern, Diagnostics  
   Palo Alto, CA / Austin, TX · Winter · [vanshb03]  
   https://www.tesla.com/careers/search/job/248358
+- **TikTok** — Mobile Software Engineer Intern - Global E-Commerce - 2027 Summer  
+  San Jose, CA · term n/a · [speedyapply]  
+  https://lifeattiktok.com/search/7673663349758675205
 - **TikTok** — Frontend Engineer Intern - Ads Interface - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7671211313289398581
 - **TikTok** — Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7670738362521520437
-- **TikTok** — Software Engineer Intern - Media Engine - 2027 Summer  
-  San Jose, CA · term n/a · [speedyapply]  
-  https://lifeattiktok.com/search/7670295535077427509
 - **TikTok** — Software Engineer Intern - Foundation Platform - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7670281449668905269
 - **TikTok** — Backend Software Engineer Intern - Creation Platform - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7670289874020993285
+- **TikTok** — Software Engineer Intern - Media Engine - 2027 Summer  
+  San Jose, CA · term n/a · [speedyapply]  
+  https://lifeattiktok.com/search/7670295535077427509
 - **TikTok** — Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7668837275459324213
@@ -153,9 +156,6 @@
 - **TikTok** — AI software Engineer Project Intern - Transaction Platform - 2026 Start - BS/MS  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7646621925436131637
-- **TikTok** — Software Engineer Project Intern - Recommendation Infrastructure - TikTok Video Social - 2026 Start - BS/MS  
-  San Jose, CA · term n/a · [speedyapply]  
-  https://lifeattiktok.com/search/7629500062003218741
 - **TikTok** — LLM Post-training Engineer Intern, Research & Product  
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7631599293708126517
@@ -244,7 +244,9 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7668675500744837381
 
-## Other relevant (281)
+## Other relevant (284)
+- Abridge — Software Engineer - Intern — San Francisco, CA +1 · term n/a  
+  https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
   https://www.amazon.jobs/jobs/10395459/apply
 - Amazon — Software Dev Engineer Intern Machine Learning - Amazon Robotics — Berlin, Germany · term n/a  
@@ -275,10 +277,10 @@
   https://jobs.apple.com/en-us/details/200664780-3810/machine-learning-and-artificial-intelligence-undergrad-internships
 - Apple — Software Undergrad Engineering Internship — SWE intern (undergrad) · term n/a  
   https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships
-- Apple — Software Undergrad Engineering Internships — USA · term n/a  
-  https://jobs.apple.com/en-us/details/200664785-3810
 - Apple — Software Engineering Masters Internships — USA · term n/a  
   https://jobs.apple.com/en-us/details/200664320-3810
+- Apple — Software Undergrad Engineering Internships — USA · term n/a  
+  https://jobs.apple.com/en-us/details/200664785-3810
 - Apple — Software Engineering Intern, Masters — United States · Summer  
   https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships
 - Apple — Software Engineer Intern, Undergrad — United States · Summer  
@@ -331,11 +333,9 @@
   https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/
 - Clerkie — Software Engineer Internship — Remote · term n/a  
   http://getfiber.ai/careers?gh_jid=5152467007
-- CMiC — Software Engineer Co-op — Toronto, Canada · term n/a  
-  https://apply.workable.com/cmic/j/63A27830D0/
 - CNO Financial Group — Cyber Security IT Intern — Remote / Carmel, IN · Summer  
   https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4
-- Composio — Fullstack and Product Engineering Internship - Fall 2026 & Winter 2027 — San Francisco, CA · term n/a  
+- Composio — Fullstack Engineering Internship - Product Team - Fall 2026 & Winter 2027 — San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d
 - ConnectPrep — Data Analyst Internship — Washington, District of Columbia, United States (Remote) · Not stated  
   https://apply.workable.com/connectprep/j/C0CA13664F/
@@ -405,6 +405,8 @@
   https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004
 - Figure — Firmware Intern [Fall 2026] — San Jose, CA · Fall 2026  
   https://job-boards.greenhouse.io/figureai/jobs/4691070006
+- First American — Software Engineering Intern — Remote - California, MD · term n/a  
+  https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260
 - First American — Software Engineering Intern — USA, California, Remote · Not stated  
   https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260
 - Five Rings — Summer Intern 2027 - Quantitative Trader — New York, NY · Summer 2027  
@@ -435,6 +437,8 @@
   https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=
 - Hudson River Trading — Algorithm Development (Quant Research & Trading) Internship – Summer 2027 — Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore · Summer 2027  
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062
+- Hypercubic — Software Engineering Internship — San Francisco, CA · term n/a  
+  https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490
 - InfiniteQuant — Quantitative Developer - Internship - Summer 2027 — New York, New York, United States (Remote) · Summer 2027  
   https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594
 - InfiniteQuant — Quantitative Researcher - Internship - Summer 2027 — New York, NY, United States · Summer 2027  
@@ -541,6 +545,8 @@
   https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true
 - Neuralink — Software Engineer Intern, BCI Applications ⏳ — Fremont, CA · term n/a  
   https://job-boards.greenhouse.io/neuralink/jobs/6594422003
+- Notion — Software Engineer Intern - Winter 2027 — San Francisco, CA +1 · term n/a  
+  https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8
 - Notion — Software Engineer Intern — San Francisco, California · Fall  
   https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90
 - Notion — Software Engineer Intern (Summer 2027) — San Francisco, California · Summer 2027  
@@ -617,6 +623,8 @@
   https://job-boards.greenhouse.io/redwoodmaterials/jobs/6126785004
 - Redwood Materials — Embedded Software Engineer Intern - Fall 2026 — San Francisco, California, United States · Fall 2026  
   https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004
+- Replit — Software Engineering Intern (Summer 2027) — Foster City, CA · Summer 2027  
+  https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1
 - Rippling — Software Engineer Intern, Backend / Full Stack / ML (Winter 2027) — San Francisco, CA / New York, NY / Seattle, WA · term n/a  
   https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484
 - Rippling — Frontend Software Engineer Intern — New York, NY / San Francisco, CA · Winter  
@@ -667,8 +675,6 @@
   https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026
 - Snowflake — Software Engineer Intern (Core Engineering) — Menlo Park, CA / Bellevue, WA · Fall  
   https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026
-- Spacial AI — Software Engineering Intern - Summer 2026 — Palo Alto, CA · term n/a  
-  https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26
 - SPREEAI — Software Engineer Intern, AI Infrastructure / Training / Inference — San Francisco, CA · Fall  
   https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1
 - SpreeAI — Mobile Software Engineer Intern — San Francisco, CA · Fall  
