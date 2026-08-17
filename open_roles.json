@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-17T23:43:00Z",
+ "generated_at": "2026-08-17T23:57:32Z",
  "counts": {
   "target": 80,
-  "relevant": 283
+  "relevant": 285
  },
  "roles": [
   {
@@ -1038,6 +1038,28 @@
    "source": "zshah101",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
    "first_seen": "2026-08-17T22:13:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
+   "title": "Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878",
+   "first_seen": "2026-08-17T23:57:32Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
+   "title": "Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893",
+   "first_seen": "2026-08-17T23:57:32Z"
   },
   {
    "tier": "B",
