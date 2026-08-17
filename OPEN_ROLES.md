@@ -1,4 +1,4 @@
-# Open roles board — 2026-08-16
+# Open roles board — 2026-08-17
 
 **80 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -244,7 +244,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7668675500744837381
 
-## Other relevant (284)
+## Other relevant (285)
 - Abridge — Software Engineer - Intern — San Francisco, CA +1 · term n/a  
   https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883
 - Amazon — Software Dev Engineer Intern - Devices 2026 Beijing — Beijing, China · term n/a  
@@ -269,6 +269,8 @@
   https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us
 - American Express — Product Management Intern — New York, NY · Summer  
   https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916
+- American Express — Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY — New York, NY, United States · Summer 2027  
+  https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082
 - Analytical Mechanics Associates — Graduate Research Scientist intern — Remote - New Jersey · Not stated  
   https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1
 - Apple — Hardware Undergrad Engineering Internship — hardware intern (undergrad) · term n/a  
