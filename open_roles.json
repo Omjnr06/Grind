@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-17T03:59:20Z",
+ "generated_at": "2026-08-17T04:42:55Z",
  "counts": {
   "target": 80,
-  "relevant": 284
+  "relevant": 285
  },
  "roles": [
   {
@@ -1016,6 +1016,17 @@
    "source": "vanshb03",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
    "first_seen": "2026-08-04T15:42:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
+   "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+   "first_seen": "2026-08-17T04:42:55Z"
   },
   {
    "tier": "B",
