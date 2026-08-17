@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-17T21:46:48Z",
+ "generated_at": "2026-08-17T22:13:50Z",
  "counts": {
   "target": 80,
-  "relevant": 281
+  "relevant": 283
  },
  "roles": [
   {
@@ -1009,6 +1009,17 @@
   {
    "tier": "B",
    "company": "American Express",
+   "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
+   "first_seen": "2026-08-17T22:13:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
    "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY",
    "location": "New York, NY, United States",
    "season": "Summer 2027",
@@ -1016,6 +1027,28 @@
    "source": "zshah101",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
    "first_seen": "2026-08-17T04:42:55Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
+   "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+   "first_seen": "2026-08-17T22:13:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
+   "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
+   "first_seen": "2026-08-17T22:13:50Z"
   },
   {
    "tier": "B",
@@ -1972,17 +2005,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Intuitive Surgical",
-   "title": "Computer Vision Engineering Intern - Fall 2026",
-   "location": "Sunnyvale, CA, United States",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000133458290",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
