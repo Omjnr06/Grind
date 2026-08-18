@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-18T09:46:20Z",
+ "generated_at": "2026-08-18T10:17:28Z",
  "counts": {
   "target": 80,
-  "relevant": 285
+  "relevant": 287
  },
  "roles": [
   {
@@ -4019,6 +4019,28 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Xantium",
+   "title": "Quantitative Developer Intern",
+   "location": "London, England, New York, New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
+   "first_seen": "2026-08-18T10:17:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Xantium",
+   "title": "Quantitative Researcher Internship",
+   "location": "London, England, New York, New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
+   "first_seen": "2026-08-18T10:17:28Z"
   }
  ]
 }
