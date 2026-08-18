@@ -11,11 +11,11 @@ class TimeStamp:
 
     def set(self,key,value,timestamp):
         if key not in self.store:
-            self.store[key] = [[value,timestamp]]
+            self.store[key] = []    
         self.store[key].append([value,timestamp])
 
     def get(self,key,timestamp):
-        result = []
+        result = ""
         values = self.store.get(key,[])
         l,r = 0,len(values) -1
 
