@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-18T20:39:13Z",
+ "generated_at": "2026-08-18T20:58:15Z",
  "counts": {
   "target": 81,
-  "relevant": 287
+  "relevant": 288
  },
  "roles": [
   {
@@ -1863,6 +1863,17 @@
    "source": "vanshb03",
    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1",
    "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "Garda Capital Partners",
+   "title": "Software Engineer Intern",
+   "location": "New York, New York, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+   "first_seen": "2026-08-18T20:58:15Z"
   },
   {
    "tier": "B",
