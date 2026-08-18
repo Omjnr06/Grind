@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-18T12:24:02Z",
+ "generated_at": "2026-08-18T13:15:56Z",
  "counts": {
-  "target": 80,
+  "target": 81,
   "relevant": 287
  },
  "roles": [
@@ -125,6 +125,17 @@
    "source": "vanshb03",
    "url": "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "A",
+   "company": "Datadog",
+   "title": "Software Engineering Intern",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
+   "season": "Winter 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+   "first_seen": "2026-08-17T15:46:40Z"
   },
   {
    "tier": "A",
@@ -800,17 +811,6 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - Foundation Platform - 2027 Summer",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7670281449668905269",
-   "first_seen": "2026-08-06T15:37:52Z"
-  },
-  {
-   "tier": "A",
-   "company": "TikTok",
    "title": "Backend Software Engineer Intern - Creation Platform - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
@@ -828,6 +828,17 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7670295535077427509",
+   "first_seen": "2026-08-06T15:37:52Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Foundation Platform - 2027 Summer",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7670281449668905269",
    "first_seen": "2026-08-06T15:37:52Z"
   },
   {
@@ -2857,6 +2868,17 @@
   {
    "tier": "B",
    "company": "Point72",
+   "title": "Quantitative Developer Intern",
+   "location": "New York City, NY",
+   "season": "Winter 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+   "first_seen": "2026-08-17T19:38:54Z"
+  },
+  {
+   "tier": "B",
+   "company": "Point72",
    "title": "Quantitative Research Intern (Summer 2027)",
    "location": "New York, NY",
    "season": "",
@@ -3172,17 +3194,6 @@
    "source": "zshah101",
    "url": "https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/",
    "first_seen": "2026-08-13T13:43:09Z"
-  },
-  {
-   "tier": "B",
-   "company": "Sentry",
-   "title": "Software Engineer, Intern (Summer 2027)",
-   "location": "San Francisco, California",
-   "season": "Summer 2027",
-   "sponsorship": "offers",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1",
-   "first_seen": "2026-08-11T22:02:44Z"
   },
   {
    "tier": "B",
@@ -3550,6 +3561,17 @@
   {
    "tier": "B",
    "company": "TikTok",
+   "title": "Site Reliability Engineer Intern - Global SRE- GMPT - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7668635915812342069",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
    "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
    "location": "Singapore",
    "season": "",
@@ -3572,12 +3594,34 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Site Reliability Engineer Intern - Global SRE- GMPT - 2027 Start",
+   "title": "Software Engineer Intern - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668635915812342069",
+   "url": "https://lifeattiktok.com/search/7667912295692093749",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7667920559239317765",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7667911731242420533",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3605,35 +3649,13 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Start",
+   "title": "Backend Software Engineer Intern - Social - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667920559239317765",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667912295692093749",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667911731242420533",
-   "first_seen": "2026-08-05T14:43:11Z"
+   "url": "https://lifeattiktok.com/search/7665627693737511173",
+   "first_seen": "2026-08-13T13:43:09Z"
   },
   {
    "tier": "B",
@@ -3644,17 +3666,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7665622826842327349",
-   "first_seen": "2026-08-13T13:43:09Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Social - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7665627693737511173",
    "first_seen": "2026-08-13T13:43:09Z"
   },
   {
