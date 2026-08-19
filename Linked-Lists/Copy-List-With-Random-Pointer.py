@@ -22,6 +22,8 @@ class Node:
             hashmap[current] = copy
             current = current.next
 
+        current = head
+        
         while current:
             copy = hashmap[current]
             copy.next = hashmap[current.next]
