@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-19T21:47:02Z",
+ "generated_at": "2026-08-19T22:14:18Z",
  "counts": {
   "target": 81,
-  "relevant": 301
+  "relevant": 299
  },
  "roles": [
   {
@@ -1401,17 +1401,6 @@
    "source": "vanshb03",
    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
    "first_seen": "2026-07-31T17:19:10Z"
-  },
-  {
-   "tier": "B",
-   "company": "Centific",
-   "title": "AI Research Intern -  Physical AI",
-   "location": "Remote Work( USA)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
-   "first_seen": "2026-08-19T19:28:37Z"
   },
   {
    "tier": "B",
@@ -3381,17 +3370,6 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Snorkel AI",
-   "title": "AI Researcher \u2014  Intern",
-   "location": "New York City, NY (Hybrid)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6146378004",
-   "first_seen": "2026-08-18T21:58:07Z"
   },
   {
    "tier": "B",
