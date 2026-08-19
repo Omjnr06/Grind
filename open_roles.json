@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-19T19:49:39Z",
+ "generated_at": "2026-08-19T20:15:46Z",
  "counts": {
   "target": 81,
-  "relevant": 300
+  "relevant": 301
  },
  "roles": [
   {
@@ -2600,6 +2600,17 @@
    "source": "zshah101",
    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378",
    "first_seen": "2026-08-19T18:19:01Z"
+  },
+  {
+   "tier": "B",
+   "company": "N1",
+   "title": "Software Engineer Intern (Backend, Rust)",
+   "location": "New York City",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
+   "first_seen": "2026-08-19T20:15:46Z"
   },
   {
    "tier": "B",
