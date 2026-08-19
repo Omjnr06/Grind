@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-19T17:47:04Z",
+ "generated_at": "2026-08-19T18:19:01Z",
  "counts": {
   "target": 81,
-  "relevant": 298
+  "relevant": 299
  },
  "roles": [
   {
@@ -2578,6 +2578,17 @@
    "source": "zshah101",
    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Moog",
+   "title": "Intern, IT Computer Science",
+   "location": "Buffalo, NY",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378",
+   "first_seen": "2026-08-19T18:19:01Z"
   },
   {
    "tier": "B",
