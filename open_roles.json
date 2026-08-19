@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-19T19:00:01Z",
+ "generated_at": "2026-08-19T19:28:37Z",
  "counts": {
   "target": 81,
-  "relevant": 299
+  "relevant": 300
  },
  "roles": [
   {
@@ -1401,6 +1401,17 @@
    "source": "vanshb03",
    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
    "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "Centific",
+   "title": "AI Research Intern -  Physical AI",
+   "location": "Remote Work( USA)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
+   "first_seen": "2026-08-19T19:28:37Z"
   },
   {
    "tier": "B",
