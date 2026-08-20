@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-20T02:21:44Z",
+ "generated_at": "2026-08-20T03:22:02Z",
  "counts": {
   "target": 81,
-  "relevant": 299
+  "relevant": 298
  },
  "roles": [
   {
@@ -1082,17 +1082,6 @@
    "source": "zshah101",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
    "first_seen": "2026-08-17T22:13:50Z"
-  },
-  {
-   "tier": "B",
-   "company": "Analytical Mechanics Associates",
-   "title": "Graduate Research Scientist intern",
-   "location": "Remote - New Jersey",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1",
-   "first_seen": "2026-08-13T15:38:42Z"
   },
   {
    "tier": "B",
