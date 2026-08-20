@@ -32,3 +32,5 @@ def numberOfIslands(grid):
             if grid[r][c] == "1" and (r,c) not in visited:
                 islands += 1
                 dfs (r,c)
+
+    return islands
