@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-20T09:57:09Z",
+ "generated_at": "2026-08-20T10:24:02Z",
  "counts": {
   "target": 81,
-  "relevant": 298
+  "relevant": 299
  },
  "roles": [
   {
@@ -4129,6 +4129,17 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
    "first_seen": "2026-08-12T21:25:36Z"
+  },
+  {
+   "tier": "B",
+   "company": "Western Magnetics",
+   "title": "Software Engineering Intern",
+   "location": "South San Francisco, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/western-magnetics/j/E366930F3F/",
+   "first_seen": "2026-08-20T10:24:02Z"
   },
   {
    "tier": "B",
