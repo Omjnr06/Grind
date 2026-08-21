@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-21T12:25:28Z",
+ "generated_at": "2026-08-21T13:24:50Z",
  "counts": {
-  "target": 90,
-  "relevant": 304
+  "target": 91,
+  "relevant": 307
  },
  "roles": [
   {
@@ -103,6 +103,17 @@
    "source": "sndsh404",
    "url": "https://joinbytedance.com/search/7623544831999346997",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "A",
+   "company": "Databricks",
+   "title": "Software Engineering Intern - 2027 Start - Winter",
+   "location": "Mountain View, CA +2",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+   "first_seen": "2026-08-21T13:24:50Z"
   },
   {
    "tier": "A",
@@ -778,17 +789,6 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Summer",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7675517686256863541",
-   "first_seen": "2026-08-20T13:25:29Z"
-  },
-  {
-   "tier": "A",
-   "company": "TikTok",
    "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Fall",
    "location": "San Jose, CA",
    "season": "",
@@ -800,12 +800,23 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Search Data Infra - 2027 Summer",
+   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7675128776856029445",
+   "url": "https://lifeattiktok.com/search/7675517686256863541",
+   "first_seen": "2026-08-20T13:25:29Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7675163472469444917",
    "first_seen": "2026-08-20T13:25:29Z"
   },
   {
@@ -833,12 +844,12 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall",
+   "title": "Software Engineer Intern - TikTok Search Data Infra - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7675163472469444917",
+   "url": "https://lifeattiktok.com/search/7675128776856029445",
    "first_seen": "2026-08-20T13:25:29Z"
   },
   {
@@ -855,23 +866,23 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Summer",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7672930401597671733",
-   "first_seen": "2026-08-20T13:25:29Z"
-  },
-  {
-   "tier": "A",
-   "company": "TikTok",
    "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall",
    "location": "San Jose, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7672934842451577141",
+   "first_seen": "2026-08-20T13:25:29Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Summer",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7672930401597671733",
    "first_seen": "2026-08-20T13:25:29Z"
   },
   {
@@ -1283,17 +1294,6 @@
   },
   {
    "tier": "B",
-   "company": "Astranis",
-   "title": "Software Engineer- Backend Intern (Fall 2026)",
-   "location": "San Francisco, CA",
-   "season": "Fall 2026",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Atomic Semi",
    "title": "Software Engineering Intern, Fab",
    "location": "Austin, TX / San Francisco, CA",
@@ -1405,6 +1405,17 @@
   {
    "tier": "B",
    "company": "Capital One",
+   "title": "Intern - Full Stack Software Engineer - Team Pickle - Winter 2027",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
+   "first_seen": "2026-08-19T13:23:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Capital One",
    "title": "Intern - Backend Software Engineer - Team Interstellar - Winter 2027",
    "location": "Toronto, Canada",
    "season": "",
@@ -1433,17 +1444,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
-   "first_seen": "2026-08-19T13:23:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Capital One",
-   "title": "Intern - Full Stack Software Engineer - Team Pickle - Winter 2027",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
@@ -1522,6 +1522,17 @@
    "source": "speedyapply_intl",
    "url": "http://getfiber.ai/careers?gh_jid=5152467007",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Cloudflare",
+   "title": "Software Engineer Intern - Fall 2026",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+   "first_seen": "2026-08-21T13:24:50Z"
   },
   {
    "tier": "B",
@@ -1885,6 +1896,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
    "first_seen": "2026-08-13T09:31:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "Excellus BCBS",
+   "title": "College Intern - Software Engineering - Fall 2026 - Multiple Openings",
+   "location": "Buffalo, NY +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lthc.wd1.myworkdayjobs.com/en-US/excellusbcbscareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2",
+   "first_seen": "2026-08-21T13:24:50Z"
   },
   {
    "tier": "B",
@@ -2813,12 +2835,12 @@
   {
    "tier": "B",
    "company": "NVIDIA",
-   "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+   "title": "NVIDIA 2027 Internships: Systems Software Engineering",
    "location": "Santa Clara, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
@@ -2835,12 +2857,12 @@
   {
    "tier": "B",
    "company": "NVIDIA",
-   "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+   "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
    "location": "Santa Clara, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
@@ -2864,6 +2886,17 @@
    "source": "zshah101",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
    "first_seen": "2026-08-05T20:57:03Z"
+  },
+  {
+   "tier": "B",
+   "company": "OLIX",
+   "title": "Software Engineering Intern",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/olix/9096bbc4-0702-4451-9ccc-ee7b73eaa3c1",
+   "first_seen": "2026-08-21T13:24:50Z"
   },
   {
    "tier": "B",
@@ -3023,7 +3056,7 @@
    "tier": "B",
    "company": "Phoebe",
    "title": "Software Engineering Intern",
-   "location": "New York City",
+   "location": "New York City, NY",
    "season": "Fall 2026",
    "sponsorship": "unknown",
    "source": "zshah101",
@@ -3205,17 +3238,6 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/redwoodmaterials/jobs/6126785004",
    "first_seen": "2026-08-06T15:37:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Redwood Materials",
-   "title": "Embedded Software Engineer Intern - Fall 2026",
-   "location": "San Francisco, California, United States",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004",
-   "first_seen": "2026-07-29T21:49:35Z"
   },
   {
    "tier": "B",
@@ -3660,23 +3682,23 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Engineer Intern - TikTok Shop by Tokopedia - 2027 Start",
-   "location": "Jakarta, Indonesia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7675226279146375477",
-   "first_seen": "2026-08-20T13:25:29Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
    "title": "Frontend Engineer Intern - TikTok Shop by Tokopedia - 2027 Start",
    "location": "Jakarta, Indonesia",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7675224627606784309",
+   "first_seen": "2026-08-20T13:25:29Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Backend Engineer Intern - TikTok Shop by Tokopedia - 2027 Start",
+   "location": "Jakarta, Indonesia",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7675226279146375477",
    "first_seen": "2026-08-20T13:25:29Z"
   },
   {
@@ -3836,6 +3858,17 @@
   {
    "tier": "B",
    "company": "TikTok",
+   "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7668566238498408709",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
    "title": "Site Reliability Engineer Intern - Global SRE- GMPT - 2027 Start",
    "location": "Singapore",
    "season": "",
@@ -3858,23 +3891,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
+   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668566238498408709",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Recommendation Architecture - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667908293442275589",
+   "url": "https://lifeattiktok.com/search/7667911731242420533",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3886,17 +3908,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7667912295692093749",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667911731242420533",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3924,6 +3935,17 @@
   {
    "tier": "B",
    "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Recommendation Architecture - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7667908293442275589",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
    "title": "Mobile Software Engineer Intern - Social - 2027 Start",
    "location": "Singapore",
    "season": "",
@@ -3942,6 +3964,17 @@
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7665627693737511173",
    "first_seen": "2026-08-13T13:43:09Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - Global LIVE Transaction - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7664847124735068421",
+   "first_seen": "2026-08-05T14:43:11Z"
   },
   {
    "tier": "B",
@@ -3968,23 +4001,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Global LIVE Transaction - 2027 Start",
+   "title": "Backend Software Engineer Intern - Global LIVE Fund Safety - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7664847124735068421",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Global LIVE Service Arch - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7663383164115437877",
+   "url": "https://lifeattiktok.com/search/7663396538815826229",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -4001,12 +4023,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Global LIVE Fund Safety - 2027 Start",
+   "title": "Backend Software Engineer Intern - Global LIVE Service Arch - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7663396538815826229",
+   "url": "https://lifeattiktok.com/search/7663383164115437877",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -4034,23 +4056,23 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS",
-   "location": "Sydney, Australia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7660769585826154805",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
    "title": "Frontend Software Engineer Intern - TikTok Foundation - 2027 Start - BS/MS",
    "location": "Sydney, Australia",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7660767857640802565",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Multimedia Framework - C++ - 2027 Start - BS/MS",
+   "location": "Sydney, Australia",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7660769585826154805",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -4154,6 +4176,17 @@
   },
   {
    "tier": "B",
+   "company": "Trimble",
+   "title": "Software Engineering Intern",
+   "location": "Remote - Vilnius, Lithuania",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Lithuania---Vilnius/Software-Engineering-Intern_R56614",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
    "company": "Two Sigma",
    "title": "Quantitative Researcher Intern",
    "location": "New York, NY",
@@ -4184,6 +4217,17 @@
    "source": "sndsh404",
    "url": "https://jobs.uber.com/en/jobs/300697/",
    "first_seen": "2026-07-21T14:55:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Univera Healthcare",
+   "title": "College Intern - Software Engineering - Fall 2026 - Multiple Openings",
+   "location": "Buffalo, NY +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1",
+   "first_seen": "2026-08-21T13:24:50Z"
   },
   {
    "tier": "B",
@@ -4331,12 +4375,12 @@
   {
    "tier": "B",
    "company": "Zipline",
-   "title": "Software Systems Validation Intern - Spring 2027",
+   "title": "Software Engineer Intern - Spring 2027",
    "location": "South San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
    "first_seen": "2026-07-17T02:04:04Z"
   }
  ]
