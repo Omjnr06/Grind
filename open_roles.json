@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-21T15:55:48Z",
+ "generated_at": "2026-08-21T16:22:18Z",
  "counts": {
-  "target": 91,
-  "relevant": 303
+  "target": 92,
+  "relevant": 313
  },
  "roles": [
   {
@@ -107,6 +107,17 @@
   {
    "tier": "A",
    "company": "Databricks",
+   "title": "Software Engineering Intern",
+   "location": "Bellevue, Washington / Mountain View, California / San Francisco, California",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "A",
+   "company": "Databricks",
    "title": "Software Engineering Intern - 2027 Start - Winter",
    "location": "Mountain View, CA +2",
    "season": "",
@@ -142,9 +153,9 @@
    "company": "Datadog",
    "title": "Software Engineering Intern",
    "location": "Boston, Massachusetts, USA; New York, New York, USA",
-   "season": "Winter 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "season": "Winter",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
    "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
    "first_seen": "2026-08-17T15:46:40Z"
   },
@@ -1107,6 +1118,50 @@
   },
   {
    "tier": "B",
+   "company": "AMD",
+   "title": "Software Engineer Intern",
+   "location": "Austin, TX / Boxborough, MA / Fort Collins, CO / Longmont, CO / Fishkill, NY / Rochester, NY",
+   "season": "Spring/Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://careers.amd.com/careers-home/jobs/90947",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "AMD",
+   "title": "Software Engineer Intern",
+   "location": "Austin, TX / Boxborough, MA / Rochester, NY / Fort Collins, CO / Longmont, CO / Fishkill, NY",
+   "season": "Spring/Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://careers.amd.com/careers-home/jobs/91180",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "AMD",
+   "title": "Software Engineer Intern, Co-op",
+   "location": "Santa Clara, CA / San Jose, CA",
+   "season": "Spring/Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://careers.amd.com/careers-home/jobs/91176",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "AMD",
+   "title": "Software Engineer Intern",
+   "location": "Santa Clara, CA / San Jose, CA",
+   "season": "Spring/Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://careers.amd.com/careers-home/jobs/90891",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
    "company": "American Express",
    "title": "Product Management Intern",
    "location": "New York, NY",
@@ -1119,33 +1174,11 @@
   {
    "tier": "B",
    "company": "American Express",
-   "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY",
+   "title": "AI Engineer Intern, Enterprise Technology Services",
    "location": "New York, NY, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
-   "first_seen": "2026-08-17T22:13:50Z"
-  },
-  {
-   "tier": "B",
-   "company": "American Express",
-   "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY",
-   "location": "New York, NY, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
-   "first_seen": "2026-08-17T04:42:55Z"
-  },
-  {
-   "tier": "B",
-   "company": "American Express",
-   "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
-   "location": "New York, NY, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
    "first_seen": "2026-08-17T22:13:50Z"
   },
@@ -1170,17 +1203,6 @@
    "source": "zshah101",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893",
    "first_seen": "2026-08-17T23:57:32Z"
-  },
-  {
-   "tier": "B",
-   "company": "American Express",
-   "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
-   "location": "New York, NY, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
-   "first_seen": "2026-08-17T22:13:50Z"
   },
   {
    "tier": "B",
@@ -1338,6 +1360,17 @@
   },
   {
    "tier": "B",
+   "company": "Atoms",
+   "title": "Software Engineer Intern",
+   "location": "New York, NY / Seattle, WA / Los Angeles, CA / Mountain View, CA / San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+   "first_seen": "2026-08-07T18:28:06Z"
+  },
+  {
+   "tier": "B",
    "company": "Beacon Software",
    "title": "Software Engineering Intern",
    "location": "San Francisco, CA",
@@ -1404,24 +1437,46 @@
   },
   {
    "tier": "B",
+   "company": "Campbell Soup Company",
+   "title": "Agentic AI Engineer Co-Op",
+   "location": "Remote",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
    "company": "Capital One",
-   "title": "Intern - Full Stack Software Engineer - Team Pickle - Winter 2027",
+   "title": "Software Engineer Intern, Team Pickle",
    "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
+   "season": "Winter",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
    "tier": "B",
    "company": "Capital One",
-   "title": "Intern - Backend Software Engineer - Team Interstellar - Winter 2027",
+   "title": "Software Engineer Intern, Mobile",
    "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
+   "first_seen": "2026-08-19T13:23:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Capital One",
+   "title": "Backend Software Engineer Intern, Team Interstellar",
+   "location": "Toronto, Canada",
+   "season": "Winter",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
@@ -1433,17 +1488,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010",
-   "first_seen": "2026-08-19T13:23:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Capital One",
-   "title": "Intern - Mobile Software Engineer - Team Gringotts North - Winter 2027",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
@@ -1734,6 +1778,17 @@
   },
   {
    "tier": "B",
+   "company": "DV Group",
+   "title": "Software Engineer Intern, Commodities",
+   "location": "New York City, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+   "first_seen": "2026-08-10T23:48:45Z"
+  },
+  {
+   "tier": "B",
    "company": "DV Trading",
    "title": "Software Engineer Intern - Summer 2027 - DV Commodities",
    "location": "London, United Kingdom",
@@ -1742,17 +1797,6 @@
    "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
    "first_seen": "2026-08-11T13:38:33Z"
-  },
-  {
-   "tier": "B",
-   "company": "DV Trading",
-   "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
-   "location": "New York City, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
-   "first_seen": "2026-08-10T23:48:45Z"
   },
   {
    "tier": "B",
@@ -1877,12 +1921,12 @@
   },
   {
    "tier": "B",
-   "company": "Exa Labs",
-   "title": "Software Engineer, Intern",
+   "company": "Exa",
+   "title": "Software Engineer Intern",
    "location": "San Francisco, California",
-   "season": "Not stated",
-   "sponsorship": "offers",
-   "source": "zshah101",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
    "first_seen": "2026-08-13T09:31:13Z"
   },
@@ -1918,6 +1962,28 @@
    "source": "speedyapply",
    "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
    "first_seen": "2026-08-11T13:38:33Z"
+  },
+  {
+   "tier": "B",
+   "company": "Figma",
+   "title": "Software Engineer Intern",
+   "location": "San Francisco, CA / New York, NY",
+   "season": "Winter",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Figure",
+   "title": "Power Systems Integration Intern",
+   "location": "San Jose, CA",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
+   "first_seen": "2026-08-21T16:22:18Z"
   },
   {
    "tier": "B",
@@ -1966,11 +2032,11 @@
   {
    "tier": "B",
    "company": "Freeform",
-   "title": "Software Engineering Intern (Summer 2027)",
+   "title": "Software Engineering Intern",
    "location": "Los Angeles, CA (On-site)",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
    "first_seen": "2026-08-15T02:29:03Z"
   },
@@ -2109,11 +2175,11 @@
   {
    "tier": "B",
    "company": "Hypercubic",
-   "title": "Software Engineering Internship",
+   "title": "Software Engineering Intern",
    "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490",
    "first_seen": "2026-08-15T13:05:09Z"
   },
@@ -2350,6 +2416,17 @@
   },
   {
    "tier": "B",
+   "company": "JPMorgan Chase",
+   "title": "Quantitative Research, Markets, Summer Internship - Analyst",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
    "company": "JPMorganChase",
    "title": "Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship \u2013 United States",
    "location": "Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Wilmington, DE, United States; Tampa, FL, United States",
@@ -2450,11 +2527,11 @@
   {
    "tier": "B",
    "company": "Kastle",
-   "title": "Software Engineer - Intern",
+   "title": "Software Engineer Intern",
    "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee",
    "first_seen": "2026-08-07T13:47:34Z"
   },
@@ -2636,6 +2713,28 @@
   },
   {
    "tier": "B",
+   "company": "Millennium",
+   "title": "Quantitative Developer Intern",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://career.mlp.com/careers/job/755957819661",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Millennium",
+   "title": "Applied AI Engineer Intern",
+   "location": "New York, NY",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://career.mlp.com/careers/job/755957778821",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
    "company": "Modal",
    "title": "ML Research Intern",
    "location": "New York, NY / San Francisco, CA",
@@ -2644,6 +2743,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
    "first_seen": "2026-07-28T23:37:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "Monolithic Power Systems, Inc.",
+   "title": "Application Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890",
+   "first_seen": "2026-08-21T16:22:18Z"
   },
   {
    "tier": "B",
@@ -2771,11 +2881,11 @@
    "company": "Notion",
    "title": "Software Engineer Intern",
    "location": "San Francisco, CA / New York, NY",
-   "season": "Winter",
+   "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
-   "url": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
-   "first_seen": "2026-07-17T02:04:04Z"
+   "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+   "first_seen": "2026-08-14T19:54:20Z"
   },
   {
    "tier": "B",
@@ -2798,17 +2908,6 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Notion",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "location": "San Francisco, California",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
-   "first_seen": "2026-08-14T19:54:20Z"
   },
   {
    "tier": "B",
@@ -3110,6 +3209,17 @@
   {
    "tier": "B",
    "company": "Point72",
+   "title": "Quantitative Developer Intern",
+   "location": "New York, NY",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+   "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Point72",
    "title": "Quantitative Research Intern (Summer 2027)",
    "location": "New York, NY",
    "season": "",
@@ -3220,11 +3330,11 @@
   {
    "tier": "B",
    "company": "Replit",
-   "title": "Software Engineering Intern (Summer 2027)",
+   "title": "Software Engineering Intern",
    "location": "Foster City, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
    "first_seen": "2026-08-15T19:14:15Z"
   },
@@ -4206,6 +4316,17 @@
    "source": "speedyapply",
    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1",
    "first_seen": "2026-08-21T13:24:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "Verition Fund Management LLC",
+   "title": "Software Engineer Intern",
+   "location": "Remote",
+   "season": "Fall",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://www.verition.com/open-positions?gh_jid=5214784007&gh_src=za15el4f7us&t=3253f722teu",
+   "first_seen": "2026-08-21T16:22:18Z"
   },
   {
    "tier": "B",
