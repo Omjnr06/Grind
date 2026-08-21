@@ -3,7 +3,7 @@
 # The area of an island is the number of cells with a value 1 in the island.
 # Return the maximum area of an island in grid. If there is no island, return 0.
 
-def max(self,numCourses,prerequisites,grid):
+def max(self,grid):
     rows = len(grid)
     cols = len(grid[0])
     visited = set()
