@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-21T09:58:34Z",
+ "generated_at": "2026-08-21T10:29:15Z",
  "counts": {
   "target": 90,
-  "relevant": 303
+  "relevant": 304
  },
  "roles": [
   {
@@ -3018,6 +3018,17 @@
    "source": "speedyapply",
    "url": "https://careers-persistentsystems.icims.com/jobs/2272/intern---embedded-software-engineer-%28fall-2026%29/job",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Phoebe",
+   "title": "Software Engineering Intern",
+   "location": "New York City",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca",
+   "first_seen": "2026-08-21T10:29:15Z"
   },
   {
    "tier": "B",
