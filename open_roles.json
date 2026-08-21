@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-21T15:23:16Z",
+ "generated_at": "2026-08-21T15:55:48Z",
  "counts": {
   "target": 91,
-  "relevant": 307
+  "relevant": 303
  },
  "roles": [
   {
@@ -1533,17 +1533,6 @@
    "source": "speedyapply_intl",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
    "first_seen": "2026-08-21T13:24:50Z"
-  },
-  {
-   "tier": "B",
-   "company": "CNO Financial Group",
-   "title": "Cyber Security IT Intern",
-   "location": "Remote / Carmel, IN",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4",
-   "first_seen": "2026-08-04T00:09:22Z"
   },
   {
    "tier": "B",
@@ -3175,17 +3164,6 @@
   },
   {
    "tier": "B",
-   "company": "Postman",
-   "title": "AI Engineer Intern",
-   "location": "Berkeley, California, United States",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
-   "first_seen": "2026-08-01T15:35:18Z"
-  },
-  {
-   "tier": "B",
    "company": "Pylon",
    "title": "Software Engineer - Intern",
    "location": "San Francisco, CA",
@@ -4228,28 +4206,6 @@
    "source": "speedyapply",
    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1",
    "first_seen": "2026-08-21T13:24:50Z"
-  },
-  {
-   "tier": "B",
-   "company": "Veeam Software",
-   "title": "Software Engineering Intern, Platform, Security & AI",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Veeam Software",
-   "title": "Software Engineering Intern, Policy Engineering",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
