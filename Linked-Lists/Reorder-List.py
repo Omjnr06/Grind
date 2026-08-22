@@ -14,7 +14,7 @@ class ListNode:
         slow = head
         fast = head.next
 
-        while fast.next:
+        while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
 
