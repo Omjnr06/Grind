@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-22T09:38:49Z",
+ "generated_at": "2026-08-22T09:56:49Z",
  "counts": {
   "target": 92,
-  "relevant": 314
+  "relevant": 316
  },
  "roles": [
   {
@@ -1115,6 +1115,17 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Ambrook",
+   "title": "Software Engineering Intern",
+   "location": "New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456",
+   "first_seen": "2026-08-22T09:56:49Z"
   },
   {
    "tier": "B",
@@ -3700,6 +3711,17 @@
    "source": "speedyapply",
    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/university/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Syska Hennessy Group",
+   "title": "Innovations Intern (Full Stack/Front End Engineering)",
+   "location": "New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733",
+   "first_seen": "2026-08-22T09:56:49Z"
   },
   {
    "tier": "B",
