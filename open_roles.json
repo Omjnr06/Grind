@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-22T02:30:49Z",
+ "generated_at": "2026-08-22T03:23:48Z",
  "counts": {
   "target": 92,
-  "relevant": 313
+  "relevant": 314
  },
  "roles": [
   {
@@ -1368,6 +1368,17 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
    "first_seen": "2026-08-07T18:28:06Z"
+  },
+  {
+   "tier": "B",
+   "company": "Availity",
+   "title": "Software Engineering Intern",
+   "location": "Remote - United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436",
+   "first_seen": "2026-08-22T03:23:48Z"
   },
   {
    "tier": "B",
