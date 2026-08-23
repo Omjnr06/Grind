@@ -18,6 +18,8 @@ HEADERS = {
     "Content-Type": "application/json",
     "Notion-Version": "2022-06-28",
 }
+
+# resolved from the live schema at runtime (handles trailing spaces, renames)
 PROP = {"companies": "Companies", "url": "Problem URL"}
 
 
@@ -75,6 +77,26 @@ def companies_empty(props):
     return not (p.get("multi_select") or [])
 
 
+def current_companies(props):
+    p = props.get(PROP["companies"]) or {}
+    return [x.get("name", "") for x in (p.get("multi_select") or [])]
+
+
+def fetch_all_rows():
+    rows, cursor = [], None
+    while True:
+        body = {"page_size": 100}
+        if cursor:
+            body["start_cursor"] = cursor
+        data = _req("POST", f"/v1/databases/{LEETCODE_DB_ID}/query", body)
+        rows.extend(data.get("results", []))
+        if data.get("has_more"):
+            cursor = data.get("next_cursor")
+        else:
+            break
+    return rows
+
+
 def fetch_candidate_rows():
     rows, cursor = [], None
     while True:
@@ -93,18 +115,18 @@ def fetch_candidate_rows():
     return rows
 
 
-def enrich():
+def enrich(refresh_all=False):
     if not NOTION_TOKEN or not LEETCODE_DB_ID:
         print("[abort] NOTION_TOKEN or LEETCODE_DB_ID not set")
         return
     resolve_props()
-    rows = fetch_candidate_rows()
-    print(f"[info] {len(rows)} rows with empty Companies")
-    filled, skipped_nomatch, skipped_nourl = 0, 0, 0
+    rows = fetch_all_rows() if refresh_all else fetch_candidate_rows()
+    print(f"[info] {len(rows)} rows to check ({'refresh-all' if refresh_all else 'empty-only'} mode)")
+    filled, skipped_nomatch, skipped_nourl, unchanged = 0, 0, 0, 0
 
     for page in rows:
         props = page.get("properties", {})
-        if not companies_empty(props):
+        if not refresh_all and not companies_empty(props):
             continue
         url = get_url_value(props)
         if not url:
@@ -114,6 +136,9 @@ def enrich():
         companies = INDEX.get(slug, [])[:TOP_N]
         if not companies:
             skipped_nomatch += 1
+            continue
+        if refresh_all and current_companies(props) == companies:
+            unchanged += 1
             continue
         body = {"properties": {PROP["companies"]: {"multi_select": [{"name": c} for c in companies]}}}
         try:
@@ -129,8 +154,9 @@ def enrich():
                 pass
             print(f"  write failed for {slug}: HTTP {e.code} {detail}")
 
-    print(f"[done] filled {filled}, no-match {skipped_nomatch}, no-url {skipped_nourl}")
+    print(f"[done] filled {filled}, unchanged {unchanged}, no-match {skipped_nomatch}, no-url {skipped_nourl}")
 
 
 if __name__ == "__main__":
-    enrich()
+    import sys
+    enrich(refresh_all="refresh-all" in sys.argv)

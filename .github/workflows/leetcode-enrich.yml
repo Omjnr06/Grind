@@ -3,7 +3,12 @@ name: leetcode-enrich
 on:
   schedule:
     - cron: "*/30 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      refresh_all:
+        description: "Re-check every row (not just empty ones) - use once after an index update"
+        type: boolean
+        default: false
 
 concurrency:
   group: leetcode-enrich
@@ -24,4 +29,4 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           LEETCODE_DB_ID: ${{ secrets.LEETCODE_DB_ID }}
-        run: python leetcode_enrich.py
+        run: python leetcode_enrich.py ${{ github.event.inputs.refresh_all == 'true' && 'refresh-all' || '' }}
