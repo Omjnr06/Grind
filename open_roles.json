@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-24T17:23:23Z",
+ "generated_at": "2026-08-24T17:54:26Z",
  "counts": {
   "target": 93,
-  "relevant": 317
+  "relevant": 318
  },
  "roles": [
   {
@@ -2314,6 +2314,17 @@
    "source": "vanshb03",
    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Intuitive Surgical",
+   "title": "Computer Vision Engineering Intern - Fall 2026",
+   "location": "Sunnyvale, CA, United States (Hybrid)",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000145329669",
+   "first_seen": "2026-08-24T17:54:26Z"
   },
   {
    "tier": "B",
