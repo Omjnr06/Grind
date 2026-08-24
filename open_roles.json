@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-24T19:08:15Z",
+ "generated_at": "2026-08-24T19:41:21Z",
  "counts": {
   "target": 93,
-  "relevant": 317
+  "relevant": 318
  },
  "roles": [
   {
@@ -2831,6 +2831,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
    "first_seen": "2026-07-28T23:37:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "Monolithic Power Systems",
+   "title": "AI Developer Intern",
+   "location": "San Jose - California",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
+   "first_seen": "2026-08-24T19:41:21Z"
   },
   {
    "tier": "B",
