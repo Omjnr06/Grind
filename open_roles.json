@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-25T09:31:12Z",
+ "generated_at": "2026-08-25T10:04:19Z",
  "counts": {
   "target": 93,
-  "relevant": 318
+  "relevant": 320
  },
  "roles": [
   {
@@ -3535,6 +3535,28 @@
    "source": "vanshb03",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
    "first_seen": "2026-07-24T17:49:01Z"
+  },
+  {
+   "tier": "B",
+   "company": "Sage",
+   "title": "Software Engineering Intern (Full Stack) \u2013 Summer 2027",
+   "location": "New York, New York, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+   "first_seen": "2026-08-25T10:04:19Z"
+  },
+  {
+   "tier": "B",
+   "company": "Sage",
+   "title": "Software Engineering Intern (Edge) \u2013 Summer 2027",
+   "location": "New York, New York, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
+   "first_seen": "2026-08-25T10:04:19Z"
   },
   {
    "tier": "B",
