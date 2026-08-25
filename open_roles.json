@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-25T20:52:56Z",
+ "generated_at": "2026-08-25T21:17:49Z",
  "counts": {
   "target": 93,
-  "relevant": 327
+  "relevant": 332
  },
  "roles": [
   {
@@ -1822,6 +1822,50 @@
   },
   {
    "tier": "B",
+   "company": "DTCC",
+   "title": "Application Developer Intern [2027 Intern Program]",
+   "location": "Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459",
+   "first_seen": "2026-08-25T21:17:49Z"
+  },
+  {
+   "tier": "B",
+   "company": "DTCC",
+   "title": "Infrastructure Engineer Intern [2027 Intern Program]",
+   "location": "Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214473",
+   "first_seen": "2026-08-25T21:17:49Z"
+  },
+  {
+   "tier": "B",
+   "company": "DTCC",
+   "title": "Information Security Intern [2027 Intern Program]",
+   "location": "Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214476",
+   "first_seen": "2026-08-25T21:17:49Z"
+  },
+  {
+   "tier": "B",
+   "company": "DTCC",
+   "title": "Cyber Security Risk Intern [2027 Internship Program]",
+   "location": "Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214487",
+   "first_seen": "2026-08-25T21:17:49Z"
+  },
+  {
+   "tier": "B",
    "company": "DV Group",
    "title": "Software Engineer Intern, Commodities",
    "location": "New York City, NY",
@@ -2149,6 +2193,17 @@
    "source": "zshah101",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
    "first_seen": "2026-08-25T15:03:42Z"
+  },
+  {
+   "tier": "B",
+   "company": "Grant Thornton",
+   "title": "Cybersecurity and Privacy Intern - Summer 2027",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637",
+   "first_seen": "2026-08-25T21:17:49Z"
   },
   {
    "tier": "B",
