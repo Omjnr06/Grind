@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-25T18:03:46Z",
+ "generated_at": "2026-08-25T18:55:13Z",
  "counts": {
   "target": 93,
-  "relevant": 323
+  "relevant": 327
  },
  "roles": [
   {
@@ -3285,17 +3285,6 @@
   },
   {
    "tier": "B",
-   "company": "PlusAI",
-   "title": "Deep Learning Research Intern \u2014 Multimodal BEV Perception",
-   "location": "Santa Clara, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62",
-   "first_seen": "2026-08-07T00:35:51Z"
-  },
-  {
-   "tier": "B",
    "company": "Point72",
    "title": "Summer 2027 Quantitative Research Internship",
    "location": "New York",
@@ -4437,6 +4426,61 @@
    "source": "vanshb03",
    "url": "https://www.verition.com/open-positions?gh_jid=5214784007&gh_src=za15el4f7us&t=3253f722teu",
    "first_seen": "2026-08-21T16:22:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Verkada",
+   "title": "Backend Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
+   "season": "Summer 2027",
+   "sponsorship": "offers",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+   "first_seen": "2026-08-25T18:55:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "Verkada",
+   "title": "Frontend Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
+   "season": "Summer 2027",
+   "sponsorship": "offers",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+   "first_seen": "2026-08-25T18:55:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "Verkada",
+   "title": "Embedded Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
+   "season": "Summer 2027",
+   "sponsorship": "offers",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+   "first_seen": "2026-08-25T18:55:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "Verkada",
+   "title": "Security Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
+   "season": "Summer 2027",
+   "sponsorship": "offers",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+   "first_seen": "2026-08-25T18:55:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "Verkada",
+   "title": "Mobile Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
+   "season": "Summer 2027",
+   "sponsorship": "offers",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+   "first_seen": "2026-08-25T18:55:13Z"
   },
   {
    "tier": "B",
