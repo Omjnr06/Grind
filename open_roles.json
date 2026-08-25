@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-25T22:51:33Z",
+ "generated_at": "2026-08-25T23:16:30Z",
  "counts": {
   "target": 93,
-  "relevant": 332
+  "relevant": 333
  },
  "roles": [
   {
@@ -2204,6 +2204,17 @@
    "source": "zshah101",
    "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637",
    "first_seen": "2026-08-25T21:17:49Z"
+  },
+  {
+   "tier": "B",
+   "company": "Grant Thornton",
+   "title": "Cybersecurity and Privacy Intern - Summer 2027",
+   "location": "San Francisco, CA, United States",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115449",
+   "first_seen": "2026-08-25T23:16:30Z"
   },
   {
    "tier": "B",
