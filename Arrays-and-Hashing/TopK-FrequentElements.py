@@ -11,8 +11,7 @@ def TopKFreq(nums,k):
     result = []
 
     for x in nums:
-        if x in hashmap:
-            hashmap[x] = 1 + hashmap.get(x, 0)
+        hashmap[x] = 1 + hashmap.get(x, 0)
 
 
     heap = []
