@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-26T16:44:31Z",
+ "generated_at": "2026-08-26T18:24:56Z",
  "counts": {
   "target": 93,
-  "relevant": 338
+  "relevant": 339
  },
  "roles": [
   {
@@ -4514,6 +4514,17 @@
    "source": "speedyapply",
    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1",
    "first_seen": "2026-08-21T13:24:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "Verisk",
+   "title": "AI Intern | Summer Internship Program",
+   "location": "Jersey City, NJ, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
+   "first_seen": "2026-08-26T18:24:56Z"
   },
   {
    "tier": "B",
