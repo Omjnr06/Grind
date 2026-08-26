@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-26T12:36:34Z",
+ "generated_at": "2026-08-26T13:39:05Z",
  "counts": {
   "target": 93,
-  "relevant": 336
+  "relevant": 339
  },
  "roles": [
   {
@@ -2185,6 +2185,17 @@
   },
   {
    "tier": "B",
+   "company": "GE Vernova",
+   "title": "Grid Automation & Software Intern",
+   "location": "Remote",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5049276-1",
+   "first_seen": "2026-08-26T13:39:05Z"
+  },
+  {
+   "tier": "B",
    "company": "General Dynamics Information Technology",
    "title": "Systems Engineer Intern",
    "location": "Albany, NY",
@@ -2781,7 +2792,7 @@
    "tier": "B",
    "company": "Maximor AI",
    "title": "Software engineering Intern",
-   "location": "New York City",
+   "location": "New York City, NY",
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
@@ -2897,17 +2908,6 @@
    "source": "speedyapply_intl",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556978345",
    "first_seen": "2026-08-25T13:26:55Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
-   "title": "AI Software Engineering Intern - Edge",
-   "location": "Washington, DC +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-   "first_seen": "2026-08-22T13:07:06Z"
   },
   {
    "tier": "B",
@@ -3890,6 +3890,17 @@
   },
   {
    "tier": "B",
+   "company": "talentpluto",
+   "title": "Full Stack Engineering Intern",
+   "location": "New York City, NY",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://apply.workable.com/talentpluto/j/290A067DC5/",
+   "first_seen": "2026-08-26T13:39:05Z"
+  },
+  {
+   "tier": "B",
    "company": "Tencent",
    "title": "Research Intern \u2013 Video World Models (Research & ML Systems)",
    "location": "US-California-Palo Alto",
@@ -4715,13 +4726,35 @@
   },
   {
    "tier": "B",
-   "company": "Zipline",
+   "company": "Zip",
    "title": "Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+   "first_seen": "2026-08-26T13:39:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Zip",
+   "title": "Software Engineer Intern - Winter 2027",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
+   "first_seen": "2026-08-26T13:39:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Zipline",
+   "title": "Embedded Software Engineer Intern - Spring 2027",
    "location": "South San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
    "first_seen": "2026-07-17T02:04:04Z"
   }
  ]
