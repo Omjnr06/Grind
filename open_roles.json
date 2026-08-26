@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-26T00:40:59Z",
+ "generated_at": "2026-08-26T02:12:57Z",
  "counts": {
   "target": 93,
-  "relevant": 333
+  "relevant": 335
  },
  "roles": [
   {
@@ -1027,6 +1027,28 @@
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7646621925436131637",
    "first_seen": "2026-07-22T15:15:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "AbbVie",
+   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+   "location": "South San Francisco, CA, United States (Hybrid)",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860391",
+   "first_seen": "2026-08-26T02:12:57Z"
+  },
+  {
+   "tier": "B",
+   "company": "AbbVie",
+   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
+   "location": "South San Francisco, CA, United States (Hybrid)",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860456",
+   "first_seen": "2026-08-26T02:12:57Z"
   },
   {
    "tier": "B",
