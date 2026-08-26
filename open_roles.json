@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-26T09:54:36Z",
+ "generated_at": "2026-08-26T10:24:31Z",
  "counts": {
   "target": 93,
-  "relevant": 335
+  "relevant": 336
  },
  "roles": [
   {
@@ -2776,6 +2776,17 @@
    "source": "vanshb03",
    "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Maximor AI",
+   "title": "Software engineering Intern",
+   "location": "New York City",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8",
+   "first_seen": "2026-08-26T10:24:31Z"
   },
   {
    "tier": "B",
