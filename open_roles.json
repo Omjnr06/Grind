@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-26T14:24:02Z",
+ "generated_at": "2026-08-26T15:57:13Z",
  "counts": {
   "target": 93,
-  "relevant": 339
+  "relevant": 338
  },
  "roles": [
   {
@@ -1081,17 +1081,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
-   "title": "Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics",
-   "location": "North Reading, Massachusetts, USA",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
