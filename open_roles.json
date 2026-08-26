@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-26T20:21:54Z",
+ "generated_at": "2026-08-26T23:51:14Z",
  "counts": {
   "target": 93,
-  "relevant": 339
+  "relevant": 340
  },
  "roles": [
   {
@@ -1577,6 +1577,17 @@
    "source": "vanshb03",
    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
    "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "Chemours",
+   "title": "AI & Data Science Intern",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013",
+   "first_seen": "2026-08-26T23:51:14Z"
   },
   {
    "tier": "B",
