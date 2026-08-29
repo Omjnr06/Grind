@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-29T15:35:53Z",
+ "generated_at": "2026-08-29T18:50:21Z",
  "counts": {
   "target": 94,
-  "relevant": 350
+  "relevant": 352
  },
  "roles": [
   {
@@ -4822,6 +4822,28 @@
    "source": "speedyapply",
    "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190",
    "first_seen": "2026-08-28T23:00:57Z"
+  },
+  {
+   "tier": "B",
+   "company": "Workiva",
+   "title": "Summer 2027 Intern - Machine Learning Engineering",
+   "location": "USA - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
+   "first_seen": "2026-08-29T18:50:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "Workiva",
+   "title": "Summer 2027 Intern - Software Engineering",
+   "location": "USA - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190",
+   "first_seen": "2026-08-29T18:50:21Z"
   },
   {
    "tier": "B",
