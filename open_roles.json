@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-29T04:07:46Z",
+ "generated_at": "2026-08-29T11:01:37Z",
  "counts": {
   "target": 94,
-  "relevant": 352
+  "relevant": 350
  },
  "roles": [
   {
@@ -1503,17 +1503,6 @@
   },
   {
    "tier": "B",
-   "company": "Blockhouse",
-   "title": "Applied AI Engineering Intern",
-   "location": "New York City Area",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/blockhouse/2e9fbde8-709c-4c1f-b908-cd51a53c8529",
-   "first_seen": "2026-08-28T01:28:26Z"
-  },
-  {
-   "tier": "B",
    "company": "BNY",
    "title": "2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ",
    "location": "Jersey City, NJ, United States",
@@ -2490,17 +2479,6 @@
    "source": "vanshb03",
    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Intuitive Surgical",
-   "title": "Computer Vision Engineering Intern - Fall 2026",
-   "location": "Sunnyvale, CA, United States (Hybrid)",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000145329669",
-   "first_seen": "2026-08-24T17:54:26Z"
   },
   {
    "tier": "B",
