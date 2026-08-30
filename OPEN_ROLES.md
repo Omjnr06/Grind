@@ -1,4 +1,4 @@
-# Open roles board — 2026-08-29
+# Open roles board — 2026-08-30
 
 **94 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -286,7 +286,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7668675500744837381
 
-## Other relevant (352)
+## Other relevant (350)
 - ABB — AI Robotics UI/UX Intern- Fall 2026 — Milpitas, California, USA · Fall 2026  
   https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-UI-UX-Intern--Fall-2026_JR00044847-1
 - ABB — Physical AI Robotics Simulation Intern- Fall 2026 — Milpitas, California, USA · Fall 2026  
@@ -825,8 +825,6 @@
   https://job-boards.greenhouse.io/syskahennessy/jobs/8147733
 - talentpluto — Full Stack Engineering Intern — New York City, NY · term n/a  
   https://apply.workable.com/talentpluto/j/290A067DC5/
-- Tencent — Research Intern – Video World Models (Research & ML Systems) — US-California-Palo Alto · Not stated  
-  https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1
 - Tenstorrent — Software Engineering Intern, Power Modeling & AI Tools — Santa Clara, California, United States · Fall  
   https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007
 - Terranova — Software Engineering Intern — Berkeley, CA · term n/a  
@@ -959,8 +957,6 @@
   https://job-boards.greenhouse.io/virtu/jobs/8624410002
 - Virtu Financial — 2027 Internship - Quantitative Researcher (Undergrad) — New York, NY · Summer 2027  
   https://job-boards.greenhouse.io/virtu/jobs/8142539002
-- WallStreetQuants — Quantitative Researcher - Internship — New York, New York, United States · Not stated  
-  https://apply.workable.com/wallstreetquants/j/494E392FD3/
 - Walt Disney — Glendale System Software Engineering Internship - Spring 2027 — Glendale, CA · term n/a  
   https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137
 - Western Digital — Software Engineering Co-op (Winter 2027) — Milpitas, CA · term n/a  
