@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-29T23:27:22Z",
+ "generated_at": "2026-08-30T01:25:36Z",
  "counts": {
   "target": 94,
-  "relevant": 352
+  "relevant": 350
  },
  "roles": [
   {
@@ -4000,17 +4000,6 @@
   },
   {
    "tier": "B",
-   "company": "Tencent",
-   "title": "Research Intern \u2013 Video World Models (Research & ML Systems)",
-   "location": "US-California-Palo Alto",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
    "company": "Tenstorrent",
    "title": "Software Engineering Intern, Power Modeling & AI Tools",
    "location": "Santa Clara, California, United States",
@@ -4734,17 +4723,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "WallStreetQuants",
-   "title": "Quantitative Researcher - Internship",
-   "location": "New York, New York, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/wallstreetquants/j/494E392FD3/",
-   "first_seen": "2026-08-08T10:57:18Z"
   },
   {
    "tier": "B",
