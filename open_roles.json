@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-31T13:40:43Z",
+ "generated_at": "2026-08-31T19:39:56Z",
  "counts": {
   "target": 94,
-  "relevant": 350
+  "relevant": 351
  },
  "roles": [
   {
@@ -2383,6 +2383,17 @@
   },
   {
    "tier": "B",
+   "company": "Hitachi",
+   "title": "Software Analyst Intern - Fall 2026 - 8 months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
    "company": "Homebase",
    "title": "Forward Deployed Engineering Intern, AI-Native",
    "location": "Houston, TX / San Francisco, CA",
@@ -2435,6 +2446,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490",
    "first_seen": "2026-08-15T13:05:09Z"
+  },
+  {
+   "tier": "B",
+   "company": "IGS Energy",
+   "title": "Software Engineer Intern",
+   "location": "Ohio Remote",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
+   "first_seen": "2026-08-31T19:39:56Z"
   },
   {
    "tier": "B",
@@ -2945,17 +2967,6 @@
   {
    "tier": "B",
    "company": "Microsoft",
-   "title": "Cloud Solution Architect - Erada Internship",
-   "location": "Doha, Qatar",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556942310",
-   "first_seen": "2026-08-01T14:27:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
    "title": "Software Engineering INTERN",
    "location": "India",
    "season": "",
@@ -2978,17 +2989,6 @@
   {
    "tier": "B",
    "company": "Microsoft",
-   "title": "Cloud Solution Architect - Kuwait Nationalization Internship",
-   "location": "Kuwait City, Kuwait",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556944017",
-   "first_seen": "2026-08-01T14:27:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
    "title": "Software Engineer Intern, CoreAI",
    "location": "Multiple Locations, United States",
    "season": "Summer",
@@ -2996,17 +2996,6 @@
    "source": "vanshb03",
    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
    "first_seen": "2026-08-03T21:58:29Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
-   "title": "Cloud Solution Architect - Ru'aa Internship",
-   "location": "Riyadh, Saudi Arabia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556942312",
-   "first_seen": "2026-08-01T14:27:28Z"
   },
   {
    "tier": "B",
@@ -3491,6 +3480,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5?embed=true",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "PIMCO",
+   "title": "2027 Summer Intern - Technology Analyst - Software Engineering - EMEA",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
+   "first_seen": "2026-08-31T19:39:56Z"
   },
   {
    "tier": "B",
@@ -4635,6 +4635,17 @@
    "source": "speedyapply",
    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1",
    "first_seen": "2026-08-21T13:24:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "Verisk",
+   "title": "AI Intern | Summer Internship Program",
+   "location": "Jersey City, NJ, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
+   "first_seen": "2026-08-26T18:24:56Z"
   },
   {
    "tier": "B",
