@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-01T16:47:24Z",
+ "generated_at": "2026-09-01T19:40:54Z",
  "counts": {
   "target": 97,
-  "relevant": 364
+  "relevant": 366
  },
  "roles": [
   {
@@ -2559,6 +2559,17 @@
   },
   {
    "tier": "B",
+   "company": "HP IQ",
+   "title": "Software Engineering Intern, Connectivity (Summer 2027)",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+   "first_seen": "2026-09-01T19:40:54Z"
+  },
+  {
+   "tier": "B",
    "company": "Hudson River Trading",
    "title": "Software Engineer Intern",
    "location": "Austin, TX / Chicago, IL / New York, NY",
@@ -4184,6 +4195,17 @@
    "source": "speedyapply",
    "url": "https://apply.workable.com/talentpluto/j/290A067DC5/",
    "first_seen": "2026-08-26T13:39:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Tencent",
+   "title": "AI Business Analyst Intern",
+   "location": "US-California-Palo Alto",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1",
+   "first_seen": "2026-09-01T19:40:54Z"
   },
   {
    "tier": "B",
