@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-31T23:22:36Z",
+ "generated_at": "2026-09-01T01:54:43Z",
  "counts": {
   "target": 94,
-  "relevant": 356
+  "relevant": 357
  },
  "roles": [
   {
@@ -4008,6 +4008,17 @@
    "source": "speedyapply_intl",
    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
    "first_seen": "2026-08-19T13:23:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Stripe",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "San Francisco, Seattle, New York City",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
