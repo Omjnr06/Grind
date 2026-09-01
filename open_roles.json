@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-01T01:54:43Z",
+ "generated_at": "2026-09-01T06:58:44Z",
  "counts": {
   "target": 94,
-  "relevant": 357
+  "relevant": 358
  },
  "roles": [
   {
@@ -1269,6 +1269,28 @@
    "source": "zshah101",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893",
    "first_seen": "2026-08-17T23:57:32Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
+   "title": "Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190",
+   "first_seen": "2026-09-01T06:58:44Z"
+  },
+  {
+   "tier": "B",
+   "company": "American Express",
+   "title": "Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191",
+   "first_seen": "2026-09-01T06:58:44Z"
   },
   {
    "tier": "B",
@@ -3964,17 +3986,6 @@
    "source": "vanshb03",
    "url": "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Sony",
-   "title": "Intern, Information Security Risk and Compliance",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512",
-   "first_seen": "2026-08-20T19:17:26Z"
   },
   {
    "tier": "B",
