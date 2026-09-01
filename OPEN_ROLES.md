@@ -1,4 +1,4 @@
-# Open roles board — 2026-08-31
+# Open roles board — 2026-09-01
 
 **94 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
@@ -286,7 +286,7 @@
   San Jose, CA · Summer · [vanshb03]  
   https://lifeattiktok.com/search/7668675500744837381
 
-## Other relevant (352)
+## Other relevant (358)
 - ABB — AI Robotics UI/UX Intern- Fall 2026 — Milpitas, California, USA · Fall 2026  
   https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-UI-UX-Intern--Fall-2026_JR00044847-1
 - ABB — Physical AI Robotics Simulation Intern- Fall 2026 — Milpitas, California, USA · Fall 2026  
@@ -307,8 +307,6 @@
   https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us
 - Amazon — Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more) — North Reading, Massachusetts, USA · Fall 2026  
   https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more
-- Amazon — Software Development Engineer Internship - Fall 2026 (US) — Seattle, Washington, USA · Fall 2026  
-  https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us
 - Amazon — Robotics - Software Development Engineer Fall Intern/Co-op - 2026 — Westboro, Massachusetts, USA · Fall 2026  
   https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026
 - Amazon — Business Intelligence Engineer Co-Op — Seattle, WA · Winter  
@@ -331,6 +329,10 @@
   https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878
 - American Express — Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY — New York, NY, United States · Summer 2027  
   https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893
+- American Express — Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY — New York, NY, United States · Summer 2027  
+  https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190
+- American Express — Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY — New York, NY, United States · Summer 2027  
+  https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191
 - Apple — Hardware Undergrad Engineering Internship — hardware intern (undergrad) · term n/a  
   https://jobs.apple.com/en-us/details/200663981-3810/hardware-undergrad-engineering-internships
 - Apple — Machine Learning & AI Undergrad Internship — ML / AI intern (undergrad) · term n/a  
@@ -531,8 +533,22 @@
   https://www.gsacapital.com/careers/gh/?gh_jid=8570668002
 - Heliux — Software Engineer - Internship - Spring 2027 — San Francisco, CA · term n/a  
   https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c
+- Hitachi — Software Analyst Intern - Fall 2026 - 8 months — Toronto, Canada · term n/a  
+  https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1
 - Homebase — Forward Deployed Engineering Intern, AI-Native — Houston, TX / San Francisco, CA · Summer  
   https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2
+- HP IQ — Software Engineer Intern, Cloud Services (Summer 2027) — San Francisco, CA · Summer 2027  
+  https://job-boards.greenhouse.io/hpiq/jobs/6111955004
+- HP IQ — Software Engineering Intern, AML Platform (Summer 2027) — San Francisco, CA · Summer 2027  
+  https://job-boards.greenhouse.io/hpiq/jobs/6114781004
+- HP IQ — Software Engineering Intern, Product & Developer Productivity  (Summer 2027) — San Francisco, CA · Summer 2027  
+  https://job-boards.greenhouse.io/hpiq/jobs/6114890004
+- HP IQ — Software Engineering Intern, Device Experiences (Summer 2027) — San Francisco, CA · Summer 2027  
+  https://job-boards.greenhouse.io/hpiq/jobs/6114912004
+- HP IQ — Software Engineering Intern, Product Security (Summer 2027) — San Francisco, CA · Summer 2027  
+  https://job-boards.greenhouse.io/hpiq/jobs/6116398004
+- HP IQ — Software Engineering Intern, Software Systems (Summer 2027) — San Francisco, CA · Summer 2027  
+  https://job-boards.greenhouse.io/hpiq/jobs/6140119004
 - Hudson River Trading — Software Engineer Intern — Austin, TX / Chicago, IL / New York, NY · Summer  
   https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=
 - Hudson River Trading — Intern — New York, NY · Summer  
@@ -635,16 +651,10 @@
   https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280
 - Microsoft — Software Engineering Intern - Azure Core — Australia · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556971803
-- Microsoft — Cloud Solution Architect - Erada Internship — Doha, Qatar · term n/a  
-  https://apply.careers.microsoft.com/careers/job/1970393556942310
 - Microsoft — Software Engineering INTERN — India · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556911730
 - Microsoft — Software Engineering INTERN — Israel · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556957962
-- Microsoft — Cloud Solution Architect - Kuwait Nationalization Internship — Kuwait City, Kuwait · term n/a  
-  https://apply.careers.microsoft.com/careers/job/1970393556944017
-- Microsoft — Cloud Solution Architect - Ru'aa Internship — Riyadh, Saudi Arabia · term n/a  
-  https://apply.careers.microsoft.com/careers/job/1970393556942312
 - Microsoft — Software Engineering Intern - Clipchamp — Sydney, Australia +2 · term n/a  
   https://apply.careers.microsoft.com/careers/job/1970393556978345
 - Microsoft — AI Software Engineering Intern — Washington, DC +1 · term n/a  
@@ -735,6 +745,8 @@
   https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca
 - Phonely — Software Engineer Intern — San Francisco, CA · Fall  
   https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5?embed=true
+- PIMCO — 2027 Summer Intern - Technology Analyst - Software Engineering - EMEA — London, United Kingdom · term n/a  
+  https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800
 - Pinterest — Software Engineer Intern — Toronto, Canada · Winter  
   https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/
 - Point72 — Quantitative Research Intern (Summer 2027) — New York, NY · term n/a  
@@ -811,14 +823,14 @@
   https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026
 - Snowflake — Software Engineer Intern (Core Engineering) — Menlo Park, CA / Bellevue, WA · Fall  
   https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026
-- Sony — Intern, Information Security Risk and Compliance — New York · Not stated  
-  https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512
 - SPREEAI — Software Engineer Intern, AI Infrastructure / Training / Inference — San Francisco, CA · Fall  
   https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1
 - SpreeAI — Mobile Software Engineer Intern — San Francisco, CA · Fall  
   https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25
 - Squarepoint Capital — Intern Software Developer - Montreal - 2027 — London, United Kingdom +3 · term n/a  
   https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463
+- Stripe — Software Engineer, Intern (Summer or Winter) — San Francisco, Seattle, New York City · Not stated  
+  https://stripe.com/jobs/search?gh_jid=8128745
 - Susquehanna — Quantitative Systematic Trading Intern (Master's, Summer 2027) — New York, NY · term n/a  
   https://careers.sig.com/jobs/10823
 - Susquehanna — Macro Analyst Intern (Summer 2027, June start) — New York, NY · term n/a  
