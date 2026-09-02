@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-02T04:26:28Z",
+ "generated_at": "2026-09-02T08:54:28Z",
  "counts": {
   "target": 97,
-  "relevant": 369
+  "relevant": 373
  },
  "roles": [
   {
@@ -1126,6 +1126,17 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014900536",
    "first_seen": "2026-08-28T01:28:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "Altera Corporation",
+   "title": "Graduate Intern - Engineering Infrastructure",
+   "location": "San Jose, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066",
+   "first_seen": "2026-09-02T08:54:28Z"
   },
   {
    "tier": "B",
@@ -4217,6 +4228,39 @@
    "source": "speedyapply",
    "url": "https://apply.workable.com/talentpluto/j/290A067DC5/",
    "first_seen": "2026-08-26T13:39:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Talentpluto",
+   "title": "Full Stack Engineering Intern",
+   "location": "New York, New York, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/talentpluto/j/D3050663DF/",
+   "first_seen": "2026-09-02T08:54:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Talentpluto",
+   "title": "AI/ML Engineering Intern",
+   "location": "United States (Remote)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/talentpluto/j/6F93C25627/",
+   "first_seen": "2026-09-02T08:54:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Talentpluto",
+   "title": "Backend Engineering Intern",
+   "location": "United States (Remote)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/talentpluto/j/CCC60EBB0C/",
+   "first_seen": "2026-09-02T08:54:28Z"
   },
   {
    "tier": "B",
