@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-03T17:12:09Z",
+ "generated_at": "2026-09-03T19:49:32Z",
  "counts": {
   "target": 98,
-  "relevant": 391
+  "relevant": 392
  },
  "roles": [
   {
@@ -1522,6 +1522,17 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
    "first_seen": "2026-08-07T18:28:06Z"
+  },
+  {
+   "tier": "B",
+   "company": "AXQ Capital",
+   "title": "Quantitative Research Intern (Summer 2027)",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/axq/jobs/6181069004",
+   "first_seen": "2026-09-03T19:49:32Z"
   },
   {
    "tier": "B",
