@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-03T09:02:52Z",
+ "generated_at": "2026-09-03T13:32:49Z",
  "counts": {
   "target": 97,
-  "relevant": 387
+  "relevant": 389
  },
  "roles": [
   {
@@ -3403,6 +3403,28 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
    "first_seen": "2026-07-28T23:37:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "Momentive",
+   "title": "Summer 2027 Intern - Enterprise Reporting & Analytics - Data Science",
+   "location": "US NY Niskayuna",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
+   "first_seen": "2026-09-03T13:32:49Z"
+  },
+  {
+   "tier": "B",
+   "company": "Momentive",
+   "title": "Summer 2027 Intern - Software Development",
+   "location": "US NY Niskayuna",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+   "first_seen": "2026-09-03T13:32:49Z"
   },
   {
    "tier": "B",
