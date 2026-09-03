@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-03T13:32:49Z",
+ "generated_at": "2026-09-03T17:12:09Z",
  "counts": {
-  "target": 97,
-  "relevant": 389
+  "target": 98,
+  "relevant": 391
  },
  "roles": [
   {
@@ -1063,6 +1063,17 @@
   },
   {
    "tier": "A",
+   "company": "Waymo",
+   "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+   "location": "Mountain View, California, USA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+   "first_seen": "2026-09-03T17:12:09Z"
+  },
+  {
+   "tier": "A",
    "company": "Wealthsimple Technologies",
    "title": "Software Development and Data Science Internships - Winter 2027",
    "location": "Toronto, Canada",
@@ -1126,6 +1137,17 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014900536",
    "first_seen": "2026-08-28T01:28:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "Acumatica",
+   "title": "AI & Automation Intern, Office of the CFO",
+   "location": "Bellevue, WA, United States (Remote)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/Acumatica/744000146749696",
+   "first_seen": "2026-09-03T17:12:09Z"
   },
   {
    "tier": "B",
@@ -2658,17 +2680,6 @@
   },
   {
    "tier": "B",
-   "company": "IEX Group",
-   "title": "Software Development Engineer in Test Intern",
-   "location": "New York City, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://iex.io/careers/apply?gh_jid=8172248",
-   "first_seen": "2026-09-02T17:08:21Z"
-  },
-  {
-   "tier": "B",
    "company": "IGS Energy",
    "title": "Software Engineer Intern",
    "location": "Ohio Remote",
@@ -3165,6 +3176,28 @@
   {
    "tier": "B",
    "company": "Manulife",
+   "title": "Winter Co-op 2027 - Software Engineering - 8 Months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "Manulife",
+   "title": "Winter Co-op 2027 - Software Engineering",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663",
+   "first_seen": "2026-09-01T16:47:24Z"
+  },
+  {
+   "tier": "B",
+   "company": "Manulife",
    "title": "Summer Intern 2027 - Software Engineering - 8 Months",
    "location": "Toronto, Canada",
    "season": "",
@@ -3183,17 +3216,6 @@
    "source": "speedyapply_intl",
    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
    "first_seen": "2026-09-01T16:47:24Z"
-  },
-  {
-   "tier": "B",
-   "company": "Manulife",
-   "title": "Winter Co-op 2027 - Software Engineering - 8 Months",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664",
-   "first_seen": "2026-09-02T17:08:21Z"
   },
   {
    "tier": "B",
@@ -4154,6 +4176,17 @@
   },
   {
    "tier": "B",
+   "company": "Saab",
+   "title": "Software Engineering Co-Op (Summer 2027)",
+   "location": "East Syracuse, NY (Collamer)",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
+   "first_seen": "2026-09-03T17:12:09Z"
+  },
+  {
+   "tier": "B",
    "company": "Sage",
    "title": "Software Engineering Intern (Full Stack) \u2013 Summer 2027",
    "location": "New York, New York, United States",
@@ -5090,7 +5123,7 @@
   {
    "tier": "B",
    "company": "Verisk",
-   "title": "AI Intern | Summer Internship Program",
+   "title": "AI Intern | 2027 Summer Internship Program",
    "location": "Jersey City, NJ, United States",
    "season": "Summer 2027",
    "sponsorship": "unknown",
