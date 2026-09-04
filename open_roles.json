@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T16:18:12Z",
+ "generated_at": "2026-09-04T19:01:45Z",
  "counts": {
   "target": 99,
-  "relevant": 407
+  "relevant": 412
  },
  "roles": [
   {
@@ -2801,6 +2801,17 @@
   },
   {
    "tier": "B",
+   "company": "ID.me",
+   "title": "Summer Intern 2027 - Software Development Engineer",
+   "location": "Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
+   "first_seen": "2026-09-04T19:01:45Z"
+  },
+  {
+   "tier": "B",
    "company": "IGS Energy",
    "title": "Software Engineer Intern",
    "location": "Ohio Remote",
@@ -4382,6 +4393,50 @@
    "source": "vanshb03",
    "url": "https://scale.com/careers/4611533005",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Scale AI",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+   "first_seen": "2026-09-04T19:01:45Z"
+  },
+  {
+   "tier": "B",
+   "company": "Schonfeld",
+   "title": "2027 Data Science Intern",
+   "location": "New York, New York, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+   "first_seen": "2026-09-04T19:01:45Z"
+  },
+  {
+   "tier": "B",
+   "company": "Schonfeld",
+   "title": "2027 Cybersecurity Operations Intern",
+   "location": "New York, New York, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
+   "first_seen": "2026-09-04T19:01:45Z"
+  },
+  {
+   "tier": "B",
+   "company": "Schonfeld",
+   "title": "2027 Software Engineering Intern",
+   "location": "New York, New York, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
+   "first_seen": "2026-09-04T19:01:45Z"
   },
   {
    "tier": "B",
