@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T19:01:45Z",
+ "generated_at": "2026-09-04T21:25:15Z",
  "counts": {
   "target": 99,
-  "relevant": 412
+  "relevant": 413
  },
  "roles": [
   {
@@ -4327,6 +4327,17 @@
    "source": "speedyapply_intl",
    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000185825",
    "first_seen": "2026-08-28T23:00:57Z"
+  },
+  {
+   "tier": "B",
+   "company": "Saab",
+   "title": "Software Engineering Co-Op (Spring - Summer 2027)",
+   "location": "East Syracuse, NY (Collamer)",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1",
+   "first_seen": "2026-09-04T21:25:15Z"
   },
   {
    "tier": "B",
