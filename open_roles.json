@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-03T23:51:11Z",
+ "generated_at": "2026-09-04T01:59:42Z",
  "counts": {
   "target": 98,
-  "relevant": 392
+  "relevant": 394
  },
  "roles": [
   {
@@ -1522,6 +1522,17 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
    "first_seen": "2026-08-07T18:28:06Z"
+  },
+  {
+   "tier": "B",
+   "company": "Availity",
+   "title": "Data Science Intern",
+   "location": "Remote - United States",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Data-Science-Intern_R0008483",
+   "first_seen": "2026-09-04T01:59:42Z"
   },
   {
    "tier": "B",
@@ -4294,6 +4305,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Skydio",
+   "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2027",
+   "location": "San Mateo, California, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+   "first_seen": "2026-09-04T01:59:42Z"
   },
   {
    "tier": "B",
