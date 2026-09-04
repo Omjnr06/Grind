@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T01:59:42Z",
+ "generated_at": "2026-09-04T07:02:47Z",
  "counts": {
   "target": 98,
-  "relevant": 394
+  "relevant": 395
  },
  "roles": [
   {
@@ -1170,6 +1170,17 @@
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10418355/apply",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+   "location": "North Reading, Massachusetts, USA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+   "first_seen": "2026-09-04T07:02:47Z"
   },
   {
    "tier": "B",
@@ -4309,7 +4320,7 @@
   {
    "tier": "B",
    "company": "Skydio",
-   "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2027",
+   "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
    "location": "San Mateo, California, United States",
    "season": "Summer 2027",
    "sponsorship": "unknown",
