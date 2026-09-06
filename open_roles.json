@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T00:53:38Z",
+ "generated_at": "2026-09-06T05:18:02Z",
  "counts": {
   "target": 99,
   "relevant": 430
@@ -1489,6 +1489,17 @@
    "source": "speedyapply",
    "url": "https://jobs.apple.com/en-us/details/200664785-3810",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Applied Materials",
+   "title": "Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)",
+   "location": "Albany,NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
+   "first_seen": "2026-09-06T05:18:02Z"
   },
   {
    "tier": "B",
@@ -3722,17 +3733,6 @@
    "source": "vanshb03",
    "url": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890",
    "first_seen": "2026-08-21T16:22:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Moog",
-   "title": "Software Engineer Intern",
-   "location": "Buffalo, NY",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
-   "first_seen": "2026-07-22T19:40:53Z"
   },
   {
    "tier": "B",
