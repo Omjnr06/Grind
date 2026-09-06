@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-06T13:06:36Z",
+ "generated_at": "2026-09-06T16:13:17Z",
  "counts": {
   "target": 99,
-  "relevant": 430
+  "relevant": 428
  },
  "roles": [
   {
@@ -855,23 +855,23 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Fall",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7675524738811218229",
-   "first_seen": "2026-08-20T13:25:29Z"
-  },
-  {
-   "tier": "A",
-   "company": "TikTok",
    "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7675517686256863541",
+   "first_seen": "2026-08-20T13:25:29Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Fall",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7675524738811218229",
    "first_seen": "2026-08-20T13:25:29Z"
   },
   {
@@ -1713,7 +1713,7 @@
   {
    "tier": "B",
    "company": "Booz Allen",
-   "title": "University, 2027 Summer Games Cyber Security Intern",
+   "title": "University, 2027 Summer Games Cyber Security Intern - Rome, NY",
    "location": "Rome, NY",
    "season": "Summer 2027",
    "sponsorship": "citizens-only",
@@ -1724,7 +1724,7 @@
   {
    "tier": "B",
    "company": "Booz Allen",
-   "title": "University, 2027 Summer Games Data Scientist Intern",
+   "title": "University, 2027 Summer Games Data Scientist Intern - Rome, NY",
    "location": "Rome, NY",
    "season": "Summer 2027",
    "sponsorship": "citizens-only",
@@ -1735,7 +1735,7 @@
   {
    "tier": "B",
    "company": "Booz Allen",
-   "title": "University, 2027 Summer Games Software Developer Intern",
+   "title": "University, 2027 Summer Games Software Developer Intern - Rome, NY",
    "location": "Rome, NY",
    "season": "Summer 2027",
    "sponsorship": "citizens-only",
@@ -1757,23 +1757,23 @@
   {
    "tier": "B",
    "company": "Bree",
-   "title": "Software Engineer - Backend - Co-op",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Bree",
    "title": "Software Engineer - Product - Co-op",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bree",
+   "title": "Software Engineer - Backend - Co-op",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -1949,8 +1949,8 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12182",
-   "first_seen": "2026-09-02T17:08:21Z"
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12185",
+   "first_seen": "2026-09-06T16:13:17Z"
   },
   {
    "tier": "B",
@@ -3385,23 +3385,23 @@
   {
    "tier": "B",
    "company": "Manulife",
-   "title": "Summer Intern 2027 - Software Engineering - 8 Months",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685",
-   "first_seen": "2026-09-01T16:47:24Z"
-  },
-  {
-   "tier": "B",
-   "company": "Manulife",
    "title": "Summer Intern 2027 - Software Engineering",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
+   "first_seen": "2026-09-01T16:47:24Z"
+  },
+  {
+   "tier": "B",
+   "company": "Manulife",
+   "title": "Winter Co-op 2027 - Software Engineering",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663",
    "first_seen": "2026-09-01T16:47:24Z"
   },
   {
@@ -3414,17 +3414,6 @@
    "source": "speedyapply_intl",
    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664",
    "first_seen": "2026-09-02T17:08:21Z"
-  },
-  {
-   "tier": "B",
-   "company": "Manulife",
-   "title": "Winter Co-op 2027 - Software Engineering",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663",
-   "first_seen": "2026-09-01T16:47:24Z"
   },
   {
    "tier": "B",
@@ -3891,23 +3880,23 @@
   {
    "tier": "B",
    "company": "NVIDIA",
-   "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
-   "first_seen": "2026-08-19T13:23:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "NVIDIA",
    "title": "NVIDIA 2027 Internships: Software Engineering",
    "location": "Santa Clara, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+   "first_seen": "2026-08-19T13:23:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "NVIDIA",
+   "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
@@ -4727,23 +4716,12 @@
   {
    "tier": "B",
    "company": "Super.com",
-   "title": "Software Engineering Intern - Platform - 12 months",
+   "title": "Software Engineer in Data Intern - 8 months",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Super.com",
-   "title": "Software Engineering Intern - Infrastructure - DevOps",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/super.com/97bd1ee5-1b97-496b-836c-453d105f0eb3",
+   "url": "https://jobs.ashbyhq.com/super.com/2c889dd2-0103-43e8-a405-e5b006d8b5ec",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -4760,6 +4738,17 @@
   {
    "tier": "B",
    "company": "Super.com",
+   "title": "Software Engineering Intern - Infrastructure - DevOps",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/super.com/97bd1ee5-1b97-496b-836c-453d105f0eb3",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Super.com",
    "title": "Software Engineering Intern - Security",
    "location": "Toronto, Canada",
    "season": "",
@@ -4771,12 +4760,12 @@
   {
    "tier": "B",
    "company": "Super.com",
-   "title": "Software Engineer in Data Intern - 8 months",
+   "title": "Software Engineering Intern - Platform - 12 months",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/super.com/2c889dd2-0103-43e8-a405-e5b006d8b5ec",
+   "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -5625,17 +5614,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Walt Disney",
-   "title": "Software Engineering Intern - Spring 2027",
-   "location": "Orlando, FL",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599",
-   "first_seen": "2026-08-30T16:55:11Z"
   },
   {
    "tier": "B",
