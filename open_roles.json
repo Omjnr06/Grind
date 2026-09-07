@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-07T15:15:16Z",
+ "generated_at": "2026-09-07T19:17:30Z",
  "counts": {
   "target": 99,
-  "relevant": 428
+  "relevant": 429
  },
  "roles": [
   {
@@ -877,17 +877,6 @@
   {
    "tier": "A",
    "company": "TikTok",
-   "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://lifeattiktok.com/search/7675163472469444917",
-   "first_seen": "2026-08-20T13:25:29Z"
-  },
-  {
-   "tier": "A",
-   "company": "TikTok",
    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
@@ -916,6 +905,17 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7675128776856029445",
+   "first_seen": "2026-08-20T13:25:29Z"
+  },
+  {
+   "tier": "A",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7675163472469444917",
    "first_seen": "2026-08-20T13:25:29Z"
   },
   {
@@ -1471,23 +1471,23 @@
   {
    "tier": "B",
    "company": "Apple",
-   "title": "Software Engineering Masters Internships",
-   "location": "USA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.apple.com/en-us/details/200664320-3810",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Apple",
    "title": "Software Undergrad Engineering Internships",
    "location": "USA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://jobs.apple.com/en-us/details/200664785-3810",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Apple",
+   "title": "Software Engineering Masters Internships",
+   "location": "USA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.apple.com/en-us/details/200664320-3810",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -1757,23 +1757,23 @@
   {
    "tier": "B",
    "company": "Bree",
-   "title": "Software Engineer - Product - Co-op",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Bree",
    "title": "Software Engineer - Backend - Co-op",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bree",
+   "title": "Software Engineer - Product - Co-op",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -2116,6 +2116,17 @@
    "source": "vanshb03",
    "url": "https://www.workatastartup.com/jobs/94211",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Dropbox",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "Remote - US: All locations",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
+   "first_seen": "2026-09-07T19:17:30Z"
   },
   {
    "tier": "B",
@@ -2560,23 +2571,23 @@
   {
    "tier": "B",
    "company": "General Motors",
-   "title": "2027 Winter Co-op Body Controls Calibration and System Test Developer",
-   "location": "Markham, Canada +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Body-Controls-Calibration-and-System-Test-Developer_JR-202618823",
-   "first_seen": "2026-09-01T16:47:24Z"
-  },
-  {
-   "tier": "B",
-   "company": "General Motors",
    "title": "2027 Winter Co-op Data Engineering Software Developer",
    "location": "Markham, Canada +1",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
+   "first_seen": "2026-09-01T16:47:24Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
+   "title": "2027 Winter Co-op Body Controls Calibration and System Test Developer",
+   "location": "Markham, Canada +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Body-Controls-Calibration-and-System-Test-Developer_JR-202618823",
    "first_seen": "2026-09-01T16:47:24Z"
   },
   {
@@ -3297,23 +3308,23 @@
   {
    "tier": "B",
    "company": "Kinaxis",
-   "title": "Co-op/Intern Developer - Machine Learning",
-   "location": "Remote",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://careers-kinaxis.icims.com/jobs/35297/co-op-intern-developer%2c-machine-learning/job",
-   "first_seen": "2026-09-04T16:18:12Z"
-  },
-  {
-   "tier": "B",
-   "company": "Kinaxis",
    "title": "Co-op/ Intern Site Reliability Engineer",
    "location": "Remote",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://careers-kinaxis.icims.com/jobs/35319/co-op--intern-site-reliability-engineer/job",
+   "first_seen": "2026-09-04T16:18:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Kinaxis",
+   "title": "Co-op/Intern Developer - Machine Learning",
+   "location": "Remote",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://careers-kinaxis.icims.com/jobs/35297/co-op-intern-developer%2c-machine-learning/job",
    "first_seen": "2026-09-04T16:18:12Z"
   },
   {
@@ -3561,23 +3572,12 @@
   {
    "tier": "B",
    "company": "Microsoft",
-   "title": "Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students",
+   "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students - Redmond",
    "location": "Washington, DC",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "Microsoft",
-   "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond - WA",
-   "location": "Washington, DC",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3594,23 +3594,23 @@
   {
    "tier": "B",
    "company": "Microsoft",
-   "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond",
+   "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond - WA",
    "location": "Washington, DC",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
    "tier": "B",
    "company": "Microsoft",
-   "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students - Redmond",
+   "title": "Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students",
    "location": "Washington, DC",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -3622,6 +3622,17 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
+   "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond",
+   "location": "Washington, DC",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -4727,6 +4738,17 @@
   {
    "tier": "B",
    "company": "Super.com",
+   "title": "Software Engineering Intern - Platform - 12 months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Super.com",
    "title": "Software Engineering Intern - Full-Stack",
    "location": "Toronto, Canada",
    "season": "",
@@ -4755,17 +4777,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/super.com/533f2314-39b0-48c6-a6c2-226242a7d608",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Super.com",
-   "title": "Software Engineering Intern - Platform - 12 months",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
