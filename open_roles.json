@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-07T22:08:09Z",
+ "generated_at": "2026-09-08T00:21:03Z",
  "counts": {
   "target": 99,
-  "relevant": 429
+  "relevant": 430
  },
  "roles": [
   {
@@ -2721,6 +2721,17 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c",
    "first_seen": "2026-08-01T14:27:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Hewlett Packard (HP)",
+   "title": "Business Intelligence and Infrastructure Analysts  Intern",
+   "location": "Vancouver, Washington, United States of America",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1",
+   "first_seen": "2026-09-08T00:21:03Z"
   },
   {
    "tier": "B",
