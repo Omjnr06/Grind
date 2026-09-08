@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-08T13:39:04Z",
+ "generated_at": "2026-09-08T17:29:12Z",
  "counts": {
   "target": 99,
-  "relevant": 430
+  "relevant": 436
  },
  "roles": [
   {
@@ -1603,24 +1603,57 @@
   {
    "tier": "B",
    "company": "Bank of Montreal",
-   "title": "BMO Capital Markets Winter 2027 - Full Stack Engineer - Toronto - Co-Op/ Internship",
+   "title": "Software Developer - Winter 2027 - Co-op/Internship - 12 Months",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
-   "first_seen": "2026-08-28T01:28:26Z"
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1",
+   "first_seen": "2026-09-08T17:29:12Z"
   },
   {
    "tier": "B",
    "company": "Bank of Montreal",
-   "title": "BMO Capital Markets Winter 2027 Global Markets Analyst - Generalist & Quantitative/Developer - Toronto - Co-Op/ Internship",
+   "title": "Junior Software Developer - Winter 2027 - Co-op/Internship - 4 Months",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1",
-   "first_seen": "2026-08-28T01:28:26Z"
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1",
+   "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bank of Montreal",
+   "title": "Software Developer - Winter 2027 - Co-op/Internship - 8 Months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3",
+   "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bank of Montreal",
+   "title": "Cloud Business & Strategy Analytics Analyst - Winter 2027 - Co-op/Internship - 4 Months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024672-1",
+   "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bank of Montreal",
+   "title": "Software Developer - Winter 2027 - Co-op/Internship - 4 Months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638",
+   "first_seen": "2026-09-08T17:29:12Z"
   },
   {
    "tier": "B",
@@ -1949,8 +1982,8 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12185",
-   "first_seen": "2026-09-06T16:13:17Z"
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12182",
+   "first_seen": "2026-09-02T17:08:21Z"
   },
   {
    "tier": "B",
@@ -1995,17 +2028,6 @@
    "source": "zshah101",
    "url": "https://apply.workable.com/connectprep/j/C0CA13664F/",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Cox",
-   "title": "Software Engineering Intern - Summer 2027 - North Hills - NY",
-   "location": "Long Island City, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1",
-   "first_seen": "2026-09-05T15:31:30Z"
   },
   {
    "tier": "B",
@@ -2537,17 +2559,6 @@
   },
   {
    "tier": "B",
-   "company": "GE Vernova",
-   "title": "Grid Automation & Software Intern",
-   "location": "Remote",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5049276-1",
-   "first_seen": "2026-08-26T13:39:05Z"
-  },
-  {
-   "tier": "B",
    "company": "General Dynamics Information Technology",
    "title": "Systems Engineer Intern",
    "location": "Albany, NY",
@@ -2556,17 +2567,6 @@
    "source": "vanshb03",
    "url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity",
    "first_seen": "2026-07-30T23:11:20Z"
-  },
-  {
-   "tier": "B",
-   "company": "General Motors",
-   "title": "2027 Winter Co-op Lighting Software Development & Test",
-   "location": "Markham, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179",
-   "first_seen": "2026-08-22T13:07:06Z"
   },
   {
    "tier": "B",
@@ -2589,6 +2589,39 @@
    "source": "speedyapply_intl",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Body-Controls-Calibration-and-System-Test-Developer_JR-202618823",
    "first_seen": "2026-09-01T16:47:24Z"
+  },
+  {
+   "tier": "B",
+   "company": "Gilead Sciences",
+   "title": "Intern - Development - DevOps Business Strategy Leader",
+   "location": "Foster City, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+   "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Gilead Sciences",
+   "title": "Intern - Development - CDS AI Research Center",
+   "location": "United States - California - Foster City",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625",
+   "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Gilead Sciences",
+   "title": "Intern - Development - DevOps Business Strategy Leader",
+   "location": "United States - California - Foster City",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+   "first_seen": "2026-09-08T17:29:12Z"
   },
   {
    "tier": "B",
@@ -2666,6 +2699,17 @@
    "source": "speedyapply_intl",
    "url": "https://www.google.com/about/careers/applications/jobs/results/142747733357142726",
    "first_seen": "2026-09-04T16:18:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "GoTo",
+   "title": "DevOps Intern",
+   "location": "Remote - Hungary",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://goto.wd5.myworkdayjobs.com/en-US/gotocareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1",
+   "first_seen": "2026-09-08T17:29:12Z"
   },
   {
    "tier": "B",
@@ -3319,23 +3363,23 @@
   {
    "tier": "B",
    "company": "Kinaxis",
-   "title": "Co-op/ Intern Site Reliability Engineer",
-   "location": "Remote",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://careers-kinaxis.icims.com/jobs/35319/co-op--intern-site-reliability-engineer/job",
-   "first_seen": "2026-09-04T16:18:12Z"
-  },
-  {
-   "tier": "B",
-   "company": "Kinaxis",
    "title": "Co-op/Intern Developer - Machine Learning",
    "location": "Remote",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://careers-kinaxis.icims.com/jobs/35297/co-op-intern-developer%2c-machine-learning/job",
+   "first_seen": "2026-09-04T16:18:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Kinaxis",
+   "title": "Co-op/ Intern Site Reliability Engineer",
+   "location": "Remote",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://careers-kinaxis.icims.com/jobs/35319/co-op--intern-site-reliability-engineer/job",
    "first_seen": "2026-09-04T16:18:12Z"
   },
   {
@@ -3395,6 +3439,17 @@
   },
   {
    "tier": "B",
+   "company": "Loblaw Companies",
+   "title": "Software Development - Co-op Student",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000699845",
+   "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
    "company": "Mackenzie Investments",
    "title": "Winter Intern 2027 - Platform Developer - Toronto Office",
    "location": "Toronto, Canada",
@@ -3418,12 +3473,12 @@
   {
    "tier": "B",
    "company": "Manulife",
-   "title": "Winter Co-op 2027 - Software Engineering",
+   "title": "Summer Intern 2027 - Software Engineering - 8 Months",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685",
    "first_seen": "2026-09-01T16:47:24Z"
   },
   {
@@ -4749,23 +4804,23 @@
   {
    "tier": "B",
    "company": "Super.com",
-   "title": "Software Engineering Intern - Platform - 12 months",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Super.com",
    "title": "Software Engineering Intern - Full-Stack",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/super.com/b2615f7e-c6d2-46d6-9699-5027da9b5757",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Super.com",
+   "title": "Software Engineering Intern - Security",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/super.com/533f2314-39b0-48c6-a6c2-226242a7d608",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -4782,12 +4837,12 @@
   {
    "tier": "B",
    "company": "Super.com",
-   "title": "Software Engineering Intern - Security",
+   "title": "Software Engineering Intern - Platform - 12 months",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/super.com/533f2314-39b0-48c6-a6c2-226242a7d608",
+   "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -4866,6 +4921,17 @@
    "source": "zshah101",
    "url": "https://apply.workable.com/talentpluto/j/CCC60EBB0C/",
    "first_seen": "2026-09-02T08:54:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "TD Bank",
+   "title": "TD Asset Management Portfolio Analytics Developer Intern/Co-Op - Winter 2027",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
+   "first_seen": "2026-09-08T17:29:12Z"
   },
   {
    "tier": "B",
@@ -5156,12 +5222,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
+   "title": "Site Reliability Engineer Intern - Global SRE- GMPT - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668566238498408709",
+   "url": "https://lifeattiktok.com/search/7668635915812342069",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -5178,12 +5244,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Site Reliability Engineer Intern - Global SRE- GMPT - 2027 Start",
+   "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668635915812342069",
+   "url": "https://lifeattiktok.com/search/7668566238498408709",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -5200,23 +5266,12 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Recommendation Architecture - 2027 Start",
+   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667908293442275589",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667911731242420533",
+   "url": "https://lifeattiktok.com/search/7667920559239317765",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -5233,24 +5288,24 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Search Architecture - 2027 Start",
+   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667920559239317765",
+   "url": "https://lifeattiktok.com/search/7667911731242420533",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Mobile Software Engineer Intern - Social - 2027 Start",
+   "title": "Software Engineer Intern - TikTok Recommendation Architecture - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7665622826842327349",
-   "first_seen": "2026-08-13T13:43:09Z"
+   "url": "https://lifeattiktok.com/search/7667908293442275589",
+   "first_seen": "2026-08-05T14:43:11Z"
   },
   {
    "tier": "B",
@@ -5266,13 +5321,13 @@
   {
    "tier": "B",
    "company": "TikTok",
-   "title": "Frontend Software Engineer Intern - Global Live Transaction - 2027 Start",
+   "title": "Mobile Software Engineer Intern - Social - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7664843924874004741",
-   "first_seen": "2026-08-05T14:43:11Z"
+   "url": "https://lifeattiktok.com/search/7665622826842327349",
+   "first_seen": "2026-08-13T13:43:09Z"
   },
   {
    "tier": "B",
@@ -5283,6 +5338,17 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7664888369046620469",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "TikTok",
+   "title": "Frontend Software Engineer Intern - Global Live Transaction - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7664843924874004741",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
