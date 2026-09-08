@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-08T20:06:29Z",
+ "generated_at": "2026-09-08T22:37:37Z",
  "counts": {
   "target": 100,
-  "relevant": 440
+  "relevant": 443
  },
  "roles": [
   {
@@ -1196,6 +1196,17 @@
   {
    "tier": "B",
    "company": "Amazon",
+   "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
+   "location": "Austin, Texas, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
+   "first_seen": "2026-09-08T22:37:37Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern",
    "location": "Dublin, Ireland",
    "season": "",
@@ -2369,6 +2380,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/ethglobal/4522a1d6-956c-4434-a6db-9365f19c60fb",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Eudia",
+   "title": "AI Engineer Intern",
+   "location": "Palo Alto, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/eudia/jobs/4020078009",
+   "first_seen": "2026-09-08T22:37:37Z"
   },
   {
    "tier": "B",
@@ -4976,6 +4998,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
    "first_seen": "2026-09-08T20:06:29Z"
+  },
+  {
+   "tier": "B",
+   "company": "Talos",
+   "title": "Quantitative Analyst Intern",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/talos-trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
+   "first_seen": "2026-09-08T22:37:37Z"
   },
   {
    "tier": "B",
