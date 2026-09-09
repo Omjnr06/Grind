@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-08T22:37:37Z",
+ "generated_at": "2026-09-09T00:36:31Z",
  "counts": {
   "target": 100,
-  "relevant": 443
+  "relevant": 448
  },
  "roles": [
   {
@@ -2028,6 +2028,61 @@
    "source": "speedyapply_intl",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
    "first_seen": "2026-08-21T13:24:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "Coinbase",
+   "title": "Software Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+   "first_seen": "2026-09-09T00:36:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "Coinbase",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+   "first_seen": "2026-09-09T00:36:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "Coinbase",
+   "title": "Data Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+   "first_seen": "2026-09-09T00:36:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "Coinbase",
+   "title": "Data Science Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+   "first_seen": "2026-09-09T00:36:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "Coinbase",
+   "title": "Analytics Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+   "first_seen": "2026-09-09T00:36:31Z"
   },
   {
    "tier": "B",
