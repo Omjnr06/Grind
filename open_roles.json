@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-10T17:26:26Z",
+ "generated_at": "2026-09-10T19:54:56Z",
  "counts": {
   "target": 101,
-  "relevant": 466
+  "relevant": 468
  },
  "roles": [
   {
@@ -1852,6 +1852,17 @@
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
    "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Brevan Howard",
+   "title": "2027 Summer Internship Program \u2013 Systematic Trading Technology Software Engineer, New York",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
+   "first_seen": "2026-09-10T19:54:56Z"
   },
   {
    "tier": "B",
@@ -4778,6 +4789,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
    "first_seen": "2026-09-04T19:01:45Z"
+  },
+  {
+   "tier": "B",
+   "company": "Schonfeld",
+   "title": "2027 Platform Engineering Intern",
+   "location": "New York, New York, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
+   "first_seen": "2026-09-10T19:54:56Z"
   },
   {
    "tier": "B",
