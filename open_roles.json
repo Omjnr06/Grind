@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-09T22:32:00Z",
+ "generated_at": "2026-09-10T00:34:38Z",
  "counts": {
   "target": 100,
-  "relevant": 460
+  "relevant": 461
  },
  "roles": [
   {
@@ -1240,13 +1240,13 @@
   {
    "tier": "B",
    "company": "Amazon",
-   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+   "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
    "location": "North Reading, Massachusetts, USA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
-   "first_seen": "2026-09-04T07:02:47Z"
+   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
+   "first_seen": "2026-09-10T00:34:38Z"
   },
   {
    "tier": "B",
@@ -4822,6 +4822,17 @@
    "source": "vanshb03",
    "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Sierra",
+   "title": "Software Engineer Intern, Agent (Summer 2027)",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+   "first_seen": "2026-09-10T00:34:38Z"
   },
   {
    "tier": "B",
