@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T19:54:56Z",
+ "generated_at": "2026-09-10T22:04:39Z",
  "counts": {
   "target": 101,
   "relevant": 468
@@ -1170,17 +1170,6 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014900536",
    "first_seen": "2026-08-28T01:28:26Z"
-  },
-  {
-   "tier": "B",
-   "company": "Acumatica",
-   "title": "AI & Automation Intern, Office of the CFO",
-   "location": "Bellevue, WA, United States (Remote)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/Acumatica/744000146749696",
-   "first_seen": "2026-09-03T17:12:09Z"
   },
   {
    "tier": "B",
@@ -5185,6 +5174,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
    "first_seen": "2026-09-08T20:06:29Z"
+  },
+  {
+   "tier": "B",
+   "company": "Target",
+   "title": "Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027)",
+   "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082",
+   "first_seen": "2026-09-10T22:04:39Z"
   },
   {
    "tier": "B",
