@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-11T21:55:03Z",
+ "generated_at": "2026-09-11T23:41:08Z",
  "counts": {
   "target": 101,
-  "relevant": 486
+  "relevant": 495
  },
  "roles": [
   {
@@ -1412,6 +1412,94 @@
    "source": "zshah101",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191",
    "first_seen": "2026-09-01T06:58:44Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Grad Intern \u2013 Data Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+   "location": "United States - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
+   "first_seen": "2026-09-11T23:41:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Grad Intern \u2013 Data Scientist \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+   "location": "United States - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
+   "first_seen": "2026-09-11T23:41:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Grad Intern \u2013 Machine Learning Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+   "location": "United States - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
+   "first_seen": "2026-09-11T23:41:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Grad Intern \u2013 Software Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+   "location": "United States - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
+   "first_seen": "2026-09-11T23:41:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Undergrad Intern \u2013 Data Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+   "location": "United States - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
+   "first_seen": "2026-09-11T23:41:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Undergrad Intern \u2013 Data Scientist \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+   "location": "United States - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
+   "first_seen": "2026-09-11T23:41:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Undergrad Intern \u2013 Machine Learning Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+   "location": "United States - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+   "first_seen": "2026-09-11T23:41:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Undergrad Intern \u2013 Software Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+   "location": "United States - Remote",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
+   "first_seen": "2026-09-11T23:41:08Z"
   },
   {
    "tier": "B",
@@ -3733,6 +3821,17 @@
    "source": "zshah101",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
    "first_seen": "2026-09-11T19:41:29Z"
+  },
+  {
+   "tier": "B",
+   "company": "Lyft",
+   "title": "Data Analyst Intern (Summer 2027)",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
+   "first_seen": "2026-09-11T23:41:08Z"
   },
   {
    "tier": "B",
