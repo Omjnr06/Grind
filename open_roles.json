@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-12T11:07:18Z",
+ "generated_at": "2026-09-12T14:04:47Z",
  "counts": {
   "target": 101,
-  "relevant": 496
+  "relevant": 498
  },
  "roles": [
   {
@@ -3953,6 +3953,28 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8",
    "first_seen": "2026-08-26T10:24:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "MegazoneCloud",
+   "title": "Software Engineer Co-op 2027",
+   "location": "Rochester, NY",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca",
+   "first_seen": "2026-09-12T14:04:47Z"
+  },
+  {
+   "tier": "B",
+   "company": "MegazoneCloud",
+   "title": "Data Engineer Co-op 2027",
+   "location": "Rochester, NY",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa",
+   "first_seen": "2026-09-12T14:04:47Z"
   },
   {
    "tier": "B",
