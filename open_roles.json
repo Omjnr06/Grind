@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-13T01:14:04Z",
+ "generated_at": "2026-09-13T06:10:45Z",
  "counts": {
   "target": 101,
-  "relevant": 514
+  "relevant": 513
  },
  "roles": [
   {
@@ -1962,17 +1962,6 @@
    "source": "zshah101",
    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141",
    "first_seen": "2026-08-28T23:00:57Z"
-  },
-  {
-   "tier": "B",
-   "company": "Bosch",
-   "title": "Autonomous Driving \u2013 Internship in Machine Learning",
-   "location": "Sunnyvale, CA, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140462550",
-   "first_seen": "2026-07-29T14:37:40Z"
   },
   {
    "tier": "B",
