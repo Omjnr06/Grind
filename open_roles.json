@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T15:17:35Z",
+ "generated_at": "2026-09-13T18:15:25Z",
  "counts": {
   "target": 101,
   "relevant": 513
@@ -1438,23 +1438,23 @@
   {
    "tier": "B",
    "company": "Amgen",
-   "title": "Grad Intern - Software Engineer - Amgen\u2019s Technology & Medical Organizations - Summer 2027",
-   "location": "Remote - USA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
-   "first_seen": "2026-09-12T17:06:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amgen",
    "title": "Undergrad Intern - Software Engineer - Amgen\u2019s Technology & Medical Organizations - Summer 2027",
    "location": "Remote - USA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
+   "first_seen": "2026-09-12T17:06:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amgen",
+   "title": "Grad Intern - Software Engineer - Amgen\u2019s Technology & Medical Organizations - Summer 2027",
+   "location": "Remote - USA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
    "first_seen": "2026-09-12T17:06:07Z"
   },
   {
@@ -1768,23 +1768,12 @@
   {
    "tier": "B",
    "company": "Bank of Montreal",
-   "title": "Software Developer - Winter 2027 - Co-op/Internship - 4 Months",
+   "title": "Software Developer - Winter 2027 - Co-op/Internship - 8 Months",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638",
-   "first_seen": "2026-09-08T17:29:12Z"
-  },
-  {
-   "tier": "B",
-   "company": "Bank of Montreal",
-   "title": "Software Developer - Winter 2027 - Co-op/Internship - 12 Months",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3",
    "first_seen": "2026-09-08T17:29:12Z"
   },
   {
@@ -1801,23 +1790,34 @@
   {
    "tier": "B",
    "company": "Bank of Montreal",
+   "title": "Software Developer - Winter 2027 - Co-op/Internship - 12 Months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1",
+   "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bank of Montreal",
+   "title": "Software Developer - Winter 2027 - Co-op/Internship - 4 Months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638",
+   "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bank of Montreal",
    "title": "Cloud Business & Strategy Analytics Analyst - Winter 2027 - Co-op/Internship - 4 Months",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024672-1",
-   "first_seen": "2026-09-08T17:29:12Z"
-  },
-  {
-   "tier": "B",
-   "company": "Bank of Montreal",
-   "title": "Software Developer - Winter 2027 - Co-op/Internship - 8 Months",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3",
    "first_seen": "2026-09-08T17:29:12Z"
   },
   {
@@ -1966,23 +1966,23 @@
   {
    "tier": "B",
    "company": "Bree",
-   "title": "Software Engineer - Product - Co-op",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Bree",
    "title": "Software Engineer - Backend - Co-op",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bree",
+   "title": "Software Engineer - Product - Co-op",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -2180,8 +2180,8 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12184",
-   "first_seen": "2026-09-12T17:06:07Z"
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12182",
+   "first_seen": "2026-09-02T17:08:21Z"
   },
   {
    "tier": "B",
@@ -3957,12 +3957,12 @@
   {
    "tier": "B",
    "company": "Manulife",
-   "title": "Winter Co-op 2027 - Software Engineering",
+   "title": "Summer Intern 2027 - Software Engineering",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
    "first_seen": "2026-09-01T16:47:24Z"
   },
   {
@@ -3990,12 +3990,12 @@
   {
    "tier": "B",
    "company": "Manulife",
-   "title": "Summer Intern 2027 - Software Engineering",
+   "title": "Winter Co-op 2027 - Software Engineering",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663",
    "first_seen": "2026-09-01T16:47:24Z"
   },
   {
@@ -5398,17 +5398,6 @@
   {
    "tier": "B",
    "company": "Super.com",
-   "title": "Software Engineering Intern - Security",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/super.com/533f2314-39b0-48c6-a6c2-226242a7d608",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Super.com",
    "title": "Software Engineering Intern - Full-Stack",
    "location": "Toronto, Canada",
    "season": "",
@@ -5431,6 +5420,17 @@
   {
    "tier": "B",
    "company": "Super.com",
+   "title": "Software Engineer in Data Intern - 8 months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/super.com/2c889dd2-0103-43e8-a405-e5b006d8b5ec",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Super.com",
    "title": "Software Engineering Intern - Platform - 12 months",
    "location": "Toronto, Canada",
    "season": "",
@@ -5442,12 +5442,12 @@
   {
    "tier": "B",
    "company": "Super.com",
-   "title": "Software Engineer in Data Intern - 8 months",
+   "title": "Software Engineering Intern - Security",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/super.com/2c889dd2-0103-43e8-a405-e5b006d8b5ec",
+   "url": "https://jobs.ashbyhq.com/super.com/533f2314-39b0-48c6-a6c2-226242a7d608",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -5629,17 +5629,6 @@
   {
    "tier": "B",
    "company": "TD Bank",
-   "title": "TD Asset Management Portfolio Analytics Developer Intern/Co-Op - Winter 2027",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
-   "first_seen": "2026-09-08T17:29:12Z"
-  },
-  {
-   "tier": "B",
-   "company": "TD Bank",
    "title": "Mobile Software Engineer Co-op / Intern\u200b - Winter 2027",
    "location": "Toronto, Canada",
    "season": "",
@@ -5647,6 +5636,17 @@
    "source": "speedyapply_intl",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825",
    "first_seen": "2026-09-09T17:48:15Z"
+  },
+  {
+   "tier": "B",
+   "company": "TD Bank",
+   "title": "TD Asset Management Portfolio Analytics Developer Intern/Co-Op - Winter 2027",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
+   "first_seen": "2026-09-08T17:29:12Z"
   },
   {
    "tier": "B",
@@ -6399,23 +6399,23 @@
   {
    "tier": "B",
    "company": "Vercel",
-   "title": "Software Engineering Intern - Summer '27",
-   "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
-   "first_seen": "2026-09-09T17:48:15Z"
-  },
-  {
-   "tier": "B",
-   "company": "Vercel",
    "title": "Software Engineering Intern - Winter '27",
    "location": "San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+   "first_seen": "2026-09-09T17:48:15Z"
+  },
+  {
+   "tier": "B",
+   "company": "Vercel",
+   "title": "Software Engineering Intern - Summer '27",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
    "first_seen": "2026-09-09T17:48:15Z"
   },
   {
@@ -6707,23 +6707,23 @@
   {
    "tier": "B",
    "company": "Zipline",
-   "title": "Aircraft Software Integration Intern - Summer 2027",
-   "location": "South San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Zipline",
    "title": "Aircraft Software Integration Intern - Spring 2027",
    "location": "South San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Zipline",
+   "title": "Aircraft Software Integration Intern - Summer 2027",
+   "location": "South San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
