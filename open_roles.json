@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-14T20:34:43Z",
+ "generated_at": "2026-09-14T23:27:18Z",
  "counts": {
   "target": 101,
-  "relevant": 514
+  "relevant": 526
  },
  "roles": [
   {
@@ -1999,6 +1999,17 @@
   {
    "tier": "B",
    "company": "Brevan Howard",
+   "title": "2027 Summer Internship Program \u2013 AI & Quantitative Analyst, New York",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Brevan Howard",
    "title": "2027 Summer Internship Program \u2013 Systematic Trading Technology Software Engineer, New York",
    "location": "New York",
    "season": "Summer 2027",
@@ -2812,6 +2823,28 @@
   },
   {
    "tier": "B",
+   "company": "Figma",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Figma",
+   "title": "Data Science Intern (2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
    "company": "Figure",
    "title": "Power Systems Integration Intern",
    "location": "San Jose, CA",
@@ -2978,7 +3011,7 @@
   {
    "tier": "B",
    "company": "Gilead Sciences",
-   "title": "Intern - Development - DevOps Business Strategy Leader",
+   "title": "Intern - Development - DevOps Business Strategy",
    "location": "United States - California - Foster City",
    "season": "Not stated",
    "sponsorship": "no-sponsorship",
@@ -5101,6 +5134,17 @@
   {
    "tier": "B",
    "company": "Saab",
+   "title": "Software Engineer Co-Op (Summer 2027)",
+   "location": "East Syracuse, NY (Collamer)",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Saab",
    "title": "Software Engineering Co-Op (Spring - Summer 2027)",
    "location": "East Syracuse, NY (Collamer)",
    "season": "Summer 2027",
@@ -5240,6 +5284,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
    "first_seen": "2026-09-04T19:01:45Z"
+  },
+  {
+   "tier": "B",
+   "company": "Schroders",
+   "title": "2027 Schroders Capital Internship Program - Infrastructure",
+   "location": "NEW YORK, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061",
+   "first_seen": "2026-09-14T23:27:18Z"
   },
   {
    "tier": "B",
@@ -5691,6 +5746,17 @@
    "source": "zshah101",
    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1",
    "first_seen": "2026-09-01T19:40:54Z"
+  },
+  {
+   "tier": "B",
+   "company": "Tencent",
+   "title": "Cyber Security Engineer Intern",
+   "location": "US-California-Palo Alto",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2",
+   "first_seen": "2026-09-14T23:27:18Z"
   },
   {
    "tier": "B",
@@ -6615,6 +6681,72 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
    "first_seen": "2026-08-12T21:25:36Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
+   "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
+   "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
+   "title": "Backend Software Engineer Intern - Java & AI (Master\u2019s)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
+   "title": "Fullstack Software Engineer Intern (Undergraduate)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
+   "title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+   "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
+   "title": "Software Engineer Intern \u2013 AI & Cloud (Graduate/Master\u2019s)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+   "first_seen": "2026-09-14T23:27:18Z"
   },
   {
    "tier": "B",
