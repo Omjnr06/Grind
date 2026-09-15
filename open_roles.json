@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-15T06:41:01Z",
+ "generated_at": "2026-09-15T12:07:02Z",
  "counts": {
   "target": 101,
-  "relevant": 532
+  "relevant": 533
  },
  "roles": [
   {
@@ -5779,6 +5779,17 @@
    "source": "zshah101",
    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2",
    "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Tencent",
+   "title": "Machine Learning Intern",
+   "location": "US-California-Palo Alto",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1",
+   "first_seen": "2026-09-15T12:07:02Z"
   },
   {
    "tier": "B",
