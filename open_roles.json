@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-14T23:27:18Z",
+ "generated_at": "2026-09-15T01:40:30Z",
  "counts": {
   "target": 101,
-  "relevant": 526
+  "relevant": 532
  },
  "roles": [
   {
@@ -1098,7 +1098,7 @@
    "tier": "A",
    "company": "Waymo",
    "title": "2027 Summer Intern, BS, SysEng Software Engineer",
-   "location": "Mountain View, California, USA",
+   "location": "Mountain View, California, United States; San Francisco, California, United States",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
@@ -2457,6 +2457,17 @@
    "source": "speedyapply",
    "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560",
    "first_seen": "2026-09-10T17:26:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "DoorDash",
+   "title": "Software Engineer, Intern (Summer 2027) - US",
+   "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+   "first_seen": "2026-09-15T01:40:30Z"
   },
   {
    "tier": "B",
@@ -5331,6 +5342,17 @@
   },
   {
    "tier": "B",
+   "company": "SharkNinja",
+   "title": "Fall 2026: AI/Sharks Applied AI & Analytics Co-op (August to December)",
+   "location": "Miami, Florida, United States; Needham, MA, United States; New York, New York, United States",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
    "company": "ShyftLabs",
    "title": "AI Engineer Intern",
    "location": "Toronto, Canada",
@@ -6685,6 +6707,17 @@
   {
    "tier": "B",
    "company": "Wex",
+   "title": "AI & Data Platform Engineering Intern (Undergraduate)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
+   "first_seen": "2026-09-15T01:40:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
    "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
    "location": "US - Remote",
    "season": "Not stated",
@@ -6729,6 +6762,28 @@
   {
    "tier": "B",
    "company": "Wex",
+   "title": "Data & AI Intern (Graduate/Master\u2019s)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
+   "first_seen": "2026-09-15T01:40:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
+   "title": "DevOps & AI Engineering Intern (Undergraduate)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
+   "first_seen": "2026-09-15T01:40:30Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
    "title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
    "location": "US - Remote",
    "season": "Not stated",
@@ -6736,6 +6791,17 @@
    "source": "zshah101",
    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
    "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wex",
+   "title": "SRE & Application Services Intern (Graduate/Master's)",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
+   "first_seen": "2026-09-15T01:40:30Z"
   },
   {
    "tier": "B",
