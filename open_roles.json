@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-15T16:54:43Z",
+ "generated_at": "2026-09-15T19:54:59Z",
  "counts": {
   "target": 101,
-  "relevant": 553
+  "relevant": 555
  },
  "roles": [
   {
@@ -2636,6 +2636,17 @@
   },
   {
    "tier": "B",
+   "company": "Duolingo",
+   "title": "Software Engineer, Intern",
+   "location": "New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+   "first_seen": "2026-09-15T19:54:59Z"
+  },
+  {
+   "tier": "B",
    "company": "DV Group",
    "title": "Software Engineer Intern, Commodities",
    "location": "New York City, NY",
@@ -4624,6 +4635,17 @@
    "source": "zshah101",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "NVIDIA",
+   "title": "Research Intern, Fundamental Generative AI - 2027",
+   "location": "US, CA, Santa Clara",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+   "first_seen": "2026-09-15T19:54:59Z"
   },
   {
    "tier": "B",
