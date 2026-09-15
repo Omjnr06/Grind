@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-15T19:54:59Z",
+ "generated_at": "2026-09-15T22:32:54Z",
  "counts": {
   "target": 101,
-  "relevant": 555
+  "relevant": 557
  },
  "roles": [
   {
@@ -3758,6 +3758,17 @@
   },
   {
    "tier": "B",
+   "company": "Johnson & Johnson",
+   "title": "Software Engineering Intern - Robotics R&D",
+   "location": "Santa Clara, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919",
+   "first_seen": "2026-09-15T22:32:54Z"
+  },
+  {
+   "tier": "B",
    "company": "JPMorgan Chase",
    "title": "Quantitative Research, Markets, Summer Internship - Analyst",
    "location": "New York, NY",
@@ -4822,6 +4833,17 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
    "first_seen": "2026-07-25T11:35:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "PerkinElmer",
+   "title": "Data Science Intern, Asset Intelligence",
+   "location": "US Remote - NY",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://newperkinelmer.wd1.myworkdayjobs.com/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
+   "first_seen": "2026-09-15T22:32:54Z"
   },
   {
    "tier": "B",
