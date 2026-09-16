@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-16T21:42:04Z",
+ "generated_at": "2026-09-16T23:50:11Z",
  "counts": {
   "target": 102,
-  "relevant": 567
+  "relevant": 566
  },
  "roles": [
   {
@@ -2790,17 +2790,6 @@
   },
   {
    "tier": "B",
-   "company": "ENSCO",
-   "title": "Information Security Intern",
-   "location": "Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States",
-   "season": "Not stated",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/ensco/jobs/5421861008",
-   "first_seen": "2026-09-15T16:54:43Z"
-  },
-  {
-   "tier": "B",
    "company": "Etched",
    "title": "Supercomputing Intern",
    "location": "San Jose, CA",
@@ -4738,17 +4727,6 @@
   {
    "tier": "B",
    "company": "NVIDIA",
-   "title": "Research Intern, Fundamental Generative AI - 2027",
-   "location": "US, CA, Santa Clara",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
-   "first_seen": "2026-09-15T19:54:59Z"
-  },
-  {
-   "tier": "B",
-   "company": "NVIDIA",
    "title": "Software Engineering Intern, Dynamo - Fall 2026",
    "location": "US, CA, Santa Clara",
    "season": "Fall 2026",
@@ -5174,6 +5152,17 @@
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7",
    "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "Renesas Electronics",
+   "title": "Software Engineer Intern",
+   "location": "San Jose, CALIFORNIA, United States (Hybrid)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164",
+   "first_seen": "2026-09-16T23:50:11Z"
   },
   {
    "tier": "B",
