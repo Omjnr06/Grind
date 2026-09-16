@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-16T18:36:18Z",
+ "generated_at": "2026-09-16T21:42:04Z",
  "counts": {
   "target": 102,
-  "relevant": 565
+  "relevant": 567
  },
  "roles": [
   {
@@ -2317,6 +2317,17 @@
   },
   {
    "tier": "B",
+   "company": "Clockwork Systems",
+   "title": "Software Engineer Intern",
+   "location": "Palo Alto, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004",
+   "first_seen": "2026-09-16T21:42:04Z"
+  },
+  {
+   "tier": "B",
    "company": "Coinbase",
    "title": "Software Engineer Intern",
    "location": "Hybrid - San Francisco, CA",
@@ -4022,6 +4033,28 @@
   },
   {
    "tier": "B",
+   "company": "Kitware",
+   "title": "Software Developer Internship",
+   "location": "Clifton Park, New York",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906",
+   "first_seen": "2026-09-16T21:42:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Kitware",
+   "title": "AI Research Internship",
+   "location": "Clifton Park, New York",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75",
+   "first_seen": "2026-09-16T21:42:04Z"
+  },
+  {
+   "tier": "B",
    "company": "Kognitos",
    "title": "Software Engineer Intern - AI-Native \u2014 Fall 2026",
    "location": "San Jose, CA",
@@ -5559,17 +5592,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
    "first_seen": "2026-09-04T19:01:45Z"
-  },
-  {
-   "tier": "B",
-   "company": "Schroders",
-   "title": "2027 Schroders Capital Internship Program - Infrastructure",
-   "location": "NEW YORK, NY, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061",
-   "first_seen": "2026-09-14T23:27:18Z"
   },
   {
    "tier": "B",
