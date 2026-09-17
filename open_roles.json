@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-17T20:26:02Z",
+ "generated_at": "2026-09-17T22:57:14Z",
  "counts": {
   "target": 104,
-  "relevant": 586
+  "relevant": 588
  },
  "roles": [
   {
@@ -3428,6 +3428,17 @@
   },
   {
    "tier": "B",
+   "company": "Honeywell",
+   "title": "Software Engineer Co-Op - Spring/Summer 2027",
+   "location": "Pittsford, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088",
+   "first_seen": "2026-09-17T22:57:14Z"
+  },
+  {
+   "tier": "B",
    "company": "HP IQ",
    "title": "Software Engineer Intern, Cloud Services (Summer 2027)",
    "location": "San Francisco, CA",
@@ -5251,6 +5262,17 @@
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7",
    "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "Renesas Electronics",
+   "title": "Embedded Systems Intern",
+   "location": "Remote, REMOTE, United States (Remote)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379",
+   "first_seen": "2026-09-17T22:57:14Z"
   },
   {
    "tier": "B",
