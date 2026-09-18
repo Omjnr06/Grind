@@ -9,6 +9,15 @@ INCLUDE_TIER_B = True
 EMAIL_TIER_B = False
 BOARD_URL = "https://github.com/Omjnr06/Grind/blob/bot-state/OPEN_ROLES.md"
 
+UK_PROGRAMS = [
+    ("UK Youth Mobility Scheme (visa)",
+     "https://www.gov.uk/youth-mobility",
+     "Apply yourself — 2yr UK work visa, no employer sponsorship (Canadian, 18-35)."),
+    ("IAESTE Canada (placement)",
+     "https://www.iaeste.ca/internships",
+     "Rolling; heaviest new-posting waves in November, January, and April. Check regularly."),
+]
+
 
 def _key(p):
     return (p["company"].lower(), p.get("season") or "", p["location"].lower())
@@ -25,17 +34,23 @@ def render_md(a, b):
     day = datetime.date.today().isoformat()
     lines = [f"# Open roles board — {day}", "",
              f"**{len(a)} target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.", ""]
+    lines.append("## UK Programs & Visa")
+    for name, url, note in UK_PROGRAMS:
+        lines.append(f"- **{name}** — {note}  \n  {url}")
+    lines.append("")
     if a:
         lines.append("## Target companies")
         for p in a:
             season = p.get("season") or "term n/a"
-            lines.append(f"- **{p['company']}** — {p['title']}  \n  {p['location']} · {season} · [{p['source']}]  \n  {p['url']}")
+            tag = "[UK] " if classify.region_for(p) == "UK" else ""
+            lines.append(f"- **{tag}{p['company']}** — {p['title']}  \n  {p['location']} · {season} · [{p['source']}]  \n  {p['url']}")
         lines.append("")
     if INCLUDE_TIER_B and b:
         lines.append(f"## Other relevant ({len(b)})")
         for p in b:
             season = p.get("season") or "term n/a"
-            lines.append(f"- {p['company']} — {p['title']} — {p['location']} · {season}  \n  {p['url']}")
+            tag = "[UK] " if classify.region_for(p) == "UK" else ""
+            lines.append(f"- {tag}{p['company']} — {p['title']} — {p['location']} · {season}  \n  {p['url']}")
     return "\n".join(lines) + "\n"
 
 
@@ -43,7 +58,8 @@ def render_email(a, b):
     lines = [f"{len(a)} target-company roles open right now.", ""]
     for p in a:
         season = p.get("season") or "term n/a"
-        lines.append(f"- {p['company']} — {p['title']}")
+        tag = "[UK] " if classify.region_for(p) == "UK" else ""
+        lines.append(f"- {tag}{p['company']} — {p['title']}")
         lines.append(f"  {p['location']} · {season} · [{p['source']}]")
         lines.append(f"  {p['url']}")
     if EMAIL_TIER_B and b:
@@ -55,6 +71,11 @@ def render_email(a, b):
     elif b:
         lines.append("")
         lines.append(f"(+ {len(b)} other relevant roles — see OPEN_ROLES.md on the bot-state branch)")
+    lines.append("")
+    lines.append("--- UK Programs & Visa (apply directly) ---")
+    for name, url, note in UK_PROGRAMS:
+        lines.append(f"- {name}: {note}")
+        lines.append(f"  {url}")
     return "\n".join(lines)
 
 

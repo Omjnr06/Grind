@@ -7,6 +7,7 @@ import urllib.error
 import urllib.parse
 from email.message import EmailMessage
 import config
+import classify
 
 
 def _ascii(s):
@@ -37,7 +38,9 @@ def ntfy_push(posting, tier):
         priority, label, tags = "5", "TARGET", "dart,rotating_light"
     else:
         priority, label, tags = "2", "NEW", "seedling"
-    title = _ascii(f"{label}: {posting['company']}") or label
+    region = classify.region_for(posting)
+    prefix = "[UK] " if region == "UK" else ""
+    title = _ascii(f"{prefix}{label}: {posting['company']}") or label
     body = f"{posting['title']}\n{posting['location']} - {posting.get('season') or 'season n/a'} [{posting['source']}]"
     headers = {"Title": title, "Priority": priority, "Tags": tags}
     url = posting.get("url") or ""
@@ -135,7 +138,8 @@ def send_email(subject, body_text, to_list=None):
 
 
 def _row(p):
-    return f"- {p['company']} — {p['title']} | {p['location']} | {p.get('season') or ''}\n  {p['url']}"
+    tag = "[UK] " if classify.region_for(p) == "UK" else ""
+    return f"- {tag}{p['company']} — {p['title']} | {p['location']} | {p.get('season') or ''}\n  {p['url']}"
 
 
 def send_email_digest(a_list, b_list):

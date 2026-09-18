@@ -31,14 +31,38 @@ LOCATION_PHRASES = [
     "emeryville", "san bruno", "south san francisco", "fremont", "milpitas",
     "toronto", "vancouver", "mississauga", "brampton", "markham", "vaughan",
     "north york", "scarborough", "etobicoke", "gta", "greater toronto",
-    "london", "dubai", "united arab emirates", "uae",
+    "dubai", "united arab emirates", "uae",
     "remote",
 ]
 LOCATION_TOKENS = {"sf", "ny", "on", "bc"}
 
+UK_LOCATION_PHRASES = [
+    "united kingdom", "england", "scotland", "wales", "northern ireland",
+    "london", "manchester", "edinburgh", "glasgow", "cambridge", "oxford",
+    "bristol", "leeds", "birmingham", "sheffield", "nottingham", "reading",
+    "cardiff", "belfast", "newcastle", "liverpool", "brighton", "milton keynes",
+]
+UK_COUNTRY_MARKERS = ["united kingdom", "england", "scotland", "wales", "northern ireland"]
+UK_TOKENS = {"uk", "gb"}
+NON_UK_LONDON_MARKERS = ["ontario", "canada", "on,", ", on", " on "]
+
+UK_TARGETS = {
+    "revolut", "monzo", "wise", "deliveroo", "deepmind", "arm", "darktrace",
+    "improbable", "checkout.com", "starling bank", "ocado", "skyscanner",
+    "graphcore", "cloudflare", "palantir", "bloomberg", "google", "meta",
+    "amazon", "microsoft", "apple", "spotify", "tiktok", "databricks", "datadog",
+}
+UK_COMPANY_ALIASES = {
+    "checkout.com": ["checkout"],
+    "starling bank": ["starling"],
+    "ocado": ["ocado technology", "ocado group"],
+    "wise": ["transferwise"],
+    "arm": ["arm holdings", "arm ltd"],
+}
+
 ROLE_INCLUDE = [
     "intern", "internship", "co-op", "coop", "co op",
-    "new grad", "new-grad", "newgrad", "university grad", "campus", "student",
+    "new grad", "new-grad", "newgrad", "graduate", "university grad", "campus", "student",
 ]
 ROLE_EXCLUDE = [
     "senior", "staff", "principal", "sr.", "sr ", "manager", "director",
@@ -81,6 +105,11 @@ SOURCES = {
         "type": "readme_table",
         "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/INTERN_INTL.md",
         "fallback_url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/master/INTERN_INTL.md",
+    },
+    "earlycareers_eu": {
+        "type": "readme_table",
+        "url": "https://raw.githubusercontent.com/LorenzoLaCorte/european-tech-internships-2026/main/README.md",
+        "fallback_url": "https://raw.githubusercontent.com/LorenzoLaCorte/european-tech-internships-2026/master/README.md",
     },
 }
 

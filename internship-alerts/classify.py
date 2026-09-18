@@ -24,6 +24,18 @@ def _target_canon():
 _CANON = _target_canon()
 
 
+def _uk_target_canon():
+    canon = {}
+    for t in config.UK_TARGETS:
+        canon[norm_company(t)] = t
+        for a in config.UK_COMPANY_ALIASES.get(t, []):
+            canon[norm_company(a)] = t
+    return canon
+
+
+_UK_CANON = _uk_target_canon()
+
+
 def is_target(company):
     n = norm_company(company)
     if not n:
@@ -57,6 +69,46 @@ def location_relevant(location):
     return bool(tokens & config.LOCATION_TOKENS)
 
 
+def is_uk_location(location):
+    if not location:
+        return False
+    n = location.lower()
+    if any(m in n for m in config.UK_COUNTRY_MARKERS):
+        return True
+    tokens = set(re.split(r"[^a-z]+", n))
+    if tokens & config.UK_TOKENS:
+        return True
+    if "london" in n and not any(m in n for m in config.NON_UK_LONDON_MARKERS):
+        return True
+    for p in config.UK_LOCATION_PHRASES:
+        if p == "london":
+            continue
+        if p in n:
+            return True
+    return False
+
+
+def region_for(posting):
+    return "UK" if is_uk_location(posting.get("location", "")) else "US"
+
+
+def is_uk_target(company):
+    n = norm_company(company)
+    if not n:
+        return None
+    if n in _UK_CANON:
+        return _UK_CANON[n]
+    tokenset = set(n.split())
+    for canon_norm, canon in _UK_CANON.items():
+        cwords = canon_norm.split()
+        if len(cwords) == 1:
+            if cwords[0] in tokenset:
+                return canon
+        elif canon_norm in n:
+            return canon
+    return None
+
+
 def is_intern_role(title):
     t = title.lower()
     if not any(k in t for k in config.ROLE_INCLUDE):
@@ -74,6 +126,8 @@ def is_restricted(posting):
 def tier_for(posting):
     if not is_intern_role(posting["title"]):
         return "C"
+    if is_uk_location(posting.get("location", "")):
+        return "A" if is_uk_target(posting["company"]) else "B"
     if is_restricted(posting):
         return "C"
     target = is_target(posting["company"])
