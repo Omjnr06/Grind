@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-18T17:46:10Z",
+ "generated_at": "2026-09-18T20:08:46Z",
  "counts": {
-  "target": 109,
-  "relevant": 627
+  "target": 108,
+  "relevant": 624
  },
  "roles": [
   {
@@ -1169,17 +1169,6 @@
    "sponsorship": "no-sponsorship",
    "source": "zshah101",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
-   "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "A",
-   "company": "Visa",
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-   "location": "US - Foster City, CA",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
    "first_seen": "2026-09-17T17:21:53Z"
   },
   {
@@ -2369,6 +2358,17 @@
    "source": "vanshb03",
    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
    "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "Centene",
+   "title": "Cybersecurity Summer 2027 Intern (Undergraduate)",
+   "location": "Remote-MO",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+   "first_seen": "2026-09-18T20:08:46Z"
   },
   {
    "tier": "B",
@@ -7620,34 +7620,12 @@
   {
    "tier": "B",
    "company": "Visa",
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-   "location": "US - Ashburn, VA",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
-   "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "company": "Visa",
    "title": "Software Engineer, Intern - 2027 Austin, TX",
    "location": "US - Austin, TX",
    "season": "Summer 2027",
    "sponsorship": "no-sponsorship",
    "source": "zshah101",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
-   "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "company": "Visa",
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin",
-   "location": "US - Austin, TX",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
    "first_seen": "2026-09-17T17:21:53Z"
   },
   {
@@ -7664,34 +7642,12 @@
   {
    "tier": "B",
    "company": "Visa",
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-   "location": "US - Bellevue, WA",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
-   "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "company": "Visa",
    "title": "Software Engineer, Intern, Highlands Ranch, CO - 2027",
    "location": "US - Denver, CO",
    "season": "Summer 2027",
    "sponsorship": "no-sponsorship",
    "source": "zshah101",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
-   "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "company": "Visa",
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
-   "location": "US - Denver, CO",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
    "first_seen": "2026-09-17T17:21:53Z"
   },
   {
