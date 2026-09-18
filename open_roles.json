@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-18T10:02:16Z",
+ "generated_at": "2026-09-18T14:28:37Z",
  "counts": {
   "target": 109,
-  "relevant": 630
+  "relevant": 629
  },
  "roles": [
   {
@@ -5746,17 +5746,6 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379",
    "first_seen": "2026-09-17T22:57:14Z"
-  },
-  {
-   "tier": "B",
-   "company": "Renesas Electronics",
-   "title": "Software Engineer Intern",
-   "location": "San Jose, CALIFORNIA, United States (Hybrid)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164",
-   "first_seen": "2026-09-16T23:50:11Z"
   },
   {
    "tier": "B",
