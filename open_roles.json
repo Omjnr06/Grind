@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-17T22:57:14Z",
+ "generated_at": "2026-09-18T00:58:31Z",
  "counts": {
-  "target": 104,
-  "relevant": 588
+  "target": 109,
+  "relevant": 629
  },
  "roles": [
   {
@@ -15,6 +15,39 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
    "first_seen": "2026-08-28T01:28:26Z"
+  },
+  {
+   "tier": "A",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern/Co-Op - ROBOTICS - 2027",
+   "location": "North Reading, MA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://www.amazon.jobs/jobs/10529525/apply",
+   "first_seen": "2026-09-04T16:18:12Z"
+  },
+  {
+   "tier": "A",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
+   "location": "North Reading, Massachusetts, USA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
+   "first_seen": "2026-09-10T00:34:38Z"
+  },
+  {
+   "tier": "A",
+   "company": "Amazon",
+   "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
+   "location": "North Reading, Massachusetts, USA",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
+   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "A",
@@ -257,6 +290,28 @@
    "source": "speedyapply_intl",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
    "first_seen": "2026-09-16T18:36:18Z"
+  },
+  {
+   "tier": "A",
+   "company": "revolut",
+   "title": "graduate programme 2027: software engineer (android)",
+   "location": "united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4419097468",
+   "first_seen": "2026-09-18T00:58:31Z"
+  },
+  {
+   "tier": "A",
+   "company": "revolut",
+   "title": "graduate programme 2027: software engineer (ios)",
+   "location": "united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4419301372",
+   "first_seen": "2026-09-18T00:58:31Z"
   },
   {
    "tier": "A",
@@ -1284,39 +1339,6 @@
   {
    "tier": "B",
    "company": "Amazon",
-   "title": "Software Development Engineer Intern/Co-Op - ROBOTICS - 2027",
-   "location": "North Reading, MA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://www.amazon.jobs/jobs/10529525/apply",
-   "first_seen": "2026-09-04T16:18:12Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
-   "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
-   "location": "North Reading, Massachusetts, USA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
-   "first_seen": "2026-09-10T00:34:38Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
-   "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-   "location": "North Reading, Massachusetts, USA",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
    "title": "Business Intelligence Engineer Co-Op",
    "location": "Seattle, WA",
    "season": "Winter",
@@ -1346,6 +1368,17 @@
    "source": "vanshb03",
    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
+   "title": "Software Development Engineer Internship - Summer -2027 (USA)",
+   "location": "Seattle, Washington, USA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+   "first_seen": "2026-09-18T00:58:31Z"
   },
   {
    "tier": "B",
@@ -1647,7 +1680,7 @@
   {
    "tier": "B",
    "company": "Amperesand",
-   "title": "Intern, Software",
+   "title": "Product Software Intern",
    "location": "Reno, Nevada, United States; San Francisco, California, United States",
    "season": "Not stated",
    "sponsorship": "unknown",
@@ -1918,6 +1951,39 @@
    "source": "speedyapply_intl",
    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638",
    "first_seen": "2026-09-08T17:29:12Z"
+  },
+  {
+   "tier": "B",
+   "company": "Barclays",
+   "title": "2027 Technology Developer Summer Internship Programme London",
+   "location": "Canary Wharf, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397",
+   "first_seen": "2026-09-10T17:26:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "Barclays",
+   "title": "2027 Technology Developer Summer Internship Programme Glasgow",
+   "location": "Glasgow, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
+   "first_seen": "2026-09-10T17:26:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "Barclays",
+   "title": "2027 Technology Developer Summer Internship Programme Knutsford",
+   "location": "Knutsford, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
+   "first_seen": "2026-09-10T17:26:26Z"
   },
   {
    "tier": "B",
@@ -2240,6 +2306,17 @@
   },
   {
    "tier": "B",
+   "company": "Cartesian",
+   "title": "IAP Software Engineering Intern 2027",
+   "location": "Cambridge, MA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009",
+   "first_seen": "2026-09-16T18:36:18Z"
+  },
+  {
+   "tier": "B",
    "company": "Castleton Commodities International",
    "title": "Data Science Machine Learning Intern",
    "location": "Stamford, CT / Houston, TX / New York City, NY",
@@ -2460,6 +2537,17 @@
   },
   {
    "tier": "B",
+   "company": "content guru",
+   "title": "graduate software developer assessment day - 8th october",
+   "location": "bracknell, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4464349158",
+   "first_seen": "2026-09-18T00:58:31Z"
+  },
+  {
+   "tier": "B",
    "company": "Cox",
    "title": "Software Engineering Intern - Summer 2027 (North Hills, NY)",
    "location": "Long Island NY",
@@ -2603,6 +2691,17 @@
   },
   {
    "tier": "B",
+   "company": "DEKA Research & Development",
+   "title": "Software Engineering Co-Op- Spring 2027",
+   "location": "Manchester, NH",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "http://deka.applytojob.com/apply/ulNhn2xOvG/Software-Engineering-CoOp-Spring-2027",
+   "first_seen": "2026-09-15T16:54:43Z"
+  },
+  {
+   "tier": "B",
    "company": "DimeHealth AI",
    "title": "Forward Deployed Engineering Intern",
    "location": "New York, NY",
@@ -2644,6 +2743,17 @@
    "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
    "first_seen": "2026-09-15T16:54:43Z"
+  },
+  {
+   "tier": "B",
+   "company": "Draper",
+   "title": "Embedded Quality & Fielded Systems Intern",
+   "location": "Cambridge, MA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
+   "first_seen": "2026-08-05T22:08:13Z"
   },
   {
    "tier": "B",
@@ -3120,6 +3230,28 @@
   },
   {
    "tier": "B",
+   "company": "Flagship Pioneering",
+   "title": "Pioneering Intelligence: Agentic AI Co-Op",
+   "location": "Cambridge, MA USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002",
+   "first_seen": "2026-09-02T19:46:14Z"
+  },
+  {
+   "tier": "B",
+   "company": "Flagship Pioneering",
+   "title": "Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)",
+   "location": "Cambridge, MA USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002",
+   "first_seen": "2026-09-08T20:06:29Z"
+  },
+  {
+   "tier": "B",
    "company": "Flow Traders",
    "title": "Quantitative Trading Intern Summer 2027",
    "location": "New York, NY",
@@ -3227,6 +3359,94 @@
    "source": "speedyapply_intl",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
    "first_seen": "2026-09-01T16:47:24Z"
+  },
+  {
+   "tier": "B",
+   "company": "Genuine Parts Company",
+   "title": "Cloud Developer Intern",
+   "location": "Birmingham, AL, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133",
+   "first_seen": "2026-09-01T22:01:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Genuine Parts Company",
+   "title": "Cloud SRE Intern",
+   "location": "Birmingham, AL, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
+   "first_seen": "2026-09-01T22:01:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Genuine Parts Company",
+   "title": "Customer Software Development Intern",
+   "location": "Birmingham, AL, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135",
+   "first_seen": "2026-09-01T22:01:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Genuine Parts Company",
+   "title": "GRC/Cybersecurity Analyst Intern",
+   "location": "Birmingham, AL, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137",
+   "first_seen": "2026-09-01T22:01:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Genuine Parts Company",
+   "title": "Platform Engineering Intern",
+   "location": "Birmingham, AL, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141",
+   "first_seen": "2026-09-01T22:01:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Genuine Parts Company",
+   "title": "Software Developer Intern",
+   "location": "Birmingham, AL, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
+   "first_seen": "2026-09-01T22:01:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Genuine Parts Company",
+   "title": "Software Engineer - QA Analyst Intern",
+   "location": "Birmingham, AL, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "Genuine Parts Company",
+   "title": "Web Developer Intern",
+   "location": "Birmingham, AL, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238",
+   "first_seen": "2026-09-02T17:08:21Z"
   },
   {
    "tier": "B",
@@ -3340,6 +3560,50 @@
   },
   {
    "tier": "B",
+   "company": "GPC",
+   "title": "Software Engineer - QA Analyst Intern",
+   "location": "Birmingham, AL",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
+   "first_seen": "2026-09-03T17:12:09Z"
+  },
+  {
+   "tier": "B",
+   "company": "GPC",
+   "title": "Web Developer Intern",
+   "location": "Birmingham, AL",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238",
+   "first_seen": "2026-09-03T17:12:09Z"
+  },
+  {
+   "tier": "B",
+   "company": "GPC",
+   "title": "Customer Software Development Intern",
+   "location": "Birmingham, AL",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "GPC",
+   "title": "Software Developer Intern",
+   "location": "Birmingham, AL",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
    "company": "Grant Thornton",
    "title": "Cybersecurity and Privacy Intern - Summer 2027",
    "location": "New York, NY, United States",
@@ -3384,6 +3648,17 @@
   },
   {
    "tier": "B",
+   "company": "GSK Internships & Co-ops powered by Atrium",
+   "title": "Winter Co-op/Web App Developer",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://gsk-us-earlytalent.icims.com/jobs/11013/winter-co-op-web-app-developer/job",
+   "first_seen": "2026-09-15T16:54:43Z"
+  },
+  {
+   "tier": "B",
    "company": "Heliux",
    "title": "Software Engineer - Internship - Spring 2027",
    "location": "San Francisco, CA",
@@ -3425,6 +3700,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Honeywell",
+   "title": "Data Science Co-Op - Spring/Summer 2027",
+   "location": "Pittsford, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157903",
+   "first_seen": "2026-09-18T00:58:31Z"
   },
   {
    "tier": "B",
@@ -3557,6 +3843,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490",
    "first_seen": "2026-08-15T13:05:09Z"
+  },
+  {
+   "tier": "B",
+   "company": "HyperLight",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, Massachusetts, United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://apply.workable.com/hyperlight/j/5581EA0668/",
+   "first_seen": "2026-07-23T15:23:45Z"
   },
   {
    "tier": "B",
@@ -4066,6 +4363,17 @@
   },
   {
    "tier": "B",
+   "company": "Kensho",
+   "title": "Software Engineer - Summer Intern 2027",
+   "location": "Cambridge, MA +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1",
+   "first_seen": "2026-09-10T17:26:26Z"
+  },
+  {
+   "tier": "B",
    "company": "Kepler Communications",
    "title": "Embedded Software Engineering Intern - January 2027 - 4 months",
    "location": "Toronto, Canada",
@@ -4177,7 +4485,7 @@
   {
    "tier": "B",
    "company": "Lyft",
-   "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+   "title": "Software Engineer Intern, Fullstack (Summer 2027 - NYC)",
    "location": "New York City, NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
@@ -4188,7 +4496,7 @@
   {
    "tier": "B",
    "company": "Lyft",
-   "title": "Data Science Intern, Algorithms (Summer 2027)",
+   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "location": "New York, NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
@@ -4210,7 +4518,7 @@
   {
    "tier": "B",
    "company": "Lyft",
-   "title": "Software Engineer Intern, Backend (Summer 2027)",
+   "title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
@@ -4426,6 +4734,94 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d",
    "first_seen": "2026-09-17T17:21:53Z"
+  },
+  {
+   "tier": "B",
+   "company": "Meridian Partners",
+   "title": "Flight Software Engineer Co-op",
+   "location": "Cambridge, MA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003",
+   "first_seen": "2026-08-25T02:12:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "Meridian Partners",
+   "title": "Cloud Software Engineer Co-op",
+   "location": "Cambridge, MA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003",
+   "first_seen": "2026-08-25T02:12:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "Meridian Partners",
+   "title": "Front End Software Engineer Graduate Co-op",
+   "location": "Cambridge, MA",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003",
+   "first_seen": "2026-08-25T02:12:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "Meridian Partners",
+   "title": "Embedded Software Engineer Co-op",
+   "location": "Cambridge, MA",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003",
+   "first_seen": "2026-08-25T03:57:59Z"
+  },
+  {
+   "tier": "B",
+   "company": "Meridian Partners",
+   "title": "Data Scientist Graduate Co-op",
+   "location": "Cambridge, MA, Arlington, VA",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003",
+   "first_seen": "2026-08-25T02:12:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "Meridian Partners",
+   "title": "Full Stack Software Engineer Graduate Co-op",
+   "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003",
+   "first_seen": "2026-08-25T02:12:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "Meridian Partners",
+   "title": "Machine Learning Engineer Co-op",
+   "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003",
+   "first_seen": "2026-08-25T03:57:59Z"
+  },
+  {
+   "tier": "B",
+   "company": "Meridian Partners",
+   "title": "Python Software Engineer Graduate Co-op",
+   "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003",
+   "first_seen": "2026-08-25T03:57:59Z"
   },
   {
    "tier": "B",
@@ -4649,6 +5045,28 @@
   },
   {
    "tier": "B",
+   "company": "MORSE Corp Co-op Opportunities",
+   "title": "Embedded Software Engineer Graduate Co-op",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003",
+   "first_seen": "2026-08-25T13:26:55Z"
+  },
+  {
+   "tier": "B",
+   "company": "motorola solutions",
+   "title": "graduate software engineer",
+   "location": "glasgow, scotland, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4462412131",
+   "first_seen": "2026-09-18T00:58:31Z"
+  },
+  {
+   "tier": "B",
    "company": "N1",
    "title": "Software Engineer Intern (Backend, Rust)",
    "location": "New York City, NY",
@@ -4657,6 +5075,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
    "first_seen": "2026-08-19T20:15:46Z"
+  },
+  {
+   "tier": "B",
+   "company": "Nanopath",
+   "title": "Software Development Co-op (Jan '27 Start)",
+   "location": "Cambridge, MA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005",
+   "first_seen": "2026-09-17T17:21:53Z"
   },
   {
    "tier": "B",
@@ -4767,6 +5196,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "nuclear graduates",
+   "title": "digital software engineering - nuclear graduates 2027",
+   "location": "derby, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4464303618",
+   "first_seen": "2026-09-18T00:58:31Z"
   },
   {
    "tier": "B",
@@ -5020,6 +5460,39 @@
    "source": "zshah101",
    "url": "https://newperkinelmer.wd1.myworkdayjobs.com/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
    "first_seen": "2026-09-15T22:32:54Z"
+  },
+  {
+   "tier": "B",
+   "company": "Philips",
+   "title": "Co-op - Software Development Engineer (Automation) \u2013 Cambridge, MA \u2013 Fall 2026",
+   "location": "Cambridge (US), Massachusetts, United States",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
+   "first_seen": "2026-09-02T19:46:14Z"
+  },
+  {
+   "tier": "B",
+   "company": "Philips",
+   "title": "Co-op - Software Engineering - APM - Cambridge - MA - Jan - Aug 2027",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "Philips",
+   "title": "Co-op - Software Development Engineer - Cambridge - MA - Jan-Aug 2027",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
+   "first_seen": "2026-09-02T17:08:21Z"
   },
   {
    "tier": "B",
@@ -5526,6 +5999,17 @@
    "source": "speedyapply_intl",
    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000185825",
    "first_seen": "2026-08-28T23:00:57Z"
+  },
+  {
+   "tier": "B",
+   "company": "S&P Global",
+   "title": "Software Engineer - Summer Intern 2027",
+   "location": "Cambridge, MA +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://spgi.wd5.myworkdayjobs.com/en-US/spgi_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2",
+   "first_seen": "2026-09-10T17:26:26Z"
   },
   {
    "tier": "B",
@@ -6915,6 +7399,17 @@
   },
   {
    "tier": "B",
+   "company": "ttp plc",
+   "title": "graduate consultant - software engineering 2026",
+   "location": "cambridge, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4462968346",
+   "first_seen": "2026-09-18T00:58:31Z"
+  },
+  {
+   "tier": "B",
    "company": "Twilio",
    "title": "Software Engineer Intern - January 12th start - 23 weeks",
    "location": "Remote - Bengaluru, India",
@@ -7088,6 +7583,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004",
    "first_seen": "2026-09-09T17:48:15Z"
+  },
+  {
+   "tier": "B",
+   "company": "Viridien",
+   "title": "Software Engineering Intern",
+   "location": "Crawley, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1",
+   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
