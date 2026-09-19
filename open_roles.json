@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-19T21:10:31Z",
+ "generated_at": "2026-09-19T22:59:17Z",
  "counts": {
   "target": 110,
-  "relevant": 639
+  "relevant": 640
  },
  "roles": [
   {
@@ -2006,6 +2006,17 @@
    "source": "speedyapply_intl",
    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
    "first_seen": "2026-09-10T17:26:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "Baxter International",
+   "title": "Associate Data Scientist Co-op",
+   "location": "Skaneateles, NY",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1",
+   "first_seen": "2026-09-19T22:59:17Z"
   },
   {
    "tier": "B",
