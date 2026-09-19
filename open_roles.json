@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-19T09:27:18Z",
+ "generated_at": "2026-09-19T13:15:54Z",
  "counts": {
   "target": 109,
-  "relevant": 628
+  "relevant": 627
  },
  "roles": [
   {
@@ -5757,17 +5757,6 @@
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7",
    "first_seen": "2026-09-02T17:08:21Z"
-  },
-  {
-   "tier": "B",
-   "company": "Renesas Electronics",
-   "title": "Embedded Systems Intern",
-   "location": "Remote, REMOTE, United States (Remote)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379",
-   "first_seen": "2026-09-17T22:57:14Z"
   },
   {
    "tier": "B",
