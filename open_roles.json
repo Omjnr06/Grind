@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-19T16:36:57Z",
+ "generated_at": "2026-09-19T18:53:22Z",
  "counts": {
   "target": 110,
-  "relevant": 638
+  "relevant": 639
  },
  "roles": [
   {
@@ -2237,6 +2237,17 @@
    "source": "zshah101",
    "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
    "first_seen": "2026-09-10T19:54:56Z"
+  },
+  {
+   "tier": "B",
+   "company": "Brown Brothers Harriman",
+   "title": "2027 Internal Audit - Information Technology & Cybersecurity Summer Internship",
+   "location": "New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899",
+   "first_seen": "2026-09-19T18:53:22Z"
   },
   {
    "tier": "B",
