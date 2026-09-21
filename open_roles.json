@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-21T19:23:32Z",
+ "generated_at": "2026-09-21T22:40:14Z",
  "counts": {
   "target": 110,
-  "relevant": 632
+  "relevant": 636
  },
  "roles": [
   {
@@ -2515,6 +2515,17 @@
   },
   {
    "tier": "B",
+   "company": "Collinear AI",
+   "title": "MTS - Research Scientist Internship",
+   "location": "Sunnyvale, California",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b",
+   "first_seen": "2026-09-21T22:40:14Z"
+  },
+  {
+   "tier": "B",
    "company": "Commure",
    "title": "Software Engineering Intern, Summer 2027",
    "location": "Mountain View, CA",
@@ -3689,6 +3700,17 @@
    "source": "speedyapply",
    "url": "https://gsk-us-earlytalent.icims.com/jobs/11013/winter-co-op-web-app-developer/job",
    "first_seen": "2026-09-15T16:54:43Z"
+  },
+  {
+   "tier": "B",
+   "company": "Headlands Tech Holdings",
+   "title": "Deep Learning Research Internship",
+   "location": "Chicago; New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009",
+   "first_seen": "2026-09-21T22:40:14Z"
   },
   {
    "tier": "B",
@@ -6355,6 +6377,17 @@
   {
    "tier": "B",
    "company": "Sony",
+   "title": "Sony Research - Internship on Audio Processing and Machine Learning",
+   "location": "New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
+   "first_seen": "2026-09-21T22:40:14Z"
+  },
+  {
+   "tier": "B",
+   "company": "Sony",
    "title": "Research Intern on Generative and Protective AI for Content Creation",
    "location": "Remote - Texas",
    "season": "Not stated",
@@ -7605,6 +7638,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004",
    "first_seen": "2026-09-09T17:48:15Z"
+  },
+  {
+   "tier": "B",
+   "company": "Viking Global",
+   "title": "Data Science Intern",
+   "location": "New York, NY",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
+   "first_seen": "2026-09-21T22:40:14Z"
   },
   {
    "tier": "B",
