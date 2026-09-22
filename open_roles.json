@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-22T19:09:07Z",
+ "generated_at": "2026-09-22T22:04:46Z",
  "counts": {
   "target": 109,
-  "relevant": 643
+  "relevant": 642
  },
  "roles": [
   {
@@ -3681,17 +3681,6 @@
   },
   {
    "tier": "B",
-   "company": "Headlands Tech Holdings",
-   "title": "Deep Learning Research Internship",
-   "location": "Chicago; New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009",
-   "first_seen": "2026-09-21T22:40:14Z"
-  },
-  {
-   "tier": "B",
    "company": "Heliux",
    "title": "Software Engineer - Internship - Spring 2027",
    "location": "San Francisco, CA",
@@ -5783,17 +5772,6 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -7561,6 +7539,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64",
    "first_seen": "2026-09-01T22:01:05Z"
+  },
+  {
+   "tier": "B",
+   "company": "Vantor",
+   "title": "AI Engineer Intern",
+   "location": "Remote (United States)",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605",
+   "first_seen": "2026-09-22T22:04:46Z"
   },
   {
    "tier": "B",
