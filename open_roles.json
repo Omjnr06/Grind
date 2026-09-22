@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-21T22:40:14Z",
+ "generated_at": "2026-09-22T01:08:53Z",
  "counts": {
   "target": 110,
-  "relevant": 636
+  "relevant": 638
  },
  "roles": [
   {
@@ -3318,6 +3318,17 @@
   },
   {
    "tier": "B",
+   "company": "G2",
+   "title": "Intern, AI Agent Evaluations",
+   "location": "San Francisco, CA",
+   "season": "Fall 2026",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/g2/64dcc04a-a0e7-493b-b899-dd4c56e561fd",
+   "first_seen": "2026-09-22T01:08:53Z"
+  },
+  {
+   "tier": "B",
    "company": "Garda Capital Partners",
    "title": "Software Engineer Intern",
    "location": "New York, New York, United States",
@@ -6296,6 +6307,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
    "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "SingleStore",
+   "title": "MIT- Software Engineer Intern | Engine",
+   "location": "San Francisco, CA, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+   "first_seen": "2026-09-22T01:08:53Z"
   },
   {
    "tier": "B",
