@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-22T22:04:46Z",
+ "generated_at": "2026-09-23T00:27:58Z",
  "counts": {
   "target": 109,
-  "relevant": 642
+  "relevant": 645
  },
  "roles": [
   {
@@ -1427,6 +1427,17 @@
   {
    "tier": "B",
    "company": "Amazon",
+   "title": "Security Engineer Internship \u2013 2027 (US)",
+   "location": "Seattle, Washington, USA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
+   "first_seen": "2026-09-23T00:27:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
    "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
    "location": "Westboro, Massachusetts, USA",
    "season": "Fall 2026",
@@ -1852,6 +1863,28 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Astranis",
+   "title": "Software Engineer Backend Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+   "first_seen": "2026-09-23T00:27:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "Astranis",
+   "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+   "first_seen": "2026-09-23T00:27:58Z"
   },
   {
    "tier": "B",
@@ -5772,6 +5805,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -5811,17 +5855,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
