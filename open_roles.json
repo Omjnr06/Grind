@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-23T18:36:47Z",
+ "generated_at": "2026-09-23T21:46:08Z",
  "counts": {
   "target": 108,
-  "relevant": 663
+  "relevant": 665
  },
  "roles": [
   {
@@ -4605,6 +4605,17 @@
   },
   {
    "tier": "B",
+   "company": "Klaviyo",
+   "title": "Machine Learning Engineer Internship-Summer 2027",
+   "location": "Palo Alto, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
+   "first_seen": "2026-09-23T21:46:08Z"
+  },
+  {
+   "tier": "B",
    "company": "Kognitos",
    "title": "Software Engineer Intern - AI-Native \u2014 Fall 2026",
    "location": "San Jose, CA",
@@ -5970,17 +5981,6 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -6020,6 +6020,17 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -6659,6 +6670,17 @@
    "source": "vanshb03",
    "url": "https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Stantec",
+   "title": "Civil Engineering Intern/Co-op - Infrastructure (Summer 2027)",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956",
+   "first_seen": "2026-09-23T21:46:08Z"
   },
   {
    "tier": "B",
