@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-24T04:42:51Z",
+ "generated_at": "2026-09-24T09:32:37Z",
  "counts": {
-  "target": 110,
-  "relevant": 658
+  "target": 111,
+  "relevant": 659
  },
  "roles": [
   {
@@ -312,6 +312,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
    "first_seen": "2026-09-24T04:42:51Z"
+  },
+  {
+   "tier": "A",
+   "company": "Ramp",
+   "title": "Software Engineering Intern, iOS",
+   "location": "New York, NY (HQ)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+   "first_seen": "2026-09-24T09:32:37Z"
   },
   {
    "tier": "A",
@@ -5372,6 +5383,17 @@
    "source": "sndsh404",
    "url": "https://job-boards.greenhouse.io/neuralink/jobs/6594422003",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "NewsBreak",
+   "title": "Nearby AI Internship Program - Engineering Track",
+   "location": "Mountain View, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4712896006",
+   "first_seen": "2026-09-12T01:32:54Z"
   },
   {
    "tier": "B",
