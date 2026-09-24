@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-23T21:46:08Z",
+ "generated_at": "2026-09-24T00:06:31Z",
  "counts": {
   "target": 108,
-  "relevant": 665
+  "relevant": 664
  },
  "roles": [
   {
@@ -1328,17 +1328,6 @@
   {
    "tier": "B",
    "company": "Amazon",
-   "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
-   "location": "Austin, Texas, USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
-   "first_seen": "2026-09-08T22:37:37Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Bucharest - Romania",
    "location": "Bucharest, Romania",
    "season": "",
@@ -2259,6 +2248,17 @@
    "source": "speedyapply_intl",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149963299-web-developer-intern-python-automation-?oga=true",
    "first_seen": "2026-09-17T17:21:53Z"
+  },
+  {
+   "tier": "B",
+   "company": "Box",
+   "title": "Cloud & AI Finance Intern",
+   "location": "Redwood City, CA, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/boxinc/jobs/8226667",
+   "first_seen": "2026-09-24T00:06:31Z"
   },
   {
    "tier": "B",
@@ -3315,6 +3315,17 @@
    "source": "zshah101",
    "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
    "first_seen": "2026-09-14T23:27:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Figma",
+   "title": "Data Engineer Intern (2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+   "first_seen": "2026-09-24T00:06:31Z"
   },
   {
    "tier": "B",
@@ -5981,6 +5992,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -6020,17 +6042,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -8287,28 +8298,6 @@
    "source": "zshah101",
    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
    "first_seen": "2026-09-14T23:27:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "Data & AI Intern (Graduate/Master\u2019s)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
-   "first_seen": "2026-09-15T01:40:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "DevOps & AI Engineering Intern (Undergraduate)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-   "first_seen": "2026-09-15T01:40:30Z"
   },
   {
    "tier": "B",
