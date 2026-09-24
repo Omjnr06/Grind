@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-24T09:32:37Z",
+ "generated_at": "2026-09-24T14:25:41Z",
  "counts": {
   "target": 111,
-  "relevant": 659
+  "relevant": 662
  },
  "roles": [
   {
@@ -4617,6 +4617,17 @@
   {
    "tier": "B",
    "company": "Kitware",
+   "title": "Computer Vision Co-Op",
+   "location": "Clifton Park, New York",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3",
+   "first_seen": "2026-09-24T14:25:41Z"
+  },
+  {
+   "tier": "B",
+   "company": "Kitware",
    "title": "AI Research Internship",
    "location": "Clifton Park, New York",
    "season": "Not stated",
@@ -6036,12 +6047,12 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
    "location": "New York, NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -6076,6 +6087,17 @@
    "source": "vanshb03",
    "url": "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
@@ -8353,6 +8375,17 @@
    "source": "zshah101",
    "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190",
    "first_seen": "2026-08-29T18:50:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "Wurl",
+   "title": "Data Science Intern",
+   "location": "Remote - United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
+   "first_seen": "2026-09-24T14:25:41Z"
   },
   {
    "tier": "B",
