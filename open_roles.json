@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-24T00:06:31Z",
+ "generated_at": "2026-09-24T04:42:51Z",
  "counts": {
-  "target": 108,
-  "relevant": 664
+  "target": 110,
+  "relevant": 658
  },
  "roles": [
   {
@@ -301,6 +301,28 @@
    "source": "speedyapply_intl",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
    "first_seen": "2026-09-16T18:36:18Z"
+  },
+  {
+   "tier": "A",
+   "company": "Ramp",
+   "title": "Software Engineer Internship, Frontend",
+   "location": "New York, NY (HQ)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+   "first_seen": "2026-09-24T04:42:51Z"
+  },
+  {
+   "tier": "A",
+   "company": "Ramp",
+   "title": "Software Engineering Intern, Android",
+   "location": "New York, NY (HQ)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+   "first_seen": "2026-09-24T04:42:51Z"
   },
   {
    "tier": "A",
@@ -5992,12 +6014,12 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
    "location": "New York, NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -8258,61 +8280,6 @@
   {
    "tier": "B",
    "company": "Wex",
-   "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
-   "first_seen": "2026-09-14T23:27:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
-   "first_seen": "2026-09-14T23:27:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "Backend Software Engineer Intern - Java & AI (Master\u2019s)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
-   "first_seen": "2026-09-14T23:27:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "Fullstack Software Engineer Intern (Undergraduate)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
-   "first_seen": "2026-09-14T23:27:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
-   "first_seen": "2026-09-14T23:27:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
    "title": "SRE & Application Services Intern (Graduate/Master's)",
    "location": "US - Remote",
    "season": "Not stated",
@@ -8320,17 +8287,6 @@
    "source": "zshah101",
    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
    "first_seen": "2026-09-15T01:40:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "Software Engineer Intern \u2013 AI & Cloud (Graduate/Master\u2019s)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
-   "first_seen": "2026-09-14T23:27:18Z"
   },
   {
    "tier": "B",
