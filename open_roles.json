@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-26T10:05:32Z",
+ "generated_at": "2026-09-26T14:27:08Z",
  "counts": {
   "target": 110,
-  "relevant": 687
+  "relevant": 689
  },
  "roles": [
   {
@@ -3913,13 +3913,35 @@
   {
    "tier": "B",
    "company": "Gilead Sciences",
-   "title": "Intern -\u00a0Research\u00a0- Data Sciences - AI",
+   "title": "Intern - Research - Clinical Virology - AI",
    "location": "United States - California - Foster City",
    "season": "Not stated",
    "sponsorship": "no-sponsorship",
    "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572",
-   "first_seen": "2026-09-26T00:42:48Z"
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526",
+   "first_seen": "2026-09-26T14:27:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Gilead Sciences",
+   "title": "Intern - Research - Data Sciences - AI",
+   "location": "United States - California - Foster City",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524",
+   "first_seen": "2026-09-26T14:27:08Z"
+  },
+  {
+   "tier": "B",
+   "company": "Gilead Sciences",
+   "title": "Intern -\u00a0Research\u00a0-\u00a0Discovery Sciences and Technologies - AI",
+   "location": "United States - California - Foster City",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Discovery-Sciences-and-Technologies---AI_R0055527",
+   "first_seen": "2026-09-26T14:27:08Z"
   },
   {
    "tier": "B",
