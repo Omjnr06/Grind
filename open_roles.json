@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-29T01:14:48Z",
+ "generated_at": "2026-09-29T06:56:02Z",
  "counts": {
   "target": 108,
-  "relevant": 683
+  "relevant": 682
  },
  "roles": [
   {
@@ -3516,17 +3516,6 @@
   },
   {
    "tier": "B",
-   "company": "First American",
-   "title": "Software Engineering Intern",
-   "location": "USA, California, Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260",
-   "first_seen": "2026-08-14T23:59:57Z"
-  },
-  {
-   "tier": "B",
    "company": "Five Rings",
    "title": "Summer Intern 2027 - Quantitative Trader",
    "location": "New York, NY",
@@ -3924,6 +3913,17 @@
   {
    "tier": "B",
    "company": "Gilead Sciences",
+   "title": "Intern - Research - Inflammation - AI",
+   "location": "United States - California - Foster City",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
+   "first_seen": "2026-09-29T06:56:02Z"
+  },
+  {
+   "tier": "B",
+   "company": "Gilead Sciences",
    "title": "Intern - Research - Oncology Biomarker - AI",
    "location": "United States - California - Foster City",
    "season": "Not stated",
@@ -3942,6 +3942,17 @@
    "source": "zshah101",
    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579",
    "first_seen": "2026-09-25T22:16:11Z"
+  },
+  {
+   "tier": "B",
+   "company": "Gilead Sciences",
+   "title": "Intern - Research - Protein Therapeutics, Computational Biologics Engineering - AI",
+   "location": "United States - California - Foster City",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739",
+   "first_seen": "2026-09-29T06:56:02Z"
   },
   {
    "tier": "B",
@@ -7036,17 +7047,6 @@
   },
   {
    "tier": "B",
-   "company": "Sony",
-   "title": "Research Intern on Generative and Protective AI for Content Creation",
-   "location": "Remote - Texas",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-   "first_seen": "2026-09-18T17:46:10Z"
-  },
-  {
-   "tier": "B",
    "company": "SPAICE",
    "title": "Software Engineering Intern",
    "location": "London, United Kingdom",
@@ -8221,17 +8221,6 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64",
    "first_seen": "2026-09-01T22:01:05Z"
-  },
-  {
-   "tier": "B",
-   "company": "Vantor",
-   "title": "AI Engineer Intern",
-   "location": "Remote (United States)",
-   "season": "Not stated",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605",
-   "first_seen": "2026-09-22T22:04:46Z"
   },
   {
    "tier": "B",
