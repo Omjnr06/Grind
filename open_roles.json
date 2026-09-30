@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-30T19:15:02Z",
+ "generated_at": "2026-09-30T23:00:58Z",
  "counts": {
-  "target": 105,
-  "relevant": 667
+  "target": 106,
+  "relevant": 671
  },
  "roles": [
   {
@@ -290,6 +290,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
    "first_seen": "2026-09-24T04:42:51Z"
+  },
+  {
+   "tier": "A",
+   "company": "Ramp",
+   "title": "Applied Scientist Intern",
+   "location": "New York, NY (HQ)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+   "first_seen": "2026-09-30T23:00:58Z"
   },
   {
    "tier": "A",
@@ -2537,6 +2548,17 @@
   },
   {
    "tier": "B",
+   "company": "Clay",
+   "title": "Software Engineering Intern",
+   "location": "New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa",
+   "first_seen": "2026-09-30T23:00:58Z"
+  },
+  {
+   "tier": "B",
    "company": "Clearwater Analytics",
    "title": "Software Development Intern",
    "location": "London, United Kingdom",
@@ -2593,6 +2615,28 @@
   {
    "tier": "B",
    "company": "Coinbase",
+   "title": "Data Science Intern",
+   "location": "Hybrid - New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+   "first_seen": "2026-09-09T00:36:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "Coinbase",
+   "title": "Analytics Engineer Intern",
+   "location": "Hybrid - New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+   "first_seen": "2026-09-09T00:36:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "Coinbase",
    "title": "Software Engineer Intern",
    "location": "Hybrid - San Francisco, CA",
    "season": "Summer 2027",
@@ -2621,28 +2665,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-   "first_seen": "2026-09-09T00:36:31Z"
-  },
-  {
-   "tier": "B",
-   "company": "Coinbase",
-   "title": "Data Science Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
-   "first_seen": "2026-09-09T00:36:31Z"
-  },
-  {
-   "tier": "B",
-   "company": "Coinbase",
-   "title": "Analytics Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
    "first_seen": "2026-09-09T00:36:31Z"
   },
   {
@@ -2780,7 +2802,7 @@
   {
    "tier": "B",
    "company": "Dandy",
-   "title": "Summer 2027 Internship - Full Stack Software Engineering",
+   "title": "Summer 2027 Internship - Software Engineering",
    "location": "USA - New York NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
@@ -5496,6 +5518,17 @@
   },
   {
    "tier": "B",
+   "company": "Muon Space",
+   "title": "Flight Software Engineering Intern (Summer 2027)",
+   "location": "San Jose, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5247725007",
+   "first_seen": "2026-09-30T23:00:58Z"
+  },
+  {
+   "tier": "B",
    "company": "N1",
    "title": "Software Engineer Intern (Backend, Rust)",
    "location": "New York City, NY",
@@ -6267,6 +6300,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -6306,6 +6350,17 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
