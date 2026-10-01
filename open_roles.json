@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-01T08:50:55Z",
+ "generated_at": "2026-10-01T15:49:11Z",
  "counts": {
   "target": 106,
-  "relevant": 668
+  "relevant": 667
  },
  "roles": [
   {
@@ -3040,17 +3040,6 @@
    "source": "speedyapply",
    "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
    "first_seen": "2026-09-15T19:54:59Z"
-  },
-  {
-   "tier": "B",
-   "company": "Duolingo",
-   "title": "Software Engineer, Intern",
-   "location": "Pittsburgh, PA; New York, NY; Seattle, WA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002",
-   "first_seen": "2026-09-16T18:36:18Z"
   },
   {
    "tier": "B",
@@ -7027,7 +7016,7 @@
    "tier": "B",
    "company": "Stripe",
    "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "San Francisco, Seattle, New York City",
+   "location": "New York, Seattle, South San Francisco HQ",
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
