@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-30T23:00:58Z",
+ "generated_at": "2026-10-01T02:05:58Z",
  "counts": {
   "target": 106,
-  "relevant": 671
+  "relevant": 668
  },
  "roles": [
   {
@@ -2802,7 +2802,7 @@
   {
    "tier": "B",
    "company": "Dandy",
-   "title": "Summer 2027 Internship - Software Engineering",
+   "title": "Summer 2027 Internship - Software Engineering Intern",
    "location": "USA - New York NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
@@ -7143,39 +7143,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8177938",
    "first_seen": "2026-09-08T20:06:29Z"
-  },
-  {
-   "tier": "B",
-   "company": "Talentpluto",
-   "title": "Full Stack Engineering Intern",
-   "location": "New York, New York, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/talentpluto/j/717116FEE8/",
-   "first_seen": "2026-09-19T16:36:57Z"
-  },
-  {
-   "tier": "B",
-   "company": "Talentpluto",
-   "title": "Backend Engineering Intern",
-   "location": "United States (Remote)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/talentpluto/j/6A02556484/",
-   "first_seen": "2026-09-19T16:36:57Z"
-  },
-  {
-   "tier": "B",
-   "company": "Talentpluto",
-   "title": "AI/ML Engineering Intern",
-   "location": "United States (Remote)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/talentpluto/j/6F93C25627/",
-   "first_seen": "2026-09-02T08:54:28Z"
   },
   {
    "tier": "B",
