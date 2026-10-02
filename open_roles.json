@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-01T20:40:28Z",
+ "generated_at": "2026-10-02T00:12:46Z",
  "counts": {
   "target": 106,
-  "relevant": 663
+  "relevant": 667
  },
  "roles": [
   {
@@ -2713,6 +2713,17 @@
   },
   {
    "tier": "B",
+   "company": "CoStar Group",
+   "title": "Embedded Software Engineering Intern",
+   "location": "Sunnyvale (US)",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
+   "first_seen": "2026-10-02T00:12:46Z"
+  },
+  {
+   "tier": "B",
    "company": "Cox",
    "title": "Software Engineering Intern - Summer 2027 (North Hills, NY)",
    "location": "Long Island NY",
@@ -2820,6 +2831,17 @@
    "source": "sndsh404",
    "url": "https://www.databricks.com/university/student-fellows",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Datacor",
+   "title": "Data Science Summer 2027 Internship Program",
+   "location": "Remote, US",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+   "first_seen": "2026-10-02T00:12:46Z"
   },
   {
    "tier": "B",
@@ -3857,6 +3879,17 @@
   },
   {
    "tier": "B",
+   "company": "Glean",
+   "title": "Software Engineer, Intern (Summer 2027)",
+   "location": "Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+   "first_seen": "2026-10-02T00:12:46Z"
+  },
+  {
+   "tier": "B",
    "company": "GlobalFoundries",
    "title": "Cybersecurity Intern (Summer 2027)",
    "location": "USA - New York - Malta",
@@ -4261,6 +4294,17 @@
    "source": "speedyapply_intl",
    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
    "first_seen": "2026-09-25T19:01:43Z"
+  },
+  {
+   "tier": "B",
+   "company": "Intel",
+   "title": "AI Software Technical Intern",
+   "location": "US, California, Santa Clara",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544",
+   "first_seen": "2026-10-02T00:12:46Z"
   },
   {
    "tier": "B",
@@ -4996,8 +5040,8 @@
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-   "first_seen": "2026-09-04T23:07:12Z"
+   "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
+   "first_seen": "2026-10-02T00:12:46Z"
   },
   {
    "tier": "B",
@@ -6014,6 +6058,17 @@
   {
    "tier": "B",
    "company": "Pinterest",
+   "title": "Software Engineer Intern 2027 (USA)",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+   "first_seen": "2026-10-02T00:12:46Z"
+  },
+  {
+   "tier": "B",
+   "company": "Pinterest",
    "title": "Software Engineer Intern",
    "location": "Toronto, Canada",
    "season": "Winter",
@@ -6245,12 +6300,12 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
    "location": "New York, NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -6289,23 +6344,23 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -6681,17 +6736,6 @@
    "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
    "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "company": "Schonfeld",
-   "title": "2027 Data Science Intern",
-   "location": "New York, New York, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
-   "first_seen": "2026-09-04T19:01:45Z"
   },
   {
    "tier": "B",
