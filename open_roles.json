@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-02T00:12:46Z",
+ "generated_at": "2026-10-02T05:35:25Z",
  "counts": {
   "target": 106,
-  "relevant": 667
+  "relevant": 669
  },
  "roles": [
   {
@@ -1408,7 +1408,7 @@
    "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
    "location": "Seattle, Washington, USA",
    "season": "Summer 2027",
-   "sponsorship": "unknown",
+   "sponsorship": "citizens-only",
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
    "first_seen": "2026-09-25T04:51:58Z"
@@ -4242,6 +4242,17 @@
   },
   {
    "tier": "B",
+   "company": "IMC Trading",
+   "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York",
+   "location": "Chicago, United States; New York, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
    "company": "InfiniteQuant",
    "title": "Quantitative Developer - Internship - Summer 2027",
    "location": "New York, New York, United States (Remote)",
@@ -6311,6 +6322,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -6350,17 +6372,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -8287,6 +8298,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Walleye Capital",
+   "title": "Special Projects Developer Intern (Summer 2027)",
+   "location": "New York, New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
+   "first_seen": "2026-10-02T05:35:25Z"
   },
   {
    "tier": "B",
