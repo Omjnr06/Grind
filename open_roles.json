@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-02T05:35:25Z",
+ "generated_at": "2026-10-02T11:20:26Z",
  "counts": {
   "target": 106,
-  "relevant": 669
+  "relevant": 671
  },
  "roles": [
   {
@@ -3593,6 +3593,28 @@
   },
   {
    "tier": "B",
+   "company": "General Motors",
+   "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+   "first_seen": "2026-10-02T11:20:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
+   "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+   "first_seen": "2026-10-02T11:20:26Z"
+  },
+  {
+   "tier": "B",
    "company": "Genesys",
    "title": "Software Developer - Intern - Genesys Cloud",
    "location": "Toronto, Canada",
@@ -6200,6 +6222,17 @@
   },
   {
    "tier": "B",
+   "company": "Profluent",
+   "title": "Intern, Software Engineering",
+   "location": "Emeryville, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008",
+   "first_seen": "2026-10-02T11:20:26Z"
+  },
+  {
+   "tier": "B",
    "company": "Pylon",
    "title": "Software Engineer - Intern",
    "location": "San Francisco, CA",
@@ -8342,17 +8375,6 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
    "first_seen": "2026-08-12T21:25:36Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "AI & Data Platform Engineering Intern (Undergraduate)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-   "first_seen": "2026-09-15T01:40:30Z"
   },
   {
    "tier": "B",
