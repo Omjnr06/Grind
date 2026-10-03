@@ -124,3 +124,94 @@ def rottingOranges(grid):
 
     return time
 
+
+# Number 5: Longest Substring without Repeating Characters
+# Given a string s, find the length of the longest substring without duplicate characters.
+
+def longestSubstring(s):
+    
+    result = 0
+    l = 0
+    hashset = set()
+
+    for r in range(len(s)):
+        while s[r] in hashset:
+            hashset.remove(s[l])
+            l += 1
+        hashset.add(s[r])
+        currWindowSize = r - l + 1
+        result = max(result, currWindowSize)
+
+    return result 
+
+
+# Number 6: Number of Islands
+# Given an `m x n` 2D binary grid `grid` which represents a map of `'1'`s (land) and `'0'`s (water), return *the number of islands*.
+# An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+def numberofIslands(grid):
+    rows = len(grid)
+    cols = len(grid[0])
+    seen = set()
+    islands = 0
+
+    def dfs(r,c):
+
+        if r < 0 or c < 0 or r >= rows or c >= cols:
+            return
+        if grid[r][c] == "0" or (r,c) in seen:
+            return
+
+        seen.add((r,c))
+    
+
+        dfs(r+1,c)
+        dfs(r-1,c)
+        dfs(r,c + 1)
+        dfs(r, c - 1)
+
+    for row in range(rows):
+        for col in range(cols):
+            if grid[row][col] == 1 and (row,col) not in seen:
+                islands = 1
+                dfs(row,col)
+
+    return islands
+
+
+# Number 7: Course Schedule
+# There are a total of `numCourses` courses you have to take, labeled from `0` to `numCourses - 1`. You are given an array `prerequisites` where `prerequisites[i] = [ai, bi]` indicates that you **must** take course `bi` first if you want to take course `ai`.
+# - For example, the pair `[0, 1]`, indicates that to take course `0` you have to first take course `1`.
+# Return `true` if you can finish all courses. Otherwise, return `false`.
+
+def courseSchedule(prerequisites,numCourses):
+    adjList = {i :[] for i in range(numCourses)}
+    for course,prerequisite in adjList:
+        adjList[course].append(prerequisite)
+
+    visiting = set()
+
+    def dfs(course):
+        if course in visiting:
+            return False
+
+        if adjList[course] == []:
+            return True
+
+        visiting.add(course)
+
+        for prereqs in adjList[course]:
+            if not dfs(prereqs):
+                return False
+
+        visiting.remove(course)
+        adjList[course] = []
+        return True
+
+    for course in range(numCourses):
+        if not dfs(course):
+            return False
+
+    return True
+
+
