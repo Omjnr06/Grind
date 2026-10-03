@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-02T20:59:14Z",
+ "generated_at": "2026-10-03T00:12:18Z",
  "counts": {
   "target": 106,
-  "relevant": 682
+  "relevant": 689
  },
  "roles": [
   {
@@ -1236,6 +1236,28 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/AECOM2/744000152725659",
    "first_seen": "2026-09-30T19:15:02Z"
+  },
+  {
+   "tier": "B",
+   "company": "Affirm",
+   "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+   "location": "San Francisco, California, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+   "first_seen": "2026-10-03T00:12:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Affirm",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "San Francisco, California, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+   "first_seen": "2026-10-03T00:12:18Z"
   },
   {
    "tier": "B",
@@ -3660,6 +3682,17 @@
   {
    "tier": "B",
    "company": "General Motors",
+   "title": "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+   "first_seen": "2026-10-03T00:12:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
    "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
    "location": "Sunnyvale, California, United States of America",
    "season": "Summer 2027",
@@ -4107,6 +4140,17 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c",
    "first_seen": "2026-08-01T14:27:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Hewlett Packard (HP)",
+   "title": "AI Applied Engineering Intern",
+   "location": "Vancouver, Washington, United States of America",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2",
+   "first_seen": "2026-10-03T00:12:18Z"
   },
   {
    "tier": "B",
@@ -5122,6 +5166,17 @@
   },
   {
    "tier": "B",
+   "company": "Major League Baseball",
+   "title": "Intern, Data Science",
+   "location": "Citi Field \u2013 Queens, New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508",
+   "first_seen": "2026-10-03T00:12:18Z"
+  },
+  {
+   "tier": "B",
    "company": "Manulife",
    "title": "Summer Intern 2027 - Software Engineering",
    "location": "Toronto, Canada",
@@ -5757,6 +5812,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005",
    "first_seen": "2026-09-17T17:21:53Z"
+  },
+  {
+   "tier": "B",
+   "company": "Natera",
+   "title": "Software Engineering Intern",
+   "location": "US Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6188497004",
+   "first_seen": "2026-10-03T00:12:18Z"
   },
   {
    "tier": "B",
@@ -6520,17 +6586,6 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -6570,6 +6625,17 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -8562,6 +8628,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
    "first_seen": "2026-09-24T14:25:41Z"
+  },
+  {
+   "tier": "B",
+   "company": "xAI",
+   "title": "Summer 2027 Software Engineering Internship/Co-op",
+   "location": "Palo Alto, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
+   "first_seen": "2026-10-03T00:12:18Z"
   },
   {
    "tier": "B",
