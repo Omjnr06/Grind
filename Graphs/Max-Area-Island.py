@@ -8,7 +8,7 @@ def max(grid):
     cols = len(grid[0])
     visited = set()
     directions = [[1,0],[-1,0],[0,1],[0,-1]]
-    maxArea = 0
+    maxArea = 1
 
     def dfs(r,c):
         if r < 0 or c < 0 or r >= rows or c >= cols:
