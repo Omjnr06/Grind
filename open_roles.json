@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-06T02:16:30Z",
+ "generated_at": "2026-10-06T09:08:59Z",
  "counts": {
   "target": 106,
-  "relevant": 705
+  "relevant": 706
  },
  "roles": [
   {
@@ -4209,6 +4209,17 @@
   },
   {
    "tier": "B",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Cloud Developer Intern",
+   "location": "San Jose, California, United States of America",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
+   "first_seen": "2026-10-06T09:08:59Z"
+  },
+  {
+   "tier": "B",
    "company": "Hitachi",
    "title": "Internship - Software Asset Management",
    "location": "Remote - Lesser Poland, Poland",
@@ -6641,17 +6652,6 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -6691,6 +6691,17 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
