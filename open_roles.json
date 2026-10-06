@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-05T22:10:35Z",
+ "generated_at": "2026-10-06T02:16:30Z",
  "counts": {
   "target": 106,
-  "relevant": 702
+  "relevant": 705
  },
  "roles": [
   {
@@ -2890,7 +2890,7 @@
   {
    "tier": "B",
    "company": "Datacor",
-   "title": "Data Science Summer 2027 Internship Program",
+   "title": "Summer 2027 AI Engineer Intern",
    "location": "Remote, US",
    "season": "Summer 2027",
    "sponsorship": "unknown",
@@ -3502,6 +3502,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Found Energy",
+   "title": "Data Engineer Co-op",
+   "location": "Cambridge, MA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/foundenergy/jobs/4719227006",
+   "first_seen": "2026-10-06T02:16:30Z"
   },
   {
    "tier": "B",
@@ -4506,6 +4517,17 @@
   },
   {
    "tier": "B",
+   "company": "Intel",
+   "title": "AI Solution Architect - Graduate Intern",
+   "location": "US, California, Santa Clara",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524",
+   "first_seen": "2026-10-06T02:16:30Z"
+  },
+  {
+   "tier": "B",
    "company": "Intercontinental Exchange, Inc.",
    "title": "Artificial Intelligence, Data & Machine Learning Intern",
    "location": "New York, NY",
@@ -4558,6 +4580,17 @@
    "source": "speedyapply",
    "url": "https://www.ixl.com/company/jobs?gh_jid=8765770002",
    "first_seen": "2026-09-01T16:47:24Z"
+  },
+  {
+   "tier": "B",
+   "company": "Jain Global",
+   "title": "Data Engineer Intern",
+   "location": "New York, New York",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
+   "first_seen": "2026-10-06T02:16:30Z"
   },
   {
    "tier": "B",
@@ -7125,17 +7158,6 @@
   {
    "tier": "B",
    "company": "SharkNinja",
-   "title": "Fall 2026: AI/Sharks Applied AI & Analytics Co-op (August to December)",
-   "location": "Miami, Florida, United States; Needham, MA, United States; New York, New York, United States",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "SharkNinja",
    "title": "Applied AI & Analytics Co-op Opportunities",
    "location": "Miami, Florida, United States; Needham, MA, United States; New York, New York, United States",
    "season": "Not stated",
@@ -7660,6 +7682,17 @@
    "source": "vanshb03",
    "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Texas Instruments",
+   "title": "Software Engineering Intern",
+   "location": "Santa Clara, CA, United States",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016392",
+   "first_seen": "2026-10-06T02:16:30Z"
   },
   {
    "tier": "B",
