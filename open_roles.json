@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-07T00:07:08Z",
+ "generated_at": "2026-10-07T05:52:03Z",
  "counts": {
   "target": 106,
-  "relevant": 730
+  "relevant": 731
  },
  "roles": [
   {
@@ -1346,6 +1346,17 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
    "first_seen": "2026-09-25T04:51:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
+   "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
+   "location": "Redmond, Washington, USA",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
+   "first_seen": "2026-10-07T05:52:03Z"
   },
   {
    "tier": "B",
@@ -2963,6 +2974,17 @@
    "source": "sndsh404",
    "url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Dandy",
+   "title": "Summer 2027 Internship - Software Engineering Intern",
+   "location": "USA - New York NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099",
+   "first_seen": "2026-09-30T19:15:02Z"
   },
   {
    "tier": "B",
@@ -6817,28 +6839,6 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -7418,6 +7418,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
    "first_seen": "2026-09-10T00:34:38Z"
+  },
+  {
+   "tier": "B",
+   "company": "Sigma Computing",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
+   "first_seen": "2026-10-07T05:52:03Z"
   },
   {
    "tier": "B",
