@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-07T05:52:03Z",
+ "generated_at": "2026-10-07T12:18:00Z",
  "counts": {
   "target": 106,
-  "relevant": 731
+  "relevant": 733
  },
  "roles": [
   {
@@ -7847,6 +7847,28 @@
    "source": "zshah101",
    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1",
    "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Tenstorrent",
+   "title": "AI SW Intern, Cloud, Infrastructure & Data Centre Deployment",
+   "location": "Austin, Texas, United States; Santa Clara, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007",
+   "first_seen": "2026-10-07T12:18:00Z"
+  },
+  {
+   "tier": "B",
+   "company": "Tenstorrent",
+   "title": "AI Software Intern",
+   "location": "Austin, Texas, United States; Santa Clara, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007",
+   "first_seen": "2026-10-07T12:18:00Z"
   },
   {
    "tier": "B",
