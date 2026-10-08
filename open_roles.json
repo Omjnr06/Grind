@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-08T09:42:27Z",
+ "generated_at": "2026-10-08T16:56:58Z",
  "counts": {
   "target": 107,
-  "relevant": 741
+  "relevant": 738
  },
  "roles": [
   {
@@ -6508,17 +6508,6 @@
   },
   {
    "tier": "B",
-   "company": "PDT Partners",
-   "title": "Summer 2027 Quantitative Research Intern",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8263031",
-   "first_seen": "2026-10-07T23:33:38Z"
-  },
-  {
-   "tier": "B",
    "company": "Perchwell",
    "title": "Software Engineering Intern",
    "location": "New York City, NY",
@@ -6890,28 +6879,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
    "first_seen": "2026-09-16T18:36:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
