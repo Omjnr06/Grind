@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-08T21:45:53Z",
+ "generated_at": "2026-10-09T01:33:16Z",
  "counts": {
   "target": 109,
-  "relevant": 741
+  "relevant": 735
  },
  "roles": [
   {
@@ -2735,6 +2735,17 @@
   },
   {
    "tier": "B",
+   "company": "Centific",
+   "title": "AI Research Intern -  Physical AI",
+   "location": "Remote Work( USA)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
+   "first_seen": "2026-08-19T19:28:37Z"
+  },
+  {
+   "tier": "B",
    "company": "Chemours",
    "title": "AI & Data Science Intern",
    "location": "US - Remote",
@@ -3205,17 +3216,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
    "first_seen": "2026-09-26T00:42:48Z"
-  },
-  {
-   "tier": "B",
-   "company": "DoorDash",
-   "title": "Software Engineer, Intern - Labs (Summer 2027)",
-   "location": "San Francisco, CA; Sunnyvale, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
-   "first_seen": "2026-10-08T09:42:27Z"
   },
   {
    "tier": "B",
@@ -4380,8 +4380,8 @@
    "season": "Not stated",
    "sponsorship": "no-sponsorship",
    "source": "zshah101",
-   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2",
-   "first_seen": "2026-10-03T00:12:18Z"
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670",
+   "first_seen": "2026-10-09T01:33:16Z"
   },
   {
    "tier": "B",
@@ -5651,39 +5651,6 @@
   {
    "tier": "B",
    "company": "Meridian Partners",
-   "title": "Flight Software Engineer Co-op",
-   "location": "Cambridge, MA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003",
-   "first_seen": "2026-08-25T02:12:35Z"
-  },
-  {
-   "tier": "B",
-   "company": "Meridian Partners",
-   "title": "Cloud Software Engineer Co-op",
-   "location": "Cambridge, MA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003",
-   "first_seen": "2026-08-25T02:12:35Z"
-  },
-  {
-   "tier": "B",
-   "company": "Meridian Partners",
-   "title": "Front End Software Engineer Graduate Co-op",
-   "location": "Cambridge, MA",
-   "season": "Not stated",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003",
-   "first_seen": "2026-08-25T02:12:35Z"
-  },
-  {
-   "tier": "B",
-   "company": "Meridian Partners",
    "title": "Embedded Software Engineer Co-op",
    "location": "Cambridge, MA",
    "season": "Not stated",
@@ -5695,17 +5662,6 @@
   {
    "tier": "B",
    "company": "Meridian Partners",
-   "title": "Data Scientist Graduate Co-op",
-   "location": "Cambridge, MA, Arlington, VA",
-   "season": "Not stated",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003",
-   "first_seen": "2026-08-25T02:12:35Z"
-  },
-  {
-   "tier": "B",
-   "company": "Meridian Partners",
    "title": "Full Stack Software Engineer Graduate Co-op",
    "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
    "season": "Not stated",
@@ -5713,17 +5669,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003",
    "first_seen": "2026-08-25T02:12:35Z"
-  },
-  {
-   "tier": "B",
-   "company": "Meridian Partners",
-   "title": "Machine Learning Engineer Co-op",
-   "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
-   "season": "Not stated",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003",
-   "first_seen": "2026-08-25T03:57:59Z"
   },
   {
    "tier": "B",
@@ -6999,17 +6944,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
