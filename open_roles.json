@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-09T20:05:16Z",
+ "generated_at": "2026-10-10T00:00:32Z",
  "counts": {
   "target": 110,
-  "relevant": 733
+  "relevant": 740
  },
  "roles": [
   {
@@ -2010,6 +2010,17 @@
   {
    "tier": "B",
    "company": "Arcesium",
+   "title": "Software Engineer Intern",
+   "location": "New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007",
+   "first_seen": "2026-10-10T00:00:32Z"
+  },
+  {
+   "tier": "B",
+   "company": "Arcesium",
    "title": "Infrastructure Engineer Intern",
    "location": "New York",
    "season": "Not stated",
@@ -2523,6 +2534,17 @@
    "source": "speedyapply_intl",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154385425-powertrain-software-intern?oga=true",
    "first_seen": "2026-10-09T20:05:16Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bosch",
+   "title": "Artificial Intelligence / Machine Learning: Foundation Models - Intern",
+   "location": "Sunnyvale, CA, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734",
+   "first_seen": "2026-10-10T00:00:32Z"
   },
   {
    "tier": "B",
@@ -3264,6 +3286,17 @@
   {
    "tier": "B",
    "company": "DoorDash",
+   "title": "Software Engineer, Intern - Labs (Summer 2027)",
+   "location": "San Francisco, CA; Sunnyvale, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+   "first_seen": "2026-10-08T09:42:27Z"
+  },
+  {
+   "tier": "B",
+   "company": "DoorDash",
    "title": "Software Engineer - Intern - Summer 2027 - TOR",
    "location": "Toronto, Canada",
    "season": "",
@@ -4001,6 +4034,17 @@
   {
    "tier": "B",
    "company": "General Motors",
+   "title": "2027 Summer Intern,  Data Scaling, Embodied AI",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
+   "first_seen": "2026-10-10T00:00:32Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
    "title": "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
    "location": "Sunnyvale, California, United States of America",
    "season": "Summer 2027",
@@ -4030,6 +4074,39 @@
    "source": "zshah101",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
    "first_seen": "2026-10-02T11:20:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
+   "title": "2027 Summer Intern, AI Research, Embodied AI",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146",
+   "first_seen": "2026-10-10T00:00:32Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
+   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
+   "first_seen": "2026-10-10T00:00:32Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
+   "title": "2027 Summer Intern, SEAM, Embodied AI",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
+   "first_seen": "2026-10-10T00:00:32Z"
   },
   {
    "tier": "B",
