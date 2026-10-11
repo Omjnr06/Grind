@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T02:10:07Z",
+ "generated_at": "2026-10-11T08:44:18Z",
  "counts": {
   "target": 110,
   "relevant": 735
@@ -1977,17 +1977,6 @@
   {
    "tier": "B",
    "company": "Applied Materials",
-   "title": "2027 Software Engineering Intern - Masters - Santa Clara - CA",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
-   "first_seen": "2026-09-09T17:48:15Z"
-  },
-  {
-   "tier": "B",
-   "company": "Applied Materials",
    "title": "Software Engineering Summer Intern - Masters - Santa Clara - CA",
    "location": "Santa Clara, CA",
    "season": "",
@@ -1995,6 +1984,17 @@
    "source": "speedyapply",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
    "first_seen": "2026-10-10T20:11:20Z"
+  },
+  {
+   "tier": "B",
+   "company": "Applied Materials",
+   "title": "2027 Software Engineering Intern - Masters - Santa Clara - CA",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+   "first_seen": "2026-09-09T17:48:15Z"
   },
   {
    "tier": "B",
