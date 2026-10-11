@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T08:44:18Z",
+ "generated_at": "2026-10-11T15:05:27Z",
  "counts": {
-  "target": 110,
-  "relevant": 735
+  "target": 108,
+  "relevant": 737
  },
  "roles": [
   {
@@ -367,28 +367,6 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
    "first_seen": "2026-09-24T04:42:51Z"
-  },
-  {
-   "tier": "A",
-   "company": "revolut",
-   "title": "graduate programme 2027: software engineer (android)",
-   "location": "united kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "earlycareers_eu",
-   "url": "https://www.linkedin.com/jobs/view/4419097468",
-   "first_seen": "2026-09-18T00:58:31Z"
-  },
-  {
-   "tier": "A",
-   "company": "revolut",
-   "title": "graduate programme 2027: software engineer (ios)",
-   "location": "united kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "earlycareers_eu",
-   "url": "https://www.linkedin.com/jobs/view/4419301372",
-   "first_seen": "2026-09-18T00:58:31Z"
   },
   {
    "tier": "A",
@@ -1907,6 +1885,17 @@
    "source": "speedyapply_intl",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
    "first_seen": "2026-10-09T20:05:16Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "software engineer graduate programme 2027 - business process re-engineering",
+   "location": "cork, county cork, ireland",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4466869064",
+   "first_seen": "2026-10-11T15:05:27Z"
   },
   {
    "tier": "B",
@@ -4704,6 +4693,17 @@
   },
   {
    "tier": "B",
+   "company": "hunter bond",
+   "title": "graduate software engineer / quant developer / quant researcher - up to \u00a3180,000 + bonus + package",
+   "location": "london area, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4471298296",
+   "first_seen": "2026-10-11T15:05:27Z"
+  },
+  {
+   "tier": "B",
    "company": "Hypercubic",
    "title": "Software Engineering Intern",
    "location": "San Francisco, CA",
@@ -6993,6 +6993,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Full Stack Software Engineer Intern - Summer 2027",
    "location": "New York, NY",
    "season": "Summer 2027",
@@ -8650,17 +8661,6 @@
    "source": "speedyapply",
    "url": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Syracuse-NY/Software-Engineering-Intern---Summer-2027_R18253",
    "first_seen": "2026-09-29T18:51:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "ttp plc",
-   "title": "graduate consultant - software engineering 2026",
-   "location": "cambridge, england, united kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "earlycareers_eu",
-   "url": "https://www.linkedin.com/jobs/view/4462968346",
-   "first_seen": "2026-09-18T00:58:31Z"
   },
   {
    "tier": "B",
