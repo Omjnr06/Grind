@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T23:08:19Z",
+ "generated_at": "2026-10-12T02:20:17Z",
  "counts": {
   "target": 108,
-  "relevant": 737
+  "relevant": 736
  },
  "roles": [
   {
@@ -2115,17 +2115,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724489005",
-   "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "company": "Astera Labs",
-   "title": "Platform Software Diagnostics Intern",
-   "location": "San Jose, California",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724492005",
    "first_seen": "2026-10-06T20:38:56Z"
   },
   {
