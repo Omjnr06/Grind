@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-13T07:54:22Z",
+ "generated_at": "2026-10-13T15:24:11Z",
  "counts": {
   "target": 108,
-  "relevant": 734
+  "relevant": 732
  },
  "roles": [
   {
@@ -1544,17 +1544,6 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
    "first_seen": "2026-10-02T20:59:14Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
-   "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
-   "location": "Seattle, Washington, USA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
-   "first_seen": "2026-10-07T00:07:08Z"
   },
   {
    "tier": "B",
@@ -3472,17 +3461,6 @@
   },
   {
    "tier": "B",
-   "company": "Engineers Gate",
-   "title": "Quantitative Research Intern",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8249666",
-   "first_seen": "2026-10-07T00:07:08Z"
-  },
-  {
-   "tier": "B",
    "company": "EQ Bank",
    "title": "Intern - Software Engineer - Winter 2027",
    "location": "Toronto, Canada",
@@ -4547,6 +4525,17 @@
    "source": "zshah101",
    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
    "first_seen": "2026-10-06T09:08:59Z"
+  },
+  {
+   "tier": "B",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Firmware Engineering Intern",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
+   "first_seen": "2026-10-13T15:24:11Z"
   },
   {
    "tier": "B",
@@ -6971,12 +6960,12 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
    "location": "New York, NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -7021,17 +7010,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
