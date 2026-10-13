@@ -9,8 +9,9 @@ def ConsecutiveSequence(nums):
 	for x in numsHash:
 		if x-1  not in numsHash:
 			length = 1
-		while x + length in numsHash:
-			length += 1
+			
+			while x + length in numsHash:
+				length += 1
 		
 		count = max(count, length)
 		
