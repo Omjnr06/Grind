@@ -138,12 +138,161 @@ def rottingOranges(grid: list[list[int]]) -> int:
                 fresh -= 1
                 q.append((row+dr , col+dc))
                 grid[row + dr][col + dc] = 2
-                
+
         time += 1
 
     if fresh > 0:
         return -1
 
     return time 
-            
 
+# Number 6: Max Area of Island
+# You are given an `m x n` binary matrix `grid`. An island is a group of `1`'s (representing land) connected **4-directionally** (horizontal or vertical.) You may assume all four edges of the grid are surrounded by water.
+# The **area** of an island is the number of cells with a value `1` in the island.
+# Return *the maximum **area** of an island in* `grid`. If there is no island, return `0`.
+
+def maxAreaOfIsland(self,grid):
+    
+    rows = len(grid)
+    cols = len(grid[0])
+    maxArea = 0
+    seen = set()
+    directions = [[1,0],[-1,0],[0,1],[0,-1]]
+
+    def dfs(r,c):
+        if ((r >= rows) or (c >= cols) or (r < 0) or (c < 0)):
+            return 0
+
+        if grid[r][c] == 0 or (r,c) in seen:
+            return 0 
+
+        seen.add((r,c))
+
+        localCounter = 1
+
+        for dr, dc in directions:
+            localCounter += dfs((r + dr,c + dc))
+
+        return localCounter
+
+
+    for r in range(rows):
+        for c in range(cols):
+            if grid[r][c] == 1 and (r,c) not in seen:
+                area = dfs(r,c)
+                maxArea = max(maxArea, area)
+
+
+    return maxArea
+
+# Number 7: Course Schedule
+# There are a total of `numCourses` courses you have to take, labeled from `0` to `numCourses - 1`. You are given an array `prerequisites` where `prerequisites[i] = [ai, bi]` indicates that you **must** take course `bi` first if you want to take course `ai`.
+# - For example, the pair `[0, 1]`, indicates that to take course `0` you have to first take course `1`.
+# Return `true` if you can finish all courses. Otherwise, return `false`.
+
+def courseSchedule (numCourses, prerequisites):
+    adjList = {i: [] for i in range(len(numCourses))}
+    visiting = set()
+
+    for c,p in prerequisites:
+        adjList[c].append(p)
+
+    def dfs(course):
+
+        if course in visiting:
+            return False
+        
+        if adjList[course] ==  []:
+            return True
+
+        visiting.add(course)
+
+        for prereq in adjList[course]:
+            if not dfs(prereq):
+                return False
+
+        adjList[course] = []
+        visiting.remove(course)
+        return True
+
+    for course in range(numCourses):
+        if not dfs(course):
+            return False
+    
+    return True
+
+# Number 8: Threesum
+# Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] 
+# such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+# Notice that the solution set must not contain duplicate triplets.
+
+def threesum(nums: list[int]) -> list[list[int]]:
+    result = []
+
+    if not nums:
+        return 0
+
+    for x in range(len(nums)):
+        l = x + 1
+        r = len(nums) - 1
+
+        if x > 0 and nums[x] == nums[x-1]:
+            continue
+        while l <=r :
+            threesumVal = nums[l] + nums[r] + nums[x]
+
+            if threesumVal > 0:
+                r -= 1
+            elif threesumVal < 0:
+                l += 1
+            else:
+                result.append([nums[x],nums[l],nums[r]])
+                l += 1
+                
+                while l <= r and nums[l] == nums[l -1]:
+                    l += 1
+
+    return result
+
+# Number 9: Reorder List
+# You are given the head of a singly linked-list. The list can be represented as:
+# L0 → L1 → … → Ln - 1 → Ln
+# Reorder the list to be on the following form:
+# L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
+# You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+
+class Node:
+
+    def __init__(self, val: int, next: 'Node')-> 'Node':
+        self.val = val
+        self.next = next
+
+    def reorder(head):
+        fast = head.next
+        slow = head
+
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+
+
+        secondHalf = slow.next
+        prev = None
+
+        while secondHalf:
+            temp = secondHalf.next
+            secondHalf.next = prev
+            prev = secondHalf
+            secondHalf = temp
+
+        firstHalf = head
+        secondHalf = prev
+
+        while secondHalf:
+            temp1 = firstHalf.next
+            temp2 = secondHalf.next
+            firstHalf.next = secondHalf
+            secondHalf.next = temp1
+            firstHalf = temp1
+            secondHalf = temp2
+ 
