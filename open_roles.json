@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-13T20:44:34Z",
+ "generated_at": "2026-10-13T23:55:56Z",
  "counts": {
   "target": 108,
-  "relevant": 750
+  "relevant": 751
  },
  "roles": [
   {
@@ -2226,6 +2226,17 @@
    "source": "vanshb03",
    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
    "first_seen": "2026-08-07T18:28:06Z"
+  },
+  {
+   "tier": "B",
+   "company": "Azul Systems",
+   "title": "IT Intern, AI and Operations",
+   "location": "Sunnyvale, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db",
+   "first_seen": "2026-10-13T23:55:56Z"
   },
   {
    "tier": "B",
@@ -5535,8 +5546,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
-   "first_seen": "2026-09-23T09:46:38Z"
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1",
+   "first_seen": "2026-10-13T23:55:56Z"
   },
   {
    "tier": "B",
@@ -5557,8 +5568,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
-   "first_seen": "2026-09-23T09:46:38Z"
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
+   "first_seen": "2026-10-13T23:55:56Z"
   },
   {
    "tier": "B",
@@ -6130,17 +6141,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
-   "first_seen": "2026-09-03T13:32:49Z"
-  },
-  {
-   "tier": "B",
-   "company": "Momentive",
-   "title": "Summer 2027 Intern - Software Development",
-   "location": "US NY Niskayuna",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
    "first_seen": "2026-09-03T13:32:49Z"
   },
   {
@@ -7092,6 +7092,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -7154,17 +7165,6 @@
    "source": "sndsh404",
    "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rivet Industries",
-   "title": "Intern, Software Engineering (Summer 2027)",
-   "location": "San Jose, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914",
-   "first_seen": "2026-10-07T00:07:08Z"
   },
   {
    "tier": "B",
@@ -7660,6 +7660,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Skydio",
+   "title": "Embedded Software Engineer Intern - Summer 2027",
+   "location": "San Mateo, California, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260",
+   "first_seen": "2026-10-13T23:55:56Z"
   },
   {
    "tier": "B",
