@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14T18:13:19Z",
+ "generated_at": "2026-10-14T21:40:34Z",
  "counts": {
   "target": 108,
-  "relevant": 761
+  "relevant": 762
  },
  "roles": [
   {
@@ -1548,17 +1548,6 @@
   {
    "tier": "B",
    "company": "Amazon",
-   "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
-   "location": "Westboro, Massachusetts, USA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
-   "first_seen": "2026-10-14T18:13:19Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
    "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
    "location": "Westboro, WI",
    "season": "",
@@ -2215,6 +2204,17 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
    "first_seen": "2026-09-23T18:36:47Z"
+  },
+  {
+   "tier": "B",
+   "company": "Astreya",
+   "title": "AI Infrastructure DC Design Intern",
+   "location": "Remote, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927",
+   "first_seen": "2026-10-14T21:40:34Z"
   },
   {
    "tier": "B",
@@ -3836,17 +3836,6 @@
   {
    "tier": "B",
    "company": "Flagship Pioneering",
-   "title": "Pioneering Intelligence: Agentic AI Co-Op",
-   "location": "Cambridge, MA USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002",
-   "first_seen": "2026-09-02T19:46:14Z"
-  },
-  {
-   "tier": "B",
-   "company": "Flagship Pioneering",
    "title": "Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)",
    "location": "Cambridge, MA USA",
    "season": "Not stated",
@@ -4074,6 +4063,28 @@
    "source": "speedyapply",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
    "first_seen": "2026-10-04T19:12:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
+   "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+   "first_seen": "2026-10-14T21:40:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "General Motors",
+   "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+   "first_seen": "2026-10-14T21:40:34Z"
   },
   {
    "tier": "B",
@@ -5738,6 +5749,17 @@
   },
   {
    "tier": "B",
+   "company": "LSEG",
+   "title": "Intern - Software Engineer",
+   "location": "New York City, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
+   "first_seen": "2026-10-14T21:40:34Z"
+  },
+  {
+   "tier": "B",
    "company": "Lyft",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "location": "New York, NY",
@@ -6860,17 +6882,6 @@
   },
   {
    "tier": "B",
-   "company": "Perseus Group",
-   "title": "Cyber Security Intern",
-   "location": "Remote - USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2",
-   "first_seen": "2026-09-25T19:01:43Z"
-  },
-  {
-   "tier": "B",
    "company": "Persona",
    "title": "Software Engineer - Intern - Summer 2027",
    "location": "San Francisco, CA",
@@ -7220,17 +7231,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
    "first_seen": "2026-09-16T18:36:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
@@ -7825,6 +7825,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Skydio",
+   "title": "Software Engineer Intern - Summer 2027",
+   "location": "San Mateo, California, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
+   "first_seen": "2026-10-14T21:40:34Z"
   },
   {
    "tier": "B",
