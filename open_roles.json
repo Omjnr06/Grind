@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14T08:20:41Z",
+ "generated_at": "2026-10-14T13:53:03Z",
  "counts": {
   "target": 108,
-  "relevant": 744
+  "relevant": 743
  },
  "roles": [
   {
@@ -8038,17 +8038,6 @@
   {
    "tier": "B",
    "company": "Tencent",
-   "title": "Cyber Security Engineer Intern",
-   "location": "US-California-Palo Alto",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2",
-   "first_seen": "2026-09-14T23:27:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Tencent",
    "title": "Data Science Intern",
    "location": "US-California-Palo Alto",
    "season": "Not stated",
@@ -8056,17 +8045,6 @@
    "source": "zshah101",
    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
    "first_seen": "2026-10-12T09:29:49Z"
-  },
-  {
-   "tier": "B",
-   "company": "Tencent",
-   "title": "Machine Learning Intern",
-   "location": "US-California-Palo Alto",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1",
-   "first_seen": "2026-09-15T12:07:02Z"
   },
   {
    "tier": "B",
@@ -8100,6 +8078,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007",
    "first_seen": "2026-10-07T12:18:00Z"
+  },
+  {
+   "tier": "B",
+   "company": "Tenstorrent",
+   "title": "Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)",
+   "location": "Austin, Texas, United States; Santa Clara, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007",
+   "first_seen": "2026-10-14T13:53:03Z"
   },
   {
    "tier": "B",
