@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-13T23:55:56Z",
+ "generated_at": "2026-10-14T02:57:21Z",
  "counts": {
   "target": 108,
-  "relevant": 751
+  "relevant": 749
  },
  "roles": [
   {
@@ -2072,6 +2072,28 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738565005",
    "first_seen": "2026-10-06T20:38:56Z"
+  },
+  {
+   "tier": "B",
+   "company": "Astera Labs",
+   "title": "Firmware Engineer Intern Fall Co-op",
+   "location": "San Jose, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005",
+   "first_seen": "2026-10-14T02:57:21Z"
+  },
+  {
+   "tier": "B",
+   "company": "Astera Labs",
+   "title": "Firmware Engineer Intern Summer Co-op",
+   "location": "San Jose, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005",
+   "first_seen": "2026-10-14T02:57:21Z"
   },
   {
    "tier": "B",
@@ -4903,7 +4925,7 @@
   {
    "tier": "B",
    "company": "IMC Trading",
-   "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York",
+   "title": "Deep Learning Research Intern - Summer 2027 - New York",
    "location": "New York, United States",
    "season": "Summer 2027",
    "sponsorship": "unknown",
@@ -5546,8 +5568,19 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1",
-   "first_seen": "2026-10-13T23:55:56Z"
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
+   "first_seen": "2026-09-23T09:46:38Z"
+  },
+  {
+   "tier": "B",
+   "company": "KLA",
+   "title": "Computer Vision/Machine Learning Intern",
+   "location": "Milpitas, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1",
+   "first_seen": "2026-10-14T02:57:21Z"
   },
   {
    "tier": "B",
@@ -5568,8 +5601,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
-   "first_seen": "2026-10-13T23:55:56Z"
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
+   "first_seen": "2026-09-23T09:46:38Z"
   },
   {
    "tier": "B",
@@ -7092,17 +7125,6 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -7132,6 +7154,17 @@
    "source": "vanshb03",
    "url": "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
@@ -9204,17 +9237,6 @@
   {
    "tier": "B",
    "company": "Wex",
-   "title": "AI & Data Platform Engineering Intern (Undergraduate)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-   "first_seen": "2026-09-15T01:40:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
    "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
    "location": "US - Remote",
    "season": "Not stated",
@@ -9259,39 +9281,6 @@
   {
    "tier": "B",
    "company": "Wex",
-   "title": "Data & AI Intern (Graduate/Master\u2019s)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
-   "first_seen": "2026-09-15T01:40:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "DevOps & AI Engineering Intern (Undergraduate)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-   "first_seen": "2026-09-15T01:40:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "SRE & Application Services Intern (Graduate/Master's)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
-   "first_seen": "2026-09-15T01:40:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
    "title": "Software Engineer Intern \u2013 AI & Cloud (Graduate/Master\u2019s)",
    "location": "US - Remote",
    "season": "Not stated",
@@ -9299,17 +9288,6 @@
    "source": "zshah101",
    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
    "first_seen": "2026-09-14T23:27:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Wex",
-   "title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
-   "first_seen": "2026-09-24T21:47:18Z"
   },
   {
    "tier": "B",
