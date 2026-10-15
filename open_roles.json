@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14T21:40:34Z",
+ "generated_at": "2026-10-15T00:05:50Z",
  "counts": {
   "target": 108,
-  "relevant": 762
+  "relevant": 764
  },
  "roles": [
   {
@@ -2087,28 +2087,6 @@
   {
    "tier": "B",
    "company": "Astera Labs",
-   "title": "Firmware Engineer Intern Fall Co-op",
-   "location": "San Jose, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005",
-   "first_seen": "2026-10-14T02:57:21Z"
-  },
-  {
-   "tier": "B",
-   "company": "Astera Labs",
-   "title": "Firmware Engineer Intern Summer Co-op",
-   "location": "San Jose, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005",
-   "first_seen": "2026-10-14T02:57:21Z"
-  },
-  {
-   "tier": "B",
-   "company": "Astera Labs",
    "title": "CyberSecurity Engineer Intern",
    "location": "San Jose, CA",
    "season": "Not stated",
@@ -3824,6 +3802,17 @@
   },
   {
    "tier": "B",
+   "company": "Figure",
+   "title": "Embedded Software Engineering Intern, Platform",
+   "location": "San Jose, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
+   "first_seen": "2026-10-15T00:05:50Z"
+  },
+  {
+   "tier": "B",
    "company": "Five Rings",
    "title": "Summer Intern 2027 - Quantitative Trader",
    "location": "New York, NY",
@@ -4745,6 +4734,17 @@
    "source": "zshah101",
    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088",
    "first_seen": "2026-09-17T22:57:14Z"
+  },
+  {
+   "tier": "B",
+   "company": "Howden",
+   "title": "Underwriting Intern, Cyber",
+   "location": "New York \u2013 1350 Avenue Of The Americas",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1",
+   "first_seen": "2026-10-15T00:05:50Z"
   },
   {
    "tier": "B",
@@ -6486,6 +6486,17 @@
   },
   {
    "tier": "B",
+   "company": "Nissan",
+   "title": "AI Robotics Research Intern - Summer 2027 - Santa Clara, CA",
+   "location": "Santa Clara, California - United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267",
+   "first_seen": "2026-10-15T00:05:50Z"
+  },
+  {
+   "tier": "B",
    "company": "Notion",
    "title": "Software Engineer Intern - Mobile - Winter 2027",
    "location": "San Francisco, CA +1",
@@ -7235,6 +7246,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -7268,23 +7290,23 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
