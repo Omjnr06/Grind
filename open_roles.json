@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-15T00:05:50Z",
+ "generated_at": "2026-10-15T04:31:21Z",
  "counts": {
   "target": 108,
-  "relevant": 764
+  "relevant": 763
  },
  "roles": [
   {
@@ -1533,17 +1533,6 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
    "first_seen": "2026-10-02T20:59:14Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
-   "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-   "location": "Westboro, Massachusetts, USA",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026",
-   "first_seen": "2026-08-28T01:28:26Z"
   },
   {
    "tier": "B",
