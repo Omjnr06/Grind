@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-16T16:49:19Z",
+ "generated_at": "2026-10-16T19:45:20Z",
  "counts": {
   "target": 109,
-  "relevant": 783
+  "relevant": 781
  },
  "roles": [
   {
@@ -3568,17 +3568,6 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009",
    "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "company": "ENSCO",
-   "title": "Information Security Intern",
-   "location": "Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States",
-   "season": "Not stated",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/ensco/jobs/5421861008",
-   "first_seen": "2026-09-15T16:54:43Z"
   },
   {
    "tier": "B",
@@ -7433,6 +7422,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Full Stack Software Engineer Intern - Summer 2027",
    "location": "New York, NY",
    "season": "Summer 2027",
@@ -7473,17 +7473,6 @@
    "source": "vanshb03",
    "url": "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
@@ -8144,17 +8133,6 @@
    "source": "vanshb03",
    "url": "https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
    "first_seen": "2026-07-24T09:31:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "SPS Commerce",
-   "title": "Software Engineer Intern",
-   "location": "CA ON Brampton Office",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353",
-   "first_seen": "2026-10-15T18:18:56Z"
   },
   {
    "tier": "B",
