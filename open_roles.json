@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-17T00:37:48Z",
+ "generated_at": "2026-10-17T04:58:20Z",
  "counts": {
   "target": 109,
-  "relevant": 781
+  "relevant": 769
  },
  "roles": [
   {
@@ -2812,17 +2812,6 @@
   },
   {
    "tier": "B",
-   "company": "Chemours",
-   "title": "AI & Data Science Intern",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013",
-   "first_seen": "2026-08-26T23:51:14Z"
-  },
-  {
-   "tier": "B",
    "company": "Circleback",
    "title": "Software Engineering Intern (Summer 2027)",
    "location": "San Francisco, CA",
@@ -4254,72 +4243,6 @@
   {
    "tier": "B",
    "company": "Genuine Parts Company",
-   "title": "Cloud Developer Intern",
-   "location": "Birmingham, AL, USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133",
-   "first_seen": "2026-09-01T22:01:05Z"
-  },
-  {
-   "tier": "B",
-   "company": "Genuine Parts Company",
-   "title": "Cloud SRE Intern",
-   "location": "Birmingham, AL, USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
-   "first_seen": "2026-09-01T22:01:05Z"
-  },
-  {
-   "tier": "B",
-   "company": "Genuine Parts Company",
-   "title": "Customer Software Development Intern",
-   "location": "Birmingham, AL, USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135",
-   "first_seen": "2026-09-01T22:01:05Z"
-  },
-  {
-   "tier": "B",
-   "company": "Genuine Parts Company",
-   "title": "GRC/Cybersecurity Analyst Intern",
-   "location": "Birmingham, AL, USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137",
-   "first_seen": "2026-09-01T22:01:05Z"
-  },
-  {
-   "tier": "B",
-   "company": "Genuine Parts Company",
-   "title": "Platform Engineering Intern",
-   "location": "Birmingham, AL, USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141",
-   "first_seen": "2026-09-01T22:01:05Z"
-  },
-  {
-   "tier": "B",
-   "company": "Genuine Parts Company",
-   "title": "Software Developer Intern",
-   "location": "Birmingham, AL, USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
-   "first_seen": "2026-09-01T22:01:05Z"
-  },
-  {
-   "tier": "B",
-   "company": "Genuine Parts Company",
    "title": "Software Engineer - QA Analyst Intern",
    "location": "Birmingham, AL, USA",
    "season": "Not stated",
@@ -4987,39 +4910,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
    "first_seen": "2026-09-04T19:01:45Z"
-  },
-  {
-   "tier": "B",
-   "company": "IEX",
-   "title": "Platform Engineer Intern",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8171127",
-   "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "company": "IEX",
-   "title": "Software Engineer Intern",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8171239",
-   "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "company": "IEX",
-   "title": "Software Development Engineer in Test Intern",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8172248",
-   "first_seen": "2026-10-06T20:38:56Z"
   },
   {
    "tier": "B",
@@ -7422,12 +7312,12 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
    "location": "New York, NY",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -7472,17 +7362,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -8375,17 +8254,6 @@
    "source": "speedyapply",
    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794",
    "first_seen": "2026-09-28T21:30:12Z"
-  },
-  {
-   "tier": "B",
-   "company": "Tencent",
-   "title": "AI Business Analyst Intern",
-   "location": "US-California-Palo Alto",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1",
-   "first_seen": "2026-09-01T19:40:54Z"
   },
   {
    "tier": "B",
