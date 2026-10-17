@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-17T09:00:54Z",
+ "generated_at": "2026-10-17T12:55:57Z",
  "counts": {
   "target": 109,
-  "relevant": 769
+  "relevant": 767
  },
  "roles": [
   {
@@ -4085,28 +4085,6 @@
    "source": "speedyapply",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655",
    "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-   "first_seen": "2026-10-14T21:40:34Z"
-  },
-  {
-   "tier": "B",
-   "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-   "first_seen": "2026-10-14T21:40:34Z"
   },
   {
    "tier": "B",
