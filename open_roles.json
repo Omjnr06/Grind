@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-17T18:26:47Z",
+ "generated_at": "2026-10-17T20:47:28Z",
  "counts": {
   "target": 110,
-  "relevant": 816
+  "relevant": 818
  },
  "roles": [
   {
@@ -5201,6 +5201,17 @@
    "tier": "B",
    "company": "IGS Energy",
    "title": "Software Engineer Intern",
+   "location": "Ohio Remote",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
+   "first_seen": "2026-08-31T19:39:56Z"
+  },
+  {
+   "tier": "B",
+   "company": "IGS Energy",
+   "title": "Software Engineer Intern",
    "location": "Remote - Ohio, USA",
    "season": "",
    "sponsorship": "",
@@ -7396,6 +7407,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5?embed=true",
    "first_seen": "2026-07-24T09:31:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "Physical Reasoning",
+   "title": "Software Engineering Intern",
+   "location": "San Francisco, CA / New York, NY / Toronto, Canada / Remote",
+   "season": "Summer",
+   "sponsorship": "Offers Sponsorship",
+   "source": "vanshb03",
+   "url": "https://physicalreasoning.ai/join/software-engineering-intern/",
+   "first_seen": "2026-10-17T20:47:28Z"
   },
   {
    "tier": "B",
