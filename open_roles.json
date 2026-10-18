@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-17T22:46:08Z",
+ "generated_at": "2026-10-18T00:29:54Z",
  "counts": {
   "target": 110,
-  "relevant": 818
+  "relevant": 817
  },
  "roles": [
   {
@@ -5174,17 +5174,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
    "first_seen": "2026-09-04T19:01:45Z"
-  },
-  {
-   "tier": "B",
-   "company": "IEX",
-   "title": "Cyber Security Analyst Intern",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8173713",
-   "first_seen": "2026-10-06T20:38:56Z"
   },
   {
    "tier": "B",
