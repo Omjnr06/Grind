@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-19T06:10:35Z",
+ "generated_at": "2026-10-19T13:03:50Z",
  "counts": {
   "target": 111,
-  "relevant": 822
+  "relevant": 827
  },
  "roles": [
   {
@@ -1899,6 +1899,17 @@
   },
   {
    "tier": "B",
+   "company": "amodo design",
+   "title": "graduate software engineer",
+   "location": "london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4464867777",
+   "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
    "company": "Ancestry",
    "title": "Applied AI Science Co-op - Embedding models and Personalization",
    "location": "Remote",
@@ -1918,17 +1929,6 @@
    "source": "speedyapply_intl",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
    "first_seen": "2026-10-09T20:05:16Z"
-  },
-  {
-   "tier": "B",
-   "company": "apple",
-   "title": "software engineer graduate programme 2027 - business process re-engineering",
-   "location": "cork, county cork, ireland",
-   "season": "",
-   "sponsorship": "",
-   "source": "earlycareers_eu",
-   "url": "https://www.linkedin.com/jobs/view/4466869064",
-   "first_seen": "2026-10-11T15:05:27Z"
   },
   {
    "tier": "B",
@@ -2358,6 +2358,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/AtomicSemi/867c67f7-20b5-4726-b9da-85a760d3851e/application?jr_id=69e8eecae0cd471b2f138f47",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "aurora energy research",
+   "title": "graduate software engineering programme (oxford, 2027)",
+   "location": "oxford, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4471994808",
+   "first_seen": "2026-10-19T13:03:50Z"
   },
   {
    "tier": "B",
@@ -3285,17 +3296,6 @@
   },
   {
    "tier": "B",
-   "company": "content guru",
-   "title": "graduate software developer assessment day - 8th october",
-   "location": "bracknell, england, united kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "earlycareers_eu",
-   "url": "https://www.linkedin.com/jobs/view/4464349158",
-   "first_seen": "2026-09-18T00:58:31Z"
-  },
-  {
-   "tier": "B",
    "company": "CoStar Group",
    "title": "Embedded Software Engineering Intern",
    "location": "Sunnyvale (US)",
@@ -3956,6 +3956,17 @@
   },
   {
    "tier": "B",
+   "company": "european tech recruit",
+   "title": "open to graduates - software research engineer (paye) - retrieval and agent intelligence - software development / llm / ai agents / rag / python",
+   "location": "edinburgh, scotland, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4475566165",
+   "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
    "company": "Exa",
    "title": "Software Engineer Intern",
    "location": "San Francisco, California",
@@ -4382,28 +4393,6 @@
    "source": "speedyapply",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655",
    "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-   "first_seen": "2026-10-14T21:40:34Z"
-  },
-  {
-   "tier": "B",
-   "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-   "first_seen": "2026-10-14T21:40:34Z"
   },
   {
    "tier": "B",
@@ -5185,17 +5174,6 @@
    "source": "vanshb03",
    "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=",
    "first_seen": "2026-07-24T09:31:28Z"
-  },
-  {
-   "tier": "B",
-   "company": "hunter bond",
-   "title": "graduate software engineer / quant developer / quant researcher - up to \u00a3180,000 + bonus + package",
-   "location": "london area, united kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "earlycareers_eu",
-   "url": "https://www.linkedin.com/jobs/view/4471298296",
-   "first_seen": "2026-10-11T15:05:27Z"
   },
   {
    "tier": "B",
@@ -7025,17 +7003,6 @@
   },
   {
    "tier": "B",
-   "company": "nuclear graduates",
-   "title": "digital software engineering - nuclear graduates 2027",
-   "location": "derby, england, united kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "earlycareers_eu",
-   "url": "https://www.linkedin.com/jobs/view/4464303618",
-   "first_seen": "2026-09-18T00:58:31Z"
-  },
-  {
-   "tier": "B",
    "company": "NVIDIA",
    "title": "Data Processing Developer Technology Intern - 2027",
    "location": "Bristol, United Kingdom +1",
@@ -7154,6 +7121,17 @@
    "source": "zshah101",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
    "first_seen": "2026-08-05T20:57:03Z"
+  },
+  {
+   "tier": "B",
+   "company": "nxp semiconductors",
+   "title": "graduate ai and software engineer - automotive mpus",
+   "location": "glasgow, scotland, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4466307687",
+   "first_seen": "2026-10-19T13:03:50Z"
   },
   {
    "tier": "B",
@@ -7762,6 +7740,39 @@
   },
   {
    "tier": "B",
+   "company": "reply",
+   "title": "graduate ai software developer",
+   "location": "london area, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4440469242",
+   "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "reply",
+   "title": "graduate ai software developer",
+   "location": "manchester area, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4474894903",
+   "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "reply",
+   "title": "graduate ai software developer",
+   "location": "manchester, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4465543861",
+   "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
    "company": "Rhoda ai",
    "title": "Robot Software Engineer Internship",
    "location": "Mountain View, CA",
@@ -7781,17 +7792,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
    "first_seen": "2026-09-16T18:36:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
@@ -7829,12 +7829,34 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -8026,6 +8048,17 @@
   },
   {
    "tier": "B",
+   "company": "rse",
+   "title": "graduate software engineer",
+   "location": "bellshill, scotland, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4473637511",
+   "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
    "company": "S&P Global",
    "title": "Software Engineer - Summer Intern 2027",
    "location": "Cambridge, MA +1",
@@ -8188,6 +8221,17 @@
    "source": "speedyapply",
    "url": "https://seatgeek.com/jobs/8227553?gh_jid=8227553",
    "first_seen": "2026-09-24T18:30:14Z"
+  },
+  {
+   "tier": "B",
+   "company": "seebyte",
+   "title": "graduate software developers",
+   "location": "edinburgh, scotland, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4475010690",
+   "first_seen": "2026-10-19T13:03:50Z"
   },
   {
    "tier": "B",
@@ -8892,6 +8936,17 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da",
    "first_seen": "2026-07-22T15:15:34Z"
+  },
+  {
+   "tier": "B",
+   "company": "tesco ireland",
+   "title": "ims technology \u2013 software engineering graduate scheme",
+   "location": "edinburgh, scotland, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4468571234",
+   "first_seen": "2026-10-19T13:03:50Z"
   },
   {
    "tier": "B",
