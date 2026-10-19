@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-19T01:11:35Z",
+ "generated_at": "2026-10-19T06:10:35Z",
  "counts": {
   "target": 111,
-  "relevant": 823
+  "relevant": 822
  },
  "roles": [
   {
@@ -8210,17 +8210,6 @@
    "source": "speedyapply_intl",
    "url": "https://apply.workable.com/semios/j/4B5D1FB613/",
    "first_seen": "2026-10-07T19:00:10Z"
-  },
-  {
-   "tier": "B",
-   "company": "Sequence Holdings",
-   "title": "Software Engineer (Intern)",
-   "location": "New York City",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c",
-   "first_seen": "2026-09-10T17:26:26Z"
   },
   {
    "tier": "B",
