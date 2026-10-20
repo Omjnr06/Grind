@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-19T22:57:32Z",
+ "generated_at": "2026-10-20T01:32:45Z",
  "counts": {
   "target": 111,
-  "relevant": 837
+  "relevant": 840
  },
  "roles": [
   {
@@ -7312,6 +7312,17 @@
   {
    "tier": "B",
    "company": "Palantir",
+   "title": "Software Engineer, Internship - Query Engines",
+   "location": "New York, NY",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+   "first_seen": "2026-10-20T01:32:45Z"
+  },
+  {
+   "tier": "B",
+   "company": "Palantir",
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
    "location": "New York, NY (multiple US)",
    "season": "Not stated",
@@ -7939,12 +7950,34 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
