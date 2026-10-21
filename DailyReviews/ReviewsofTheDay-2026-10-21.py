@@ -193,3 +193,155 @@ def longestConsecutive(nums):
         count = max(count,length)
 
     return count
+
+# Number 8: Find the Duplicate Number
+# Given an array of integers `nums` containing `n + 1` integers where each integer is in the range `[1, n]` inclusive.
+# There is only **one repeated number** in `nums`, return *this repeated number*.
+# You must solve the problem **without** modifying the array `nums` and using only constant extra space. 
+
+def findDuplicate(nums):
+    slow,fast = 0,0
+
+    while True:
+        slow = nums[slow]
+        fast = nums[nums[slow]]
+
+        if fast == slow:
+            break
+
+    slow2 = 0
+
+    while True:
+        slow = nums[slow]
+        slow2 = nums[slow2]
+
+        if slow == slow2:
+            return slow
+
+# Number 9: Balanced BST
+# Given a binary tree, determine if it is height-balanced.
+
+class TreeNode:
+    def __init__(self,left,right,val):
+        self.left = left 
+        self.right = right
+        self.val = val
+
+    def isBalanced(self,root):
+        def dfs(root):
+            if not root:
+                return [True,0]
+
+            left = self.isBalanced(root.left)
+            right = self.isBalanced(root.right)
+
+            balancedVal = (left[0] and right[0] and abs((left[1] - right[1])) <= 1)
+            return [balancedVal,1 + max(left[1],right[1])]
+
+        return dfs(root)[0]
+
+# Number 10: Diameter of A BST
+# Given the `root` of a binary tree, return *the length of the **diameter** of the tree*.
+# The **diameter** of a binary tree is the **length** of the longest path between any two nodes in a tree. This path may or may not pass through the `root`.
+# The **length** of a path between two nodes is represented by the number of edges between them.
+
+class TreeNode:
+    def __init__(self,right,left,val):
+        self.left = left
+        self.right = right
+        self.val = val
+    
+    def diameter(self,root):
+
+        self.count = 0
+
+        def dfs(root):
+            if not root:
+                return 0
+
+            left = self.diameter(root.left)
+            right = self.diameter(root.right)
+            
+            self.count = max(self.count, left + right)
+
+            return 1 + max(left,right)
+
+        dfs(root)
+        return self.count
+
+# Number 11: Same Tree
+# Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
+# Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+class TreeNode:
+    def __init__(self,right,left,val):
+        self.left = left
+        self.right = right
+        self.val = val
+
+    def sameTree(self,p,q):
+        if not p and not q:
+            return True
+        
+        if not p or not q:
+            return False
+        
+        if p.val != q.val:
+            return True
+
+        return (self.sameTree(p.left,q.left) and self.sameTree(p.right,q.right))
+
+# Number 12: Median of Sorted Arrays
+# Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+# The overall run time complexity should be O(log (m+n)).
+def medianOfSortedArrays(nums1,nums2):
+    A,B = nums1,nums2
+
+    if len(B) < len(A):
+        A,B = B,A
+
+    total = len(A) + len(B)
+    half = total // 2
+
+    l,r = 0,len(A) - 1
+
+    while True:
+        i = (l + r) // 2
+        j = half - i - 2
+
+        Aleft = A[i] if i > 0 else float("infinity")
+        Aright = A[i+1] if (i + 1) < len(A) else float("-infinity")
+        Bleft = B[j] if j > 0 else float("infinity")
+        Bright = B[j+1] if (j + 1) < len(B) else float("-infinity") 
+
+        if Aleft <= Bright and Bleft <= Aright:
+            if total % 2:
+                return min(Aright,Bright)
+            else:
+                return (min(Aright,Bright) + max(Aleft,Bleft) / 2)
+        elif Aleft > Bright:
+            r = i - 1
+        else:
+            l = i + 1
+
+    return
+
+# Number 13: Car Fleet
+# There are `n` cars at given miles away from the starting mile 0, traveling to reach the mile `target`.
+# You are given two integer arrays `position` and `speed`, both of length `n`, where `position[i]` is the starting mile of the `ith` car and `speed[i]` is the speed of the `ith` car in miles per hour.
+# A car cannot pass another car, but it can catch up and then travel next to it at the speed of the slower car.
+# A **car fleet** is a single car or a group of cars driving next to each other. The speed of the car fleet is the **minimum** speed of any car in the fleet.
+# If a car catches up to a car fleet at the mile `target`, it will still be considered as part of the car fleet.
+# Return the number of car fleets that will arrive at the destination.
+
+def carFleet(target, position, speed):
+    stack = []
+    pairs = sorted(zip(position,speed), reverse = True)
+
+    for p,s in pairs:
+        stack.append(float(target - p)/s)
+        if len(stack) >= 2 and stack[-1] <= stack[-2]:
+            stack.pop()
+
+    return len(stack)
+
+
