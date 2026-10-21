@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-21T06:33:12Z",
+ "generated_at": "2026-10-21T12:23:10Z",
  "counts": {
   "target": 112,
-  "relevant": 845
+  "relevant": 846
  },
  "roles": [
   {
@@ -6883,17 +6883,6 @@
   {
    "tier": "B",
    "company": "Monolithic Power Systems",
-   "title": "AI Developer Intern",
-   "location": "San Jose - California",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
-   "first_seen": "2026-08-24T19:41:21Z"
-  },
-  {
-   "tier": "B",
-   "company": "Monolithic Power Systems",
    "title": "Applications Engineer Intern",
    "location": "San Jose, CA",
    "season": "Summer",
@@ -7363,6 +7352,17 @@
    "source": "zshah101",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
    "first_seen": "2026-08-05T20:57:03Z"
+  },
+  {
+   "tier": "B",
+   "company": "NVIDIA",
+   "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+   "location": "US, CA, Santa Clara",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+   "first_seen": "2026-10-21T12:23:10Z"
   },
   {
    "tier": "B",
@@ -8093,17 +8093,6 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -8137,12 +8126,34 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
