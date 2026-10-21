@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T20:46:05Z",
+ "generated_at": "2026-10-21T23:47:52Z",
  "counts": {
   "target": 115,
   "relevant": 858
@@ -6338,8 +6338,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
-   "first_seen": "2026-09-23T09:46:38Z"
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1",
+   "first_seen": "2026-10-13T23:55:56Z"
   },
   {
    "tier": "B",
@@ -6349,8 +6349,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
-   "first_seen": "2026-09-23T09:46:38Z"
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
+   "first_seen": "2026-10-13T23:55:56Z"
   },
   {
    "tier": "B",
@@ -6360,8 +6360,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
-   "first_seen": "2026-09-30T19:15:02Z"
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572",
+   "first_seen": "2026-10-20T12:09:49Z"
   },
   {
    "tier": "B",
@@ -6516,17 +6516,6 @@
    "source": "zshah101",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "first_seen": "2026-09-11T19:41:29Z"
-  },
-  {
-   "tier": "B",
-   "company": "Lyft",
-   "title": "Data Analyst Intern (Summer 2027)",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
-   "first_seen": "2026-09-11T23:41:08Z"
   },
   {
    "tier": "B",
@@ -8247,6 +8236,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -8276,17 +8276,6 @@
    "source": "vanshb03",
    "url": "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
@@ -10388,6 +10377,17 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
    "first_seen": "2026-10-02T05:35:25Z"
+  },
+  {
+   "tier": "B",
+   "company": "Walrus",
+   "title": "Full Stack Developer Intern",
+   "location": "New York City (Hybrid)",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
+   "first_seen": "2026-10-21T23:47:52Z"
   },
   {
    "tier": "B",
