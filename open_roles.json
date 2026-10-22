@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-22T07:49:31Z",
+ "generated_at": "2026-10-22T13:18:13Z",
  "counts": {
-  "target": 116,
-  "relevant": 877
+  "target": 118,
+  "relevant": 896
  },
  "roles": [
   {
@@ -103,6 +103,17 @@
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10535280/apply",
    "first_seen": "2026-09-10T17:26:26Z"
+  },
+  {
+   "tier": "A",
+   "company": "apple",
+   "title": "internship - machine learning research - speech-to-speech translation",
+   "location": "cambridge, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4481117448",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "A",
@@ -356,6 +367,17 @@
    "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902325002",
    "first_seen": "2026-10-21T17:26:19Z"
+  },
+  {
+   "tier": "A",
+   "company": "meta",
+   "title": "research intern - self-improving agentic systems and ai research agents",
+   "location": "london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4479430248",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "A",
@@ -1294,6 +1316,17 @@
   },
   {
    "tier": "B",
+   "company": "a2 innovation lab",
+   "title": "internship & training program 2026",
+   "location": "on, walloon region, belgium",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4446616616",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
    "company": "ABB",
    "title": "AI Robotics UI/UX Intern- Fall 2026",
    "location": "Milpitas, California, USA",
@@ -1800,6 +1833,28 @@
   },
   {
    "tier": "B",
+   "company": "american express",
+   "title": "campus - internship programme - undergraduate - ai engineer - 2027 (uk - burgess hill)",
+   "location": "burgess hill, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4465771171",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "american express",
+   "title": "campus - internship programme - undergraduate - ai engineer - 2027 (uk - london)",
+   "location": "london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4465769210",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
    "company": "American Express",
    "title": "Product Management Intern",
    "location": "New York, NY",
@@ -2152,6 +2207,72 @@
   },
   {
    "tier": "B",
+   "company": "apple",
+   "title": "internship - software engineering - ai-assisted baseband debugging evaluation, wte",
+   "location": "munich, bavaria, germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4480223557",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "internship computer vision & machine learning research - llm efficiency",
+   "location": "munich, bavaria, germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4472370802",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "internship computer vision & machine learning research",
+   "location": "munich, bavaria, germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4471983359",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "research scientist intern \u2013 human-centric generative ai",
+   "location": "munich, bavaria, germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4480463644",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "ai/ml internship: self-improving ai agents for cybersecurity, sear",
+   "location": "paris, \u00eele-de-france, france",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4479920193",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "internship - machine learning research",
+   "location": "paris, \u00eele-de-france, france",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4479373164",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
    "company": "Apple",
    "title": "Software Undergrad Engineering Internship",
    "location": "SWE intern (undergrad)",
@@ -2182,6 +2303,39 @@
    "source": "vanshb03",
    "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "internship - machine learning (foundation models)",
+   "location": "zurich, zurich, switzerland",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4469073745",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "internship computer vision & machine learning research - llm efficiency",
+   "location": "zurich, zurich, switzerland",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4472368917",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "apple",
+   "title": "internship computer vision & machine learning research",
+   "location": "zurich, zurich, switzerland",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4471979448",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "B",
@@ -2889,6 +3043,17 @@
   },
   {
    "tier": "B",
+   "company": "boston consulting group (bcg)",
+   "title": "forward deployed ai engineer, internship, united kingdom - bcg x",
+   "location": "london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4390725142",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
    "company": "Brain Co.",
    "title": "AI Product Engineer Co-op",
    "location": "San Francisco, CA",
@@ -3549,6 +3714,17 @@
   },
   {
    "tier": "B",
+   "company": "cohere",
+   "title": "machine learning intern/co-op (winter 2027)",
+   "location": "united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4414175997",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
    "company": "Coinbase",
    "title": "Data Science Intern",
    "location": "Hybrid - New York, NY",
@@ -3887,17 +4063,6 @@
    "source": "vanshb03",
    "url": "https://www.workatastartup.com/jobs/94211",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Disney",
-   "title": "Disney & Pixar Games Production Intern",
-   "location": "Glendale, CA",
-   "season": "Spring",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Production-Intern--Spring-2027_10159030",
-   "first_seen": "2026-10-17T18:26:47Z"
   },
   {
    "tier": "B",
@@ -4272,6 +4437,17 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009",
    "first_seen": "2026-09-17T17:21:53Z"
+  },
+  {
+   "tier": "B",
+   "company": "epic games",
+   "title": "machine learning intern",
+   "location": "greater london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4450376410",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "B",
@@ -6211,6 +6387,17 @@
   },
   {
    "tier": "B",
+   "company": "jpmorganchase",
+   "title": "2027 ai research associate program - internship",
+   "location": "greater london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4480154056",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
    "company": "JPMorganChase",
    "title": "AI Research Associate Intern",
    "location": "New York, NY",
@@ -6476,28 +6663,6 @@
   {
    "tier": "B",
    "company": "KLA",
-   "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-   "location": "Milpitas, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
-   "first_seen": "2026-09-23T09:46:38Z"
-  },
-  {
-   "tier": "B",
-   "company": "KLA",
-   "title": "Software Engineering Intern (C++, Unix)",
-   "location": "Milpitas, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
-   "first_seen": "2026-09-23T09:46:38Z"
-  },
-  {
-   "tier": "B",
-   "company": "KLA",
    "title": "Software Engineering Intern",
    "location": "Milpitas, CA",
    "season": "Not stated",
@@ -6604,6 +6769,17 @@
    "source": "vanshb03",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
    "first_seen": "2026-10-22T07:49:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "light",
+   "title": "ai engineering intern",
+   "location": "london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4464738076",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "B",
@@ -6846,6 +7022,17 @@
    "source": "speedyapply_intl",
    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
    "first_seen": "2026-10-03T18:25:20Z"
+  },
+  {
+   "tier": "B",
+   "company": "medpace",
+   "title": "ai engineering intern (12 months)",
+   "location": "london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4442901779",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "B",
@@ -7102,6 +7289,17 @@
   },
   {
    "tier": "B",
+   "company": "microsoft",
+   "title": "software engineering internship opportunities - coreai",
+   "location": "prague, prague, worldwide",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4474730842",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
    "company": "Microsoft",
    "title": "Research Intern - Efficient AI Software Systems",
    "location": "Redmond, WA",
@@ -7208,17 +7406,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Applications-Engineer-Intern_R-2035",
-   "first_seen": "2026-10-17T18:26:47Z"
-  },
-  {
-   "tier": "B",
-   "company": "Moog",
-   "title": "Product Engineering Intern",
-   "location": "Buffalo, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-20429",
    "first_seen": "2026-10-17T18:26:47Z"
   },
   {
@@ -7660,6 +7847,17 @@
    "source": "zshah101",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
    "first_seen": "2026-10-21T12:23:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "nxp semiconductors",
+   "title": "intern ai and software engineer - automotive mpus",
+   "location": "glasgow, scotland, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4455371606",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "B",
@@ -8298,6 +8496,28 @@
    "source": "vanshb03",
    "url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
    "first_seen": "2026-10-22T07:49:31Z"
+  },
+  {
+   "tier": "B",
+   "company": "Qualcomm",
+   "title": "Camera Design Implementation Intern",
+   "location": "Markham, ON, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721664170",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "Qualcomm",
+   "title": "Applied AI Engineer Intern",
+   "location": "Markham, ON, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721664194",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "B",
@@ -9467,6 +9687,17 @@
   },
   {
    "tier": "B",
+   "company": "tencent",
+   "title": "generative ai research intern",
+   "location": "london, england, united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4481578655",
+   "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
    "company": "Tencent",
    "title": "Data Science Intern",
    "location": "Palo Alto, CA",
@@ -9530,17 +9761,6 @@
    "source": "zshah101",
    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
    "first_seen": "2026-10-12T09:29:49Z"
-  },
-  {
-   "tier": "B",
-   "company": "Tencent",
-   "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
-   "location": "US-California-Palo Alto",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1",
-   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
@@ -10223,6 +10443,17 @@
    "source": "sndsh404",
    "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334",
    "first_seen": "2026-07-21T14:55:28Z"
+  },
+  {
+   "tier": "B",
+   "company": "transreport",
+   "title": "ai agent builder intern (student project / 3- 6 months)",
+   "location": "united kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "earlycareers_eu",
+   "url": "https://www.linkedin.com/jobs/view/4468915553",
+   "first_seen": "2026-10-22T13:18:13Z"
   },
   {
    "tier": "B",
