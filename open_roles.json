@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-22T18:03:53Z",
+ "generated_at": "2026-10-22T21:30:42Z",
  "counts": {
-  "target": 118,
-  "relevant": 889
+  "target": 119,
+  "relevant": 901
  },
  "roles": [
   {
@@ -81,6 +81,17 @@
    "source": "vanshb03",
    "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "A",
+   "company": "Amazon",
+   "title": "2027 Frontier AI & Robotics Internship (Undergraduate) - United States, Frontier AI & Robotics, Frontier AI & Robotics",
+   "location": "San Francisco, California, USA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+   "first_seen": "2026-10-22T21:30:42Z"
   },
   {
    "tier": "A",
@@ -1316,6 +1327,50 @@
   },
   {
    "tier": "B",
+   "company": "1Password",
+   "title": "Developer Intern, Front-End Platform",
+   "location": "Remote in USA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+   "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
+   "company": "1Password",
+   "title": "Developer Intern, Extension Excellence",
+   "location": "Remote in USA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
+   "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
+   "company": "1Password",
+   "title": "Developer Intern, Provisioning",
+   "location": "Remote in USA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+   "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
+   "company": "1Password",
+   "title": "Security Intern, Threat Operations",
+   "location": "Remote in USA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+   "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
    "company": "a2 innovation lab",
    "title": "internship & training program 2026",
    "location": "on, walloon region, belgium",
@@ -1478,6 +1533,39 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009",
    "first_seen": "2026-10-16T16:49:19Z"
+  },
+  {
+   "tier": "B",
+   "company": "Allstate",
+   "title": "Software Engineer Intern",
+   "location": "USA - NC (Remote)",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
+   "first_seen": "2026-10-20T23:14:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "Allstate Insurance Company",
+   "title": "Arity - Data Analytics Engineer Intern",
+   "location": "USA - IL (Remote)",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
+   "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
+   "company": "Allstate Insurance Company",
+   "title": "Arity - Data Science Intern (Core Telematics)",
+   "location": "USA - IL (Remote)",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285",
+   "first_seen": "2026-10-22T21:30:42Z"
   },
   {
    "tier": "B",
@@ -3318,12 +3406,12 @@
   },
   {
    "tier": "B",
-   "company": "Centene",
-   "title": "Cybersecurity Summer 2027 Intern (Undergraduate)",
-   "location": "Remote-MO",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
+   "company": "Centene Corporation",
+   "title": "Cybersecurity Intern",
+   "location": "Remote in USA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
    "first_seen": "2026-09-18T20:08:46Z"
   },
@@ -3458,6 +3546,17 @@
    "source": "vanshb03",
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1",
    "first_seen": "2026-10-20T23:14:58Z"
+  },
+  {
+   "tier": "B",
+   "company": "CIBC",
+   "title": "Machine Learning Engineer Co-op",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+   "first_seen": "2026-10-22T21:30:42Z"
   },
   {
    "tier": "B",
@@ -7224,6 +7323,17 @@
   {
    "tier": "B",
    "company": "Microsoft",
+   "title": "Security Research Intern",
+   "location": "Redmond, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+   "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
+   "company": "Microsoft",
    "title": "Research Intern - Efficient AI Software Systems",
    "location": "Redmond, WA",
    "season": "",
@@ -7638,6 +7748,17 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "company": "Nutanix",
+   "title": "Software Developer Co-op",
+   "location": "Vancouver, BC, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
+   "first_seen": "2026-10-22T21:30:42Z"
   },
   {
    "tier": "B",
@@ -8477,6 +8598,28 @@
   },
   {
    "tier": "B",
+   "company": "Qualcomm",
+   "title": "Camera Design Implementation Intern",
+   "location": "Vancouver, BC, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721678727",
+   "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
+   "company": "Qualcomm",
+   "title": "Applied AI Engineering Intern, Hardware Systems",
+   "location": "Vancouver, BC, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+   "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
    "company": "Quantbot Technologies",
    "title": "Quantitative Developer Internship - 2027 - New York",
    "location": "New York City, NY",
@@ -8610,6 +8753,17 @@
   {
    "tier": "B",
    "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
    "title": "Frontend Software Engineer Intern",
    "location": "New York, NY / San Francisco, CA",
    "season": "Winter",
@@ -8643,34 +8797,12 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -9211,6 +9343,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260",
    "first_seen": "2026-10-13T23:55:56Z"
+  },
+  {
+   "tier": "B",
+   "company": "Skydio",
+   "title": "Frontend Software Engineer Intern - Summer 2027",
+   "location": "San Mateo, California, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+   "first_seen": "2026-10-22T21:30:42Z"
   },
   {
    "tier": "B",
