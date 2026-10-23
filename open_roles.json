@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-23T18:32:26Z",
+ "generated_at": "2026-10-23T21:39:35Z",
  "counts": {
-  "target": 124,
-  "relevant": 951
+  "target": 123,
+  "relevant": 955
  },
  "roles": [
   {
@@ -81,17 +81,6 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
    "first_seen": "2026-09-10T00:34:38Z"
-  },
-  {
-   "tier": "A",
-   "company": "Amazon",
-   "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-   "location": "North Reading, Massachusetts, USA",
-   "season": "Fall 2026",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "A",
@@ -2748,12 +2737,34 @@
    "tier": "B",
    "company": "ASML",
    "title": "Software Engineer In Test Intern, MOD",
-   "location": "San Jose, CA",
+   "location": "San Jose, CA, USA",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
    "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "company": "ASML",
+   "title": "Internship - Application Software QA Engineer",
+   "location": "San Jose, CA, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+   "first_seen": "2026-10-23T21:39:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "ASML",
+   "title": "Internship - Software Quality Assurance",
+   "location": "San Jose, CA, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
+   "first_seen": "2026-10-23T21:39:35Z"
   },
   {
    "tier": "B",
@@ -3095,6 +3106,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
    "first_seen": "2026-09-11T00:06:57Z"
+  },
+  {
+   "tier": "B",
+   "company": "Bertelsmann",
+   "title": "Data Science Intern",
+   "location": "New York, New York (NY), United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157546634",
+   "first_seen": "2026-10-23T21:39:35Z"
   },
   {
    "tier": "B",
@@ -5475,17 +5497,6 @@
   {
    "tier": "B",
    "company": "General Motors",
-   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
-   "first_seen": "2026-10-10T00:00:32Z"
-  },
-  {
-   "tier": "B",
-   "company": "General Motors",
    "title": "2027 Summer Intern, SEAM, Embodied AI (Masters)",
    "location": "Sunnyvale, California, United States of America",
    "season": "Summer 2027",
@@ -7015,6 +7026,17 @@
   {
    "tier": "B",
    "company": "KLA",
+   "title": "Software Engineer Intern (C++, Linux) \u2013 Summer 2027",
+   "location": "Milpitas, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
+   "first_seen": "2026-10-23T21:39:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "KLA",
    "title": "Software Engineering Intern",
    "location": "Milpitas, CA",
    "season": "Not stated",
@@ -7429,6 +7451,39 @@
    "source": "vanshb03",
    "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
    "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "Merck",
+   "title": "2027 Future Talent Program - AI/ML Biomedical Imaging and Computational Pathology - Intern",
+   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515",
+   "first_seen": "2026-10-23T21:39:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Data, AI, and Genome Sciences - Intern",
+   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333",
+   "first_seen": "2026-10-23T21:39:35Z"
+  },
+  {
+   "tier": "B",
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
+   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438",
+   "first_seen": "2026-10-23T21:39:35Z"
   },
   {
    "tier": "B",
@@ -9145,28 +9200,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
    "first_seen": "2026-09-16T18:36:18Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
