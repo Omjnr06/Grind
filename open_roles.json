@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-23T21:39:35Z",
+ "generated_at": "2026-10-23T23:59:17Z",
  "counts": {
   "target": 123,
-  "relevant": 955
+  "relevant": 959
  },
  "roles": [
   {
@@ -1878,6 +1878,17 @@
   {
    "tier": "B",
    "company": "Amazon",
+   "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+   "location": "Redmond, Washington, USA",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+   "first_seen": "2026-10-23T23:59:17Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
    "title": "Business Intelligence Engineer Co-Op",
    "location": "Seattle, WA",
    "season": "Winter",
@@ -2303,6 +2314,17 @@
    "source": "earlycareers_eu",
    "url": "https://www.linkedin.com/jobs/view/4464867777",
    "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amperesand",
+   "title": "AI/ML Engineering Intern",
+   "location": "Sunnyvale, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009",
+   "first_seen": "2026-10-23T23:59:17Z"
   },
   {
    "tier": "B",
@@ -6178,14 +6200,14 @@
   },
   {
    "tier": "B",
-   "company": "IEX",
-   "title": "Data Engineer Intern",
-   "location": "New York",
-   "season": "Not stated",
+   "company": "ID.me",
+   "title": "Summer Intern 2027 - Analytics Engineer Intern",
+   "location": "Mountain View, CA",
+   "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8210998",
-   "first_seen": "2026-10-06T20:38:56Z"
+   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003",
+   "first_seen": "2026-10-23T23:59:17Z"
   },
   {
    "tier": "B",
@@ -9200,6 +9222,28 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
    "first_seen": "2026-09-16T18:36:18Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
