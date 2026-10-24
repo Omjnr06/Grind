@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-23T23:59:17Z",
+ "generated_at": "2026-10-24T03:40:57Z",
  "counts": {
   "target": 123,
-  "relevant": 959
+  "relevant": 953
  },
  "roles": [
   {
@@ -2790,6 +2790,17 @@
   },
   {
    "tier": "B",
+   "company": "ASML",
+   "title": "Platform Software Engineer In Test ( Internship)",
+   "location": "San Jose, CA, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
+   "first_seen": "2026-10-24T03:40:57Z"
+  },
+  {
+   "tier": "B",
    "company": "Assort Health",
    "title": "Software Engineering Internship - Jan - Apr 2027",
    "location": "San Francisco, CA",
@@ -2830,28 +2841,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005",
-   "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "company": "Astera Labs",
-   "title": "Firmware Engineer Intern (SCO1)",
-   "location": "San Jose, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731585005",
-   "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "company": "Astera Labs",
-   "title": "Firmware Engineer Intern (DevSecOps)",
-   "location": "San Jose, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731591005",
    "first_seen": "2026-10-06T20:38:56Z"
   },
   {
@@ -4979,17 +4968,6 @@
   },
   {
    "tier": "B",
-   "company": "Eudia",
-   "title": "AI Engineer Intern",
-   "location": "Palo Alto, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/eudia/jobs/4020078009",
-   "first_seen": "2026-09-08T22:37:37Z"
-  },
-  {
-   "tier": "B",
    "company": "Eulerity",
    "title": "Backend Developer Intern",
    "location": "New York, New York",
@@ -5185,17 +5163,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Flagship Pioneering",
-   "title": "Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)",
-   "location": "Cambridge, MA USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002",
-   "first_seen": "2026-09-08T20:06:29Z"
   },
   {
    "tier": "B",
@@ -7300,17 +7267,6 @@
   },
   {
    "tier": "B",
-   "company": "M3USA",
-   "title": "AI Engineering Intern (Remote)",
-   "location": "Fort Washington, PA, United States (Remote)",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649",
-   "first_seen": "2026-09-08T20:06:29Z"
-  },
-  {
-   "tier": "B",
    "company": "Mach Industries",
    "title": "Summer 2027 Engineering Internship, Software/GNC",
    "location": "Huntington Beach, California, United States; San Francisco, California, United States",
@@ -7830,7 +7786,7 @@
    "tier": "B",
    "company": "MongoDB",
    "title": "Software Engineering Internship - Summer 2026/2027",
-   "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+   "location": "Austin; New York City; San Francisco",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
@@ -9963,17 +9919,6 @@
   {
    "tier": "B",
    "company": "Skydio",
-   "title": "Embedded Software Engineer Intern - Summer 2027",
-   "location": "San Mateo, California, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260",
-   "first_seen": "2026-10-13T23:55:56Z"
-  },
-  {
-   "tier": "B",
-   "company": "Skydio",
    "title": "Frontend Software Engineer Intern - Summer 2027",
    "location": "San Mateo, California, United States",
    "season": "Summer 2027",
@@ -10278,17 +10223,6 @@
    "source": "vanshb03",
    "url": "https://careers-sig.icims.com/jobs/11665/technical-business-analyst-co-op-with-drexel-university/job",
    "first_seen": "2026-10-17T18:26:47Z"
-  },
-  {
-   "tier": "B",
-   "company": "Syntiant",
-   "title": "Machine Learning Intern - KWS/AED",
-   "location": "Redwood City, California, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/syntiant/j/113F994B7B/",
-   "first_seen": "2026-09-09T17:48:15Z"
   },
   {
    "tier": "B",
