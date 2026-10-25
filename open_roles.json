@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-24T23:28:18Z",
+ "generated_at": "2026-10-25T01:24:59Z",
  "counts": {
   "target": 124,
-  "relevant": 977
+  "relevant": 976
  },
  "roles": [
   {
@@ -6505,17 +6505,6 @@
    "source": "vanshb03",
    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "company": "Internship",
-   "title": "AI Labs Intern",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac",
-   "first_seen": "2026-09-09T20:11:26Z"
   },
   {
    "tier": "B",
