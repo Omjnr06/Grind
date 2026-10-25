@@ -16,8 +16,8 @@ class TreeNode(object):
             if not current:
                 return 0
 
-            left = dfs(root.left)
-            right = dfs(root.right)
+            left = dfs(current.left)
+            right = dfs(current.right)
 
             self.result = max(self.result, left + right)
 

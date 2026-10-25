@@ -12,5 +12,4 @@ def maxChunks(arr):
         if largestVal == x:
             chunks += 1
 
-
     return chunks
