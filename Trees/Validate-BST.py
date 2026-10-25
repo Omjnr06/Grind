@@ -29,5 +29,10 @@ class TreeNode:
                 return False
 
             if node.left:
-                q.append(node.left,)
+                q.append([node.left, node.val, rightBound])
+
+            if node.right:
+                q.append([node.right,leftBound,node.val])
+
+        return True
         
