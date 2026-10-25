@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-25T18:29:33Z",
+ "generated_at": "2026-10-25T21:05:59Z",
  "counts": {
   "target": 123,
-  "relevant": 926
+  "relevant": 927
  },
  "roles": [
   {
@@ -4107,6 +4107,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891",
    "first_seen": "2026-09-09T17:48:15Z"
+  },
+  {
+   "tier": "B",
+   "company": "ConnectPrep",
+   "title": "Data Analyst Internship",
+   "location": "Washington, District of Columbia, United States (Remote)",
+   "season": "Not stated",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/",
+   "first_seen": "2026-10-25T21:05:59Z"
   },
   {
    "tier": "B",
