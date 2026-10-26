@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-26T06:07:06Z",
+ "generated_at": "2026-10-26T12:52:16Z",
  "counts": {
   "target": 123,
-  "relevant": 928
+  "relevant": 940
  },
  "roles": [
   {
@@ -1470,6 +1470,17 @@
   },
   {
    "tier": "B",
+   "company": "ABB",
+   "title": "R&D Software Engineer Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/gz",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "Accenture",
    "title": "MES & Supply Chain Systems Co-op Analyst",
    "location": "Toronto, ON, Canada",
@@ -1477,6 +1488,17 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/c0",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Adobe",
+   "title": "AI & Architecture Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/bu",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -1724,6 +1746,17 @@
   {
    "tier": "B",
    "company": "Amazon",
+   "title": "Software Development Engineer Intern, Embedded Systems",
+   "location": "Escondido, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/g0",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Poland",
    "location": "Gda\u0144sk, Poland",
    "season": "",
@@ -1808,17 +1841,6 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
    "first_seen": "2026-10-07T05:52:03Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amazon",
-   "title": "Software Development Engineer Intern, Embedded Systems",
-   "location": "Seattle, WA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/g0",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -1929,6 +1951,17 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
    "first_seen": "2026-10-02T20:59:14Z"
+  },
+  {
+   "tier": "B",
+   "company": "Ambarella",
+   "title": "Physical Design Engineer Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/gy",
+   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -2274,6 +2307,17 @@
   {
    "tier": "B",
    "company": "Amplify",
+   "title": "AI Scientist Intern",
+   "location": "Mountain View, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/c5",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Amplify",
    "title": "Summer 2027: Software Engineering Intern",
    "location": "Remote - United States",
    "season": "Summer 2027",
@@ -2296,34 +2340,12 @@
   {
    "tier": "B",
    "company": "Amplify",
-   "title": "AI Scientist Intern",
-   "location": "Remote in USA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/c5",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amplify",
    "title": "Software Engineer Intern",
    "location": "Remote in USA",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/c6",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Amplify",
-   "title": "Data Analytics Intern",
-   "location": "Remote in USA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/c7",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -2643,17 +2665,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/fa",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Aptiv",
-   "title": "Software Development Intern",
-   "location": "Remote in USA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/eh",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -3274,6 +3285,17 @@
   },
   {
    "tier": "B",
+   "company": "Boston Scientific",
+   "title": "R&D Software Engineer Intern",
+   "location": "Aurora, CO / Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/cr",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "Brain Co.",
    "title": "AI Product Engineer Co-op",
    "location": "San Francisco, CA",
@@ -3655,17 +3677,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/c2",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "CIBC",
-   "title": "Machine Learning Engineer Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ep",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -4132,17 +4143,6 @@
   },
   {
    "tier": "B",
-   "company": "Constellation Brands",
-   "title": "AI Enablement Intern",
-   "location": "Rochester, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/co",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
    "company": "CoStar Group",
    "title": "Embedded Software Engineering Intern",
    "location": "Sunnyvale (US)",
@@ -4187,6 +4187,17 @@
   },
   {
    "tier": "B",
+   "company": "Crusoe",
+   "title": "Software Engineering Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/e5",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "Cryptic Vector",
    "title": "Full Stack Developer Intern",
    "location": "San Jose, CA / Milpitas, CA / Research Triangle Park, NC / San Francisco, CA",
@@ -4221,17 +4232,6 @@
   {
    "tier": "B",
    "company": "CVS Health",
-   "title": "Medicaid Data Analytics Intern",
-   "location": "Cambridge, MA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/fh",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "CVS Health",
    "title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad",
    "location": "New York City, NY",
    "season": "",
@@ -4250,39 +4250,6 @@
    "source": "speedyapply",
    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128",
    "first_seen": "2026-10-23T18:32:26Z"
-  },
-  {
-   "tier": "B",
-   "company": "CVS Health",
-   "title": "Data Engineering Intern, Innovation & Technology",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/fk",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "CVS Health",
-   "title": "Data Science Intern, Innovation & Technology",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/fm",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "CVS Health",
-   "title": "Software Engineering Intern, Data & Intelligence",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/gu",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -4327,6 +4294,39 @@
    "source": "zshah101",
    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
    "first_seen": "2026-10-23T04:42:13Z"
+  },
+  {
+   "tier": "B",
+   "company": "CVS Health",
+   "title": "Software Engineering: Data & Intelligence Intern, Innovation & Technology",
+   "location": "Remote / United States / Reston, VA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/fn",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "CVS Health",
+   "title": "Data Science Intern, Innovation & Technology",
+   "location": "Sunnyvale, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/fm",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "CVS Health",
+   "title": "Medicaid Data Analytics Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/fh",
+   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -4451,6 +4451,17 @@
   },
   {
    "tier": "B",
+   "company": "Dominion Energy",
+   "title": "Electric Transmission Asset Analyst Intern - Digital Solutions Team",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/cc",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "Domino Data Lab",
    "title": "Software Engineer - Intern - Campus Recruiting 2027",
    "location": "Remote - New York City, NY",
@@ -4514,6 +4525,28 @@
    "source": "speedyapply_intl",
    "url": "https://meredith.wd5.myworkdayjobs.com/en-US/ext/job/Edmonton-AB---10160-103-St-NW/Cloud-Platform-Engineering-Intern_JR15684",
    "first_seen": "2026-09-30T19:15:02Z"
+  },
+  {
+   "tier": "B",
+   "company": "DP World",
+   "title": "Application Analyst Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/dt",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "DraftKings",
+   "title": "Data Science Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/en",
+   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -4759,17 +4792,6 @@
   },
   {
    "tier": "B",
-   "company": "Electronic Arts",
-   "title": "Software Engineer Intern",
-   "location": "San Mateo, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/cn",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
    "company": "Ellipsis Labs",
    "title": "Software Engineer - 2027 Interns",
    "location": "New York, New York",
@@ -4935,6 +4957,17 @@
   },
   {
    "tier": "B",
+   "company": "FedEx Freight",
+   "title": "Data Scientist Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/f6",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "fgf brands",
    "title": "Bakery Product Developer - Sliced Cake Co-op - Winter 2027",
    "location": "Toronto, Canada",
@@ -5078,6 +5111,17 @@
   },
   {
    "tier": "B",
+   "company": "Flagship Pioneering",
+   "title": "AI/ML Engineering Co-op, SAGE Platform",
+   "location": "Cambridge, MA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/h8",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "Flow Traders",
    "title": "Quantitative Trading Intern Summer 2027",
    "location": "New York, NY",
@@ -5177,9 +5221,20 @@
   },
   {
    "tier": "B",
+   "company": "GCM Grosvenor",
+   "title": "IT Product & Strategy Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/gb",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "GE Vernova",
    "title": "Product Management Intern",
-   "location": "Markham, Canada",
+   "location": "Remote / United States",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
@@ -5936,17 +5991,6 @@
   },
   {
    "tier": "B",
-   "company": "Hex Technologies",
-   "title": "AI Engineer Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ge",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
    "company": "HeyGen",
    "title": "Software Engineer Intern",
    "location": "Toronto, ON, Canada / SF / LA / Singapore",
@@ -5954,17 +5998,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/bb",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Hitachi",
-   "title": "AI Intern, Supply Chain",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/d0",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -6158,7 +6191,7 @@
    "tier": "B",
    "company": "IDEMIA North America",
    "title": "Cloud Software Engineering Intern",
-   "location": "Remote / United States / Canada",
+   "location": "Toronto, Canada / Vancouver, Canada",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
@@ -6278,6 +6311,17 @@
   {
    "tier": "B",
    "company": "Intel",
+   "title": "Information Security Engineer Intern",
+   "location": "Santa Clara, CA / Westlake Village, CA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/e1",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Intel",
    "title": "AI Software Technical Intern",
    "location": "US, California, Santa Clara",
    "season": "Not stated",
@@ -6329,6 +6373,17 @@
    "source": "speedyapply_intl",
    "url": "https://interac.wd3.myworkdayjobs.com/en-US/interac/job/Toronto/Cloud-Operations-Intern_REQ-2391",
    "first_seen": "2026-10-16T16:49:19Z"
+  },
+  {
+   "tier": "B",
+   "company": "Inversion Space",
+   "title": "AI & Internal Tools Software Engineer Intern",
+   "location": "San Jose, CA / Remote / United States / New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/ch",
+   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -6828,6 +6883,28 @@
   {
    "tier": "B",
    "company": "Keysight Technologies",
+   "title": "Software Engineer Intern",
+   "location": "Des Moines, IA / New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/ei",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Keysight Technologies",
+   "title": "R&D Software Engineer Intern",
+   "location": "Mississauga, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/db",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Keysight Technologies",
    "title": "R&D Hardware Engineer Intern",
    "location": "Santa Clara, CA",
    "season": "Summer",
@@ -6939,7 +7016,7 @@
    "tier": "B",
    "company": "L3Harris Technologies",
    "title": "Image Processing Engineer Intern",
-   "location": "Buffalo, NY",
+   "location": "Palo Alto, CA",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
@@ -7004,6 +7081,17 @@
   {
    "tier": "B",
    "company": "Leidos",
+   "title": "Network Site Design Intern",
+   "location": "Mississauga, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/ea",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Leidos",
    "title": "Cloud Engineering Intern",
    "location": "Remote",
    "season": "",
@@ -7011,17 +7099,6 @@
    "source": "speedyapply_intl",
    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668",
    "first_seen": "2026-10-20T16:57:30Z"
-  },
-  {
-   "tier": "B",
-   "company": "Leidos",
-   "title": "Network Site Design Intern",
-   "location": "Remote in USA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ea",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -7191,6 +7268,17 @@
   {
    "tier": "B",
    "company": "Marvell",
+   "title": "Design Verification Intern",
+   "location": "Remote / United States",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/hf",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Marvell",
    "title": "Silicon Validation Intern",
    "location": "Santa Clara, CA",
    "season": "Summer",
@@ -7245,13 +7333,13 @@
   },
   {
    "tier": "B",
-   "company": "Marvell",
-   "title": "Design Verification Intern",
+   "company": "Mastercard",
+   "title": "Platform Engineering Intern",
    "location": "Toronto, Canada",
-   "season": "Winter",
+   "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
-   "url": "https://go.vansh.nyc/hf",
+   "url": "https://go.vansh.nyc/gm",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -7308,6 +7396,17 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
    "first_seen": "2026-07-31T17:19:10Z"
+  },
+  {
+   "tier": "B",
+   "company": "Merck",
+   "title": "Data, AI, and Genome Sciences, Foundation Models Intern",
+   "location": "Cambridge, MA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/h4",
+   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -7390,7 +7489,7 @@
    "tier": "B",
    "company": "Metamorphic",
    "title": "Engineering Intern",
-   "location": "Palo Alto, CA",
+   "location": "Mississauga, Canada",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
@@ -7401,7 +7500,7 @@
    "tier": "B",
    "company": "Microchip Technology",
    "title": "Engineering Intern, ASIC Verification",
-   "location": "San Jose, CA",
+   "location": "Seattle, WA / Austin, TX / San Jose, CA",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
@@ -7588,7 +7687,7 @@
    "tier": "B",
    "company": "MITRE",
    "title": "AI Engineering Intern",
-   "location": "San Francisco, CA",
+   "location": "San Jose, CA / Waltham, MA / San Francisco, CA / Austin, TX / Seattle, WA / Lehi, UT / New York, NY",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
@@ -7873,17 +7972,6 @@
   {
    "tier": "B",
    "company": "Nissan",
-   "title": "AI Autonomous Driving Verification & Validation Intern",
-   "location": "Santa Clara, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/bp",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Nissan",
    "title": "Software Engineer Intern - Spring 2027 - Santa Clara - CA",
    "location": "Santa Clara, CA",
    "season": "",
@@ -8158,6 +8246,17 @@
   },
   {
    "tier": "B",
+   "company": "OpenSesame",
+   "title": "AI Product Builder Intern",
+   "location": "Toronto, Canada / Ottawa, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/fx",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "Optiver",
    "title": "Software Engineer Intern",
    "location": "Toronto, Canada",
@@ -8413,11 +8512,33 @@
    "tier": "B",
    "company": "Pattern",
    "title": "Data Science Intern",
-   "location": "Mountain View, CA",
+   "location": "Austin, TX / Santa Clara, CA",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/fu",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Pattern",
+   "title": "AI Automation Engineer Intern",
+   "location": "New York, NY / Denver, CO",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/fw",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Pattern",
+   "title": "AI Infrastructure Engineer Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/fv",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -8611,17 +8732,6 @@
    "tier": "B",
    "company": "Point72",
    "title": "Quantitative Developer Intern",
-   "location": "Ottawa, ON",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/cd",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Point72",
-   "title": "Quantitative Developer Intern",
    "location": "Palo Alto, CA / Fremont, CA",
    "season": "Summer",
    "sponsorship": "Other",
@@ -8807,17 +8917,6 @@
   },
   {
    "tier": "B",
-   "company": "Qualcomm",
-   "title": "Applied AI Engineering Intern, Hardware Systems",
-   "location": "Vancouver, BC, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/et",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
    "company": "Quantbot Technologies",
    "title": "Quantitative Developer Internship - 2027 - New York",
    "location": "New York City, NY",
@@ -8962,17 +9061,6 @@
   {
    "tier": "B",
    "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rippling",
    "title": "Machine Learning Software Engineer Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
@@ -9105,6 +9193,17 @@
   {
    "tier": "B",
    "company": "Rivian and Volkswagen Group Technologies",
+   "title": "Software Engineering Intern, Vehicle Controls",
+   "location": "Edmonton, Canada / Remote / Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/gx",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "Rivian and Volkswagen Group Technologies",
    "title": "Software Engineer Intern, Embedded Platforms",
    "location": "Palo Alto, CA / Irvine, CA",
    "season": "Fall",
@@ -9122,17 +9221,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/gv",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Rivian and Volkswagen Group Technologies",
-   "title": "Software Engineering Intern, Vehicle Controls",
-   "location": "Vancouver, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/gx",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -9183,11 +9271,33 @@
    "tier": "B",
    "company": "RTX",
    "title": "Software Engineer Intern",
+   "location": "Mississauga, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/d4",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "RTX",
+   "title": "Software Engineer Intern",
    "location": "San Francisco, CA / Bellevue, WA",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/ba",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "company": "RTX",
+   "title": "Software Engineer Intern",
+   "location": "Sunnyvale, CA / Warren, MI",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/eq",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -9640,6 +9750,17 @@
    "source": "speedyapply_intl",
    "url": "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124",
    "first_seen": "2026-08-19T13:23:07Z"
+  },
+  {
+   "tier": "B",
+   "company": "Stand Together",
+   "title": "Data Analyst Intern, Open the Books",
+   "location": "Vancouver, Canada",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/ft",
+   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -10985,6 +11106,17 @@
   },
   {
    "tier": "B",
+   "company": "Ursa Major",
+   "title": "Embedded Flight Software Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/fq",
+   "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
    "company": "Valon",
    "title": "Software Engineer Intern",
    "location": "New York City, NY +1",
@@ -11014,17 +11146,6 @@
    "sponsorship": "Does Not Offer Sponsorship",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/ar",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "company": "Veeda AI",
-   "title": "Software Engineering Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/fr",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -11345,6 +11466,17 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
    "first_seen": "2026-08-12T21:25:36Z"
+  },
+  {
+   "tier": "B",
+   "company": "Westinghouse Electric Company",
+   "title": "Software Engineering Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/fz",
+   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
