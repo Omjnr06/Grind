@@ -29,6 +29,7 @@ jobs:
         run: |
           cp _state/seen.json internship-alerts/seen.json 2>/dev/null || true
           cp _state/log.csv internship-alerts/log.csv 2>/dev/null || true
+          cp _state/seeded_sources.json internship-alerts/seeded_sources.json 2>/dev/null || true
 
       - uses: actions/setup-python@v5
         with:
@@ -58,7 +59,8 @@ jobs:
           cp ../internship-alerts/seen.json seen.json 2>/dev/null || true
           cp ../internship-alerts/log.csv log.csv 2>/dev/null || true
           cp ../internship-alerts/open_roles.json open_roles.json 2>/dev/null || true
-          git add seen.json log.csv open_roles.json 2>/dev/null || git add seen.json
+          cp ../internship-alerts/seeded_sources.json seeded_sources.json 2>/dev/null || true
+          git add seen.json log.csv open_roles.json seeded_sources.json 2>/dev/null || git add seen.json seeded_sources.json
           if git diff --cached --quiet; then
             echo "no state change"
           else

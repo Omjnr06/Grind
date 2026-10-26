@@ -44,6 +44,7 @@ jobs:
           MAIL_TO: ${{ secrets.MAIL_TO }}
           MAIL_EXTRA: ${{ secrets.MAIL_EXTRA }}
           DIGEST_EXTRA: ${{ secrets.DIGEST_EXTRA }}
+          DIGEST_PM: ${{ secrets.DIGEST_PM }}
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           RECIPIENTS_DB_ID: ${{ secrets.RECIPIENTS_DB_ID }}
         run: python digest.py

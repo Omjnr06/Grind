@@ -53,8 +53,13 @@ def dedupe(postings):
             continue
         cur = merged.get(k)
         if cur is None:
+            p["keys"], p["sources"] = {k}, {p["source"]}
+            p["open_sources"] = {p["source"]} if p["is_open"] else set()
             merged[k] = p
         else:
+            cur["sources"].add(p["source"])
+            if p["is_open"]:
+                cur["open_sources"].add(p["source"])
             cur["is_open"] = cur["is_open"] or p["is_open"]
             if len(p["location"]) > len(cur["location"]):
                 cur["location"] = p["location"]
@@ -70,6 +75,10 @@ def dedupe(postings):
             by_content[ck] = p
         else:
             rep = cur if cur["url_key"] <= p["url_key"] else p
+            rep["keys"] = cur["keys"] | p["keys"]
+            rep["sources"] = cur["sources"] | p["sources"]
+            rep["open_sources"] = cur["open_sources"] | p["open_sources"]
+            rep["category"] = cur.get("category") or p.get("category") or ""
             rep["is_open"] = cur["is_open"] or p["is_open"]
             if not rep.get("season") and p.get("season"):
                 rep["season"] = p["season"]
@@ -92,16 +101,42 @@ def write_open_roles(open_roles, now):
     print(f"[info] wrote open_roles.json ({payload['counts']['target']} target, {payload['counts']['relevant']} relevant)")
 
 
+def _bootstrap_seeded(raw, state):
+    known, total = {}, {}
+    for p in raw:
+        if not p["url_key"]:
+            continue
+        s = p["source"]
+        total[s] = total.get(s, 0) + 1
+        known[s] = known.get(s, 0) + (p["url_key"] in state)
+    seeded = {s for s in total if known[s] / total[s] >= 0.9}
+    for s in sorted(total):
+        print(f"[seed] bootstrap {s}: {known[s]}/{total[s]} known -> {'seeded' if s in seeded else 'NEW (silent first run)'}")
+    return seeded
+
+
+def load_seeded():
+    if not os.path.exists(config.SEEDED_FILE):
+        return None
+    with open(config.SEEDED_FILE) as f:
+        return set(json.load(f))
+
+
+def save_seeded(seeded):
+    with open(config.SEEDED_FILE, "w") as f:
+        json.dump(sorted(seeded), f, indent=1)
+
+
 def main():
     now = _now()
-    postings, errors = sources.fetch_all()
+    raw, errors = sources.fetch_all()
     if errors:
         for k, v in errors.items():
             print(f"[warn] source {k} failed: {v}")
-    if not postings:
+    if not raw:
         print("[abort] no postings fetched from any source; leaving state untouched")
         return
-    postings = dedupe(postings)
+    postings = dedupe(raw)
     print(f"[info] {len(postings)} unique postings after dedupe")
 
     state = load_state()
@@ -110,6 +145,13 @@ def main():
         state = {}
         print("[seed] first run: recording current postings WITHOUT notifying")
 
+    seeded = load_seeded()
+    if seeded is None:
+        seeded = set() if seeding else _bootstrap_seeded(raw, state)
+    fetched = {p["source"] for p in raw}
+    for s in sorted(fetched - seeded):
+        print(f"[seed] source {s} is new: recording its postings WITHOUT notifying")
+
     a_new, b_new, log_rows, open_roles = [], [], [], []
 
     for p in postings:
@@ -117,10 +159,13 @@ def main():
         if not key:
             continue
         tier = classify.tier_for(p)
+        p["track"] = classify.track_for(p)
+        prev = next((state[k] for k in sorted(p["keys"]) if k in state), None)
         if p["is_open"] and tier in ("A", "B"):
-            prev_seen = (state.get(key) or {}).get("first_seen")
+            prev_seen = (prev or {}).get("first_seen")
             open_roles.append({
                 "tier": tier,
+                "track": p["track"],
                 "company": p["company"],
                 "title": p["title"],
                 "location": p["location"],
@@ -130,20 +175,26 @@ def main():
                 "url": p["url"],
                 "first_seen": prev_seen or now,
             })
-        prev = state.get(key)
-        reopened = bool(prev) and (not prev.get("is_open", True)) and p["is_open"]
+        reopened = (bool(prev) and not prev.get("is_open", True) and p["is_open"]
+                    and bool(p["open_sources"] & seeded))
         is_new = prev is None or reopened
+        alert = is_new and not seeding and bool(p["sources"] & seeded)
 
-        state[key] = {
+        record = {
             "is_open": p["is_open"],
             "tier": tier,
+            "track": p["track"],
             "company": p["company"],
             "title": p["title"],
             "first_seen": (prev or {}).get("first_seen", now),
             "last_seen": now,
         }
+        if (prev or {}).get("seeded") or (prev is None and not alert):
+            record["seeded"] = True
+        for k in p["keys"]:
+            state[k] = record
 
-        if is_new and not seeding:
+        if alert:
             log_rows.append((p, tier))
             if tier == "A":
                 a_new.append(p)
@@ -151,6 +202,7 @@ def main():
                 b_new.append(p)
 
     save_state(state)
+    save_seeded(seeded | (fetched - set(errors)))
     write_open_roles(open_roles, now)
 
     if seeding:
@@ -161,7 +213,15 @@ def main():
         print("[info] no new postings this run")
         return
 
+    if log_rows:
+        append_log(log_rows)
+
     print(f"[info] new: {len(a_new)} target(A), {len(b_new)} relevant(B), {len(log_rows)} total logged")
+    if len(a_new) + len(b_new) > config.FLOOD_LIMIT:
+        print(f"[flood] {len(a_new) + len(b_new)} new alerts > {config.FLOOD_LIMIT}; sending one summary instead")
+        notify.flood_summary(len(a_new), len(b_new))
+        return
+
     for p in a_new:
         notify.ntfy_push(p, "A")
     for p in b_new:
@@ -169,8 +229,6 @@ def main():
     if a_new or b_new:
         notify.send_email_digest(a_new, b_new)
     notify.ntfy_push_friends([p for p, _ in log_rows if p["is_open"] and classify.is_friend_role(p)])
-    if log_rows:
-        append_log(log_rows)
 
 
 if __name__ == "__main__":
