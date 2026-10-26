@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-26T01:08:28Z",
+ "generated_at": "2026-10-26T06:07:06Z",
  "counts": {
   "target": 123,
-  "relevant": 927
+  "relevant": 928
  },
  "roles": [
   {
@@ -5878,6 +5878,17 @@
    "source": "speedyapply",
    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
    "first_seen": "2026-10-06T20:38:56Z"
+  },
+  {
+   "tier": "B",
+   "company": "Hewlett Packard Enterprise",
+   "title": "AI/ML Developer Intern",
+   "location": "San Jose, California",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+   "first_seen": "2026-10-26T06:07:06Z"
   },
   {
    "tier": "B",
