@@ -1,6 +1,6 @@
 # Open roles board — 2026-10-26
 
-**159 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
+**160 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
 ## UK Programs & Visa
 - **UK Youth Mobility Scheme (visa)** — Apply yourself — 2yr UK work visa, no employer sponsorship (Canadian, 18-35).  
@@ -114,6 +114,9 @@
 - **Datadog** — Software Engineering Intern (Summer)  
   Boston, Massachusetts, USA; New York, New York, USA · Summer 2027 · [zshah101]  
   https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118
+- **Disney** — Product & Technology Software Engineering Intern  
+  Glendale, CA / San Francisco, CA / New York, NY · Summer · [vanshb03]  
+  https://go.vansh.nyc/R3
 - **[UK] Google** — Software Engineering - Site Reliability Engineering BS/MS Intern - 2027  
   London, United Kingdom · term n/a · [speedyapply_intl]  
   https://www.google.com/about/careers/applications/jobs/results/100028133205254854
@@ -487,7 +490,7 @@
   London, United Kingdom · term n/a · [speedyapply_intl]  
   https://jobs.smartrecruiters.com/Wise/744000156266767-software-engineering-intern?oga=true
 
-## Other relevant (1152)
+## Other relevant (1195)
 - 1Password — Developer Intern - Developer Interfaces - Winter 2027 — Remote - USA +1 · term n/a  
   https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39
 - 1Password — Developer Intern - Credential Brokering - Winter 2027 — Remote - USA +1 · term n/a  
@@ -654,6 +657,8 @@
   https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190
 - American Express — Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY — New York, NY, United States · Summer 2027  
   https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191
+- Americo Financial Life and Annuity — Artificial Intelligence Intern — South San Francisco, CA · Summer  
+  https://go.vansh.nyc/Qh
 - Amgen — Undergrad Intern - Software Engineer - Amgen’s Technology & Medical Organizations - Summer 2027 — Remote - USA · term n/a  
   https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719
 - Amgen — Grad Intern - Software Engineer - Amgen’s Technology & Medical Organizations - Summer 2027 — Remote - USA · term n/a  
@@ -700,6 +705,10 @@
   https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128
 - Analog Devices — Embedded Software Engineer Intern — Toronto, Canada / Vancouver, Canada · Summer  
   https://go.vansh.nyc/Jm
+- Analog Devices — DevOps Co-op — Austin, TX / South San Francisco, CA · Winter  
+  https://go.vansh.nyc/Qf
+- Analog Devices — Embedded Systems Co-op — Austin, TX / South San Francisco, CA · Winter  
+  https://go.vansh.nyc/Qg
 - Ancestry — Applied AI Science Co-op - Embedding models and Personalization — Remote · term n/a  
   https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442
 - [UK] Anduril — 2027 Software Engineer Intern — London, United Kingdom · term n/a  
@@ -762,6 +771,8 @@
   https://go.vansh.nyc/fa
 - Aptiv — Software Development Intern — Seattle, WA / Jessup, MD / Arlington, VA / Denver, CO · Summer  
   https://go.vansh.nyc/eh
+- AQR Capital Management — Arbitrage Research Analyst Intern, Arbitrage — Fort Mill, SC / Charlotte, NC / Austin, TX · Summer  
+  https://go.vansh.nyc/Qr
 - Aquatic — Software Engineer Intern — Austin, TX / Chicago, IL / New York, NY · Summer  
   https://go.vansh.nyc/3f
 - Aquatic Capital — Quantitative Researcher Intern (Summer 2027) — Chicago, IL · term n/a  
@@ -878,6 +889,8 @@
   https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209
 - BlackRock — Summer Internship Program, AMERS (all tracks) — New York, NY (multiple US) · term n/a  
   https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544
+- BlinqLABS — Java Web Development Intern — Remote / United States · Summer  
+  https://go.vansh.nyc/Qw
 - Blue Origin — Software Developer Intern (Spring 2027) — Seattle, WA (multiple US) · term n/a  
   https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216
 - Blue Origin — Avionics Software Intern (Spring 2027) — Seattle, WA (multiple US) · term n/a  
@@ -902,6 +915,10 @@
   https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253
 - Boeing — Data Analytics Intern — Everett, WA / Saint Charles, MO / Huntsville, AL / Charleston, SC / Oklahoma City, OK / Berkeley, MO / Huntington Beach, CA / Hazelwood, MO / El Segundo, CA / Herndon, VA / Plano, TX / Arlington, VA / Ridley Park, PA / Tukwila, WA / North Charleston, SC / Fairfax, VA / Colorado Springs, CO / Chicago, IL / Seal Beach, CA / Mukilteo, WA / Long Beach, CA / Atlanta, GA / Renton, WA / Dallas, TX / Seattle, WA / Auburn, WA / Bellevue, WA / San Antonio, TX / Kent, WA / Mesa, AZ / Tukwila, WA · Summer  
   https://go.vansh.nyc/6y
+- Bombardier — Developer Intern — Mississauga, Canada · Winter  
+  https://go.vansh.nyc/Sn
+- Bombardier — Extended Reality Programmer Intern — Spring, TX / Fort Collins, CO / Austin, TX · Winter  
+  https://go.vansh.nyc/Sm
 - Booz Allen — University, 2027 Summer Games Cyber Security Intern - Rome, NY — Rome, NY · Summer 2027  
   https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142
 - Booz Allen — University, 2027 Summer Games Data Scientist Intern - Rome, NY — Rome, NY · Summer 2027  
@@ -956,10 +973,14 @@
   https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037
 - Cadence — Graduate Student Intern - Software Engineering — Austin, TX · term n/a  
   https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2
+- Cadence — CST Application Engineer Intern, Silicon — San Jose, CA · Summer  
+  https://go.vansh.nyc/Sz
 - Cadence Solutions — Product Management Intern — Remote / United States · Summer  
   https://go.vansh.nyc/PW
 - CAE — C-FIN-275 Software Engineering Intern - AI - Automation and Business Intelligence — Montréal, Canada +1 · term n/a  
   https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1
+- CAE — Cybersecurity Integration Specialist Intern — Montreal, Canada · Winter  
+  https://go.vansh.nyc/SA
 - CAMBA — Internship Developer - Learning to Work Program — Brooklyn, NY · term n/a  
   https://camba.applytojob.com/apply/wv3YppWJJF/Internship-Developer-Learning-To-Work-Program
 - [UK] Cambridge Consultants — Software Engineering Internship - Healthcare - 2027 start — United Kingdom · term n/a  
@@ -986,6 +1007,12 @@
   https://go.vansh.nyc/M2
 - Cboe Global Markets — Software Engineer Intern — Chicago, IL +2 · term n/a  
   https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Software-Engineer-Intern_R-4654
+- Celestica — Software Testing Intern — Austin, TX · Summer  
+  https://go.vansh.nyc/R0
+- Celestica — Software & Hardware Engineer Intern — Austin, TX · Summer  
+  https://go.vansh.nyc/R2
+- Celestica — SCM Data Analyst Intern — Toronto, Canada · Summer  
+  https://go.vansh.nyc/R1
 - Cencora — Software Intern — Remote, USA · Summer 2027  
   https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763
 - Censys — 2027 Software Engineering Intern — Remote · term n/a  
@@ -1064,6 +1091,8 @@
   https://go.vansh.nyc/ec
 - Cisco — Software Developer Embedded Systems I Co-op — Kanata, Canada / Saint-Laurent, Canada / Calgary, Canada / Toronto, Canada / Montreal, Canada / Ottawa, Canada · Winter  
   https://go.vansh.nyc/K6
+- Cisive — Software Developer Intern — Remote / United States · Summer  
+  https://go.vansh.nyc/SB
 - [UK] Citadel — Software Engineer - Intern - Europe — London, United Kingdom · term n/a  
   https://www.citadel.com/careers/details/software-engineer-intern-europe/
 - Citadel — Software Engineer Intern — New York, NY / Greenwich, CT / Miami, FL / Houston, TX · Summer  
@@ -1150,6 +1179,8 @@
   https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041
 - Crowe — MSFT AI Business Solutions Technical Intern — Chicago IL USA · Not stated  
   https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039
+- Crowe — Cybersecurity Intern — Chicago, IL / Indianapolis, IN / Dallas, TX / New York, NY · Summer  
+  https://go.vansh.nyc/SD
 - Crusoe — Software Engineering Intern — San Francisco, CA · Summer  
   https://go.vansh.nyc/e5
 - Cryptic Vector — Full Stack Developer Intern — San Jose, CA / Milpitas, CA / Research Triangle Park, NC / San Francisco, CA · Spring  
@@ -1492,6 +1523,8 @@
   https://go.vansh.nyc/ah
 - Gilead Sciences — Research Intern, Data Sciences - AI — San Francisco, CA · Summer  
   https://go.vansh.nyc/ag
+- Ginkgo Bioworks — Software Intern, Autonomous Lab — Toronto, Canada · Summer  
+  https://go.vansh.nyc/Qz
 - GIRO — Winter 2027 - Software Development and Artificial Intelligence Intern — Montréal, Canada · term n/a  
   https://giro.wd10.myworkdayjobs.com/en-US/giro/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321
 - GIRO — Winter 2027 - Software Development - Quality Assurance and AI Intern — Montréal, Canada · term n/a  
@@ -1726,6 +1759,8 @@
   https://go.vansh.nyc/4a
 - [UK] Javelin Global Commodities — Summer Intern: Software Engineering — London, United Kingdom · term n/a  
   https://apply.workable.com/javelin-global-commodities/j/C2B7BC10AD/
+- Johns Hopkins Applied Physics Laboratory — Cybersecurity Intern, Mission Engineering — Markham, Canada · Winter  
+  https://go.vansh.nyc/Ra
 - Johnson & Johnson — Process Excellence & AI Co-op — Milpitas, California, United States of America · Not stated  
   https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367
 - Johnson & Johnson — Software Engineering Intern - Robotics R&D — Santa Clara, California, United States of America · Summer 2027  
@@ -1778,6 +1813,8 @@
   https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384
 - Keysight Technologies — ASIC Design-for-Test Engineer Intern, DFT — Austin, TX / Milford, MI / Mountain View, CA / Warren, MI · Summer  
   https://go.vansh.nyc/Is
+- Keysight Technologies — Engineering Software Developer Intern — Austin, TX / Raleigh, NC · Summer  
+  https://go.vansh.nyc/Rg
 - Keysight Technologies — Software Engineer Intern — Des Moines, IA / New York, NY · Summer  
   https://go.vansh.nyc/ei
 - Keysight Technologies — R&D Hardware Engineer Intern — Santa Clara, CA · Summer  
@@ -1812,6 +1849,8 @@
   https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==
 - Later — Data Science Co-op — Vancouver, BC · Winter  
   https://go.vansh.nyc/9x
+- LAXIR — Junior Full-Stack Engineer Intern — Remote / United States · Summer  
+  https://go.vansh.nyc/Qx
 - Leidos — Cloud Engineering Intern — Remote · term n/a  
   https://leidos.wd5.myworkdayjobs.com/en-US/external/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668
 - Leidos — Business Systems AI Intern — 6314 Remote/Teleworker US · Not stated  
@@ -1852,6 +1891,8 @@
   https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002
 - Lyft — Software Engineer Intern - Machine Learning - Summer 2027 - Toronto — Toronto, Canada · term n/a  
   https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002
+- Lyft — Software Engineer Intern, Fullstack — Fort Mill, SC / Charlotte, NC / Austin, TX · Summer  
+  https://go.vansh.nyc/Qq
 - Lyft — Software Engineer Intern, Backend — Montreal, Canada · Summer  
   https://go.vansh.nyc/Qn
 - Lyft — Software Engineer Intern, Backend — San Francisco, CA · Summer  
@@ -1862,8 +1903,6 @@
   https://go.vansh.nyc/Qo
 - Lyft — Software Engineer Intern, Backend — Toronto, Canada · Summer  
   https://go.vansh.nyc/Qp
-- Lyft — Software Engineer Intern, Fullstack — Toronto, Canada · Summer  
-  https://go.vansh.nyc/Qq
 - Lyft — Data Science Intern, Algorithms (Summer 2027 - SF/NYC) — New York, NY · Summer 2027  
   https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002
 - Lyft — Software Engineer Intern, Backend (Summer 2027 - SF) — San Francisco, CA · Summer 2027  
@@ -1898,6 +1937,12 @@
   https://go.vansh.nyc/hf
 - Mastercard — Platform Engineering Intern — Toronto, Canada · Summer  
   https://go.vansh.nyc/gm
+- MDA — Software Engineering Intern — Brampton, Canada · Winter  
+  https://go.vansh.nyc/Rk
+- MDA — Engineering Intern, Python Test Data Processing — Montreal, Canada · Winter  
+  https://go.vansh.nyc/Rm
+- MDA — Engineering Intern, DevOps — Palo Alto, CA / Irvine, CA / Plymouth, MI / Atlanta, GA / Normal, IL · Winter  
+  https://go.vansh.nyc/Rl
 - [UK] medpace — ai engineering intern (12 months) — london, england, united kingdom · term n/a  
   https://www.linkedin.com/jobs/view/4442901779
 - Megazone Cloud US — Cloud Operations Co-op 2027 — Rochester, NY · term n/a  
@@ -2072,6 +2117,12 @@
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488
 - NVIDIA — Software Engineering Intern, Dynamo - Fall 2026 — US, CA, Santa Clara · Fall 2026  
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295
+- NVIDIA — Deep Learning Computer Architecture Intern — Santa Clara, CA · Summer  
+  https://go.vansh.nyc/Rn
+- NVIDIA — Systems Software Engineering Intern — Santa Clara, CA · Summer  
+  https://go.vansh.nyc/Ro
+- NVIDIA — Systems Software Intern, Aerial PHY — Santa Clara, CA · Summer  
+  https://go.vansh.nyc/Rp
 - NVIDIA — Systems Software Intern, Aerial PHY- Summer 2027 — US, CA, Santa Clara · Summer 2027  
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530
 - [UK] nxp semiconductors — intern ai and software engineer - automotive mpus — glasgow, scotland, united kingdom · term n/a  
@@ -2226,10 +2277,16 @@
   https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05
 - Qualcomm — Sensors Subsystem Engineering Intern, Multiple Teams — Hudson Valley, NY / Austin, TX / Irvine, CA / Santa Clara, CA / Boise, ID · Summer  
   https://go.vansh.nyc/Iw
+- Qualcomm — Machine Learning Compiler & Performance Engineering Intern — Huntington Beach, CA / San Francisco, CA · Summer  
+  https://go.vansh.nyc/Rw
 - Qualcomm — AI and DSP Applications Engineer Intern — Markham, Canada · Summer  
   https://go.vansh.nyc/fy
 - Qualcomm — Firmware Development Intern, PAL — Markham, Canada · Summer  
   https://go.vansh.nyc/Jq
+- Qualcomm — Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded — Markham, Canada · Summer  
+  https://go.vansh.nyc/Rx
+- Qualcomm — Low Power AI Software Development Intern — Markham, Canada · Summer  
+  https://go.vansh.nyc/Rz
 - Qualcomm — Machine Learning AISW Intern — Markham, ON, Canada · Summer  
   https://go.vansh.nyc/c8
 - Qualcomm — QDSP Hardware Physical Design Intern — Markham, ON, Canada · Summer  
@@ -2238,12 +2295,26 @@
   https://go.vansh.nyc/ek
 - Qualcomm — Applied AI Engineer Intern — Markham, ON, Canada · Summer  
   https://go.vansh.nyc/el
+- Qualcomm — Security Engineering Intern, Product, Systems, Cyber — Montreal, Canada · Summer  
+  https://go.vansh.nyc/Rt
+- Qualcomm — IT Infrastructure & Cloud Engineering Intern — Remote / United States · Summer  
+  https://go.vansh.nyc/Rv
+- Qualcomm — Hardware Engineering Intern, CPU, GPU, SoC, Digital Design, DV — San Diego, CA / Austin, TX / Boxborough, MA / Tempe, AZ / Santa Clara, CA · Summer  
+  https://go.vansh.nyc/Ru
+- Qualcomm — Machine Learning & Artificial Intelligence Engineering Intern — San Diego, CA / Austin, TX / Boxborough, MA / United States / New York, NY / Raleigh, NC / Santa Clara, CA · Summer  
+  https://go.vansh.nyc/Rr
+- Qualcomm — Software Engineering Intern — San Diego, CA / Austin, TX / Boxborough, MA / United States / Tempe, AZ / Irvine, CA / Louisville, KY / New York, NY · Summer  
+  https://go.vansh.nyc/Rs
+- Qualcomm — Embedded Engineering Intern — San Diego, CA / Boxborough, MA / Santa Clara, CA · Summer  
+  https://go.vansh.nyc/Rq
 - Qualcomm — Physical Mixed Layout Engineer Intern, Interim Engineering HW — Toronto, Canada · Summer  
   https://go.vansh.nyc/IH
 - Qualcomm — Firmware Engineer Intern, Embedded Software Engineering, Embedded Firmware and SDK Development — Toronto, Canada · Summer  
   https://go.vansh.nyc/II
 - Qualcomm — Digital Design Engineer Intern — Toronto, Canada · Summer  
   https://go.vansh.nyc/Q0
+- Qualcomm — Firmware/Embedded Software Engineering Intern — Toronto, Canada · Summer  
+  https://go.vansh.nyc/Ry
 - Qualcomm — Camera Design Implementation Intern — Vancouver, BC, Canada · Summer  
   https://go.vansh.nyc/es
 - Quantbot Technologies — Quantitative Developer Internship - 2027 - New York — New York City, NY · term n/a  
@@ -2252,6 +2323,8 @@
   https://job-boards.greenhouse.io/quantiq/jobs/4287936009
 - Radiance Technologies — Software Engineer Intern — Chicago, IL · Spring  
   https://go.vansh.nyc/Ju
+- Rakuten International — eReader Quality Assurance Intern — Toronto, Canada · Winter  
+  https://go.vansh.nyc/SF
 - [UK] Rapid7 — Software Engineer Intern — Belfast, United Kingdom · term n/a  
   https://mymoose.wd1.myworkdayjobs.com/en-US/private/job/Northern-Ireland---Belfast/Software-Engineer-Intern_R12565
 - Realm — Software Engineer - Intern — Remote · term n/a  
@@ -2362,6 +2435,8 @@
   https://job-boards.greenhouse.io/scaleai/jobs/4730845005
 - Scout AI — AI Engineer Intern - Fury Team (Summer 2027) — Sunnyvale, CA · Summer 2027  
   https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99
+- Seagate Technology — Recording Media R&D Intern, AI & Data Science — Fremont, CA · Summer  
+  https://go.vansh.nyc/St
 - SeatGeek — Software Engineer - Internship — New York City, NY · term n/a  
   https://seatgeek.com/jobs/8227553?gh_jid=8227553
 - Second Order Effects — Electrical Engineering Intern (Summer 2027) — El Segundo, CA / Redmond, WA · term n/a  
@@ -2408,6 +2483,10 @@
   https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb
 - Skydio — Software Engineer Intern Fall 2026/Winter 2027 — San Mateo, California, United States · Fall 2026  
   https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee
+- Skydio — Autonomy Engineer Intern, Simulation & Robotics — Mississauga, Canada · Summer  
+  https://go.vansh.nyc/Si
+- Skydio — Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools — Mississauga, Canada · Summer  
+  https://go.vansh.nyc/Sj
 - Skydio — Software Engineer Intern - Summer 2027 — San Mateo, California, United States · Summer 2027  
   https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c
 - Skydio — Frontend Software Engineer Intern - Summer 2027 — San Mateo, California, United States · Summer 2027  
@@ -2422,6 +2501,10 @@
   https://go.vansh.nyc/1u
 - Snowflake — Software Engineer Intern, Database Engineering — San Francisco, CA / New York, NY · Fall  
   https://go.vansh.nyc/2c
+- SOTI — Performance Test Engineer Intern — Mississauga, Canada · Winter  
+  https://go.vansh.nyc/SG
+- SOTI — Quality Assurance Specialist Intern, SOTI Connect — Mississauga, Canada · Winter  
+  https://go.vansh.nyc/SH
 - [UK] SPAICE — Software Engineering Intern — London, United Kingdom · term n/a  
   https://jobs.ashbyhq.com/spaice-tech/16468d27-11e9-498c-87b6-3469f5f4ee12
 - [UK] Squarepoint Capital — Intern Software Developer - Warsaw 2027 — London, United Kingdom +3 · term n/a  
@@ -2790,5 +2873,11 @@
   https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003
 - Zipline — Embedded Software Engineering Intern - Summer 2027 — South San Francisco, CA · term n/a  
   https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003
+- Zipline — Software Systems Validation Intern — Markham, Canada / Remote / Canada · Spring  
+  https://go.vansh.nyc/Sk
+- Zipline — System Test Automation Intern — South San Francisco, CA · Spring  
+  https://go.vansh.nyc/Su
+- Zipline — Software Systems Validation Intern — South San Francisco, CA · Summer  
+  https://go.vansh.nyc/Sl
 - Zoox — Freeways Data Evaluation Intern — Foster City, CA · Summer  
   https://go.vansh.nyc/9q
