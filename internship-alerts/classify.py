@@ -130,7 +130,9 @@ def is_friend_role(posting):
     if posting.get("source") in config.NA_SOURCES:
         return True
     n = loc.lower()
-    return any(m in n for m in config.NA_LOCATION_MARKERS)
+    if any(m in n for m in config.NA_LOCATION_MARKERS):
+        return True
+    return bool(set(re.split(r"[^a-z]+", n)) & config.NA_LOCATION_TOKENS)
 
 
 def tier_for(posting):

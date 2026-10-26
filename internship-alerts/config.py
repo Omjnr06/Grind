@@ -119,10 +119,11 @@ SOURCES = {
 NTFY_FRIENDS_TOPIC = os.environ.get("NTFY_FRIENDS_TOPIC") or "Omjnr-06-internship-grind-friends"
 FRIENDS_MAX_PUSHES = 20
 FRIENDS_DIGEST_HOURS = 48
-FRIENDS_EMAIL_MAX = 150  # rows in the friends email; the rest is a dashboard link
+FRIENDS_EMAIL_MAX = 150 
 DASHBOARD_URL = "https://www.magbadelojr.com/grind"
-NA_SOURCES = {"vanshb03", "zshah101", "sndsh404", "simplify", "speedyapply"}  # US/Canada/Remote-only feeds
-NA_LOCATION_MARKERS = ["united states", "usa", "u.s.", "canada","ca"]
+NA_SOURCES = {"vanshb03", "zshah101", "sndsh404", "simplify", "speedyapply"}  
+NA_LOCATION_MARKERS = ["united states", "u.s.", "canada"]
+NA_LOCATION_TOKENS = {"usa", "us", "ca"}  
 
 STATE_FILE = "seen.json"
 LOG_FILE = "log.csv"
