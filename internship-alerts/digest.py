@@ -29,13 +29,19 @@ def _key(p):
 def _load_first_seen():
     for path in (os.path.join("..", "_state", config.STATE_FILE), config.STATE_FILE):
         if os.path.exists(path):
-            with open(path) as f:
-                return {k: v.get("first_seen") for k, v in json.load(f).items()}
-    return {}
+            try:
+                with open(path) as f:
+                    return {k: v.get("first_seen") for k, v in json.load(f).items()}
+            except Exception as e:
+                print(f"[warn] couldn't read {path}: {e}")
+                return None
+    return None
 
 
 def _recent_friend_roles(uniq):
     first_seen = _load_first_seen()
+    if not first_seen:
+        return None
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=config.FRIENDS_DIGEST_HOURS)
     out = []
     for p in uniq:
@@ -117,15 +123,19 @@ def render_friends_email(roles):
         lines.append("Nothing new this time. Check the dashboard for everything still open.")
     canada = [p for p in roles if _is_canada(p)]
     rest = [p for p in roles if not _is_canada(p)]
+    room = config.FRIENDS_EMAIL_MAX
     for heading, group in (("Canada", canada), ("US & Remote", rest)):
-        if not group:
+        if not group or room <= 0:
             continue
         lines.append(f"=== {heading} ({len(group)}) ===")
-        for p in group:
+        for p in group[:room]:
             season = p.get("season") or "term n/a"
             lines.append(f"- {p['company']} — {p['title']} | {p['location']} · {season}")
             lines.append(f"  {p['url']}")
+        room -= len(group)
         lines.append("")
+    if len(roles) > config.FRIENDS_EMAIL_MAX:
+        lines.append(f"+ {len(roles) - config.FRIENDS_EMAIL_MAX} more new roles not shown — see {config.DASHBOARD_URL}")
     return "\n".join(lines)
 
 
@@ -136,8 +146,11 @@ def main_run():
         f.write(md)
     print(f"[digest] {len(a)} target roles, {len(b)} other; wrote OPEN_ROLES.md")
     notify.send_email(f"Daily board: {len(a)} target roles open", render_email(a, b))
-    notify.send_friends_email(f"{len(friends)} new intern roles (last {config.FRIENDS_DIGEST_HOURS}h)",
-                              render_friends_email(friends))
+    if friends is None:
+        print("[warn] seen.json missing or unreadable; skipping friends digest")
+    else:
+        notify.send_friends_email(f"{len(friends)} new intern roles (last {config.FRIENDS_DIGEST_HOURS}h)",
+                                  render_friends_email(friends))
     summary = {
         "company": f"{len(a)} target roles open",
         "title": "Daily board updated - see email / OPEN_ROLES.md",
