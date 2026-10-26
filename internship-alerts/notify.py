@@ -9,6 +9,7 @@ import urllib.parse
 from email.message import EmailMessage
 import config
 import classify
+import recipients_db
 
 
 def _ascii(s):
@@ -151,7 +152,18 @@ def recipients():
 
 def friend_recipients():
     primary, others = recipients()
-    return _dedup("DIGEST_EXTRA", exclude=([primary] if primary else []) + others)
+    exclude = ([primary] if primary else []) + others
+    rows = recipients_db.load()
+    if rows is None:
+        print("  [recipients] using DIGEST_EXTRA fallback")
+        return _dedup("DIGEST_EXTRA", exclude=exclude)
+    out, seen = [], {e.lower() for e in exclude}
+    for r in rows:
+        if r["swe"] and r["email"].lower() not in seen:
+            seen.add(r["email"].lower())
+            out.append(r["email"])
+    print(f"  [recipients] {len(out)} SWE friend(s) from Notion")
+    return out
 
 
 def _send_one(subject, body_text, to):
