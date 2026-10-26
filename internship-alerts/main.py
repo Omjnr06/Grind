@@ -60,11 +60,6 @@ def dedupe(postings):
                 cur["location"] = p["location"]
             if not cur.get("season") and p.get("season"):
                 cur["season"] = p["season"]
-
-    # Second pass: the same role often appears across multiple sources with
-    # different URLs. Collapse by normalized company+title+location so it only
-    # alerts once. The representative is chosen deterministically (smallest
-    # url_key) so the choice never changes between runs -> no cross-run doubles.
     by_content = {}
     for p in merged.values():
         ck = _content_key(p)
@@ -173,6 +168,7 @@ def main():
         notify.ntfy_push(p, "B")
     if a_new or b_new:
         notify.send_email_digest(a_new, b_new)
+    notify.ntfy_push_friends([p for p, _ in log_rows if p["is_open"] and classify.is_friend_role(p)])
     if log_rows:
         append_log(log_rows)
 
