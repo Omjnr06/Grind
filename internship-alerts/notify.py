@@ -2,6 +2,7 @@ import os
 import ssl
 import json
 import smtplib
+import time
 import urllib.request
 import urllib.error
 import urllib.parse
@@ -33,7 +34,7 @@ def _track_action(posting, url):
     return f"http, Applied, {track_url}, method=POST"
 
 
-def ntfy_push(posting, tier):
+def ntfy_push(posting, tier, topic=None, track=True):
     if tier == "A":
         priority, label, tags = "5", "TARGET", "dart,rotating_light"
     else:
@@ -49,13 +50,13 @@ def ntfy_push(posting, tier):
         headers["Click"] = url
         if "," not in url:
             actions.append(f"view, Open posting, {url}")
-    track = _track_action(posting, url)
+    track = _track_action(posting, url) if track else None
     if track:
         actions.append(track)
     if actions:
         headers["Actions"] = "; ".join(actions)
     req = urllib.request.Request(
-        f"{config.NTFY_SERVER}/{config.NTFY_TOPIC}",
+        f"{config.NTFY_SERVER}/{topic or config.NTFY_TOPIC}",
         data=body.encode("utf-8"), headers=headers, method="POST",
     )
     try:
@@ -71,7 +72,7 @@ def _send_via_resend(subject, body_text, to_list):
     if not key or not to_list:
         return None
     frm = (os.environ.get("RESEND_FROM") or "onboarding@resend.dev").strip()
-    print(f"  [resend] key_len={len(key)} starts_ok={key.startswith('re_')} to={to_list}")
+    print(f"  [resend] key_len={len(key)} starts_ok={key.startswith('re_')} to={[_mask(t) for t in to_list]}")
     payload = json.dumps({"from": frm, "to": to_list, "subject": subject, "text": body_text}).encode()
     req = urllib.request.Request(
         "https://api.resend.com/emails", data=payload,
@@ -125,16 +126,83 @@ def _send_via_smtp(subject, body_text, to_list):
 
 
 def _split(env_val):
-    return [e.strip() for e in (env_val or "").split(",") if e.strip()]
+    return [e.strip() for e in (env_val or "").replace(";", ",").replace("\n", ",").split(",") if e.strip()]
 
 
-def send_email(subject, body_text, to_list=None):
-    if to_list is None:
-        to_list = _split(os.environ.get("MAIL_TO"))
-    r = _send_via_resend(subject, body_text, to_list)
-    if r is not None:
-        return r
-    return _send_via_smtp(subject, body_text, to_list)
+def _mask(addr):
+    name, _, domain = addr.partition("@")
+    return f"{name[:1]}***@{domain}"
+
+
+def _dedup(*env_names, exclude=()):
+    out, seen = [], {e.lower() for e in exclude}
+    for name in env_names:
+        for e in _split(os.environ.get(name)):
+            if e.lower() not in seen:
+                seen.add(e.lower())
+                out.append(e)
+    return out
+
+
+def recipients():
+    everyone = _dedup("MAIL_TO", "MAIL_EXTRA")
+    return (everyone[0] if everyone else None), everyone[1:]
+
+
+def friend_recipients():
+    primary, others = recipients()
+    return _dedup("DIGEST_EXTRA", exclude=([primary] if primary else []) + others)
+
+
+def _send_one(subject, body_text, to):
+    r = _send_via_resend(subject, body_text, [to])
+    if r:
+        return True
+    return _send_via_smtp(subject, body_text, [to])
+
+
+def _send_each(subject, body_text, addrs, label):
+    for i, addr in enumerate(addrs):
+        # for rate limiting on resend
+        time.sleep(0.6) 
+        try:
+            if not _send_one(subject, body_text, addr):
+                print(f"  {label} {i + 1} ({_mask(addr)}) failed")
+        except Exception as e:
+            print(f"  {label} {i + 1} ({_mask(addr)}) crashed: {e}")
+
+
+def send_email(subject, body_text):
+    primary, others = recipients()
+    if not primary:
+        print("  email skipped (MAIL_TO not set)")
+        return False
+    ok = _send_one(subject, body_text, primary)
+    _send_each(subject, body_text, others, "extra recipient")
+    return ok
+
+
+def send_friends_email(subject, body_text):
+    friends = friend_recipients()
+    if not friends:
+        return
+    print(f"  [friends] sending digest to {len(friends)} address(es)")
+    _send_each(subject, body_text, friends, "friend")
+
+
+def ntfy_push_friends(postings):
+    if not config.NTFY_FRIENDS_TOPIC or not postings:
+        return
+    for p in postings[:config.FRIENDS_MAX_PUSHES]:
+        ntfy_push(p, "B", topic=config.NTFY_FRIENDS_TOPIC, track=False)
+    extra = len(postings) - config.FRIENDS_MAX_PUSHES
+    if extra > 0:
+        summary = {
+            "company": f"+{extra} more new roles",
+            "title": "Too many to push one by one - see the dashboard",
+            "location": "", "season": "", "url": config.DASHBOARD_URL, "source": "digest",
+        }
+        ntfy_push(summary, "B", topic=config.NTFY_FRIENDS_TOPIC, track=False)
 
 
 def _row(p):
@@ -149,9 +217,4 @@ def send_email_digest(a_list, b_list):
     if b_list:
         parts.append("=== OTHER RELEVANT ===\n" + "\n".join(_row(p) for p in b_list))
     subject = f"[{len(a_list)} target / {len(b_list)} other] new internship postings"
-    recipients, seen = [], set()
-    for e in _split(os.environ.get("MAIL_TO")) + _split(os.environ.get("DIGEST_EXTRA")):
-        if e.lower() not in seen:
-            seen.add(e.lower())
-            recipients.append(e)
-    return send_email(subject, "\n\n".join(parts) or "No new postings.", recipients)
+    return send_email(subject, "\n\n".join(parts) or "No new postings.")

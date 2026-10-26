@@ -29,6 +29,9 @@ LOCATION_PHRASES = [
     "sunnyvale", "san jose", "menlo park", "cupertino", "redwood city",
     "santa clara", "san mateo", "foster city", "oakland", "berkeley",
     "emeryville", "san bruno", "south san francisco", "fremont", "milpitas",
+    "seattle", "bellevue", "redmond", "kirkland",
+    "austin", "chicago",
+    "montreal", "montréal",
     "toronto", "vancouver", "mississauga", "brampton", "markham", "vaughan",
     "north york", "scarborough", "etobicoke", "gta", "greater toronto",
     "dubai", "united arab emirates", "uae",
@@ -112,6 +115,15 @@ SOURCES = {
         "fallback_url": "https://raw.githubusercontent.com/LorenzoLaCorte/european-tech-internships-2026/master/README.md",
     },
 }
+
+# Friends lane (DIGEST_EXTRA + friends ntfy topic): any intern role in the US/Canada,
+# not limited to the target list or the cities above.
+NTFY_FRIENDS_TOPIC = os.environ.get("NTFY_FRIENDS_TOPIC") or "Omjnr-06-internship-grind-friends"
+FRIENDS_MAX_PUSHES = 20
+FRIENDS_DIGEST_HOURS = 48
+DASHBOARD_URL = "https://www.magbadelojr.com/grind"
+NA_SOURCES = {"vanshb03", "zshah101", "sndsh404", "simplify", "speedyapply"}  # US/Canada/Remote-only feeds
+NA_LOCATION_MARKERS = ["united states", "usa", "u.s.", "canada"]
 
 STATE_FILE = "seen.json"
 LOG_FILE = "log.csv"

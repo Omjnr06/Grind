@@ -123,6 +123,16 @@ def is_restricted(posting):
     return any(m in blob for m in config.RESTRICTED_MARKERS)
 
 
+def is_friend_role(posting):
+    loc = posting.get("location", "")
+    if not is_intern_role(posting["title"]) or is_uk_location(loc) or is_restricted(posting):
+        return False
+    if posting.get("source") in config.NA_SOURCES:
+        return True
+    n = loc.lower()
+    return any(m in n for m in config.NA_LOCATION_MARKERS)
+
+
 def tier_for(posting):
     if not is_intern_role(posting["title"]):
         return "C"
