@@ -31,7 +31,8 @@ def _load_first_seen():
         if os.path.exists(path):
             try:
                 with open(path) as f:
-                    return {k: v.get("first_seen") for k, v in json.load(f).items()}
+                    return {k: (None if v.get("seeded") else v.get("first_seen"))
+                            for k, v in json.load(f).items()}
             except Exception as e:
                 print(f"[warn] couldn't read {path}: {e}")
                 return None
@@ -47,9 +48,10 @@ def _recent_friend_roles(uniq):
     for p in uniq:
         if not (p["is_open"] and classify.is_friend_role(p)):
             continue
-        fs = first_seen.get(p["url_key"])
-        if fs and datetime.datetime.fromisoformat(fs.replace("Z", "+00:00")) < cutoff:
+        fs = next((first_seen[k] for k in sorted(p["keys"]) if first_seen.get(k)), None)
+        if not fs or datetime.datetime.fromisoformat(fs.replace("Z", "+00:00")) < cutoff:
             continue
+        p["track"] = classify.track_for(p)
         out.append(p)
     return sorted(out, key=_key)
 
@@ -73,14 +75,14 @@ def render_md(a, b):
         lines.append("## Target companies")
         for p in a:
             season = p.get("season") or "term n/a"
-            tag = "[UK] " if classify.region_for(p) == "UK" else ""
+            tag = notify._tags(p)
             lines.append(f"- **{tag}{p['company']}** — {p['title']}  \n  {p['location']} · {season} · [{p['source']}]  \n  {p['url']}")
         lines.append("")
     if INCLUDE_TIER_B and b:
         lines.append(f"## Other relevant ({len(b)})")
         for p in b:
             season = p.get("season") or "term n/a"
-            tag = "[UK] " if classify.region_for(p) == "UK" else ""
+            tag = notify._tags(p)
             lines.append(f"- {tag}{p['company']} — {p['title']} — {p['location']} · {season}  \n  {p['url']}")
     return "\n".join(lines) + "\n"
 
@@ -89,7 +91,7 @@ def render_email(a, b):
     lines = [f"{len(a)} target-company roles open right now.", ""]
     for p in a:
         season = p.get("season") or "term n/a"
-        tag = "[UK] " if classify.region_for(p) == "UK" else ""
+        tag = notify._tags(p)
         lines.append(f"- {tag}{p['company']} — {p['title']}")
         lines.append(f"  {p['location']} · {season} · [{p['source']}]")
         lines.append(f"  {p['url']}")
@@ -97,7 +99,7 @@ def render_email(a, b):
         lines.append("")
         lines.append(f"--- {len(b)} other relevant roles ---")
         for p in b:
-            lines.append(f"- {p['company']} — {p['title']} — {p['location']}")
+            lines.append(f"- {notify._tags(p)}{p['company']} — {p['title']} — {p['location']}")
             lines.append(f"  {p['url']}")
     elif b:
         lines.append("")
@@ -115,19 +117,17 @@ def _is_canada(p):
     return "canada" in n or any(t in set(re.split(r"[^a-z]+", n)) for t in ("on", "bc", "qc", "ab"))
 
 
-def render_friends_email(roles):
-    hours = config.FRIENDS_DIGEST_HOURS
-    lines = [f"{len(roles)} new intern roles in the US & Canada in the last {hours} hours.",
-             f"Full list of everything open: {config.DASHBOARD_URL}", ""]
+def _friend_section(roles):
+    lines = []
     if not roles:
-        lines.append("Nothing new this time. Check the dashboard for everything still open.")
+        return ["Nothing new this time. Check the dashboard for everything still open.", ""]
     canada = [p for p in roles if _is_canada(p)]
     rest = [p for p in roles if not _is_canada(p)]
     room = config.FRIENDS_EMAIL_MAX
     for heading, group in (("Canada", canada), ("US & Remote", rest)):
         if not group or room <= 0:
             continue
-        lines.append(f"=== {heading} ({len(group)}) ===")
+        lines.append(f"-- {heading} ({len(group)}) --")
         for p in group[:room]:
             season = p.get("season") or "term n/a"
             lines.append(f"- {p['company']} — {p['title']} | {p['location']} · {season}")
@@ -136,7 +136,25 @@ def render_friends_email(roles):
         lines.append("")
     if len(roles) > config.FRIENDS_EMAIL_MAX:
         lines.append(f"+ {len(roles) - config.FRIENDS_EMAIL_MAX} more new roles not shown — see {config.DASHBOARD_URL}")
-    return "\n".join(lines)
+        lines.append("")
+    return lines
+
+
+def render_friends_email(tracks, roles):
+    hours = config.FRIENDS_DIGEST_HOURS
+    sections = [(name, [p for p in roles if p["track"] == t])
+                for t, name in (("swe", "Software"), ("pm", "Product")) if t in tracks]
+    total = sum(len(rs) for _, rs in sections)
+    counts = " + ".join(f"{len(rs)} {name.lower()}" for name, rs in sections)
+    subject = f"{total} new intern roles (last {hours}h)"
+    if len(sections) > 1:
+        subject = f"{total} new intern roles: {counts} (last {hours}h)"
+    lines = [f"New intern roles in the US & Canada in the last {hours} hours: {counts}.",
+             f"Full list of everything open: {config.DASHBOARD_URL}", ""]
+    for name, rs in sections:
+        lines.append(f"=== {name.upper()} ({len(rs)}) ===")
+        lines += _friend_section(rs)
+    return subject, "\n".join(lines)
 
 
 def main_run():
@@ -149,8 +167,7 @@ def main_run():
     if friends is None:
         print("[warn] seen.json missing or unreadable; skipping friends digest")
     else:
-        notify.send_friends_email(f"{len(friends)} new intern roles (last {config.FRIENDS_DIGEST_HOURS}h)",
-                                  render_friends_email(friends))
+        notify.send_friends_emails(lambda tracks: render_friends_email(tracks, friends))
     summary = {
         "company": f"{len(a)} target roles open",
         "title": "Daily board updated - see email / OPEN_ROLES.md",

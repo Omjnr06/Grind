@@ -95,9 +95,11 @@ SOURCES = {
         "fallback_url": "https://raw.githubusercontent.com/sndsh404/summer-2027-internships/master/README.md",
     },
     "simplify": {
-        "type": "readme_table",
-        "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md",
-        "fallback_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/main/README.md",
+        "type": "simplify_json",
+        "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+        "fallback_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/main/.github/scripts/listings.json",
+        "active_only": True, 
+        "intern_list": True, 
     },
     "speedyapply": {
         "type": "readme_table",
@@ -116,7 +118,18 @@ SOURCES = {
     },
 }
 
+SKIP_CATEGORIES = {"hardware", "hardware engineering"}
+PM_CATEGORIES = {"product", "product management"}
+PM_TITLE_EXPLICIT = r"product manag|product owner|program manag|\btpm\b|\bapm\b"
+PM_TITLE_LOOSE = r"\bproduct\b"  # product analyst/designer/engineer/ops/marketing/intern...
+SWE_TITLE_WORDS = r"software|developer|\bswe\b|back[- ]?end|front[- ]?end|full[- ]?stack|machine learning|\bml\b|data scien|research"
+# "manager" is in ROLE_EXCLUDE; these phrases are allowed through anyway.
+ROLE_EXCLUDE_EXCEPTIONS = r"(product|program)\s+manag\w*"
+
+SEEDED_FILE = "seeded_sources.json"
+FLOOD_LIMIT = 80  
 NTFY_FRIENDS_TOPIC = os.environ.get("NTFY_FRIENDS_TOPIC") or "Omjnr-06-internship-grind-friends"
+NTFY_FRIENDS_PM_TOPIC = os.environ.get("NTFY_FRIENDS_PM_TOPIC") or "Omjnr-06-internship-grind-friends-pm"
 FRIENDS_MAX_PUSHES = 20
 FRIENDS_DIGEST_HOURS = 48
 FRIENDS_EMAIL_MAX = 150 

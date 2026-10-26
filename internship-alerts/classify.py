@@ -109,13 +109,32 @@ def is_uk_target(company):
     return None
 
 
-def is_intern_role(title):
+_PM_EXPLICIT = re.compile(config.PM_TITLE_EXPLICIT)
+_PM_LOOSE = re.compile(config.PM_TITLE_LOOSE)
+_SWE_WORDS = re.compile(config.SWE_TITLE_WORDS)
+_EXCLUDE_OK = re.compile(config.ROLE_EXCLUDE_EXCEPTIONS)
+
+
+def is_intern_role(title, intern_list=False):
     t = title.lower()
-    if not any(k in t for k in config.ROLE_INCLUDE):
+    if not intern_list and not any(k in t for k in config.ROLE_INCLUDE):
         return False
+    t = _EXCLUDE_OK.sub(" ", t)  # "Product Manager Intern" isn't a manager role
     if any(k in t for k in config.ROLE_EXCLUDE):
         return False
     return True
+
+
+def track_for(posting):
+    if posting.get("category") in config.PM_CATEGORIES:
+        return "pm"
+    t = posting.get("title", "").lower()
+    if _PM_EXPLICIT.search(t):
+        return "pm"
+    # "Software Engineer - Digital Product" is SWE; "Product Design Engineer" is PM.
+    if _PM_LOOSE.search(t) and not _SWE_WORDS.search(t):
+        return "pm"
+    return "swe"
 
 
 def is_restricted(posting):
@@ -125,7 +144,7 @@ def is_restricted(posting):
 
 def is_friend_role(posting):
     loc = posting.get("location", "")
-    if not is_intern_role(posting["title"]) or is_uk_location(loc) or is_restricted(posting):
+    if not is_intern_role(posting["title"], posting.get("intern_list")) or is_uk_location(loc) or is_restricted(posting):
         return False
     if posting.get("source") in config.NA_SOURCES:
         return True
@@ -136,7 +155,7 @@ def is_friend_role(posting):
 
 
 def tier_for(posting):
-    if not is_intern_role(posting["title"]):
+    if not is_intern_role(posting["title"], posting.get("intern_list")):
         return "C"
     if is_uk_location(posting.get("location", "")):
         return "A" if is_uk_target(posting["company"]) else "B"

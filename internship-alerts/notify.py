@@ -40,9 +40,7 @@ def ntfy_push(posting, tier, topic=None, track=True):
         priority, label, tags = "5", "TARGET", "dart,rotating_light"
     else:
         priority, label, tags = "2", "NEW", "seedling"
-    region = classify.region_for(posting)
-    prefix = "[UK] " if region == "UK" else ""
-    title = _ascii(f"{prefix}{label}: {posting['company']}") or label
+    title = _ascii(f"{_tags(posting)}{label}: {posting['company']}") or label
     body = f"{posting['title']}\n{posting['location']} - {posting.get('season') or 'season n/a'} [{posting['source']}]"
     headers = {"Title": title, "Priority": priority, "Tags": tags}
     url = posting.get("url") or ""
@@ -151,18 +149,28 @@ def recipients():
 
 
 def friend_recipients():
+    """{email: {"swe", "pm"}} for the friends digest. Notion's SWE/PM boxes decide;
+    DIGEST_EXTRA (SWE) / DIGEST_PM (PM) are only used if Notion can't be reached."""
     primary, others = recipients()
-    exclude = ([primary] if primary else []) + others
+    exclude = {e.lower() for e in ([primary] if primary else []) + others}
     rows = recipients_db.load()
     if rows is None:
-        print("  [recipients] using DIGEST_EXTRA fallback")
-        return _dedup("DIGEST_EXTRA", exclude=exclude)
-    out, seen = [], {e.lower() for e in exclude}
+        print("  [recipients] using DIGEST_EXTRA / DIGEST_PM fallback")
+        rows = [{"email": e, "swe": True, "pm": False} for e in _dedup("DIGEST_EXTRA")]
+        rows += [{"email": e, "swe": False, "pm": True} for e in _dedup("DIGEST_PM")]
+    out, canon = {}, {}
     for r in rows:
-        if r["swe"] and r["email"].lower() not in seen:
-            seen.add(r["email"].lower())
-            out.append(r["email"])
-    print(f"  [recipients] {len(out)} SWE friend(s) from Notion")
+        k = r["email"].lower()
+        if k in exclude:
+            continue
+        email = canon.setdefault(k, r["email"])
+        tracks = out.setdefault(email, set())
+        if r["swe"]:
+            tracks.add("swe")
+        if r["pm"]:
+            tracks.add("pm")
+    out = {e: t for e, t in out.items() if t}
+    print(f"  [recipients] {sum('swe' in t for t in out.values())} SWE / {sum('pm' in t for t in out.values())} PM friend(s)")
     return out
 
 
@@ -194,19 +202,22 @@ def send_email(subject, body_text):
     return ok
 
 
-def send_friends_email(subject, body_text):
+def send_friends_emails(render):
     friends = friend_recipients()
-    if not friends:
-        return
-    print(f"  [friends] sending digest to {len(friends)} address(es)")
-    _send_each(subject, body_text, friends, "friend")
+    groups = {}
+    for email, tracks in friends.items():
+        groups.setdefault(frozenset(tracks), []).append(email)
+    for tracks, emails in groups.items():
+        subject, body = render(tracks)
+        print(f"  [friends] {'+'.join(sorted(tracks))} digest -> {len(emails)} address(es)")
+        _send_each(subject, body, emails, "friend")
 
 
-def ntfy_push_friends(postings):
-    if not config.NTFY_FRIENDS_TOPIC or not postings:
+def _push_capped(postings, topic):
+    if not topic or not postings:
         return
     for p in postings[:config.FRIENDS_MAX_PUSHES]:
-        ntfy_push(p, "B", topic=config.NTFY_FRIENDS_TOPIC, track=False)
+        ntfy_push(p, "B", topic=topic, track=False)
     extra = len(postings) - config.FRIENDS_MAX_PUSHES
     if extra > 0:
         summary = {
@@ -214,12 +225,32 @@ def ntfy_push_friends(postings):
             "title": "Too many to push one by one - see the dashboard",
             "location": "", "season": "", "url": config.DASHBOARD_URL, "source": "digest",
         }
-        ntfy_push(summary, "B", topic=config.NTFY_FRIENDS_TOPIC, track=False)
+        ntfy_push(summary, "B", topic=topic, track=False)
+
+
+def ntfy_push_friends(postings):
+    _push_capped([p for p in postings if p.get("track") != "pm"], config.NTFY_FRIENDS_TOPIC)
+    _push_capped([p for p in postings if p.get("track") == "pm"], config.NTFY_FRIENDS_PM_TOPIC)
+
+
+def flood_summary(n_a, n_b):
+    summary = {
+        "company": f"{n_a + n_b} new roles in one run",
+        "title": f"{n_a} target / {n_b} other - recorded without individual pings, see the dashboard",
+        "location": "", "season": "", "url": config.DASHBOARD_URL, "source": "digest",
+    }
+    ntfy_push(summary, "B")
+
+
+def _tags(p):
+    tag = "[UK] " if classify.region_for(p) == "UK" else ""
+    if (p.get("track") or classify.track_for(p)) == "pm":
+        tag += "[PM] "
+    return tag
 
 
 def _row(p):
-    tag = "[UK] " if classify.region_for(p) == "UK" else ""
-    return f"- {tag}{p['company']} — {p['title']} | {p['location']} | {p.get('season') or ''}\n  {p['url']}"
+    return f"- {_tags(p)}{p['company']} — {p['title']} | {p['location']} | {p.get('season') or ''}\n  {p['url']}"
 
 
 def send_email_digest(a_list, b_list):

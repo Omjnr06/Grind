@@ -1,4 +1,5 @@
 import re
+import datetime
 import json
 import urllib.request
 import urllib.error
@@ -28,8 +29,11 @@ def norm_url(u):
     return u
 
 
-def _posting(company, title, location, url, season, sponsorship, is_open, source):
+def _posting(company, title, location, url, season, sponsorship, is_open, source, category=""):
+    src = config.SOURCES.get(source, {})
     return {
+        "category": (category or "").strip().lower(),
+        "intern_list": bool(src.get("intern_list")),
         "company": (company or "").strip(),
         "title": (title or "").strip(),
         "location": (location or "").strip(),
@@ -42,17 +46,41 @@ def _posting(company, title, location, url, season, sponsorship, is_open, source
     }
 
 
+_TERM = re.compile(r"\b(winter|spring|summer|fall|autumn)\s+(20\d\d)\b", re.I)
+_TERM_START_MONTH = {"winter": 1, "spring": 3, "summer": 5, "fall": 9, "autumn": 9}
+
+
+def _all_terms_started(terms, today=None):
+    # Past = every listed term has already started (e.g. "Summer 2026", "Fall 2026"
+    # in late Oct 2026). Terms without a year ("Summer", "N/A") count as current.
+    today = today or datetime.date.today()
+    found = [_TERM.search(t or "") for t in terms]
+    if not found or any(m is None for m in found):
+        return False
+    return all(datetime.date(int(m[2]), _TERM_START_MONTH[m[1].lower()], 1) <= today for m in found)
+
+
 def parse_simplify_json(raw, source):
     data = json.loads(raw)
+    active_only = config.SOURCES.get(source, {}).get("active_only")
     out = []
     for e in data:
         if not e.get("is_visible", True):
             continue
+        if active_only and not e.get("active", True):
+            continue
+        category = e.get("category") or ""
+        if category.strip().lower() in config.SKIP_CATEGORIES:
+            continue
+        terms = e.get("terms") or ([e["season"]] if e.get("season") else [])
+        if _all_terms_started(terms):
+            continue
         locs = e.get("locations") or []
+        season = e.get("season") or ", ".join(t for t in (e.get("terms") or []) if t != "N/A")
         out.append(_posting(
             e.get("company_name"), e.get("title"), " / ".join(locs),
-            e.get("url"), e.get("season"), e.get("sponsorship"),
-            e.get("active", True), source,
+            e.get("url"), season, e.get("sponsorship"),
+            e.get("active", True), source, category,
         ))
     return out
 
