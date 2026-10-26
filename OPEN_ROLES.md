@@ -1318,7 +1318,7 @@
   London, UK · Summer 2027 · [simplify]  
   https://jobs.smartrecruiters.com/Wise/744000156269320
 
-## Other relevant (2053)
+## Other relevant (2045)
 - 10a Labs — Engineering Fellow — SF · term n/a  
   https://job-boards.greenhouse.io/10alabs/jobs/4203095009
 - 1Password — Developer Intern - Developer Interfaces - Winter 2027 — Remote - USA +1 · term n/a  
@@ -1333,8 +1333,6 @@
   https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9
 - 1Password — Developer Intern, Vault Team — Remote / United States / Canada · Winter  
   https://go.vansh.nyc/f0
-- [PM] 1Password — Data Intern - Product Analytics — Remote in USA / Remote in Canada · Winter 2027  
-  https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true
 - 1Password — Developer Intern - Vault Team — Remote in USA / Remote in Canada · Winter 2027  
   https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true
 - 1Password — Developer Intern - Extension Excellence — Remote in USA / Remote in Canada · Winter 2027  
@@ -1525,8 +1523,6 @@
   https://careers.amd.com/jobs/90383?icims=1
 - AMD — Graphics Software Engineer Intern/Co-op — Markham, ON, Canada · Summer 2027  
   https://careers.amd.com/jobs/90305?icims=1
-- AMD — AI Research Intern - Reinforcement Learning and LLM Post-Training — Santa Clara, CA · Summer 2027  
-  https://careers.amd.com/jobs/91013?icims=1
 - AMD — AI Research Infrastructure – Reinforcement Learning Post-Training Intern — Santa Clara, CA · Summer 2027  
   https://careers.amd.com/jobs/90950?icims=1
 - AMD — Generative AI and Reinforcement Learning Research Intern — Santa Clara, CA · Summer 2027  
@@ -1809,8 +1805,6 @@
   https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717
 - Assurant — Software Engineer Intern — Miami, FL / Chicago, IL / Atlanta, GA · Summer 2027  
   https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1
-- [PM] Assurant — Product Analyst Intern - Housing — Remote in USA · Summer 2027  
-  https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659
 - Astera Labs — Data Analytics Intern — San Jose, CA · term n/a  
   https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005
 - Astera Labs — Applied AI Engineer Intern - Silicon Engineering — San Jose, CA · term n/a  
@@ -2405,8 +2399,6 @@
   https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526
 - Constellation Energy — PMO/Data Analyst Intern — Chicago, IL · Summer 2027  
   https://jobs.constellationenergy.com/jobs/138735?icims=1
-- Coretek Services — Data Consultant Co-op — Remote in USA · Spring 2027  
-  https://apply.workable.com/coretek-services/j/BD2FA6BDD9/apply
 - Corning — Measurements Engineering Intern - Summer 2027 — Corning, NY · Summer 2027  
   https://corningjobs.corning.com/job/Corning-Intern,-Measurements-Summer-2027-NY-14831/1433453700/?ats=successfactors
 - Corpay — Software Developer Co-op — Vancouver, BC, Canada · term n/a  
@@ -2911,8 +2903,6 @@
   https://jobs.ashbyhq.com/g2/64dcc04a-a0e7-493b-b899-dd4c56e561fd
 - Garda Capital Partners — Software Engineer Intern — New York, New York, United States · Not stated  
   https://job-boards.greenhouse.io/gardacp/jobs/6146213004
-- Garda Capital Partners — Trading Analyst Intern - Mortgages — NYC · Summer 2027  
-  https://job-boards.greenhouse.io/gardacp/jobs/6179468004
 - Garmin — Software Engineer Intern — Markham, Canada · Summer  
   https://go.vansh.nyc/Lo
 - Garner Health — Software Engineering Intern — New York City, New York · Not stated  
@@ -3257,8 +3247,6 @@
   https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088
 - Horizon Industries — Appian Intern — Palo Alto, CA · Summer  
   https://go.vansh.nyc/cg
-- Houlihan Lokey — Financial Analyst - Corporate Valuation Advisory Services - Complex Securities — LA / NYC · Summer 2027  
-  https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Summer-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services--Complex-Securities---Multiple-Locations_R3632
 - Howden — Underwriting Intern, Cyber — New York – 1350 Avenue Of The Americas · Summer 2027  
   https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1
 - [PM] HP — Software Product Management Intern — Austin, TX +1 · term n/a  
@@ -4041,8 +4029,6 @@
   https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00214260
 - Nissan Global — Machine Learning Research Prediction and Planning Intern — Santa Clara, CA · Spring 2027  
   https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262
-- Nissan Global — Research Application Intern — Santa Clara, CA · Summer 2027  
-  https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214272
 - Nissan Global — AI Robotics Research Intern — Santa Clara, CA · Summer 2027  
   https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267
 - Nokia — Incubation Developer Student Intern — Ottawa, ON, Canada · term n/a  
@@ -5137,8 +5123,6 @@
   https://go.vansh.nyc/hp
 - [UK] Tradeweb — Java Developer Intern — London, UK · Summer 2027  
   https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901
-- [UK] Tradeweb — AI Engineering Intern — London, UK · Summer 2027  
-  https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301900
 - [PM] Tradeweb — Market Data Product Management Intern — NYC · Summer 2027  
   https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932
 - Tradeweb — Quantitative Intern — NYC · Summer 2027  
