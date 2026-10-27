@@ -37,9 +37,5 @@ class ListNode:
             firstHalf = temp1
             secondHalf = temp2
 
-        
-
-
-
 
 
