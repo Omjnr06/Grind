@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-27T01:48:12Z",
+ "generated_at": "2026-10-27T07:01:37Z",
  "counts": {
-  "target": 446,
-  "relevant": 2072
+  "target": 448,
+  "relevant": 2076
  },
  "roles": [
   {
@@ -1432,6 +1432,30 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/R3",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Disney",
+   "title": "Systems Engineer Intern, Data Services",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/Uz",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Disney",
+   "title": "Software Engineer Intern, Pipeline Infrastructure",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/UA",
+   "first_seen": "2026-10-27T07:01:37Z"
   },
   {
    "tier": "A",
@@ -8660,6 +8684,90 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Aurora Innovation",
+   "title": "Core Autonomy Software Intern - C++",
+   "location": "Pittsburgh, PA / Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Aurora Innovation",
+   "title": "Full Stack Engineer Intern",
+   "location": "Pittsburgh, PA / Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Aurora Innovation",
+   "title": "AI Engineer Intern",
+   "location": "Seattle, WA / Pittsburgh, PA / Mountain View, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Aurora Innovation",
+   "title": "Simulation Engineering Intern",
+   "location": "SF / Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Aurora Innovation",
+   "title": "Perception & Mapping Intern",
+   "location": "SF / Pittsburgh, PA / Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Aurora Innovation",
+   "title": "Behavior and Planning Intern - ML Research",
+   "location": "SF / Pittsburgh, PA / Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Aurora Innovation",
+   "title": "Data & ML Platform Engineer Intern",
+   "location": "SF / Pittsburgh, PA / Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Auto-Owners Insurance",
    "title": "Software Engineer Intern",
    "location": "Bellevue, WA",
@@ -8692,18 +8800,6 @@
    "source": "simplify",
    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Autodesk",
-   "title": "Product Manager Intern - Manufacturing",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Product-Management---Manufacturing_26WD101861-2",
-   "first_seen": "2026-10-26T22:57:43Z"
   },
   {
    "tier": "B",
@@ -11248,18 +11344,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/5w",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cisco",
-   "title": "Software Developer Embedded Systems I Co-op",
-   "location": "Kanata, Canada / Saint-Laurent, Canada / Calgary, Canada / Toronto, Canada / Montreal, Canada / Ottawa, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/K6",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -16364,6 +16448,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "GSK",
+   "title": "Data & Analytics - Multiple Roles",
+   "location": "Ware, UK / Worthing, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---West-Sussex---Worthing/Data---Analytics--Multiple-Roles-and-Locations--Industrial-Placement--UK-2027_446647",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Guardian Life",
    "title": "Data Engineering Intern - Digital & Technology",
    "location": "Holmdel, NJ / NYC / Bethlehem, PA",
@@ -16461,18 +16557,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Harvey",
-   "title": "Software Engineer Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Harvey",
    "title": "Software Engineering Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "",
@@ -16480,18 +16564,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7",
    "first_seen": "2026-10-03T18:25:20Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Harvey",
-   "title": "Software Engineer Intern - Summer 2027",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -21657,6 +21729,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Niantic Spatial",
+   "title": "Software Engineer Intern, Native SDK & Mobile Platforms",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/Uy",
+   "first_seen": "2026-10-27T07:01:37Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Niantic Spatial",
    "title": "Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
@@ -25113,18 +25197,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Royal Bank of Canada",
-   "title": "AI & Stress Testing Analytics Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
    "title": "Developer Intern",
    "location": "Toronto, ON, Canada",
    "season": "Summer 2027",
@@ -25540,6 +25612,18 @@
    "source": "speedyapply_intl",
    "url": "https://global-sas.icims.com/jobs/42731/software-developer-intern--2027-glasgow-summer-r%26d-internship/job",
    "first_seen": "2026-10-03T18:25:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Saviynt",
+   "title": "Research Scientist Intern",
+   "location": "Milpitas, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply",
+   "first_seen": "2026-10-27T07:01:37Z"
   },
   {
    "tier": "B",
@@ -26944,18 +27028,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/ha",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TD Bank",
-   "title": "Wealth Operations Automation Intern Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
