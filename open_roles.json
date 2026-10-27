@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-27T07:01:37Z",
+ "generated_at": "2026-10-27T13:09:29Z",
  "counts": {
-  "target": 448,
-  "relevant": 2076
+  "target": 452,
+  "relevant": 2092
  },
  "roles": [
   {
@@ -3453,18 +3453,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
-   "title": "Cell Engineering Intern - Cell Qualification",
-   "location": "Palo Alto, CA / San Diego, CA",
-   "season": "Winter 2027, Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/278620",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
    "title": "Localization Specialist Intern",
    "location": "San Francisco, CA",
    "season": "Fall",
@@ -5312,6 +5300,78 @@
   {
    "tier": "A",
    "track": "swe",
+   "company": "Visa",
+   "title": "Software Engineer Intern",
+   "location": "Bellevue, WA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/Vx",
+   "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Visa",
+   "title": "Data Science Intern, Data and AI Team",
+   "location": "Foster City, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/UG",
+   "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Visa",
+   "title": "Software Engineer Intern",
+   "location": "Foster City, CA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/Vy",
+   "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "A",
+   "track": "pm",
+   "company": "Visa",
+   "title": "Product Management Intern - Data and AI Team",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
+   "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Visa",
+   "title": "Business Strategy Intern, Data and AI Team - Summer 2027",
+   "location": "US - Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2",
+   "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Visa",
+   "title": "Data Science Intern, Data and AI Team \u2013 Summer 2027",
+   "location": "US - Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
+   "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
    "company": "Waymo",
    "title": "Scenes Intern",
    "location": "Mountain View, CA",
@@ -5343,18 +5403,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/IF",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Wise",
-   "title": "Analytics Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/Wise/744000156269320",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -8498,7 +8546,7 @@
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -9087,18 +9135,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bedrock Robotics",
-   "title": "Safety Engineer Intern - Agentic Safety Case Assessment",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -14540,18 +14576,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Farm Credit Canada",
-   "title": "Data Analyst Student - Valuations",
-   "location": "Drummondville, QC, Canada / Montreal, QC, Canada / Winnipeg, MB, Canada / Edmonton, AB, Canada / Regina, SK, Canada / Essex, ON, Canada / Rivi\u00e8re-du-Loup, QC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Valuations-_R-1008821",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Federal Reserve",
    "title": "Summer 2027 Intern-Cloud Engineering",
    "location": "Chicago, IL",
@@ -16228,6 +16252,174 @@
    "source": "zshah101",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
    "first_seen": "2026-10-12T02:20:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Multiple Teams",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175424?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175423?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175427?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175421?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - The Core Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175426?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Investment Banking",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175428?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Engineering",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/170644?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Associate Intern - Multiple Teams",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171566?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171535?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Multiple Teams",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171563?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Associate Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171552?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171550?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171533?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171547?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -21944,6 +22136,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Normal Computing",
+   "title": "AI Research Resident",
+   "location": "London, UK / Copenhagen, Denmark / NYC / Mountain View, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true",
+   "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Normal Computing",
+   "title": "AI Research Resident - Algorithms Codesign",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
+   "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "North Atlantic Industries",
    "title": "Full Stack Software Engineer Intern - Summer 2027",
    "location": "Bohemia, NY",
@@ -22528,6 +22744,18 @@
    "source": "speedyapply",
    "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Cloud-Engineering_REQ-4839",
    "first_seen": "2026-09-19T16:36:57Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Oceaneering",
+   "title": "Software Intern, C++",
+   "location": "Austin, TX",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/V2",
+   "first_seen": "2026-10-27T13:09:29Z"
   },
   {
    "tier": "B",
@@ -29440,6 +29668,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Visa",
+   "title": "Software Engineer Intern",
+   "location": "Ashburn, VA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/Vz",
+   "first_seen": "2026-10-27T13:09:29Z"
   },
   {
    "tier": "B",
