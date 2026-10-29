@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T02:50:53Z",
+ "generated_at": "2026-10-29T09:05:59Z",
  "counts": {
-  "target": 462,
+  "target": 464,
   "relevant": 2193
  },
  "roles": [
@@ -3441,6 +3441,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
+   "title": "Software Engineer Intern - Software Engineer - Infotainment Platforms Validation",
+   "location": "Palo Alto, CA",
+   "season": "Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/286261",
+   "first_seen": "2026-10-29T09:05:59Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Data Analyst Intern - People Products",
    "location": "Palo Alto, CA / Austin, TX",
    "season": "Spring 2027",
@@ -3580,6 +3592,18 @@
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7699388672743950645",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "pm",
+   "company": "TikTok",
+   "title": "Brand Search Ads Intern",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7701072604556642613",
+   "first_seen": "2026-10-29T09:05:59Z"
   },
   {
    "tier": "A",
@@ -8925,30 +8949,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Aurora Innovation",
-   "title": "AI Engineer Intern",
-   "location": "Mountain View, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c",
-   "first_seen": "2026-10-27T01:48:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Aurora Innovation",
-   "title": "Behavior & Planning (ML Research) Intern",
-   "location": "Mountain View, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4",
-   "first_seen": "2026-10-27T01:48:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Aurora Innovation",
    "title": "Data & ML Platform Engineering Intern",
    "location": "Mountain View, CA",
    "season": "Summer 2027",
@@ -8985,30 +8985,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Aurora Innovation",
-   "title": "Core Autonomy Software Intern - C++",
-   "location": "Pittsburgh, PA / Mountain View, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true",
-   "first_seen": "2026-10-27T07:01:37Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Aurora Innovation",
-   "title": "Full Stack Engineer Intern",
-   "location": "Pittsburgh, PA / Mountain View, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true",
-   "first_seen": "2026-10-27T07:01:37Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Aurora Innovation",
    "title": "Simulation Engineering Intern",
    "location": "SF / Mountain View, CA",
    "season": "Summer 2027",
@@ -9027,18 +9003,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true",
-   "first_seen": "2026-10-27T07:01:37Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Aurora Innovation",
-   "title": "Data & ML Platform Engineer Intern",
-   "location": "SF / Pittsburgh, PA / Mountain View, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
    "first_seen": "2026-10-27T07:01:37Z"
   },
   {
@@ -11217,6 +11181,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Centene",
+   "title": "AI Design Systems Intern (Master's - Summer 2027)",
+   "location": "Remote-MO",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Design-Systems-Design-Intern--Master-s---Summer-2027-_1667737",
+   "first_seen": "2026-10-29T09:05:59Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Centene",
    "title": "AI Software Developer Intern (Undergraduate - Summer 2027)",
    "location": "Remote-MO",
    "season": "Summer 2027",
@@ -13144,6 +13120,18 @@
    "source": "simplify",
    "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Disney",
+   "title": "Full Stack Web Development Intern, Walt Disney Animation Studios",
+   "location": "Burbank, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/YM",
+   "first_seen": "2026-10-29T09:05:59Z"
   },
   {
    "tier": "B",
@@ -16953,6 +16941,42 @@
    "tier": "B",
    "track": "swe",
    "company": "Hewlett Packard (HP)",
+   "title": "Software Engineering Intern - HP IQ",
+   "location": "San Francisco, California, United States of America",
+   "season": "Fall 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+   "first_seen": "2026-10-29T02:50:53Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Hewlett Packard (HP)",
+   "title": "Software Quality Assurance Intern",
+   "location": "San Francisco, California, United States of America",
+   "season": "Fall 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+   "first_seen": "2026-10-29T02:50:53Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Hewlett Packard (HP)",
+   "title": "Software Systems Intern - HP IQ",
+   "location": "San Francisco, California, United States of America",
+   "season": "Fall 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
+   "first_seen": "2026-10-29T02:50:53Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Hewlett Packard (HP)",
    "title": "AI Applied Engineering Intern",
    "location": "Vancouver, Washington, United States of America",
    "season": "Not stated",
@@ -17486,7 +17510,7 @@
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801",
    "first_seen": "2026-10-29T02:50:53Z"
   },
   {
@@ -17498,7 +17522,7 @@
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802",
    "first_seen": "2026-10-29T02:50:53Z"
   },
   {
@@ -17510,8 +17534,8 @@
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
-   "first_seen": "2026-10-29T02:50:53Z"
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
+   "first_seen": "2026-10-29T09:05:59Z"
   },
   {
    "tier": "B",
@@ -20961,6 +20985,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Marvell",
+   "title": "Data Science Intern",
+   "location": "Markham, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/Yp",
+   "first_seen": "2026-10-28T23:30:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Marvell",
    "title": "Physical Design Engineer Intern",
    "location": "Morrisville, NC / Austin, TX / Rochester, MN / Santa Clara, CA / Boise, ID / Burlington, VT / Westborough, MA",
    "season": "Summer",
@@ -23055,18 +23091,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
-   "title": "Research Intern - Electronic Design Automation",
-   "location": "Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -25173,6 +25197,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Qualcomm",
+   "title": "Design Automation & Quality Assurance Engineer Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721349404",
+   "first_seen": "2026-10-29T09:05:59Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
    "title": "Camera Design Implementation Intern",
    "location": "Vancouver, BC, Canada",
    "season": "Summer",
@@ -26548,18 +26584,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003",
    "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Sanofi",
-   "title": "Laboratory Automation Engineer Co-op",
-   "location": "Cambridge, MA",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -30404,6 +30428,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "USAFacts",
+   "title": "AI & Software Engineering Intern",
+   "location": "Bellevue, WA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/usafacts/jobs/4472154009",
+   "first_seen": "2026-10-29T09:05:59Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Valon",
    "title": "Software Engineer Intern",
    "location": "New York City, NY +1",
@@ -31010,7 +31046,7 @@
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
    "first_seen": "2026-10-28T07:24:11Z"
   },
   {
@@ -31372,18 +31408,6 @@
    "source": "simplify",
    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Workiva",
-   "title": "Summer 2027 Intern - Machine Learning Engineering",
-   "location": "USA - Remote",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
-   "first_seen": "2026-08-29T18:50:21Z"
   },
   {
    "tier": "B",
