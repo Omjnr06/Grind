@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T13:32:27Z",
+ "generated_at": "2026-10-30T18:50:46Z",
  "counts": {
-  "target": 475,
-  "relevant": 2248
+  "target": 477,
+  "relevant": 2260
  },
  "roles": [
   {
@@ -105,24 +105,24 @@
    "tier": "A",
    "track": "swe",
    "company": "Amazon",
-   "title": "2027 Software Dev Engineer Intern - Machine Learning - UK",
-   "location": "London, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://www.amazon.jobs/jobs/10588762/apply",
-   "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Embedded Systems - UK",
    "location": "London, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10588998/apply",
+   "first_seen": "2026-10-27T18:40:07Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "2027 Software Dev Engineer Intern - Machine Learning - UK",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10588762/apply",
    "first_seen": "2026-10-27T18:40:07Z"
   },
   {
@@ -268,6 +268,18 @@
    "source": "simplify",
    "url": "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
+   "location": "Seattle, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10y",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "A",
@@ -2332,6 +2344,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/2368433610564528",
    "first_seen": "2026-10-28T01:41:27Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Photorealistic Telepresence",
+   "location": "Redmond, WA / Pittsburgh, PA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/1358944629494375",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "A",
@@ -5445,13 +5469,25 @@
    "tier": "A",
    "track": "swe",
    "company": "Visa",
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern - Austin - TX - 2027",
+   "location": "Austin, TX",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Visa",
    "title": "Software Engineer - Intern - 2027 Austin - TX",
    "location": "Austin, TX",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W",
-   "first_seen": "2026-10-28T19:32:41Z"
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "A",
@@ -5476,18 +5512,6 @@
    "source": "simplify",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1",
    "first_seen": "2026-10-27T13:09:29Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Visa",
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern - Bellevue",
-   "location": "Bellevue, WA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1",
-   "first_seen": "2026-10-29T21:04:34Z"
   },
   {
    "tier": "A",
@@ -5546,7 +5570,7 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1",
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-3",
    "first_seen": "2026-10-28T19:32:41Z"
   },
   {
@@ -5558,8 +5582,8 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W",
-   "first_seen": "2026-10-29T21:04:34Z"
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "A",
@@ -5721,18 +5745,6 @@
    "tier": "B",
    "track": "swe",
    "company": "1Password",
-   "title": "Developer Intern - Extension Excellence - Winter 2027",
-   "location": "Remote - USA +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
-   "first_seen": "2026-10-22T21:30:42Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "1Password",
    "title": "Developer Intern - Credential Brokering - Winter 2027",
    "location": "Remote - USA +1",
    "season": "",
@@ -5740,6 +5752,18 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
    "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "1Password",
+   "title": "Developer Intern - Extension Excellence - Winter 2027",
+   "location": "Remote - USA +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
+   "first_seen": "2026-10-22T21:30:42Z"
   },
   {
    "tier": "B",
@@ -5757,18 +5781,6 @@
    "tier": "B",
    "track": "swe",
    "company": "1Password",
-   "title": "Developer Intern - Provisioning - Winter 2027",
-   "location": "Remote - USA +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
-   "first_seen": "2026-10-22T21:30:42Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "1Password",
    "title": "Developer Intern - Vault Team - Winter 2027",
    "location": "Remote - USA +1",
    "season": "",
@@ -5776,6 +5788,18 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779",
    "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "1Password",
+   "title": "Developer Intern - Provisioning - Winter 2027",
+   "location": "Remote - USA +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+   "first_seen": "2026-10-22T21:30:42Z"
   },
   {
    "tier": "B",
@@ -6777,6 +6801,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Amazon",
+   "title": "2027 Software Dev Engineer Intern - Haifa - Israel",
+   "location": "Haifa, Israel",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10592105/apply",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Ia\u0219i - Romania",
    "location": "Ia\u015fi, Romania",
    "season": "",
@@ -6808,6 +6844,18 @@
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10555855/apply",
    "first_seen": "2026-09-23T18:36:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "2027 Software Dev Engineer Intern - Tel-Aviv - Israel",
+   "location": "Tel Aviv, Israel",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10592104/apply",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -8570,19 +8618,31 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
+   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
    "first_seen": "2026-10-25T18:29:33Z"
   },
   {
    "tier": "B",
    "track": "swe",
    "company": "ASML",
-   "title": "Platform Software Engineer In Test - Internship",
+   "title": "Internship - Application Software QA Engineer",
    "location": "San Jose, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
+   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+   "first_seen": "2026-10-24T08:23:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ASML",
+   "title": "Internship - Software Engineer In Test - MOD",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
    "first_seen": "2026-10-25T18:29:33Z"
   },
   {
@@ -8709,6 +8769,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Astera Labs",
+   "title": "SG&A AI Implementation Intern",
+   "location": "San Jose, CA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749403005",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Astera Labs",
    "title": "Packaging Automation & Data Engineering Intern",
    "location": "San Jose, CA",
    "season": "Spring 2027",
@@ -8764,6 +8836,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Astera Labs",
+   "title": "AI Product Management Intern",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -8829,8 +8913,20 @@
    "tier": "B",
    "track": "swe",
    "company": "Astranis",
+   "title": "Software Developer Associate - Network Software",
+   "location": "SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Astranis",
    "title": "Network Software Intern",
-   "location": "San Francisco, CA",
+   "location": "SF",
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
@@ -8842,24 +8938,12 @@
    "track": "swe",
    "company": "Astranis",
    "title": "Software Developer \u2013 Network Software Intern",
-   "location": "San Francisco, CA",
+   "location": "SF",
    "season": "Winter 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705599006",
    "first_seen": "2026-09-25T19:01:43Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Astranis",
-   "title": "Software Developer Associate - Network Software",
-   "location": "SF",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -8884,6 +8968,18 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
    "first_seen": "2026-09-24T18:30:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Astranis Space Technologies",
+   "title": "Flight Software Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+   "first_seen": "2026-09-23T18:36:47Z"
   },
   {
    "tier": "B",
@@ -9069,25 +9165,13 @@
    "tier": "B",
    "track": "swe",
    "company": "Autodesk",
-   "title": "Software Engineer Intern - Javascript",
-   "location": "Sheffield, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2",
-   "first_seen": "2026-10-28T19:32:41Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Autodesk",
-   "title": "Software Engineer Intern - C++/.Net",
-   "location": "Sheffield, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2",
-   "first_seen": "2026-10-28T23:30:45Z"
+   "title": "Intern - Software Engineer - C++/.NET - 12 months",
+   "location": "Sheffield, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2",
+   "first_seen": "2026-10-29T21:04:34Z"
   },
   {
    "tier": "B",
@@ -9099,18 +9183,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2",
-   "first_seen": "2026-10-29T21:04:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Autodesk",
-   "title": "Intern - Software Engineer - C++/.NET - 12 months",
-   "location": "Sheffield, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2",
    "first_seen": "2026-10-29T21:04:34Z"
   },
   {
@@ -9280,6 +9352,18 @@
    "source": "simplify",
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Barclays",
+   "title": "Chief Client Office Intern, Client Data & Engineering Group",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10x",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -9861,24 +9945,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Blue Origin",
-   "title": "Summer 2027 Avionics Software Internship - Graduate",
-   "location": "Seattle, WA +2",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423",
-   "first_seen": "2026-09-02T17:08:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Blue Origin",
    "title": "Summer 2027 Software Developer Internship - Undergraduate",
    "location": "Seattle, WA +2",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Blue Origin",
+   "title": "Summer 2027 Avionics Software Internship - Graduate",
+   "location": "Seattle, WA +2",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423",
    "first_seen": "2026-09-02T17:08:21Z"
   },
   {
@@ -9909,12 +9993,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Blue Origin",
-   "title": "2026 Intern Conversion - Software Development Engineer I",
+   "title": "2026 Intern Conversion - Aerospace Software Apps Engineer I",
    "location": "Seattle, WA +8",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Software-Apps-Engineer-I_R70306",
    "first_seen": "2026-08-12T14:31:28Z"
   },
   {
@@ -10377,24 +10461,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Bree",
-   "title": "Software Engineer - Product - Co-op",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bree",
    "title": "Software Engineer - Backend - Co-op",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bree",
+   "title": "Software Engineer - Product - Co-op",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -11145,6 +11229,18 @@
    "tier": "B",
    "track": "swe",
    "company": "CareSource",
+   "title": "2027 Summer Internship Program - Full Stack AI Development Intern-1",
+   "location": "Remote",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CareSource",
    "title": "AI Intern",
    "location": "Remote / United States",
    "season": "Summer",
@@ -11188,18 +11284,6 @@
    "source": "simplify",
    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
    "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Carrier",
-   "title": "Software Engineering Intern - Summer",
-   "location": "East Syracuse, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588",
-   "first_seen": "2026-10-25T18:29:33Z"
   },
   {
    "tier": "B",
@@ -11709,24 +11793,24 @@
    "tier": "B",
    "track": "swe",
    "company": "CIBC",
-   "title": "Application/Software Developer Co-op - Winter 2027 - Capital Markets Technology",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
-   "first_seen": "2026-10-20T16:57:30Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
    "title": "Application/Software Developer Co-op - Winter 2027 - Enterprise Technology & Business Management",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2",
+   "first_seen": "2026-10-20T16:57:30Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CIBC",
+   "title": "Application/Software Developer Co-op - Winter 2027 - Capital Markets Technology",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
    "first_seen": "2026-10-20T16:57:30Z"
   },
   {
@@ -12286,24 +12370,24 @@
    "track": "swe",
    "company": "Clearwater Analytics",
    "title": "Software Development Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186",
-   "first_seen": "2026-09-06T16:13:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Clearwater Analytics",
-   "title": "Software Development Intern",
    "location": "London, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---London/Software-Development-Intern_R12096",
    "first_seen": "2026-09-17T17:21:53Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Clearwater Analytics",
+   "title": "Quant Developer Intern",
+   "location": "New York City, NY",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12182",
+   "first_seen": "2026-09-02T17:08:21Z"
   },
   {
    "tier": "B",
@@ -15668,6 +15752,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
+   "title": "Data Analyst Intern",
+   "location": "Toronto, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10v",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "FUTO",
    "title": "Software Engineer - Internship 2027",
    "location": "Austin, TX",
@@ -15801,6 +15897,18 @@
    "tier": "B",
    "track": "swe",
    "company": "GCM Grosvenor",
+   "title": "Cybersecurity Intern",
+   "location": "Chicago, IL",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10U",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GCM Grosvenor",
    "title": "2027 Software Engineering Summer Intern",
    "location": "Chicago, Illinois, United States",
    "season": "Summer 2027",
@@ -15808,6 +15916,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003",
    "first_seen": "2026-10-09T20:05:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GCM Grosvenor",
+   "title": "2027 Cybersecurity Summer Intern",
+   "location": "Chicago, Illinois, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -15952,6 +16072,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/he",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Gearset",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -16557,18 +16689,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Geneva Trading",
-   "title": "C++ Developer - Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
-   "first_seen": "2026-09-23T18:36:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Geneva Trading",
    "title": "Python Developer Intern",
    "location": "Chicago, IL",
    "season": "",
@@ -16924,18 +17044,6 @@
    "source": "speedyapply_intl",
    "url": "https://giro.wd10.myworkdayjobs.com/en-US/giro/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314",
    "first_seen": "2026-10-16T16:49:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Glean",
-   "title": "Software Engineer, Intern (Summer 2027)",
-   "location": "Mountain View, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
-   "first_seen": "2026-10-02T00:12:46Z"
   },
   {
    "tier": "B",
@@ -17325,18 +17433,6 @@
    "tier": "B",
    "track": "swe",
    "company": "HCSC",
-   "title": "Finance Data & Analytics Developer Intern",
-   "location": "Chicago, IL / Richardson, TX",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/b6",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "HCSC",
    "title": "Finance Application Developer Intern",
    "location": "Chicago, IL / Richardson, TX",
    "season": "Summer",
@@ -17392,6 +17488,18 @@
    "source": "speedyapply",
    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/hcsc_external/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Associate-Intern_R0059493",
    "first_seen": "2026-10-27T18:40:07Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Health Care Service",
+   "title": "Early Careers - Finance Data & Analytics Developer Intern",
+   "location": "Chicago, IL +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/hcsc_external/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478",
+   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -17973,12 +18081,24 @@
    "tier": "B",
    "track": "swe",
    "company": "HP",
+   "title": "Software Engineering Intern - HP IQ",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "HP",
    "title": "Software Product Security Intern - HP IQ",
    "location": "San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2",
+   "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1",
    "first_seen": "2026-10-29T21:04:34Z"
   },
   {
@@ -17990,8 +18110,8 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801",
-   "first_seen": "2026-10-29T21:04:34Z"
+   "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -19497,18 +19617,6 @@
    "tier": "B",
    "track": "swe",
    "company": "JP Morgan Chase",
-   "title": "Asset Management Data Scientist \u2013 Summer Associate Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
    "title": "Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl",
    "location": "NYC",
    "season": "Summer 2027",
@@ -19768,18 +19876,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/d9",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kastle",
-   "title": "Software Engineer - Intern",
-   "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee",
-   "first_seen": "2026-08-07T13:47:34Z"
   },
   {
    "tier": "B",
@@ -20135,10 +20231,10 @@
    "company": "KLA",
    "title": "Software Intern",
    "location": "Milpitas, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Intern_2642700-1",
    "first_seen": "2026-10-29T21:04:34Z"
   },
   {
@@ -20733,6 +20829,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Lila Sciences",
+   "title": "Bayesian Methods Co-op",
+   "location": "Cambridge, MA / SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469148009",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Lila Sciences",
    "title": "Co-Op, AI Nucleic Acid Design",
    "location": "San Francisco, CA USA",
    "season": "Not stated",
@@ -20920,18 +21028,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Iv",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Lutron",
-   "title": "Summer 2027 - Embedded Firmware Engineering Intern - Austin - TX",
-   "location": "Austin, TX",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job",
-   "first_seen": "2026-10-14T18:13:19Z"
   },
   {
    "tier": "B",
@@ -21668,18 +21764,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Maven Securities",
-   "title": "Trader Intern - Summer",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "MBDA",
    "title": "Computer Vision and Artificial Intelligence Engineer - Image Processing UK",
    "location": "Bristol, UK",
@@ -21927,18 +22011,6 @@
    "sponsorship": "no-sponsorship",
    "source": "zshah101",
    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333",
-   "first_seen": "2026-10-23T21:39:35Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Merck",
-   "title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
-   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438",
    "first_seen": "2026-10-23T21:39:35Z"
   },
   {
@@ -22372,6 +22444,30 @@
    "source": "speedyapply",
    "url": "https://apply.workable.com/mindex/j/84B10DB922/",
    "first_seen": "2026-10-02T20:59:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "MITRE",
+   "title": "Trustworthy AI Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10r",
+   "first_seen": "2026-10-30T13:32:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "MITRE",
+   "title": "Critical Infrastructure Protection Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10s",
+   "first_seen": "2026-10-30T13:32:27Z"
   },
   {
    "tier": "B",
@@ -22845,24 +22941,24 @@
    "tier": "B",
    "track": "swe",
    "company": "NCR Atleos",
-   "title": "Software Support Internship",
-   "location": "Dundee, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1",
-   "first_seen": "2026-10-13T20:44:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NCR Atleos",
    "title": "Software Engineering Internship",
    "location": "Dundee, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
+   "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NCR Atleos",
+   "title": "Software Support Internship",
+   "location": "Dundee, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1",
    "first_seen": "2026-10-13T20:44:34Z"
   },
   {
@@ -23049,12 +23145,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Nintendo",
-   "title": "Intern - Software Engineer - Audio - NTD",
+   "title": "Intern - Software Engineer - Connectivity - NTD",
    "location": "Redmond, WA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://careers.nintendo.com/?gh_jid=4470048009",
+   "url": "https://careers.nintendo.com/?gh_jid=4472147009",
    "first_seen": "2026-10-20T16:57:30Z"
   },
   {
@@ -23433,24 +23529,24 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "AI Systems Software Engineering Intern - Summer 2027",
+   "location": "Austin, TX",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "Data Processing Developer Technology Intern",
    "location": "Bristol, UK",
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
-   "title": "Software Intern - Embedded Systems",
-   "location": "Bristol, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -23529,6 +23625,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "Compiler Software Engineering Intern - Summer 2027",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "Software Engineering Intern - Nsight Systems - 2026",
    "location": "Remote - Warsaw, Poland",
    "season": "",
@@ -23548,6 +23656,18 @@
    "source": "simplify",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "Compiler Software Engineering Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10p",
+   "first_seen": "2026-10-30T06:38:22Z"
   },
   {
    "tier": "B",
@@ -23685,6 +23805,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+   "first_seen": "2026-08-19T13:23:07Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "NVIDIA 2027 Internships: Software Engineering",
    "location": "Santa Clara, CA",
    "season": "",
@@ -23703,18 +23835,6 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
-   "first_seen": "2026-08-19T13:23:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
-   "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
@@ -23956,6 +24076,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e/application?embed=true",
    "first_seen": "2026-10-29T16:03:48Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "OLIX",
+   "title": "Software Engineering Intern",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -25161,24 +25293,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Priceline",
-   "title": "Software Engineering - Full Stack - Northeastern Co-op",
-   "location": "New York City, NY",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822",
-   "first_seen": "2026-09-19T16:36:57Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Priceline",
    "title": "Software Engineering - Web/Javascript - Northeastern Co-op",
    "location": "New York City, NY",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818",
+   "first_seen": "2026-09-19T16:36:57Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Priceline",
+   "title": "Software Engineering - Full Stack - Northeastern Co-op",
+   "location": "New York City, NY",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822",
    "first_seen": "2026-09-19T16:36:57Z"
   },
   {
@@ -25245,18 +25377,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Procter & Gamble",
-   "title": "Consumer Analytics & Insights Intern",
-   "location": "Weybridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/BROOKLANDS-GO/Consumer-Analytics---Insights-Summer-Internship-2027_R000160023",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Procter & Gamble",
    "title": "Information Technology Intern",
    "location": "Weybridge, UK / Newcastle upon Tyne, UK / West Thurrock, Grays, UK",
    "season": "",
@@ -25300,6 +25420,18 @@
    "source": "simplify",
    "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "PTC",
+   "title": "Software Engineering Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998",
+   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -25737,6 +25869,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Qualcomm",
+   "title": "Deep Learning Research Intern, Embodied AI",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10q",
+   "first_seen": "2026-10-30T06:38:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
    "title": "Physical Mixed Layout Engineer Intern, Interim Engineering HW",
    "location": "Toronto, Canada",
    "season": "Summer",
@@ -25899,18 +26043,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Quantbot Technologies",
-   "title": "Data Trading Analyst Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -26517,18 +26649,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Connected Systems - Summer 2027",
-   "location": "Palo Alto, CA +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f",
-   "first_seen": "2026-10-23T18:32:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rivian",
    "title": "Software Engineering Intern - Vehicle Controls - Summer 2027",
    "location": "Palo Alto, CA +1",
    "season": "",
@@ -26553,6 +26673,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
+   "title": "Software Engineering Intern - Connected Systems - Summer 2027",
+   "location": "Palo Alto, CA +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f",
+   "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rivian",
    "title": "Software Engineering Intern - Embedded Platforms - Summer 2027",
    "location": "Palo Alto, CA +2",
    "season": "",
@@ -26565,24 +26697,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Connected Systems - Summer 2027",
-   "location": "Vancouver, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec",
-   "first_seen": "2026-10-23T18:32:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rivian",
    "title": "Software Engineering Intern - Vehicle Controls - Summer 2027",
    "location": "Vancouver, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0",
+   "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rivian",
+   "title": "Software Engineering Intern - Connected Systems - Summer 2027",
+   "location": "Vancouver, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec",
    "first_seen": "2026-10-23T18:32:26Z"
   },
   {
@@ -27225,6 +27357,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Salesforce",
+   "title": "AI Labs Intern, Emerging Talent",
+   "location": "San Francisco, CA / Seattle, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10J",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Salesforce",
    "title": "Software Engineer Intern",
    "location": "SF / Bellevue, WA",
    "season": "Summer 2027",
@@ -27693,24 +27837,24 @@
    "tier": "B",
    "track": "swe",
    "company": "ServiceNow",
-   "title": "AI Engineering - Software Engineer Internships - Summer 2027 - Masters",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689-ai-engineering-software-engineer-internships-summer-2027-masters-?oga=true",
-   "first_seen": "2026-10-14T18:13:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ServiceNow",
    "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 - Bachelors",
    "location": "Santa Clara, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889-ai-engineering-assoc-software-engineer-internships-summer-2027-bachelors-?oga=true",
+   "first_seen": "2026-10-14T18:13:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ServiceNow",
+   "title": "AI Engineering - Software Engineer Internships - Summer 2027 - Masters",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689-ai-engineering-software-engineer-internships-summer-2027-masters-?oga=true",
    "first_seen": "2026-10-14T18:13:19Z"
   },
   {
@@ -30069,24 +30213,24 @@
    "tier": "B",
    "track": "swe",
    "company": "TikTok",
-   "title": "Android Software Engineer Intern - Global LIVE Platform - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7672395757573474565",
-   "first_seen": "2026-08-11T13:38:33Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TikTok",
    "title": "Mobile Software Engineer Intern - Global Live Revenue - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7672397362020862213",
+   "first_seen": "2026-08-11T13:38:33Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Android Software Engineer Intern - Global LIVE Platform - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7672395757573474565",
    "first_seen": "2026-08-11T13:38:33Z"
   },
   {
@@ -30105,12 +30249,12 @@
    "tier": "B",
    "track": "swe",
    "company": "TikTok",
-   "title": "Backend Engineer Intern - TikTok Shop - Europe - 2027 Start",
+   "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668567025010690357",
+   "url": "https://lifeattiktok.com/search/7668566238498408709",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -30129,12 +30273,24 @@
    "tier": "B",
    "track": "swe",
    "company": "TikTok",
-   "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
+   "title": "Backend Engineer Intern - TikTok Shop - Europe - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668566238498408709",
+   "url": "https://lifeattiktok.com/search/7668567025010690357",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7667911731242420533",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -30171,18 +30327,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7667912295692093749",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Recommendation Platform - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667911731242420533",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -30261,18 +30405,6 @@
    "tier": "B",
    "track": "swe",
    "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Global LIVE Service Arch - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7663383164115437877",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TikTok",
    "title": "Backend Software Engineer Intern - Global LIVE Data Platform - 2027 Start",
    "location": "Singapore",
    "season": "",
@@ -30291,6 +30423,18 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7663396538815826229",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - Global LIVE Service Arch - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7663383164115437877",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -30388,18 +30532,6 @@
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7658162714448054581",
    "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - Platform Engineering - 2027 Start - BS/MS",
-   "location": "Sydney, Australia",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7657823445841955125",
-   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
@@ -31713,6 +31845,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Visa",
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern - Highlands Ranch",
+   "location": "Denver, CO",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1",
+   "first_seen": "2026-10-28T19:32:41Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Visa",
    "title": "Software Engineer Intern",
    "location": "Reading, United Kingdom",
    "season": "",
@@ -31838,8 +31982,8 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
-   "first_seen": "2026-10-29T21:04:34Z"
+   "url": "https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
+   "first_seen": "2026-10-28T19:32:41Z"
   },
   {
    "tier": "B",
@@ -32060,6 +32204,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Wex",
+   "title": "Software Engineer Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10z",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Wex",
+   "title": "Software Engineer Intern",
+   "location": "US - Remote",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585",
+   "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "WhatNot",
    "title": "Software Engineer Intern",
    "location": "Seattle, WA / SF / LA / NYC",
@@ -32109,24 +32277,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Wing",
-   "title": "Route Planning Software Engineering Intern - Summer 2027",
+   "title": "Execution & Topology Software Engineering Intern - Summer 2027",
    "location": "Palo Alto, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://wing.com/careers/8872472002?gh_jid=8872472002",
-   "first_seen": "2026-10-14T18:13:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Wing",
-   "title": "Manufacturing Software Test Intern - Summer 2027",
-   "location": "Palo Alto, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://wing.com/careers/8872468002?gh_jid=8872468002",
+   "url": "https://wing.com/careers/8872477002?gh_jid=8872477002",
    "first_seen": "2026-10-14T18:13:19Z"
   },
   {
@@ -32145,12 +32301,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Wing",
-   "title": "Execution & Topology Software Engineering Intern - Summer 2027",
+   "title": "Route Planning Software Engineering Intern - Summer 2027",
    "location": "Palo Alto, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://wing.com/careers/8872477002?gh_jid=8872477002",
+   "url": "https://wing.com/careers/8872472002?gh_jid=8872472002",
+   "first_seen": "2026-10-14T18:13:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Wing",
+   "title": "Manufacturing Software Test Intern - Summer 2027",
+   "location": "Palo Alto, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://wing.com/careers/8872468002?gh_jid=8872468002",
    "first_seen": "2026-10-14T18:13:19Z"
   },
   {
