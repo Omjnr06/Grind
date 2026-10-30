@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T06:38:22Z",
+ "generated_at": "2026-10-30T13:32:27Z",
  "counts": {
-  "target": 477,
-  "relevant": 2252
+  "target": 475,
+  "relevant": 2248
  },
  "roles": [
   {
@@ -3273,18 +3273,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
-   "title": "Audio & Sensor Software Engineer Intern - Vehicle Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Winter 2027, Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/282301",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
    "title": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
    "location": "Palo Alto, CA",
    "season": "Spring 2027",
@@ -3363,18 +3351,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/283138",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Integration Engineer Intern - Factory Firmware",
-   "location": "Palo Alto, CA",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/283395",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -7375,18 +7351,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "American Express",
-   "title": "Product Development Intern - Global Commercial Services",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "American Express",
    "title": "Data Analytics Intern - US Consumer Services",
@@ -7419,18 +7383,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "American Express",
-   "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -16107,18 +16059,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202610-126833",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Genentech",
-   "title": "Data Science & Machine Learning Intern - Agentic AI Discovery & Prototyping",
-   "location": "South SF",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Data-Science---Machine-Learning_202609-124657",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -28360,18 +28300,6 @@
    "source": "simplify",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
    "first_seen": "2026-10-21T01:36:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Sony",
-   "title": "Data Quality & Systems Intern",
-   "location": "Weybridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
