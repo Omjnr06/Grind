@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T00:55:22Z",
+ "generated_at": "2026-10-30T06:38:22Z",
  "counts": {
   "target": 477,
-  "relevant": 2269
+  "relevant": 2252
  },
  "roles": [
   {
@@ -700,6 +700,18 @@
    "source": "simplify",
    "url": "https://jobs.apple.com/en-us/details/200690044",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Swift Runtime Engineer Intern - Swift Runtimes",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.apple.com/en-us/details/200692438",
+   "first_seen": "2026-10-30T06:38:22Z"
   },
   {
    "tier": "A",
@@ -1767,18 +1779,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Intuit",
-   "title": "Software Developer Co-op - Front End",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -6119,10 +6119,10 @@
    "company": "Accenture",
    "title": "MES & Supply Chain Systems Co-op Analyst",
    "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
+   "season": "Winter",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/c0",
    "first_seen": "2026-10-20T23:14:58Z"
   },
   {
@@ -7377,18 +7377,6 @@
    "tier": "B",
    "track": "pm",
    "company": "American Express",
-   "title": "Product Management Intern - Global Commercial Services",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "American Express",
    "title": "Product Development Intern - Global Commercial Services",
    "location": "NYC",
    "season": "Summer 2027",
@@ -7442,20 +7430,8 @@
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "American Express",
-   "title": "AI Engineer Intern, Enterprise Technology Services",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/7a",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -8930,7 +8906,7 @@
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -9188,18 +9164,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Autodesk",
-   "title": "Research Intern - AI Research",
-   "location": "Toronto, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Awardco",
    "title": "Back-End Software Engineer Intern",
    "location": "San Francisco, CA",
@@ -9213,6 +9177,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Axon",
+   "title": "Software Engineer Intern",
+   "location": "Seattle, WA / Arlington, VA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10l",
+   "first_seen": "2026-10-30T06:38:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Axon",
    "title": "AfroTech 2026 Software Engineering Internship",
    "location": "Seattle, Washington, United States",
    "season": "Fall 2026",
@@ -9220,6 +9196,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003",
    "first_seen": "2026-10-13T23:55:56Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Axon",
+   "title": "2027 US Software Engineering Internship (Dedrone)",
+   "location": "Seattle, Washington, United States; Sterling, Virginia, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
+   "first_seen": "2026-10-30T06:38:22Z"
   },
   {
    "tier": "B",
@@ -9712,6 +9700,54 @@
    "source": "simplify",
    "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "BitGo",
+   "title": "Software Engineer Intern - Settlement Systems/Go Network",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002",
+   "first_seen": "2026-10-30T06:38:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "BitGo",
+   "title": "Software Engineer Intern - Custody",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
+   "first_seen": "2026-10-30T06:38:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "BitGo",
+   "title": "Product Management Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002",
+   "first_seen": "2026-10-30T06:38:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "BitGo",
+   "title": "Software Engineer Intern - Prime Trade",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002",
+   "first_seen": "2026-10-30T06:38:22Z"
   },
   {
    "tier": "B",
@@ -10663,18 +10699,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "Businessolver",
-   "title": "Product Manager Intern",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8197663",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "ByteDance",
    "title": "Research Scientist Intern - Multimedia Streaming",
@@ -10732,6 +10756,30 @@
    "source": "simplify",
    "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "C3.ai",
+   "title": "Data Scientist Intern",
+   "location": "Redwood City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002",
+   "first_seen": "2026-10-30T06:38:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "C3.ai",
+   "title": "AI Product Manager Intern",
+   "location": "Redwood City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002",
+   "first_seen": "2026-10-30T06:38:22Z"
   },
   {
    "tier": "B",
@@ -11440,6 +11488,18 @@
    "source": "zshah101",
    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
    "first_seen": "2026-09-18T20:08:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Centene",
+   "title": "Portfolio Data Analyst Intern (Undergraduate - Summer 2027)",
+   "location": "Remote-MO",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Portfolio-Data-Analyst-Intern--Undergraduate---Summer-2027-_1667733-1",
+   "first_seen": "2026-10-30T06:38:22Z"
   },
   {
    "tier": "B",
@@ -13484,18 +13544,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "dmodel",
-   "title": "Technical Intern",
-   "location": "SF",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/dmodel/761f9285-496a-4033-848b-7045fdc0b77c/application?embed=true",
-   "first_seen": "2026-10-28T07:24:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "DocuSign",
    "title": "Software Engineer Intern",
    "location": "Chicago, IL",
@@ -15153,12 +15201,12 @@
    "tier": "B",
    "track": "swe",
    "company": "F&G",
-   "title": "Intern - IT Cloud Enablement - Summer - 2027",
+   "title": "Business Intelligence Intern",
    "location": "Remote - Des Moines, IA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7994868003",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003",
    "first_seen": "2026-10-13T20:44:34Z"
   },
   {
@@ -15327,18 +15375,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Fidelity Investments",
-   "title": "Investment Risk Management Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Chicago-IL/Intern--Operations_2136370",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -15955,18 +15991,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "GE Vernova",
-   "title": "Engineering Intern",
-   "location": "Niskayuna, NY",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "GE Vernova",
    "title": "Product Management Intern",
@@ -16245,18 +16269,6 @@
    "tier": "B",
    "track": "swe",
    "company": "General Motors",
-   "title": "AI/ML Engineer Intern - Autonomous Vehicles",
-   "location": "Seattle, WA / Sunnyvale, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
-   "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
    "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
    "location": "Sunnyvale, CA",
    "season": "Summer 2027",
@@ -16420,6 +16432,18 @@
    "source": "zshah101",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
    "first_seen": "2026-10-14T21:40:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "General Motors",
+   "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+   "location": "Sunnyvale, California, United States of America",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
@@ -16966,11 +16990,11 @@
    "track": "swe",
    "company": "Glean",
    "title": "Software Engineer, Intern (Summer 2027)",
-   "location": "SF / Mountain View, CA",
+   "location": "Mountain View, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
    "first_seen": "2026-10-02T00:12:46Z"
   },
   {
@@ -17025,18 +17049,6 @@
    "tier": "B",
    "track": "swe",
    "company": "GlobalFoundries",
-   "title": "Digital Design Backend Engineering Intern - 3D and AI Flows",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355",
-   "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GlobalFoundries",
    "title": "AI Software Intern",
    "location": "Santa Clara, CA / Richardson, TX",
    "season": "Summer 2027",
@@ -17044,6 +17056,18 @@
    "source": "simplify",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
    "first_seen": "2026-10-22T07:49:31Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GlobalFoundries",
+   "title": "Digital Design Backend Engineering Intern, 3D and AI Flows",
+   "location": "USA - California - Santa Clara",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355",
+   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
@@ -17104,174 +17128,6 @@
    "source": "simplify",
    "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5",
    "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175424?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175423?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175427?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175421?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175426?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Investment Banking",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175428?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Engineering",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/170644?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171566?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171535?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171563?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171552?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171550?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171533?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171547?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -17452,18 +17308,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GSK",
-   "title": "Data & Analytics - Multiple Roles",
-   "location": "Ware, UK / Worthing, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---West-Sussex---Worthing/Data---Analytics--Multiple-Roles-and-Locations--Industrial-Placement--UK-2027_446647",
-   "first_seen": "2026-10-27T07:01:37Z"
   },
   {
    "tier": "B",
@@ -18460,18 +18304,6 @@
    "source": "simplify",
    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570",
    "first_seen": "2026-10-22T07:49:31Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ICF International",
-   "title": "Data Scientist Intern",
-   "location": "Remote in USA / Reston, VA / Denver, CO",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -21056,18 +20888,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Loblaw Companies",
-   "title": "Supply Chain Business Intelligence Co-op",
-   "location": "Brampton, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Supply-Chain-Business-Intelligence---Co-op-Student_R2000697069",
-   "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "LPL Financial",
    "title": "Intern 2027- Software Engineer",
    "location": "Austin, TX",
@@ -21117,36 +20937,12 @@
    "tier": "B",
    "track": "swe",
    "company": "LSEG",
-   "title": "Engineering Intern - Multiple Teams",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "LSEG",
    "title": "Engineering Intern",
    "location": "Nottingham, UK",
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "LSEG",
-   "title": "Engineering Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -21891,18 +21687,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
-   "first_seen": "2026-10-24T21:18:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Marvell",
-   "title": "AI Data Science Intern",
-   "location": "Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846",
    "first_seen": "2026-10-24T21:18:52Z"
   },
   {
@@ -23680,6 +23464,18 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply",
    "first_seen": "2026-10-28T07:24:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "AI Systems Software Engineering Intern",
+   "location": "Austin, TX",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/10o",
+   "first_seen": "2026-10-30T06:38:22Z"
   },
   {
    "tier": "B",
@@ -27525,18 +27321,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Samsung",
-   "title": "Systems Software Engineer Intern",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003",
-   "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Samsung",
    "title": "Intern, Power-Thermal Simulation Software Engineer",
    "location": "San Jose, California, United States",
    "season": "Not stated",
@@ -27544,6 +27328,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003",
    "first_seen": "2026-10-28T01:41:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung",
+   "title": "Intern, Systems Software Engineering",
+   "location": "San Jose, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003",
+   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
