@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T21:28:45Z",
+ "generated_at": "2026-11-01T00:17:12Z",
  "counts": {
   "target": 485,
-  "relevant": 2311
+  "relevant": 2310
  },
  "roles": [
   {
@@ -20416,18 +20416,6 @@
    "source": "simplify",
    "url": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
    "first_seen": "2026-10-31T07:44:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kitware",
-   "title": "AI Research Internship",
-   "location": "Clifton Park, New York",
-   "season": "Not stated",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75",
-   "first_seen": "2026-09-16T21:42:04Z"
   },
   {
    "tier": "B",
