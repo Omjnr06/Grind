@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T18:40:28Z",
+ "generated_at": "2026-11-01T22:24:58Z",
  "counts": {
   "target": 550,
-  "relevant": 2321
+  "relevant": 2319
  },
  "roles": [
   {
@@ -1209,24 +1209,24 @@
    "tier": "A",
    "track": "swe",
    "company": "ByteDance",
-   "title": "Student Researcher Intern, Seed Model - Vision",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://joinbytedance.com/search/7623544831999346997",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
    "title": "Student Researcher, Multimodal Interaction & World Model (Seed)",
    "location": "San Jose, CA",
    "season": "",
    "sponsorship": "",
    "source": "sndsh404",
    "url": "https://joinbytedance.com/search/7623548747208739077",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "ByteDance",
+   "title": "Student Researcher, Vision Foundation Model (Seed)",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "sndsh404",
+   "url": "https://joinbytedance.com/search/7623544831999346997",
    "first_seen": "2026-07-17T02:04:04Z"
   },
   {
@@ -2049,11 +2049,11 @@
    "tier": "A",
    "track": "swe",
    "company": "Google",
-   "title": "Student Researcher Intern",
+   "title": "Student Researcher - BS/MS",
    "location": "Montreal, QC, Canada",
-   "season": "Winter",
+   "season": "",
    "sponsorship": "Other",
-   "source": "vanshb03",
+   "source": "simplify",
    "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614",
    "first_seen": "2026-10-26T18:56:03Z"
   },
@@ -2080,18 +2080,6 @@
    "source": "sndsh404",
    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
    "first_seen": "2026-07-21T14:55:28Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Google",
-   "title": "Student Researcher Intern",
-   "location": "Mountain View, CA / Ann Arbor, MI / Atlanta, GA / Austin, TX / Boulder, CO / Cambridge, MA / Chicago, IL / Houston, TX / Irvine, CA / Kirkland, WA / Los Angeles, CA / Madison, WI / New York, NY / Palo Alto, CA / Princeton, NJ / Pittsburgh, PA / Raleigh, NC / Durham, NC / Goleta, CA / San Bruno, CA / Seattle, WA / San Francisco, CA / San Jose, CA / Sunnyvale, CA / Washington, DC",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998",
-   "first_seen": "2026-11-01T18:40:28Z"
   },
   {
    "tier": "A",
@@ -4281,6 +4269,30 @@
    "tier": "A",
    "track": "swe",
    "company": "TikTok",
+   "title": "Data Scientist Intern, VOD Data",
+   "location": "Montreal, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/18w",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
+   "location": "Mountain View, CA / Ann Arbor, MI / Atlanta, GA / Austin, TX / Boulder, CO / Cambridge, MA / Chicago, IL / Houston, TX / Irvine, CA / Kirkland, WA / Los Angeles, CA / Madison, WI / New York, NY / Palo Alto, CA / Princeton, NJ / Pittsburgh, PA / Raleigh, NC / Durham, NC / Goleta, CA / San Bruno, CA / Seattle, WA / San Francisco, CA / San Jose, CA / Sunnyvale, CA / Washington, DC",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/18x",
+   "first_seen": "2026-08-20T13:25:29Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
    "title": "Client Solutions Intern - Global Business Solutions",
    "location": "NYC",
    "season": "Summer 2027",
@@ -5025,13 +5037,13 @@
    "tier": "A",
    "track": "swe",
    "company": "TikTok",
-   "title": "Data Scientist Intern, VOD Data",
+   "title": "Software Engineer Project Intern, Global E-Commerce Search Infrastructure",
    "location": "San Jose, CA",
-   "season": "Summer",
+   "season": "Fall",
    "sponsorship": "Other",
    "source": "vanshb03",
-   "url": "https://go.vansh.nyc/18w",
-   "first_seen": "2026-10-26T18:56:03Z"
+   "url": "https://go.vansh.nyc/18y",
+   "first_seen": "2026-11-01T13:46:06Z"
   },
   {
    "tier": "A",
@@ -5049,25 +5061,13 @@
    "tier": "A",
    "track": "swe",
    "company": "TikTok",
-   "title": "Software Engineer Project Intern, Model Infrastructure",
-   "location": "San Jose, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://lifeattiktok.com/search/7624284785283746053",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
    "title": "Software Engineer Project Intern, Platform Efficiency",
    "location": "San Jose, CA",
    "season": "Winter",
    "sponsorship": "Other",
    "source": "vanshb03",
-   "url": "https://lifeattiktok.com/search/7530513185797359880",
-   "first_seen": "2026-11-01T18:40:28Z"
+   "url": "https://go.vansh.nyc/190",
+   "first_seen": "2026-11-01T22:24:58Z"
   },
   {
    "tier": "A",
@@ -5439,6 +5439,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7669683639101884725",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Data Scientist Intern - VOD Data",
+   "location": "San Jose, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7670287013157095733",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -5992,18 +6004,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/188",
    "first_seen": "2026-08-11T13:38:33Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Software Engineer Project Intern, Global E-Commerce Search Infrastructure",
-   "location": "Seattle, WA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/18y",
-   "first_seen": "2026-11-01T13:46:06Z"
   },
   {
    "tier": "A",
@@ -14235,42 +14235,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Deutsche Bank",
-   "title": "Quantitative FIC Intern - Quantitative Trading",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Deutsche Bank",
-   "title": "Quantitative Analyst Intern - GSA",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Deutsche Bank",
-   "title": "Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -26536,6 +26500,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/9l",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Pony.ai",
+   "title": "Research Intern - Deep Learning",
+   "location": "Fremont, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
+   "first_seen": "2026-07-22T21:44:39Z"
   },
   {
    "tier": "B",
