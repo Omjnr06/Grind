@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T01:38:20Z",
+ "generated_at": "2026-11-02T08:16:55Z",
  "counts": {
-  "target": 550,
-  "relevant": 2305
+  "target": 551,
+  "relevant": 2288
  },
  "roles": [
   {
@@ -3079,18 +3079,6 @@
   },
   {
    "tier": "A",
-   "track": "pm",
-   "company": "Microsoft",
-   "title": "Product Manager Intern",
-   "location": "Cambridge, MA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
-   "first_seen": "2026-10-24T08:23:46Z"
-  },
-  {
-   "tier": "A",
    "track": "swe",
    "company": "Microsoft",
    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students - Cambridge",
@@ -3172,6 +3160,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/15H",
    "first_seen": "2026-11-01T13:46:06Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "First-Year Explore Program Engineering Intern",
+   "location": "Redmond, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/199",
+   "first_seen": "2026-11-02T08:16:55Z"
   },
   {
    "tier": "A",
@@ -3304,6 +3304,18 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557050150",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Explore Program Engineering Intern",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+   "first_seen": "2026-11-02T08:16:55Z"
   },
   {
    "tier": "A",
@@ -9580,18 +9592,6 @@
    "source": "simplify",
    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1",
    "first_seen": "2026-10-16T16:49:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Astera Labs",
-   "title": "Firmware Engineer Intern (Leo)",
-   "location": "San Jose, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005",
-   "first_seen": "2026-10-06T20:38:56Z"
   },
   {
    "tier": "B",
@@ -18608,18 +18608,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Hilton Worldwide",
-   "title": "Data Management and Analysis Placement - Safety & Security",
-   "location": "Watford, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/219176",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Hitachi",
    "title": "Software Analyst Intern",
    "location": "Toronto, Canada",
@@ -20241,18 +20229,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Johnson & Johnson",
-   "title": "Process Excellence & AI Co-op",
-   "location": "Milpitas, California, United States of America",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367",
-   "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Johnson & Johnson",
    "title": "Software Engineering Intern - Robotics R&D",
    "location": "Santa Clara, California, United States of America",
    "season": "Summer 2027",
@@ -20272,18 +20248,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Yb",
    "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
-   "title": "Software Engineer Intern - Immersion Program",
-   "location": "Glasgow, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -20331,42 +20295,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
-   "title": "Software Engineer Intern",
-   "location": "London, UK / Glasgow, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
-   "title": "Software Engineer Intern - Summer Internship",
-   "location": "London, UK / Glasgow, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
-   "title": "Data & AI Intern - Data & AI Program",
-   "location": "London, UK / Glasgow, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -21292,18 +21220,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/fs",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "L3Harris Technologies",
-   "title": "Associate Multimedia Web Developer/Programmer Intern - Technical Training",
-   "location": "Rochester, NY",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Multimedia-Web-DeveloperProgrammer-(Technical-Training)-NY-14609/1425480300/?ats=successfactors",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -24104,18 +24020,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Ninjaholdings",
-   "title": "Data Science Intern",
-   "location": "Chicago, IL",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern",
-   "first_seen": "2026-09-20T17:27:30Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Nintendo",
    "title": "Software Engineer Intern, DevOps",
    "location": "Mountain View, CA",
@@ -24316,54 +24220,6 @@
    "source": "simplify",
    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214271",
    "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nokia",
-   "title": "Data Scientist Co-op/Intern",
-   "location": "Ottawa, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nokia",
-   "title": "Incubation Developer Student Intern",
-   "location": "Ottawa, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nokia",
-   "title": "Operations Analytics Co-op Intern - Intern",
-   "location": "Ottawa, ON, Canada",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nokia",
-   "title": "Automation Engineer Co-op Intern",
-   "location": "Ottawa, ON, Canada",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -26553,18 +26409,6 @@
    "tier": "B",
    "track": "swe",
    "company": "PTC",
-   "title": "Software Engineering Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998",
-   "first_seen": "2026-10-30T18:50:46Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "PTC",
    "title": "Software Engineering Summer Internship 2027 - Cambridge",
    "location": "Cambridge, United Kingdom",
    "season": "",
@@ -28016,18 +27860,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Roche",
-   "title": "Data Science Intern - Multiple Teams",
-   "location": "Welwyn Garden City, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Rocket Companies",
    "title": "Marketing, Accounting, or IT Intern",
    "location": "San Jose, CA",
@@ -28060,6 +27892,18 @@
    "source": "simplify",
    "url": "https://apply.workable.com/rokt/j/616F2D0286/apply",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Roku",
+   "title": "Software Engineer Intern - AI Engineering",
+   "location": "San Jose, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
+   "first_seen": "2026-11-02T08:16:55Z"
   },
   {
    "tier": "B",
@@ -29060,18 +28904,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "SharkNinja",
-   "title": "Applied AI & Analytics Co-op Opportunities",
-   "location": "Miami, Florida, United States; Needham, MA, United States; New York, New York, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006",
-   "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Shield AI",
    "title": "Software Engineer Intern - Summer 2027",
    "location": "San Mateo, California",
@@ -30052,18 +29884,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/ZB",
    "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Sun Life",
-   "title": "Software Engineer Co-op - Security",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065",
-   "first_seen": "2026-10-27T01:48:12Z"
   },
   {
    "tier": "B",
@@ -33904,18 +33724,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
    "first_seen": "2026-08-18T10:17:28Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "XPENG Motors",
-   "title": "AI Research Intern \u2013 Predictive World Model",
-   "location": "Santa Clara, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002",
-   "first_seen": "2026-09-18T05:34:06Z"
   },
   {
    "tier": "B",
