@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T07:55:26Z",
+ "generated_at": "2026-11-03T15:38:15Z",
  "counts": {
-  "target": 571,
-  "relevant": 2321
+  "target": 572,
+  "relevant": 2329
  },
  "roles": [
   {
@@ -2644,6 +2644,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1553890293163197",
    "first_seen": "2026-10-31T01:49:57Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
+   "title": "Research Scientist Intern - FM Quality ML",
+   "location": "Menlo Park, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/1125383989877928",
+   "first_seen": "2026-11-03T15:38:15Z"
   },
   {
    "tier": "A",
@@ -15848,6 +15860,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Elsevier",
+   "title": "AI Research Intern",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Intern-Data-Science_R120607",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Ema",
    "title": "AI Application Engineer",
    "location": "SF",
@@ -19401,6 +19425,18 @@
    "tier": "B",
    "track": "swe",
    "company": "ICF International",
+   "title": "Energy Researcher Intern",
+   "location": "Arlington County, Arlington, VA / Reston, VA / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ICF International",
    "title": "AI Engineer Intern",
    "location": "New York, NY",
    "season": "Summer",
@@ -21272,6 +21308,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Kinaxis",
+   "title": "Developer Co-op Intern - Machine Learning",
+   "location": "Toronto, ON, Canada / Ottawa, ON, Canada / Remote in Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
+   "first_seen": "2026-10-31T07:44:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "KION Group",
    "title": "Real-Time Software Engineer Intern",
    "location": "Westhill, UK / Stockport, UK",
@@ -22148,6 +22196,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Lloyds Bank",
+   "title": "Applied Data and AI Apprentice",
+   "location": "Edinburgh, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Applied-Data-and-AI-Apprentice---Edinburgh_165592",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Lloyds Bank",
+   "title": "Digital & Technology Solutions Degree Apprenticeship",
+   "location": "Manchester, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Digital---Technology-Solutions-Degree-Apprenticeship---Manchester_164903",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "LPL Financial",
    "title": "Intern 2027- Software Engineer",
    "location": "Austin, TX",
@@ -22197,6 +22269,54 @@
    "tier": "B",
    "track": "swe",
    "company": "LSEG",
+   "title": "Finance Engineer Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Finance-Engineer_R0124269",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LSEG",
+   "title": "Software Engineer Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LSEG",
+   "title": "Quantitative Services Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Quantitative-Services_R0124311-2",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LSEG",
+   "title": "Intern - Software Engineer",
+   "location": "New York City, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
+   "first_seen": "2026-10-14T21:40:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LSEG",
    "title": "Engineering Intern",
    "location": "Nottingham, UK",
    "season": "Summer 2027",
@@ -22204,6 +22324,18 @@
    "source": "simplify",
    "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LSEG",
+   "title": "Finance Engineer Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268",
+   "first_seen": "2026-11-03T15:38:15Z"
   },
   {
    "tier": "B",
@@ -24218,7 +24350,7 @@
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://nebius.com/early-talent-program/swe-ml?gh_jid=5024729101",
+   "url": "https://careers.nebius.com/?gh_jid=4883829101",
    "first_seen": "2026-11-02T18:36:52Z"
   },
   {
@@ -24632,6 +24764,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "NJM Insurance Group",
+   "title": "IT Data Science Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1da",
+   "first_seen": "2026-11-03T07:55:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Normal Computing",
    "title": "AI Research Resident",
    "location": "London, UK / Copenhagen, Denmark / NYC / Mountain View, CA",
@@ -24832,6 +24976,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/10o",
    "first_seen": "2026-10-30T06:38:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "AI Compiler and Kernel Intern",
+   "location": "Austin, TX",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+   "first_seen": "2026-11-03T15:38:15Z"
   },
   {
    "tier": "B",
@@ -25492,6 +25648,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1cp",
    "first_seen": "2026-11-03T07:55:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "onepot",
+   "title": "Machine Learning Researcher Intern - Machine Learning",
+   "location": "South SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true",
+   "first_seen": "2026-11-03T15:38:15Z"
   },
   {
    "tier": "B",
@@ -26949,36 +27117,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Q2",
-   "title": "Software Engineer Intern",
-   "location": "Austin, TX",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1dc",
-   "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Q2",
    "title": "Data Science Intern",
    "location": "Austin, TX",
    "season": "Summer",
    "sponsorship": "Does Not Offer Sponsorship",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1dd",
-   "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Q2",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Austin, TX",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1de",
    "first_seen": "2026-11-03T07:55:26Z"
   },
   {
@@ -28372,6 +28516,18 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154478885",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Robert Bosch Venture Capital",
+   "title": "Quality Projects Intern",
+   "location": "Worcester, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159363644",
+   "first_seen": "2026-11-03T15:38:15Z"
   },
   {
    "tier": "B",
@@ -30885,36 +31041,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Tencent",
-   "title": "Game Development Tools Intern - AI Focus",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Game-Development-Tools-Intern--AI-Focus-_R108251",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tencent",
    "title": "Generative AI Research Intern",
    "location": "London, UK",
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tencent",
-   "title": "Game UI Intern - AI Focus",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Game-UI---Tools-Intern--AI-Focus-_R108251",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -31288,18 +31420,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8319350",
    "first_seen": "2026-10-27T01:48:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The Boeing Company",
-   "title": "Data Analytics Intern",
-   "location": "Ridley Park, PA / Seattle, WA / Long Beach, CA / Mesa, AZ / Colorado Springs, CO / Renton, WA / Dallas, TX / Fairfax, VA / Plano, TX / Chicago, IL / Seal Beach, CA / Tukwila, WA / St Charles, MO / San Antonio, TX / Arlington County, Arlington, VA / Everett, WA / Berkeley, MO / Auburn, WA / Oklahoma City, OK / Kent, WA / Charleston, SC / Bellevue, WA / Herndon, VA / Atlanta, GA / Huntsville, AL / North Charleston, SC / Huntington Beach, CA / Hazelwood, MO / Mukilteo, WA / El Segundo, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976",
-   "first_seen": "2026-10-31T01:49:57Z"
   },
   {
    "tier": "B",
@@ -32704,18 +32824,6 @@
    "source": "simplify",
    "url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Trimble",
-   "title": "Software Engineer Intern",
-   "location": "Dayton, OH / Knoxville, TN / Portsmouth, NH / Princeton, NJ / Lake Oswego, OR / Westminster, CO / Sunnyvale, CA / Atlanta, GA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
-   "first_seen": "2026-09-09T17:48:15Z"
   },
   {
    "tier": "B",
