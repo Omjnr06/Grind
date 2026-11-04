@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T01:23:45Z",
+ "generated_at": "2026-11-04T07:40:10Z",
  "counts": {
-  "target": 573,
-  "relevant": 2367
+  "target": 574,
+  "relevant": 2370
  },
  "roles": [
   {
@@ -4459,6 +4459,18 @@
   },
   {
    "tier": "A",
+   "track": "pm",
+   "company": "Tesla",
+   "title": "Product Management Intern - Product Management - Megapack Services 3",
+   "location": "Palo Alto, CA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/288805",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "A",
    "track": "swe",
    "company": "Tesla",
    "title": "Data Analyst Intern - People Products",
@@ -8900,6 +8912,42 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Apera AI",
+   "title": "Machine Learning Applied Scientist Co-op",
+   "location": "Vancouver, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1g0",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apera AI",
+   "title": "Software Developer Co-op, Full Stack",
+   "location": "Vancouver, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1g1",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apera AI",
+   "title": "Software Developer Co-op, Cloud Infrastructure",
+   "location": "Vancouver, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1g2",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Apple",
    "title": "Design Verification Engineer Intern",
    "location": "Arden Hills, MN",
@@ -10300,18 +10348,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Z0",
    "first_seen": "2026-10-29T16:03:48Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bank of Montreal",
-   "title": "Workforce Analyst Co-op Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
@@ -23613,6 +23649,18 @@
    "tier": "B",
    "track": "swe",
    "company": "MDA",
+   "title": "Student Cyber Security Analyst Intern",
+   "location": "Brampton, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fU",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "MDA",
    "title": "Engineering Intern, Python Test Data Processing",
    "location": "Montreal, Canada",
    "season": "Winter",
@@ -26344,6 +26392,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
    "first_seen": "2026-09-10T17:26:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Pacific Fusion",
+   "title": "Software Engineering Intern",
+   "location": "San Leandro, CA / Fremont, CA / Los Lunas, NM",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1g4",
+   "first_seen": "2026-11-04T07:40:10Z"
   },
   {
    "tier": "B",
@@ -29157,6 +29217,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Royal Bank of Canada",
+   "title": "AI Engineer Co-op, Capital Markets, Global Equities",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fV",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Royal Bank of Canada",
    "title": "Developer & IT Specialist Co-op, Global Asset Management",
    "location": "Toronto, Canada / Vancouver, Canada",
    "season": "Winter",
@@ -29164,6 +29236,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Md",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Royal Bank of Canada",
+   "title": "AI Engineer Co-op - Global Equities",
+   "location": "Toronto, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
+   "first_seen": "2026-11-04T07:40:10Z"
   },
   {
    "tier": "B",
@@ -30188,18 +30272,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Sikich",
-   "title": "Intelligence Transformation Intern",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false",
-   "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Simbe Robotics",
    "title": "Robot Software Engineer Intern \u2014 Spring & Summer 2027",
    "location": "San Francisco, CA",
@@ -30976,30 +31048,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true",
    "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Sun Life",
-   "title": "Data Analyst Co-op",
-   "location": "Toronto, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ZB",
-   "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Sun Life",
-   "title": "Data Analyst Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027, Summer 2027, Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
@@ -34631,7 +34679,7 @@
    "company": "William Blair",
    "title": "Software Engineering Intern - Wit",
    "location": "Chicago, IL",
-   "season": "Summer 2027",
+   "season": "",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242287007",
