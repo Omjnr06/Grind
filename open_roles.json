@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T07:40:10Z",
+ "generated_at": "2026-11-04T15:45:13Z",
  "counts": {
-  "target": 574,
-  "relevant": 2370
+  "target": 575,
+  "relevant": 2372
  },
  "roles": [
   {
@@ -2752,6 +2752,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1625515955324134",
    "first_seen": "2026-10-28T01:41:27Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
+   "title": "Research Scientist Intern - ML Innovation for Products",
+   "location": "Menlo Park, CA / Sunnyvale, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/1060093353751700",
+   "first_seen": "2026-11-04T15:45:13Z"
   },
   {
    "tier": "A",
@@ -7268,18 +7280,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Aegon Asset Management",
-   "title": "Actuarial Intern",
-   "location": "Edinburgh, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://transamerica.wd5.myworkdayjobs.com/AUK_JobSite/job/Edinburgh-UK/Actuarial-Intern--Summer-2027-_R20063117",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Aerotech",
    "title": "Electrical/Computer Engineering Co-op",
    "location": "Markham, Canada",
@@ -10904,30 +10904,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Blackberry",
-   "title": "Software Developer Student Intern",
-   "location": "Ottawa, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342",
-   "first_seen": "2026-11-04T01:23:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Blackberry",
-   "title": "Software Development Co-op",
-   "location": "Ottawa, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343",
-   "first_seen": "2026-11-04T01:23:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "BlackRock",
    "title": "Quantitative Master's Intern - Investments - Quantitative Investing",
    "location": "London, UK",
@@ -12171,18 +12147,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/SA",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CAE",
-   "title": "Software Engineering Intern - AI, Automation and Business Intelligence",
-   "location": "Montreal, QC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -13845,18 +13809,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Cogna",
-   "title": "Software Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/cogna/j/45A6283F88/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cogna",
    "title": "Software Engineer Intern - 2027 Cohort",
    "location": "London, United Kingdom",
    "season": "",
@@ -14211,18 +14163,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.constellationenergy.com/jobs/138735?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Corning",
-   "title": "Measurements Engineering Intern - Summer 2027",
-   "location": "Corning, NY",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://corningjobs.corning.com/job/Corning-Intern,-Measurements-Summer-2027-NY-14831/1433453700/?ats=successfactors",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -15081,6 +15021,18 @@
    "tier": "B",
    "track": "swe",
    "company": "DoorDash",
+   "title": "AI Research Fellowship Intern",
+   "location": "SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7848317",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DoorDash",
    "title": "Operations Research Intern",
    "location": "Sunnyvale, CA",
    "season": "Summer 2027",
@@ -15292,18 +15244,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/5p",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DRW",
-   "title": "Quantitative Trading Analyst Intern - IAP Winternship (MIT Students Only)",
-   "location": "Chicago, IL",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8259714",
-   "first_seen": "2026-10-07T00:07:08Z"
   },
   {
    "tier": "B",
@@ -15801,18 +15741,6 @@
    "tier": "B",
    "track": "pm",
    "company": "Electronic Arts",
-   "title": "AI Enablement Intern",
-   "location": "Austin, TX",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Electronic Arts",
    "title": "Product Management Intern",
    "location": "Austin, TX",
    "season": "Summer 2027",
@@ -15939,18 +15867,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Electronic Arts",
-   "title": "Technical Artist Co-op",
-   "location": "Vancouver, BC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -16456,6 +16372,18 @@
    "source": "simplify",
    "url": "https://eyglobal.yello.co/jobs/KBPFL_z8cg9IBGsgb2xYYA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Etched",
+   "title": "IA Research Engineer Intern - Kernels",
+   "location": "San Jose, CA",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true",
+   "first_seen": "2026-11-04T15:45:13Z"
   },
   {
    "tier": "B",
@@ -27127,6 +27055,42 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "Plusgrade",
+   "title": "UI/UX Design and Frontend Engineer Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1gp",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Plusgrade",
+   "title": "Applied AI Engineer Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1gq",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Plusgrade",
+   "title": "Applied AI Test Engineer Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1gu",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "Podium",
    "title": "Product Management Intern",
@@ -28113,6 +28077,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Quantiq",
+   "title": "Software Developer Intern",
+   "location": "Austin, TX",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1gf",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Quantiq",
    "title": "Software Developer Internship (Summer 2027)",
    "location": "Austin, TX",
    "season": "Summer 2027",
@@ -29061,6 +29037,54 @@
    "tier": "B",
    "track": "swe",
    "company": "Roku",
+   "title": "AI Engineering Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Roku",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Roku",
+   "title": "AI Engineering Intern",
+   "location": "Manchester, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Roku",
+   "title": "Software Engineer Intern",
+   "location": "Manchester, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.weareroku.com/jobs/8345967?gh_jid=8345967",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Roku",
    "title": "SW Engineer Intern, AI Engineering",
    "location": "San Jose, California",
    "season": "Fall 2027",
@@ -29566,18 +29590,6 @@
    "track": "swe",
    "company": "Samsara",
    "title": "Software Engineering Intern",
-   "location": "London, UK",
-   "season": "Summer 2028",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-   "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Samsara",
-   "title": "Software Engineering Intern",
    "location": "SF",
    "season": "Spring 2028, Summer 2028, Fall 2028, Winter 2029",
    "sponsorship": "Other",
@@ -29728,6 +29740,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Saronic",
+   "title": "Enterprise Technology Intern - AI and Automation",
+   "location": "Austin, TX",
+   "season": "Spring 2027, Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true",
+   "first_seen": "2026-11-04T15:45:13Z"
   },
   {
    "tier": "B",
@@ -32865,6 +32889,18 @@
    "tier": "B",
    "track": "swe",
    "company": "TMX Group",
+   "title": "Jr. Security Analyst Student Intern",
+   "location": "Toronto, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1gt",
+   "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TMX Group",
    "title": "Analyst \u2013 Market Insights Intern",
    "location": "Toronto, ON, Canada",
    "season": "Winter 2027",
@@ -34334,7 +34370,7 @@
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
    "first_seen": "2026-10-28T07:24:11Z"
   },
   {
@@ -34347,6 +34383,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
+   "first_seen": "2026-10-28T07:24:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "VSP Vision",
+   "title": "Internship, Software Engineer",
+   "location": "Remote US",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
    "first_seen": "2026-10-28T07:24:11Z"
   },
   {
@@ -34679,7 +34727,7 @@
    "company": "William Blair",
    "title": "Software Engineering Intern - Wit",
    "location": "Chicago, IL",
-   "season": "",
+   "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242287007",
@@ -35307,18 +35355,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ZS",
-   "title": "Decision Analytics Associate Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.zs.com/jobs/68243?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
