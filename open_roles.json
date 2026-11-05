@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T21:37:26Z",
+ "generated_at": "2026-11-05T01:46:59Z",
  "counts": {
   "target": 576,
-  "relevant": 2372
+  "relevant": 2371
  },
  "roles": [
   {
@@ -12092,6 +12092,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "CACI",
+   "title": "Software Engineering Co-op/Intern - Summer 2027",
+   "location": "Rochester, NY, US",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
+   "first_seen": "2026-11-05T01:46:59Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Cadence",
    "title": "Graduate Student Intern - Software Engineering",
    "location": "Austin, TX",
@@ -14116,6 +14128,18 @@
    "source": "zshah101",
    "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/",
    "first_seen": "2026-10-25T21:05:59Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Constellation Brands",
+   "title": "Intern, AI & Automation Engineering",
+   "location": "Rochester, New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655",
+   "first_seen": "2026-11-05T01:46:59Z"
   },
   {
    "tier": "B",
@@ -20008,6 +20032,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/12W",
    "first_seen": "2026-11-01T06:30:48Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "IDEMIA",
+   "title": "Information Technology Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1hf",
+   "first_seen": "2026-11-05T01:46:59Z"
   },
   {
    "tier": "B",
@@ -33356,18 +33392,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "TransUnion",
-   "title": "Financial Services Argus Advisory Intern",
-   "location": "Chicago, IL / White Plains, NY",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/White-Plains-New-York/Financial-Services---Argus-Advisory-Internship---Summer-2027_19042627",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Trata",
    "title": "Research Scientist Intern \u23f3",
    "location": "San Francisco, CA / New York, NY",
@@ -34388,18 +34412,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "VSP Vision",
-   "title": "Internship, AI \u2013 Agentic & Machine Learning Development",
-   "location": "Remote US",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072",
-   "first_seen": "2026-10-31T01:49:57Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "VSP Vision Care",
    "title": "Internship - Software Engineer",
    "location": "Remote - USA",
@@ -34408,18 +34420,6 @@
    "source": "speedyapply",
    "url": "https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
    "first_seen": "2026-10-28T19:32:41Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "W.W. Grainger",
-   "title": "Software Engineer Intern - Grainger Technology Group",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -34671,18 +34671,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/10z",
-   "first_seen": "2026-10-30T18:50:46Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Wex",
-   "title": "Software Engineer Intern",
-   "location": "US - Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585",
    "first_seen": "2026-10-30T18:50:46Z"
   },
   {
