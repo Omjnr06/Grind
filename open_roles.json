@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T02:41:14Z",
+ "generated_at": "2026-11-06T09:52:32Z",
  "counts": {
-  "target": 582,
-  "relevant": 2421
+  "target": 581,
+  "relevant": 2416
  },
  "roles": [
   {
@@ -4435,18 +4435,6 @@
   },
   {
    "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Solar Hardware Engineer Intern - Energy Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Winter 2027, Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/283423",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
    "track": "pm",
    "company": "Tesla",
    "title": "Product Manager Intern - Residential Energy Engineering",
@@ -8311,30 +8299,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "American Express",
-   "title": "Product Manager Intern - Undergraduate",
-   "location": "Burgess Hill, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "American Express",
-   "title": "AI Engineer Intern - Undergraduate",
-   "location": "Burgess Hill, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "American Express",
    "title": "Software Engineer Intern - Undergraduate",
@@ -8367,18 +8331,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "American Express",
-   "title": "Product Manager Intern - Undergraduate",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -12080,18 +12032,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Businessolver",
-   "title": "Business Intelligence Analyst Intern - Innovation & Data Science",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.businessolver.com/careers/openings/?gh_jid=8281727",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "ByteDance",
    "title": "Research Scientist Intern - Multimedia Streaming",
    "location": "San Diego, CA",
@@ -13540,6 +13480,18 @@
    "source": "simplify",
    "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743",
    "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Cintas",
+   "title": "IT Engineer Intern, Customer Channels",
+   "location": "Foster City, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1jw",
+   "first_seen": "2026-11-06T02:41:14Z"
   },
   {
    "tier": "B",
@@ -17925,18 +17877,6 @@
    "tier": "B",
    "track": "swe",
    "company": "General Motors",
-   "title": "Machine Learning Engineer Intern - AV/AI Platform",
-   "location": "Sunnyvale, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
    "title": "AI Research Intern - Embodied AI",
    "location": "Sunnyvale, CA",
    "season": "Summer 2027",
@@ -18040,18 +17980,6 @@
    "source": "speedyapply",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
    "first_seen": "2026-10-04T19:12:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
-   "title": "Software Engineer Intern - AV/AI Platform",
-   "location": "Sunnyvale, CA / Warren, MI",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -19832,6 +19760,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "HoYoverse",
+   "title": "Research Scientist Intern - Video Generation",
+   "location": "Mountain View, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true",
+   "first_seen": "2026-11-06T09:52:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "HP",
    "title": "Software Engineering Intern - Product & Developer Productivity - HP IQ",
    "location": "San Francisco, CA",
@@ -21453,30 +21393,6 @@
    "tier": "B",
    "track": "swe",
    "company": "JP Morgan Chase",
-   "title": "Quantitative Research Intern - Markets - Analyst",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
-   "first_seen": "2026-08-21T16:22:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
-   "title": "Quantitative Research Summer Analyst Intern - Asset Management",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
-   "first_seen": "2026-08-21T16:22:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
    "title": "Quantitative Research Intern",
    "location": "NYC",
    "season": "Summer 2027",
@@ -21556,18 +21472,6 @@
    "source": "simplify",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
-   "title": "Quantitative Research Intern - Risk and Treasury",
-   "location": "Plano, TX / Chicago, IL / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -25893,6 +25797,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "Research and Engineering Intern - Agentic Systems Intelligence",
+   "location": "Austin, TX / Redmond, WA / Santa Clara, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
+   "first_seen": "2026-11-06T09:52:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "Data Processing Developer Technology Intern",
    "location": "Bristol, UK",
    "season": "",
@@ -26523,18 +26439,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/9k",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "onsemi",
-   "title": "Technology Development Intern",
-   "location": "Hopewell Junction, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ap",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -35672,18 +35576,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Zebra Technologies",
-   "title": "2027 Summer Internship (US) - Data Scientist",
-   "location": "Holtsville, NY / Lincolnshire, IL",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Zekelman Industries",
    "title": "Business Intelligence Intern - Program Development",
    "location": "Austin, TX / Troy, MI",
@@ -36004,6 +35896,42 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656/apply",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "Software Engineer Intern - Software Systems",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply",
+   "first_seen": "2026-11-06T09:52:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "Software Engineer Intern - Software Platforms & Product",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply",
+   "first_seen": "2026-11-06T09:52:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "Software Engineer Intern - Autonomy Software",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply",
+   "first_seen": "2026-11-06T09:52:32Z"
   },
   {
    "tier": "B",
