@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T01:52:47Z",
+ "generated_at": "2026-11-07T07:59:16Z",
  "counts": {
-  "target": 578,
-  "relevant": 2466
+  "target": 580,
+  "relevant": 2457
  },
  "roles": [
   {
@@ -6427,6 +6427,30 @@
   },
   {
    "tier": "A",
+   "track": "pm",
+   "company": "TikTok",
+   "title": "GEO Content Product Manager Intern",
+   "location": "San Jose, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7696000178264361269",
+   "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Research Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7704981006856145205",
+   "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "A",
    "track": "swe",
    "company": "TikTok",
    "title": "Site Reliability Engineer Intern - Global SRE - 2027 Summer",
@@ -10444,18 +10468,6 @@
    "source": "simplify",
    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951",
    "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bank of Montreal",
-   "title": "Machine Learning Developer Intern Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620",
-   "first_seen": "2026-11-06T02:41:14Z"
   },
   {
    "tier": "B",
@@ -18704,174 +18716,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175424?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175423?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175427?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175421?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175426?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Investment Banking",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175428?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Engineering",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/170644?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171566?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171535?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171563?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171552?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171550?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171533?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171547?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Google",
    "title": "Forward Deployed Engineering Intern",
    "location": "Middletown, RI",
@@ -20745,6 +20589,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Invesco",
+   "title": "Real Estate Intern, Data Science",
+   "location": "Corning, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ly",
+   "first_seen": "2026-11-07T01:52:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Invesco",
    "title": "Quantitative Research Intern",
    "location": "NYC",
    "season": "",
@@ -21304,18 +21160,6 @@
    "source": "simplify",
    "url": "https://johndeere.eightfold.ai/careers/job/137481983166",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Johnson & Johnson",
-   "title": "AI/ML/Data Science Intern",
-   "location": "Boston, MA / Barcelona, Spain / Spring House, PA / New Brunswick, NJ / Madrid, Spain / NYC / High Wycombe, UK",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697",
-   "first_seen": "2026-10-28T19:32:41Z"
   },
   {
    "tier": "B",
@@ -27436,6 +27280,18 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Parspec",
+   "title": "Applied AI Engineer Intern",
+   "location": "Hybrid - San Mateo, California",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504",
+   "first_seen": "2026-11-07T07:59:16Z"
   },
   {
    "tier": "B",
@@ -33657,6 +33513,18 @@
    "tier": "B",
    "track": "swe",
    "company": "TikTok",
+   "title": "Data Operations Intern",
+   "location": "LA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7704912455690504453",
+   "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TikTok",
    "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
    "location": "San Diego, CA",
    "season": "",
@@ -35552,18 +35420,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "VSP Vision",
-   "title": "Internship, Software Engineer",
-   "location": "Remote US",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
-   "first_seen": "2026-10-28T07:24:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "VSP Vision Care",
    "title": "Internship - Software Engineer",
    "location": "Remote - USA",
@@ -36381,6 +36237,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Zoox",
+   "title": "Data Scientist Intern",
+   "location": "Boston, MA / Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
+   "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
    "title": "Freeways Data Evaluation Intern",
    "location": "Foster City, CA",
    "season": "Summer",
@@ -36393,6 +36261,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Zoox",
+   "title": "AI Workflows & Safety Decision Making Intern [2027]",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+   "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
    "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
    "location": "Foster City, CA",
    "season": "Summer 2027",
@@ -36400,6 +36280,18 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
    "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "Data Science Intern [Summer 2027]",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
+   "first_seen": "2026-11-07T07:59:16Z"
   },
   {
    "tier": "B",
@@ -36496,6 +36388,30 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply",
    "first_seen": "2026-11-06T09:52:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "Safety Reporting & Benchmarking Intern",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply",
+   "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "AI Workflows & Safety Decision Making Intern",
+   "location": "Foster City, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply",
+   "first_seen": "2026-11-07T07:59:16Z"
   },
   {
    "tier": "B",
