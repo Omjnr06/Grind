@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T19:03:07Z",
+ "generated_at": "2026-11-07T22:41:38Z",
  "counts": {
   "target": 580,
-  "relevant": 2459
+  "relevant": 2461
  },
  "roles": [
   {
@@ -16291,6 +16291,18 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Enovation Controls",
+   "title": "Product Content Automation Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1mr",
+   "first_seen": "2026-11-07T22:41:38Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Entrust",
    "title": "Software Development Intern",
@@ -23536,6 +23548,18 @@
    "source": "simplify",
    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Marmon Holdings",
+   "title": "AI Technology Solutions Intern",
+   "location": "Chicago, IL",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1mo",
+   "first_seen": "2026-11-07T22:41:38Z"
   },
   {
    "tier": "B",
