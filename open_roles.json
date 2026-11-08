@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T08:17:49Z",
+ "generated_at": "2026-11-08T15:26:08Z",
  "counts": {
   "target": 580,
-  "relevant": 2470
+  "relevant": 2472
  },
  "roles": [
   {
@@ -3429,18 +3429,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Microsoft",
-   "title": "Explore Program Engineering Intern",
-   "location": "Redmond, WA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-   "first_seen": "2026-11-02T08:16:55Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Microsoft",
    "title": "Research Intern - Coding Agents & Post-Training Optimization",
    "location": "Redmond, WA",
    "season": "",
@@ -4732,6 +4720,18 @@
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7696491615578589493",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Data Analyst Intern - FMCG",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7616659899507591477",
+   "first_seen": "2026-11-08T15:26:08Z"
   },
   {
    "tier": "A",
@@ -7396,6 +7396,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
    "first_seen": "2026-10-17T18:26:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "AFL",
+   "title": "Web Design/Development Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1mq",
+   "first_seen": "2026-11-07T22:41:38Z"
   },
   {
    "tier": "B",
@@ -10360,6 +10372,18 @@
    "source": "simplify",
    "url": "https://careers.axa.com/jobs/25498?icims=1",
    "first_seen": "2026-10-31T13:53:54Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Axiom Consultants",
+   "title": "AI Developer Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1mp",
+   "first_seen": "2026-11-07T22:41:38Z"
   },
   {
    "tier": "B",
@@ -23673,18 +23697,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Marmon Holdings",
-   "title": "AI Technology Solutions Intern",
-   "location": "Chicago, IL",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1mo",
-   "first_seen": "2026-11-07T22:41:38Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Marmon Holdings",
    "title": "Intern - AI Technology Solutions",
    "location": "Chicago, IL",
    "season": "Summer 2027",
@@ -23692,6 +23704,18 @@
    "source": "zshah101",
    "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903",
    "first_seen": "2026-11-07T01:52:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Marmon Holdings",
+   "title": "AI Technology Solutions Intern",
+   "location": "North York, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1mo",
+   "first_seen": "2026-11-07T22:41:38Z"
   },
   {
    "tier": "B",
