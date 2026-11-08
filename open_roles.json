@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T19:50:16Z",
+ "generated_at": "2026-11-08T23:17:08Z",
  "counts": {
   "target": 581,
   "relevant": 2460
@@ -20469,6 +20469,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Intercontinental Exchange",
+   "title": "Software Engineer Intern",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1n6",
+   "first_seen": "2026-11-08T23:17:08Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Intercontinental Exchange",
    "title": "Data Science Intern",
    "location": "NYC",
    "season": "Summer 2027",
@@ -29380,18 +29392,6 @@
    "source": "simplify",
    "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Solutions-Co-Op_JR101354",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Riverlane",
-   "title": "Software Engineering Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies",
-   "first_seen": "2026-10-29T16:03:48Z"
   },
   {
    "tier": "B",
