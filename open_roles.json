@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T22:41:38Z",
+ "generated_at": "2026-11-08T01:49:38Z",
  "counts": {
   "target": 580,
-  "relevant": 2461
+  "relevant": 2473
  },
  "roles": [
   {
@@ -18717,6 +18717,30 @@
    "tier": "B",
    "track": "swe",
    "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Multiple Teams",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175424?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175423?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
    "location": "London, UK",
    "season": "Summer 2027",
@@ -18735,6 +18759,126 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://higher.gs.com/roles/175421?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - The Core Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175426?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Investment Banking",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175428?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Engineering",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/170644?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Associate Intern - Multiple Teams",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171566?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171535?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Multiple Teams",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171563?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Associate Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171552?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171550?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171533?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171547?type=students",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -21592,30 +21736,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17B",
    "first_seen": "2026-11-01T13:46:06Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Keenfinity",
-   "title": "Software Test Automation Co-Op",
-   "location": "Fairport, NY, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151395769",
-   "first_seen": "2026-09-23T18:36:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Keenfinity",
-   "title": "Embedded Firmware Engineer Co-Op",
-   "location": "Fairport, NY, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151397189",
-   "first_seen": "2026-09-23T18:36:47Z"
   },
   {
    "tier": "B",
@@ -29768,6 +29888,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Rockefeller Capital Management",
+   "title": "Analyst Intern, Information Security",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1mv",
+   "first_seen": "2026-11-08T01:49:38Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Rocket Companies",
    "title": "Marketing, Accounting, or IT Intern",
    "location": "San Jose, CA",
@@ -31747,18 +31879,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "Springs Window Fashions",
-   "title": "Software Engineering Intern",
-   "location": "Long Island City, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1mf",
-   "first_seen": "2026-11-07T19:03:07Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "Springs Window Fashions",
    "title": "Product Management Intern",
@@ -31780,6 +31900,18 @@
    "source": "simplify",
    "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-11-05T08:43:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Springs Window Fashions",
+   "title": "Software Engineering Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1mf",
+   "first_seen": "2026-11-07T19:03:07Z"
   },
   {
    "tier": "B",
@@ -34720,6 +34852,18 @@
    "source": "simplify",
    "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10629",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "United Wholesale Mortgage",
+   "title": "Technology Intern Program",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1mx",
+   "first_seen": "2026-11-08T01:49:38Z"
   },
   {
    "tier": "B",
