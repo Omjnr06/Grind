@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T01:49:38Z",
+ "generated_at": "2026-11-08T08:17:49Z",
  "counts": {
   "target": 580,
-  "relevant": 2473
+  "relevant": 2470
  },
  "roles": [
   {
@@ -27716,18 +27716,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Pebl",
-   "title": "Software Engineering Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Pennsylvania State University",
    "title": "Science",
    "location": "Reading, PA",
@@ -35980,30 +35968,6 @@
    "source": "speedyapply",
    "url": "https://wing.com/careers/8872472002?gh_jid=8872472002",
    "first_seen": "2026-10-14T18:13:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Workday",
-   "title": "Software Development Engineer Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Workday",
-   "title": "Product Manager Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "Winter 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
