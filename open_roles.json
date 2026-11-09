@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T23:17:08Z",
+ "generated_at": "2026-11-09T02:48:45Z",
  "counts": {
   "target": 581,
   "relevant": 2460
@@ -10929,18 +10929,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Biogen",
-   "title": "Co-op, Data Science & AI Innovation",
-   "location": "Remote, USA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209",
-   "first_seen": "2026-09-25T04:51:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Biogen",
    "title": "Co-op, Data Science",
    "location": "Remote, USA",
    "season": "Fall 2026",
@@ -20337,6 +20325,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Integrate",
+   "title": "Software Engineer Intern",
+   "location": "Seattle, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ng",
+   "first_seen": "2026-10-28T01:41:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Integrate",
    "title": "Software Engineering Intern (Summer 2027)",
    "location": "Seattle, WA",
    "season": "Summer 2027",
@@ -20344,18 +20344,6 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3",
    "first_seen": "2026-10-21T17:26:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Integrate",
-   "title": "Software Engineer Intern",
-   "location": "Seattle, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true",
-   "first_seen": "2026-10-28T01:41:27Z"
   },
   {
    "tier": "B",
@@ -26572,6 +26560,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571/application?embed=true",
    "first_seen": "2026-10-28T07:24:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "OneEthos",
+   "title": "Research and Development Intern",
+   "location": "Remote / United States",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1nh",
+   "first_seen": "2026-11-09T02:48:45Z"
   },
   {
    "tier": "B",
