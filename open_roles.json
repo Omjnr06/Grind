@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T22:00:26Z",
+ "generated_at": "2026-11-10T22:15:18Z",
  "counts": {
-  "target": 580,
+  "target": 581,
   "relevant": 2496
  },
  "roles": [
@@ -1228,6 +1228,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17M",
    "first_seen": "2026-11-01T13:46:06Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "ByteDance",
+   "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1s7",
+   "first_seen": "2026-11-10T22:15:18Z"
   },
   {
    "tier": "A",
