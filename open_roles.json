@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T03:30:10Z",
+ "generated_at": "2026-11-10T11:44:35Z",
  "counts": {
   "target": 580,
-  "relevant": 2501
+  "relevant": 2488
  },
  "roles": [
   {
@@ -33,12 +33,12 @@
    "tier": "A",
    "track": "swe",
    "company": "Amazon",
-   "title": "Software Engineer Intern",
+   "title": "Software Development Engineer Intern - Summer 2027",
    "location": "Boston, MA / Seattle, WA / Austin, TX / Arlington County, Arlington, VA / Denver, CO",
-   "season": "Summer 2027, Winter 2027, Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
    "first_seen": "2026-11-10T03:30:10Z"
   },
   {
@@ -652,18 +652,6 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
    "first_seen": "2026-10-02T20:59:14Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
-   "title": "Software Development Engineer Apprentice",
-   "location": "Swansea, UK",
-   "season": "Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract",
-   "first_seen": "2026-11-06T17:01:11Z"
   },
   {
    "tier": "A",
@@ -2877,6 +2865,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Meta",
+   "title": "Research Scientist Intern - AI Core Machine Learning",
+   "location": "Menlo Park, CA / Sunnyvale, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/2432079507324778",
+   "first_seen": "2026-11-10T11:44:35Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
    "title": "Research Scientist Intern - FAIR - World Model Foundations",
    "location": "Montreal, QC, Canada",
    "season": "",
@@ -4665,6 +4665,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
+   "title": "Mobile Application Developer Intern",
+   "location": "Palo Alto, CA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/289480",
+   "first_seen": "2026-11-10T11:44:35Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Data Analyst Intern - People Products",
    "location": "Palo Alto, CA / Austin, TX",
    "season": "Spring 2027",
@@ -4875,18 +4887,6 @@
    "sponsorship": "Offers Sponsorship",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/6l",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern, Social Foundation",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/6d",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
@@ -5236,18 +5236,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17O",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "AI Engineer Intern, TikTok-Client Arch",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/17P",
-   "first_seen": "2026-11-01T13:46:06Z"
   },
   {
    "tier": "A",
@@ -6964,6 +6952,18 @@
    "source": "zshah101",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
    "first_seen": "2026-09-03T17:12:09Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Waymo",
+   "title": "Software Engineer Intern, Multiverse",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1qh",
+   "first_seen": "2026-11-10T11:44:35Z"
   },
   {
    "tier": "B",
@@ -14528,18 +14528,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Cummins",
-   "title": "Data Analyst Placement Student",
-   "location": "Sandwich, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437236",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Cvent",
    "title": "Software Engineer Intern",
    "location": "Markham, Canada",
@@ -15124,6 +15112,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Qk",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Domino Data Lab",
+   "title": "Software Engineer Intern, Campus Recruiting",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1q4",
+   "first_seen": "2026-11-10T11:44:35Z"
   },
   {
    "tier": "B",
@@ -15979,18 +15979,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "Electronic Arts",
-   "title": "Product Management Intern",
-   "location": "Austin, TX",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "Electronic Arts",
    "title": "Data and AI Engineer Intern",
@@ -16424,6 +16412,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Epic Games",
+   "title": "AI Programmer Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1pv",
+   "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "EQ Bank",
    "title": "Commercial Lending AI Engineer Intern",
    "location": "San Francisco, CA",
@@ -16635,6 +16635,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://eyglobal.yello.co/jobs/KBPFL_z8cg9IBGsgb2xYYA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Etched",
+   "title": "Chip Simulation Software Intern",
+   "location": "San Jose, CA",
+   "season": "Fall 2026, Spring 2027, Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -18465,54 +18477,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Gilead Sciences",
-   "title": "Intern - Research - Clinical Virology - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526",
-   "first_seen": "2026-09-26T14:27:08Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
-   "title": "Intern - Research - Data Sciences - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524",
-   "first_seen": "2026-09-26T14:27:08Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
-   "title": "Intern -\u00a0Research\u00a0-\u00a0Discovery Sciences and Technologies - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Discovery-Sciences-and-Technologies---AI_R0055527",
-   "first_seen": "2026-09-26T14:27:08Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
-   "title": "Intern - Research - Drug Metabolism - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519",
-   "first_seen": "2026-09-26T00:42:48Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
    "title": "Intern - Research - Inflammation - AI",
    "location": "United States - California - Foster City",
    "season": "Not stated",
@@ -18537,18 +18501,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Gilead Sciences",
-   "title": "Intern -\u00a0Research -\u00a0Pathobiology - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579",
-   "first_seen": "2026-09-25T22:16:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
    "title": "Intern - Research - Protein Therapeutics, Computational Biologics Engineering - AI",
    "location": "United States - California - Foster City",
    "season": "Not stated",
@@ -18556,30 +18508,6 @@
    "source": "zshah101",
    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739",
    "first_seen": "2026-09-29T06:56:02Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
-   "title": "Intern - Research - Protein Therapeutics - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics_R0054512",
-   "first_seen": "2026-09-26T00:42:48Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
-   "title": "Intern -\u00a0Research\u00a0-\u00a0Strategy, Innovation & Portfolio - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502",
-   "first_seen": "2026-09-26T00:42:48Z"
   },
   {
    "tier": "B",
@@ -19219,18 +19147,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "GuidePoint Security",
-   "title": "AI & Data Science Intern - GPSU",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "Happyrobot",
    "title": "Product Operations Engineer Intern",
@@ -19300,18 +19216,6 @@
    "source": "simplify",
    "url": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship",
    "first_seen": "2026-10-16T16:49:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Hearst",
-   "title": "Rebele Editorial AI Development Intern",
-   "location": "San Francisco, CA, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/hearst/jobs/4473043009",
-   "first_seen": "2026-11-03T21:15:13Z"
   },
   {
    "tier": "B",
@@ -19905,11 +19809,11 @@
    "tier": "B",
    "track": "swe",
    "company": "Hootsuite",
-   "title": "Software Developer Co-op Intern",
-   "location": "Toronto, ON, Canada / Vancouver, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
+   "title": "Co-op/Intern - Software Development - Winter 2027",
+   "location": "Toronto, Canada +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
    "first_seen": "2026-11-07T01:52:47Z"
   },
@@ -20253,18 +20157,6 @@
    "tier": "B",
    "track": "swe",
    "company": "ID.me",
-   "title": "Summer Intern 2027 - Software Development Engineer Intern",
-   "location": "Mountain View, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
-   "first_seen": "2026-09-04T19:01:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ID.me",
    "title": "Summer Intern 2027 - Analytics Engineer Intern",
    "location": "Mountain View, CA",
    "season": "Summer 2027",
@@ -20320,6 +20212,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1pl",
    "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Illumio",
+   "title": "Engineering Intern, SRE",
+   "location": "Sunnyvale, California - HQ",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/illumio/2bcba5c3-c6e7-407c-92b2-73027594789e",
+   "first_seen": "2026-11-10T11:44:35Z"
   },
   {
    "tier": "B",
@@ -22520,6 +22424,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Klaviyo",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Palo Alto, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/1fa911e4-18cd-4572-85ce-19f8fb24e5df/application?embed=true",
+   "first_seen": "2026-11-10T11:44:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Kodiak Robotics",
    "title": "Planning Intern, Mission Planning",
    "location": "Mountain View, CA",
@@ -23092,18 +23008,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Y5",
    "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "LinkedIn",
-   "title": "Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)",
-   "location": "Mountain View, CA, United States (Hybrid)",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
-   "first_seen": "2026-10-21T01:36:25Z"
   },
   {
    "tier": "B",
@@ -23721,54 +23625,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Manulife Financial",
-   "title": "Data Engineering Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Manulife Financial",
-   "title": "Software Engineer Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Manulife Financial",
-   "title": "Software Engineering Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Manulife Financial",
-   "title": "AI Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Manulife Financial",
    "title": "AI Intern - AI",
    "location": "Toronto, ON, Canada",
    "season": "Spring 2027",
@@ -23776,18 +23632,6 @@
    "source": "simplify",
    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Manulife Financial",
-   "title": "Data Engineering Co-op",
-   "location": "Waterloo, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -25088,6 +24932,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Morgan Stanley",
+   "title": "Software Engineer Co-op, Parametric",
+   "location": "New York, NY / Alpharetta, GA",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1q1",
+   "first_seen": "2026-11-10T11:44:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Morph Labs",
    "title": "Research Intern",
    "location": "NYC",
@@ -25108,6 +24964,18 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003",
    "first_seen": "2026-08-25T13:26:55Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Moss",
+   "title": "Intern - Multiple Teams",
+   "location": "SF",
+   "season": "Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/mossrobotics/d16d9e47-fc07-4e49-95dc-6a997421114c/application?embed=true",
+   "first_seen": "2026-11-10T11:44:35Z"
   },
   {
    "tier": "B",
@@ -25892,18 +25760,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "NJM Insurance Group",
-   "title": "IT Data Science Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1da",
-   "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Nokia",
    "title": "Wi-Fi Research Co-op",
    "location": "Sunnyvale, CA",
@@ -26128,18 +25984,6 @@
    "source": "simplify",
    "url": "https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
@@ -28004,6 +27848,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Pivotal Software",
+   "title": "Internship, Software Engineering (Summer 2027)",
+   "location": "Palo Alto, CA",
+   "season": "Summer 2027",
+   "sponsorship": "citizens-only",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
+   "first_seen": "2026-11-10T11:44:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Plexus",
    "title": "Intern - Embedded Software Engineering",
    "location": "Livingston, United Kingdom",
@@ -29356,18 +29212,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1dq",
    "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Regeneron Pharmaceuticals",
-   "title": "Data Science & Digital Innovation Intern, Industrial Operations and Product Supply",
-   "location": "Rensselaer, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Yq",
-   "first_seen": "2026-10-28T23:30:45Z"
   },
   {
    "tier": "B",
@@ -33033,6 +32877,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Tenstorrent",
+   "title": "Hardware Intern, Architecture, AI HW & SoC",
+   "location": "Austin, TX / Boston, MA / Fort Collins, CO / Santa Clara, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1qf",
+   "first_seen": "2026-11-10T11:44:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tenstorrent",
    "title": "AI Software Intern, Cloud, Infrastructure & Data Centre Deployment",
    "location": "Austin, TX / Santa Clara, CA",
    "season": "Summer",
@@ -33609,18 +33465,6 @@
    "tier": "B",
    "track": "swe",
    "company": "The New York Times",
-   "title": "Backend Engineering Intern, Wirecutter",
-   "location": "New York, NY",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005",
-   "first_seen": "2026-10-30T22:43:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
    "title": "Advertising Business Data Analyst Intern",
    "location": "New York, NY",
    "season": "Not stated",
@@ -33628,6 +33472,30 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005",
    "first_seen": "2026-11-03T21:15:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "The New York Times",
+   "title": "ML Scientist Intern",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
+   "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "The New York Times",
+   "title": "Data Analyst Intern",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005",
+   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
@@ -33664,30 +33532,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005",
    "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "Data Analyst Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005",
-   "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "Machine Learning Scientist Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
-   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
@@ -36813,7 +36657,7 @@
    "tier": "B",
    "track": "swe",
    "company": "Zoox",
-   "title": "AI Workflows & Safety Decision Making Intern [2027]",
+   "title": "AI Workflows Intern [2027]",
    "location": "Foster City, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
