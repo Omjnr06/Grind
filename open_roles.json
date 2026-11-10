@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T22:30:21Z",
+ "generated_at": "2026-11-10T22:45:19Z",
  "counts": {
   "target": 581,
-  "relevant": 2496
+  "relevant": 2492
  },
  "roles": [
   {
@@ -8074,18 +8074,6 @@
    "track": "swe",
    "company": "AMD",
    "title": "Software Engineer Intern",
-   "location": "Austin, TX / Boxborough, MA / Fort Collins, CO / Longmont, CO / Fishkill, NY / Rochester, NY",
-   "season": "Spring/Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/7l",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Software Engineer Intern",
    "location": "Austin, TX / Boxborough, MA / Rochester, NY / Fort Collins, CO / Longmont, CO / Fishkill, NY",
    "season": "Spring/Summer",
    "sponsorship": "Does Not Offer Sponsorship",
@@ -8205,18 +8193,6 @@
    "tier": "B",
    "track": "swe",
    "company": "AMD",
-   "title": "Machine Learning Co-op",
-   "location": "Rochester, NY / Austin, TX / Longmont, CO / Fishkill, NY / Fort Collins, CO / Boxborough, MA",
-   "season": "Spring",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Oi",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
    "title": "Machine Learning Intern/Co-op - Multiple Teams",
    "location": "Rochester, NY / Austin, TX / Longmont, CO / Fishkill, NY / Fort Collins, CO / Boxborough, MA",
    "season": "Spring 2027, Summer 2027, Fall 2027",
@@ -8241,36 +8217,12 @@
    "tier": "B",
    "track": "swe",
    "company": "AMD",
-   "title": "Machine Learning Intern/Co-op - Artificial Intelligence",
-   "location": "Rochester, NY / Austin, TX / Longmont, CO / Fishkill, NY / Fort Collins, CO / Boxborough, MA",
-   "season": "Winter 2027, Summer 2027, Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.amd.com/jobs/91181?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
    "title": "Firmware Engineering Co-op",
    "location": "San Jose, CA / Santa Clara, CA",
    "season": "Winter",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Ok",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Machine Learning Co-op, Artificial Intelligence",
-   "location": "San Jose, CA / Santa Clara, CA",
-   "season": "Spring",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Ol",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -8313,18 +8265,6 @@
    "tier": "B",
    "track": "swe",
    "company": "AMD",
-   "title": "Generative AI and Reinforcement Learning Research Intern",
-   "location": "Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.amd.com/jobs/90910?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
    "title": "Software Engineer Intern, Co-op",
    "location": "Santa Clara, CA / San Jose, CA",
    "season": "Spring/Summer",
@@ -8332,30 +8272,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/7k",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Software Engineer Intern",
-   "location": "Santa Clara, CA / San Jose, CA",
-   "season": "Spring/Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/7m",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Firmware Engineer Co-op",
-   "location": "Secaucus, NJ / Rochester, NY / Austin, TX / Longmont, CO / Fishkill, NY / Fort Collins, CO",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Oj",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -31545,6 +31461,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Skydio",
+   "title": "Middleware Software Engineer Intern",
+   "location": "San Mateo, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1s9",
+   "first_seen": "2026-11-10T22:45:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Skydio",
    "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
    "location": "San Mateo, CA",
    "season": "Summer 2027",
@@ -36100,6 +36028,30 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/8o",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Western Digital",
+   "title": "Software Engineering Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1s8",
+   "first_seen": "2026-11-10T22:45:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Western Digital",
+   "title": "Hardware Engineering Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1sa",
+   "first_seen": "2026-11-10T22:45:19Z"
   },
   {
    "tier": "B",
