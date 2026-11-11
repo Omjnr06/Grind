@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T17:30:24Z",
+ "generated_at": "2026-11-11T17:45:17Z",
  "counts": {
   "target": 588,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -10708,18 +10708,6 @@
    "source": "simplify",
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731",
    "first_seen": "2026-10-31T01:49:57Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Baringa",
-   "title": "Solutions AI Lab Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101",
-   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
@@ -26339,10 +26327,10 @@
    "company": "Nuovo Photography",
    "title": "Software Developer Intern",
    "location": "Montreal, QC, Canada",
-   "season": "Winter 2027",
+   "season": "Winter",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
   },
   {
