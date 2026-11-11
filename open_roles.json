@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T06:15:17Z",
+ "generated_at": "2026-11-11T06:30:21Z",
  "counts": {
   "target": 588,
-  "relevant": 2544
+  "relevant": 2545
  },
  "roles": [
   {
@@ -25360,6 +25360,18 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003",
    "first_seen": "2026-08-25T13:26:55Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Moss",
+   "title": "Intern, ML / Perception / Robotics",
+   "location": "San Francisco, CA",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ut",
+   "first_seen": "2026-11-11T06:30:21Z"
   },
   {
    "tier": "B",
