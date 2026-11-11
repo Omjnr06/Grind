@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T21:00:28Z",
+ "generated_at": "2026-11-11T21:15:21Z",
  "counts": {
   "target": 592,
-  "relevant": 2568
+  "relevant": 2569
  },
  "roles": [
   {
@@ -7708,6 +7708,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009",
    "first_seen": "2026-10-16T16:49:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "AIM Defence",
+   "title": "Computer Vision Engineering Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1va",
+   "first_seen": "2026-11-11T21:15:21Z"
   },
   {
    "tier": "B",
