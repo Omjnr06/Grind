@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T11:15:16Z",
+ "generated_at": "2026-11-11T11:28:00Z",
  "counts": {
   "target": 587,
-  "relevant": 2542
+  "relevant": 2543
  },
  "roles": [
   {
@@ -13684,6 +13684,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/5w",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Cisco",
+   "title": "Software Engineer Intern, Embedded Systems I",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1uy",
+   "first_seen": "2026-11-11T11:28:00Z"
   },
   {
    "tier": "B",
