@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T11:00:23Z",
+ "generated_at": "2026-11-11T11:15:16Z",
  "counts": {
   "target": 587,
-  "relevant": 2543
+  "relevant": 2542
  },
  "roles": [
   {
@@ -6503,7 +6503,7 @@
    "company": "TikTok",
    "title": "Research Engineer Intern",
    "location": "San Jose, CA",
-   "season": "",
+   "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7704981006856145205",
@@ -13359,18 +13359,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "CIBC",
-   "title": "Product Analyst Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -30058,7 +30046,7 @@
    "track": "swe",
    "company": "Rippling",
    "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "Seattle, WA / SF / NYC",
+   "location": "Seattle, WA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
