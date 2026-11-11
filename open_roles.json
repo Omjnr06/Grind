@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T14:30:22Z",
+ "generated_at": "2026-11-11T14:45:18Z",
  "counts": {
   "target": 587,
-  "relevant": 2551
+  "relevant": 2544
  },
  "roles": [
   {
@@ -8301,72 +8301,12 @@
    "tier": "B",
    "track": "swe",
    "company": "AMD",
-   "title": "Machine Learning/Artificial Intelligence Co-op",
-   "location": "Markham, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/LF",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Diagnostics Design Engineer Co-op",
-   "location": "Markham, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/LJ",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Hardware Design Engineer Co-op",
-   "location": "Markham, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/LM",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Software Test Engineering Co-op",
-   "location": "Markham, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/N0",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
    "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
    "location": "Markham, ON, Canada",
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://careers.amd.com/jobs/90383?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Graphics Software Engineer Intern/Co-op",
-   "location": "Markham, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.amd.com/jobs/90305?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -8403,30 +8343,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://careers.amd.com/jobs/91367?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Hardware Design Engineer Co-op",
-   "location": "Vancouver, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/LI",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Firmware Engineer Co-op",
-   "location": "Vancouver, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/LL",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
