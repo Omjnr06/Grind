@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T17:00:25Z",
+ "generated_at": "2026-11-11T17:15:17Z",
  "counts": {
   "target": 588,
-  "relevant": 2536
+  "relevant": 2537
  },
  "roles": [
   {
@@ -14920,6 +14920,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Xd",
    "first_seen": "2026-10-28T14:12:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Daimler Truck",
+   "title": "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1uo",
+   "first_seen": "2026-11-11T06:30:21Z"
   },
   {
    "tier": "B",
