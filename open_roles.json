@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T02:30:20Z",
+ "generated_at": "2026-11-11T02:45:16Z",
  "counts": {
-  "target": 586,
-  "relevant": 2542
+  "target": 587,
+  "relevant": 2545
  },
  "roles": [
   {
@@ -3928,6 +3928,18 @@
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/287443",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Developer Intern - IT Apps",
+   "location": "Fremont, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/289683",
+   "first_seen": "2026-11-11T02:45:16Z"
   },
   {
    "tier": "A",
@@ -10891,6 +10903,66 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Bask Health",
+   "title": "Product Management Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/bask-health-1/j/AAE5145A49/apply",
+   "first_seen": "2026-11-11T02:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Bask Health",
+   "title": "Patient Experience Product Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/bask-health-1/j/90535FE8AA/apply",
+   "first_seen": "2026-11-11T02:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Bask Health",
+   "title": "Product Operations Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/bask-health-1/j/69C7B282BF/apply",
+   "first_seen": "2026-11-11T02:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Bask Health",
+   "title": "Merchant Experience Product Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/bask-health-1/j/62A0C615A5/apply",
+   "first_seen": "2026-11-11T02:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Bask Health",
+   "title": "AI Product Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/bask-health-1/j/9D7E69054E/apply",
+   "first_seen": "2026-11-11T02:45:16Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Bedrock Robotics",
    "title": "2027 Internship Software Engineer, Fleet Platform",
@@ -15760,18 +15832,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DRW",
-   "title": "AI/ML Research Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/drwfr/jobs/7991172",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -29896,18 +29956,6 @@
    "source": "earlycareers_eu",
    "url": "https://www.linkedin.com/jobs/view/4465543861",
    "first_seen": "2026-10-19T13:03:50Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Resideo",
-   "title": "Mobile Software Engineer Intern",
-   "location": "Austin, TX",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
