@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T18:00:26Z",
+ "generated_at": "2026-11-11T18:15:17Z",
  "counts": {
   "target": 588,
-  "relevant": 2536
+  "relevant": 2532
  },
  "roles": [
   {
@@ -8289,18 +8289,6 @@
    "tier": "B",
    "track": "swe",
    "company": "AMD",
-   "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-   "location": "Markham, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.amd.com/jobs/90383?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
    "title": "Firmware Engineering Co-op",
    "location": "San Jose, CA / Santa Clara, CA",
    "season": "Winter",
@@ -15153,18 +15141,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Dimensional Fund Advisors",
-   "title": "Software Engineer Intern",
-   "location": "Austin, TX",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Dimensional Fund Advisors",
    "title": "Global Client Group Intern - Data and Tools - Undergraduate and Master's",
    "location": "Austin, TX",
    "season": "Summer 2027",
@@ -18856,18 +18832,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/hm",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GlobalFoundries",
-   "title": "Software Engineer Intern",
-   "location": "Austin, TX / Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -24434,7 +24398,7 @@
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors",
+   "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449058700/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -29764,18 +29728,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1dq",
    "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Regeneron Pharmaceuticals",
-   "title": "Genomics, Computational Biology & Translational Data Science Intern",
-   "location": "Tarrytown, NY / Sleepy Hollow, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Zj",
-   "first_seen": "2026-10-29T21:04:34Z"
   },
   {
    "tier": "B",
