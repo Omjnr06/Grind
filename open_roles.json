@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T08:00:24Z",
+ "generated_at": "2026-11-11T08:15:17Z",
  "counts": {
   "target": 588,
-  "relevant": 2558
+  "relevant": 2546
  },
  "roles": [
   {
@@ -16485,6 +16485,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Elire",
+   "title": "AI Software Developer Intern - Multiple Teams",
+   "location": "Remote in USA / Minneapolis, MN",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Elire",
    "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
    "location": "Remote in USA / Minneapolis, MN",
    "season": "Summer 2027",
@@ -19120,174 +19132,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1im",
    "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175424?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175423?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175427?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175421?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175426?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Investment Banking",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175428?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Engineering",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/170644?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171566?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171535?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171563?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171552?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171550?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171533?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171547?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -30208,6 +30052,18 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
    "first_seen": "2026-09-16T18:36:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Riot Games",
+   "title": "Data Engineer Intern",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716",
+   "first_seen": "2026-11-11T08:15:17Z"
   },
   {
    "tier": "B",
