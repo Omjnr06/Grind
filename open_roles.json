@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T14:15:19Z",
+ "generated_at": "2026-11-11T14:30:22Z",
  "counts": {
   "target": 587,
-  "relevant": 2554
+  "relevant": 2551
  },
  "roles": [
   {
@@ -8313,18 +8313,6 @@
    "tier": "B",
    "track": "swe",
    "company": "AMD",
-   "title": "Graphics Software Engineer Co-op",
-   "location": "Markham, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/LH",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
    "title": "Diagnostics Design Engineer Co-op",
    "location": "Markham, Canada",
    "season": "Summer",
@@ -8427,18 +8415,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/LI",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Software Engineer Co-op",
-   "location": "Vancouver, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/LK",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -22408,18 +22384,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Rg",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Keysight Technologies",
-   "title": "Software Engineer Intern",
-   "location": "Des Moines, IA / New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ei",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
