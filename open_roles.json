@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T18:30:21Z",
+ "generated_at": "2026-11-11T18:45:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2532
+  "relevant": 2530
  },
  "roles": [
   {
@@ -24394,18 +24394,6 @@
    "track": "swe",
    "company": "McDonald's",
    "title": "Software Development Engineer Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449058700/?ats=successfactors",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "McDonald's",
-   "title": "Software Development Engineer Intern",
    "location": "San Jose, CA",
    "season": "Summer",
    "sponsorship": "Other",
@@ -36496,18 +36484,6 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
    "first_seen": "2026-10-21T23:47:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Walrus",
-   "title": "Full Stack Developer Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true",
-   "first_seen": "2026-10-22T07:49:31Z"
   },
   {
    "tier": "B",
