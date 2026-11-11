@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T01:30:20Z",
+ "generated_at": "2026-11-11T01:45:18Z",
  "counts": {
   "target": 586,
-  "relevant": 2546
+  "relevant": 2543
  },
  "roles": [
   {
@@ -8397,30 +8397,6 @@
    "tier": "B",
    "track": "swe",
    "company": "AMD",
-   "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
-   "location": "San Jose, CA / Santa Clara, CA",
-   "season": "Spring 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.amd.com/jobs/90892?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "AI Research Infrastructure \u2013 Reinforcement Learning Post-Training Intern",
-   "location": "Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.amd.com/jobs/90950?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
    "title": "Software Engineer Intern, Co-op",
    "location": "Santa Clara, CA / San Jose, CA",
    "season": "Spring/Summer",
@@ -12735,18 +12711,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1js",
-   "first_seen": "2026-11-06T02:41:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CareSource",
-   "title": "Data Analyst Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356",
    "first_seen": "2026-11-06T02:41:14Z"
   },
   {
