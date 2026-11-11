@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:15:17Z",
+ "generated_at": "2026-11-11T02:30:20Z",
  "counts": {
   "target": 586,
   "relevant": 2542
@@ -8037,12 +8037,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Altice USA",
-   "title": "Developer Intern, Financial & People Systems",
+   "title": "Software Development Intern",
    "location": "Bethpage, NY",
    "season": "Winter",
    "sponsorship": "Other",
    "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1sl",
+   "url": "https://go.vansh.nyc/1so",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altice USA",
+   "title": "Developer Intern - Financial & People Systems",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Developer,-Financial-&-People-Systems-NY-11714/1449511200/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -8051,34 +8063,10 @@
    "company": "Altice USA",
    "title": "Product Analytics Intern",
    "location": "Bethpage, NY",
-   "season": "Winter",
+   "season": "Winter 2027",
    "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1sm",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Operations Data Analyst Intern",
-   "location": "Bethpage, NY",
-   "season": "Spring",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1sn",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Software Development Intern",
-   "location": "Bethpage, NY",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1so",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Analytics-NY-11714/1449510900/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -8115,6 +8103,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altice USA",
+   "title": "Operations Data Analyst Intern",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Operations-Data-Analyst-NY-11714/1449510400/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
