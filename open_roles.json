@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T16:30:26Z",
+ "generated_at": "2026-11-11T16:45:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2538
+  "relevant": 2536
  },
  "roles": [
   {
@@ -24111,30 +24111,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Marvell",
-   "title": "Physical Design Engineer Intern",
-   "location": "Morrisville, NC / Austin, TX / Rochester, MN / Santa Clara, CA / Boise, ID / Burlington, VT / Westborough, MA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Mf",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Marvell",
-   "title": "Design Verification Intern",
-   "location": "Morrisville, NC / Austin, TX / Santa Clara, CA / Boise, ID / Westborough, MA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Me",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
