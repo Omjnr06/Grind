@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T15:00:22Z",
+ "generated_at": "2026-11-11T15:15:20Z",
  "counts": {
   "target": 587,
-  "relevant": 2544
+  "relevant": 2541
  },
  "roles": [
   {
@@ -8332,18 +8332,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/7k",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AMD",
-   "title": "Software Engineer Intern/Co-op",
-   "location": "Vancouver, BC, Canada",
-   "season": "Winter 2027, Summer 2027, Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.amd.com/jobs/91367?icims=1",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -23936,18 +23924,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "ManTech",
-   "title": "AI Workflow Intern",
-   "location": "Remote in USA / Stafford, VA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/e0",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Manulife Financial",
    "title": "AI Intern - AI",
    "location": "Toronto, ON, Canada",
@@ -29812,18 +29788,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1dq",
    "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Regeneron Pharmaceuticals",
-   "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
-   "location": "Tarrytown, NY",
-   "season": "Spring 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
