@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T01:00:25Z",
+ "generated_at": "2026-11-11T01:15:18Z",
  "counts": {
   "target": 586,
-  "relevant": 2544
+  "relevant": 2546
  },
  "roles": [
   {
@@ -23936,6 +23936,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Magnet Forensics",
+   "title": "Information Security Analyst Co-op",
+   "location": "San Jose, CA / Austin, TX / Research Triangle Park, NC",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1se",
+   "first_seen": "2026-11-10T23:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Major League Baseball",
    "title": "Intern, Data Science",
    "location": "Citi Field \u2013 Queens, New York",
@@ -24465,24 +24477,36 @@
    "tier": "B",
    "track": "swe",
    "company": "McDonald's",
-   "title": "Software Development Engineer Intern",
-   "location": "Chicago, IL",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1si",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "McDonald's",
    "title": "Software Engineer Intern",
    "location": "Chicago, IL",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1sj",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "McDonald's",
+   "title": "Software Development Engineer Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "McDonald's",
+   "title": "Software Development Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1si",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
