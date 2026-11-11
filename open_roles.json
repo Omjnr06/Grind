@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T05:45:18Z",
+ "generated_at": "2026-11-11T06:00:24Z",
  "counts": {
   "target": 588,
-  "relevant": 2530
+  "relevant": 2546
  },
  "roles": [
   {
@@ -7233,6 +7233,30 @@
    "tier": "B",
    "track": "swe",
    "company": "AbbVie",
+   "title": "Business Technology Solutions Intern - Cloud Engineering",
+   "location": "North Chicago, IL",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tv",
+   "first_seen": "2026-11-11T06:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "AbbVie",
+   "title": "Business Technology Solutions Intern - Data & Software Engineering",
+   "location": "North Chicago, IL",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tw",
+   "first_seen": "2026-11-11T06:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "AbbVie",
    "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
    "location": "North Chicago, IL, United States (Hybrid)",
    "season": "Summer 2027",
@@ -9117,6 +9141,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Apple",
+   "title": "Hardware Technologies Engineering Intern",
+   "location": "Fountain Inn, SC",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tk",
+   "first_seen": "2026-11-11T06:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
    "title": "Hardware Undergrad Engineering Internship",
    "location": "hardware intern (undergrad)",
    "season": "",
@@ -9244,6 +9280,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/33",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Hardware Engineering Intern",
+   "location": "United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tl",
+   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
@@ -12628,6 +12676,30 @@
    "source": "speedyapply_intl",
    "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995787101",
    "first_seen": "2026-10-02T20:59:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Capital de Recherche Tower",
+   "title": "Software Developer Intern",
+   "location": "Montreal, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1t0",
+   "first_seen": "2026-11-11T06:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Capital de Recherche Tower",
+   "title": "Machine Learning Intern",
+   "location": "Montreal, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1te",
+   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
@@ -16396,6 +16468,18 @@
    "source": "simplify",
    "url": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989",
    "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Elire",
+   "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+   "location": "Remote / United States / Minneapolis, MN",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1sV",
+   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
@@ -20888,6 +20972,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "International",
+   "title": "Artificial Intelligence/Machine Learning Intern",
+   "location": "Syracuse, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1sz",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Intropic",
    "title": "Quantrepreneur - Quantitative Development",
    "location": "London, UK",
@@ -23276,6 +23372,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "LLNL",
+   "title": "Computing Undergraduate Intern - DevOps",
+   "location": "Kanata, Canada / Saint-Laurent, Canada / Calgary, Canada / Toronto, Canada / Montreal, Canada / Vancouver, Canada / Halifax, Canada / Ottawa, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ts",
+   "first_seen": "2026-11-11T06:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LLNL",
+   "title": "Data Science Institute Undergraduate Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tp",
+   "first_seen": "2026-11-11T06:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Lloyds Bank",
    "title": "Applied Data and AI Apprentice",
    "location": "Birmingham, UK",
@@ -23740,6 +23860,18 @@
    "source": "zshah101",
    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812",
    "first_seen": "2026-10-22T21:30:42Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "M3 USA",
+   "title": "AI Engineering Intern (Remote)",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tm",
+   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
@@ -28604,6 +28736,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "ProCogia",
+   "title": "LLM Research Intern",
+   "location": "Vancouver, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tb",
+   "first_seen": "2026-11-11T06:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Procter & Gamble",
    "title": "IT Technical Specialist Intern",
    "location": "Newcastle upon Tyne, UK",
@@ -29632,6 +29776,18 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/RedBull/744000160572014",
    "first_seen": "2026-11-09T10:36:56Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Red Wing Shoe Company",
+   "title": "Data and Analytics Intern",
+   "location": "Palo Alto, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tf",
+   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
@@ -30952,6 +31108,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1oi",
    "first_seen": "2026-11-09T21:03:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "SageSure",
+   "title": "Data Operations Engineer Intern",
+   "location": "Jersey City, NJ / Cheshire, CT",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1tc",
+   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
@@ -32543,10 +32711,10 @@
    "company": "Stand Together",
    "title": "Analytics Intern",
    "location": "Chicago, IL",
-   "season": "Spring 2027",
+   "season": "Spring",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1t9",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -36561,6 +36729,18 @@
    "tier": "B",
    "track": "swe",
    "company": "West Monroe",
+   "title": "Software Engineering Consultant Intern - AI Concentration",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ta",
+   "first_seen": "2026-11-11T06:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "West Monroe",
    "title": "Data & Analytics Consulting Intern",
    "location": "Seattle, WA",
    "season": "",
@@ -36724,6 +36904,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
    "first_seen": "2026-10-16T16:49:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "William Blair",
+   "title": "Agentic AI Development Intern",
+   "location": "Chicago, IL",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1t8",
+   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
