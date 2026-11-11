@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T10:30:20Z",
+ "generated_at": "2026-11-11T10:45:16Z",
  "counts": {
-  "target": 588,
-  "relevant": 2545
+  "target": 587,
+  "relevant": 2543
  },
  "roles": [
   {
@@ -4587,18 +4587,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/283447",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Computer Vision Engineer Intern - Cell Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/283290",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -10155,18 +10143,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Astera Labs",
-   "title": "Data Analyst New Grad",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -16408,18 +16384,6 @@
    "source": "simplify",
    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Electronic Arts",
-   "title": "Analytics Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
-   "first_seen": "2026-10-19T01:11:35Z"
   },
   {
    "tier": "B",
