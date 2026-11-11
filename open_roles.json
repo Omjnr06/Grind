@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T19:00:25Z",
+ "generated_at": "2026-11-11T19:15:17Z",
  "counts": {
   "target": 588,
-  "relevant": 2531
+  "relevant": 2532
  },
  "roles": [
   {
@@ -28,18 +28,6 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
    "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
-   "title": "Software Development Engineer Intern - Summer 2027",
-   "location": "Boston, MA / Seattle, WA / Austin, TX / Arlington County, Arlington, VA / Denver, CO",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
-   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "A",
@@ -664,6 +652,18 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
    "first_seen": "2026-10-02T20:59:14Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern - Summer 2027",
+   "location": "Seattle, Washington, USA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "A",
@@ -24381,18 +24381,6 @@
    "tier": "B",
    "track": "swe",
    "company": "McDonald's",
-   "title": "Software Engineer Intern",
-   "location": "Chicago, IL",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1sj",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "McDonald's",
    "title": "Software Development Engineer Intern",
    "location": "San Jose, CA",
    "season": "Summer",
@@ -25588,6 +25576,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1uq",
    "first_seen": "2026-11-11T06:30:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Navy Federal",
+   "title": "Associate Data Scientist Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ux",
+   "first_seen": "2026-11-11T08:30:21Z"
   },
   {
    "tier": "B",
@@ -36544,6 +36544,18 @@
    "source": "simplify",
    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607",
    "first_seen": "2026-11-05T08:43:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Welltower",
+   "title": "Cyber Security Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1uw",
+   "first_seen": "2026-11-11T06:30:21Z"
   },
   {
    "tier": "B",
