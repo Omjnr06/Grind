@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T00:00:25Z",
+ "generated_at": "2026-11-11T00:15:19Z",
  "counts": {
   "target": 585,
-  "relevant": 2531
+  "relevant": 2541
  },
  "roles": [
   {
@@ -10706,7 +10706,7 @@
    "season": "Spring 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382",
+   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -12980,6 +12980,42 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "CenturyLink",
+   "title": "Data Internship - Analytics & Decision Science",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
+   "first_seen": "2026-10-19T01:11:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "CenturyLink",
+   "title": "AI Product & Business Innovation Intern",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CenturyLink",
+   "title": "AI & Automation Builders Internship",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Certa",
    "title": "Frontend Engineer Intern",
    "location": "London, UK / Remote in India / SF / Jaipur, Rajasthan, India",
@@ -14440,6 +14476,18 @@
    "source": "simplify",
    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678",
    "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Constellation Brands",
+   "title": "Digital Manufacturing Technology Intern",
+   "location": "Rochester, NY / San Antonio, TX",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681",
+   "first_seen": "2026-11-11T00:15:19Z"
   },
   {
    "tier": "B",
@@ -16040,6 +16088,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "DwyerOmega",
+   "title": "Applied AI Intern",
+   "location": "Remote in USA",
+   "season": "Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Eclipse Automation",
    "title": "Controls Software Design Co-op",
    "location": "Cambridge, Canada",
@@ -16300,6 +16360,18 @@
    "source": "simplify",
    "url": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989",
    "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Elire",
+   "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+   "location": "Remote in USA / Minneapolis, MN",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-11T00:15:19Z"
   },
   {
    "tier": "B",
@@ -20073,11 +20145,11 @@
    "tier": "B",
    "track": "swe",
    "company": "Hootsuite",
-   "title": "Co-op/Intern - Software Development - Winter 2027",
-   "location": "Toronto, Canada +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
+   "title": "Software Developer Co-op Intern",
+   "location": "Toronto, ON, Canada / Vancouver, BC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
    "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
    "first_seen": "2026-11-07T01:52:47Z"
   },
@@ -22744,6 +22816,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002",
    "first_seen": "2026-10-25T06:24:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Kyndryl",
+   "title": "Marketing Intern - Marketing Analysis",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -29551,6 +29635,30 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Rambus",
+   "title": "Product Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rambus",
+   "title": "Forward Deployed Engineer Intern - AI & Enterprise Systems",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers-rambus.icims.com/jobs/23109/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Range",
    "title": "Software Engineering Intern",
@@ -32188,6 +32296,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1u",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Snowflake",
+   "title": "Product Management Intern",
+   "location": "Menlo Park, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true",
+   "first_seen": "2026-10-30T22:43:21Z"
   },
   {
    "tier": "B",
