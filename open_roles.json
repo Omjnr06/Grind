@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T22:00:22Z",
+ "generated_at": "2026-11-11T22:15:19Z",
  "counts": {
   "target": 592,
-  "relevant": 2569
+  "relevant": 2568
  },
  "roles": [
   {
@@ -11524,6 +11524,18 @@
    "source": "simplify",
    "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bloom Energy",
+   "title": "Data Science Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1vm",
+   "first_seen": "2026-11-11T22:15:19Z"
   },
   {
    "tier": "B",
@@ -29697,18 +29709,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Qualcomm",
-   "title": "Design Automation & Quality Assurance Engineer Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721349404",
-   "first_seen": "2026-10-29T09:05:59Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Qualcomm",
    "title": "AI Software Engineering Co-op Intern",
    "location": "Toronto, ON, Canada",
    "season": "Summer 2027",
@@ -29823,18 +29823,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Quantbot Technologies",
-   "title": "Quantitative Researcher Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
