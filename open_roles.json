@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T20:01:46Z",
+ "generated_at": "2026-11-11T20:15:18Z",
  "counts": {
   "target": 592,
-  "relevant": 2569
+  "relevant": 2568
  },
  "roles": [
   {
@@ -8080,18 +8080,6 @@
    "source": "simplify",
    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
    "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Software Development Intern",
-   "location": "Bethpage, NY",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1so",
-   "first_seen": "2026-11-10T23:45:16Z"
   },
   {
    "tier": "B",
