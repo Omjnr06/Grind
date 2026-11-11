@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T18:45:18Z",
+ "generated_at": "2026-11-11T18:49:19Z",
  "counts": {
   "target": 588,
-  "relevant": 2530
+  "relevant": 2531
  },
  "roles": [
   {
@@ -25576,6 +25576,18 @@
    "source": "simplify",
    "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Manchester/Engineering----Internship_R-00285731",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Navy Federal",
+   "title": "Associate Zero Trust Information Security Analyst Intern",
+   "location": "Reston, VA / Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1uq",
+   "first_seen": "2026-11-11T06:30:21Z"
   },
   {
    "tier": "B",
