@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T13:00:24Z",
+ "generated_at": "2026-11-11T13:15:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2557
+  "relevant": 2555
  },
  "roles": [
   {
@@ -7216,30 +7216,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/gz",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AbbVie",
-   "title": "Cybersecurity Intern, Business Technology Solutions",
-   "location": "North Chicago, IL",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/SW",
-   "first_seen": "2026-10-26T22:57:43Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AbbVie",
-   "title": "Business Technology Solutions Intern - Cloud Engineering",
-   "location": "North Chicago, IL",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1tv",
-   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
