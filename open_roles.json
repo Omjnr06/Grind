@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T00:30:20Z",
+ "generated_at": "2026-11-11T00:45:17Z",
  "counts": {
   "target": 585,
-  "relevant": 2541
+  "relevant": 2542
  },
  "roles": [
   {
@@ -26529,6 +26529,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "Performance Engineering Intern, Platform Performance and Power",
+   "location": "Remote / United States",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1sd",
+   "first_seen": "2026-11-10T23:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "AI Operations Intern, AI Clouds",
    "location": "Remote / United States / Canada",
    "season": "Summer",
@@ -26644,18 +26656,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/12i",
    "first_seen": "2026-10-31T13:53:54Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
-   "title": "Performance Engineering Intern, Platform Performance and Power",
-   "location": "Santa Clara, CA",
-   "season": "Spring",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1sd",
-   "first_seen": "2026-11-10T23:15:18Z"
   },
   {
    "tier": "B",
@@ -29635,6 +29635,18 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "Rambus",
+   "title": "CAD Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1sx",
+   "first_seen": "2026-11-11T00:45:17Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "Rambus",
    "title": "Product Engineer Intern",
@@ -29800,6 +29812,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Zk",
    "first_seen": "2026-10-29T21:04:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "REGENT",
+   "title": "Embedded Software Engineering Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1sb",
+   "first_seen": "2026-11-10T22:45:19Z"
   },
   {
    "tier": "B",
@@ -36675,18 +36699,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1s8",
-   "first_seen": "2026-11-10T22:45:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Western Digital",
-   "title": "Hardware Engineering Intern",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1sa",
    "first_seen": "2026-11-10T22:45:19Z"
   },
   {
