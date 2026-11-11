@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T14:00:25Z",
+ "generated_at": "2026-11-11T14:15:19Z",
  "counts": {
   "target": 587,
-  "relevant": 2553
+  "relevant": 2554
  },
  "roles": [
   {
@@ -17692,6 +17692,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true",
    "first_seen": "2026-11-11T03:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Fortrea",
+   "title": "AIML Rapid Development Studio Intern",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655",
+   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
