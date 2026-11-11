@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T09:30:21Z",
+ "generated_at": "2026-11-11T09:45:16Z",
  "counts": {
   "target": 588,
-  "relevant": 2546
+  "relevant": 2545
  },
  "roles": [
   {
@@ -6515,7 +6515,7 @@
    "company": "TikTok",
    "title": "Research Engineer Intern",
    "location": "San Jose, CA",
-   "season": "Summer 2027",
+   "season": "",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7704981006856145205",
@@ -16335,18 +16335,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Electronic Arts",
-   "title": "UI Scripter Intern",
-   "location": "Guildford, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
