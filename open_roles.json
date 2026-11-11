@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T15:45:17Z",
+ "generated_at": "2026-11-11T16:00:25Z",
  "counts": {
   "target": 588,
-  "relevant": 2528
+  "relevant": 2523
  },
  "roles": [
   {
@@ -7244,30 +7244,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "AbbVie",
-   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
-   "location": "North Chicago, IL, United States (Hybrid)",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860386",
-   "first_seen": "2026-08-26T02:12:57Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AbbVie",
-   "title": "2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)",
-   "location": "North Chicago, IL, United States (Hybrid)",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014896329",
-   "first_seen": "2026-08-28T01:28:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Abundant",
    "title": "Research Intern Fellow",
    "location": "San Francisco, CA",
@@ -8452,18 +8428,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/7u",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "American Express",
-   "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunnyvale, CA",
-   "location": "Sunnyvale, CA, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
-   "first_seen": "2026-11-03T21:15:13Z"
   },
   {
    "tier": "B",
@@ -28460,18 +28424,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Pony.ai",
-   "title": "Research Intern - Deep Learning",
-   "location": "Fremont, California, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
-   "first_seen": "2026-07-22T21:44:39Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Postman",
    "title": "AI Engineer Intern",
    "location": "Berkeley, CA",
@@ -36124,18 +36076,6 @@
    "source": "simplify",
    "url": "https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Viking Global",
-   "title": "Data Science Intern - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
-   "first_seen": "2026-09-21T22:40:14Z"
   },
   {
    "tier": "B",
