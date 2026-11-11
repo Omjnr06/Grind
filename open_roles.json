@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T19:15:17Z",
+ "generated_at": "2026-11-11T19:30:23Z",
  "counts": {
-  "target": 588,
-  "relevant": 2532
+  "target": 591,
+  "relevant": 2556
  },
  "roles": [
   {
@@ -177,24 +177,24 @@
    "tier": "A",
    "track": "swe",
    "company": "Amazon",
-   "title": "2027 Software Dev Engineer Intern - Embedded Systems - UK",
-   "location": "London, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://www.amazon.jobs/jobs/10588998/apply",
-   "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Machine Learning - UK",
    "location": "London, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10588762/apply",
+   "first_seen": "2026-10-27T18:40:07Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "2027 Software Dev Engineer Intern - Embedded Systems - UK",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10588998/apply",
    "first_seen": "2026-10-27T18:40:07Z"
   },
   {
@@ -681,6 +681,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Amazon",
+   "title": "ML Systems Software Development Engineer Intern - Annapurna Labs - 2027",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10538066/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
    "title": "Software Development Engineer Intern - ROBOTICS - 2027",
    "location": "Toronto, Canada",
    "season": "",
@@ -748,6 +760,18 @@
    "source": "simplify",
    "url": "https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern - Summer 2027 - CAN",
+   "location": "Vancouver, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10553947/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
   },
   {
    "tier": "A",
@@ -856,6 +880,18 @@
    "source": "simplify",
    "url": "https://jobs.apple.com/en-us/details/200694316",
    "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Virtualisation Software Engineering Internship - CoreOS",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200694316-2114",
+   "first_seen": "2026-11-11T19:30:23Z"
   },
   {
    "tier": "A",
@@ -7305,24 +7341,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Addepar",
-   "title": "Software Engineer Intern",
-   "location": "Edinburgh, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927507002",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Addepar",
    "title": "Portfolio Data Analyst Intern",
    "location": "Edinburgh, UK",
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910310002",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Addepar",
+   "title": "Software Engineer Intern",
+   "location": "Edinburgh, United Kingdom",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927507002",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -8169,6 +8205,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Amazon",
+   "title": "Cloud Support Associate Internship - April 2027 start - Support Engineering",
+   "location": "Cape Town, South Africa",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10567708/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
    "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
    "location": "Detroit, MI",
    "season": "Winter 2027",
@@ -8176,6 +8224,18 @@
    "source": "simplify",
    "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
    "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Cloud Support Associate Internship - April 2027 start - Support Engineering",
+   "location": "Dublin, Ireland",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10567711/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
   },
   {
    "tier": "B",
@@ -8241,6 +8301,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Amazon",
+   "title": "Software Dev Intern",
+   "location": "Luxembourg, Luxembourg",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10489527/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Spain",
    "location": "Madrid, Spain",
    "season": "",
@@ -8253,6 +8325,78 @@
    "tier": "B",
    "track": "swe",
    "company": "Amazon",
+   "title": "Software Development Engineer Intern - Amazon University Talent Acquisition",
+   "location": "Mexico City, Mexico",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10574925/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Cloud Support Associate Internship - April 2027 start - Support Engineering - Support Engineering",
+   "location": "Nairobi, Kenya",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10567710/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Transportation Management Intern - AWS Cloud Logistics",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10555877/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Software Developer Intern - Field Innovation - Security Search and Observability - SSO",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10544261/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern - Amazon University Talent Acquisition",
+   "location": "S\u00e3o Paulo, Brazil",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10590270/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Cloud Hardware Dev Engineer Intern",
+   "location": "Taiwan",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10598501/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Tel-Aviv - Israel",
    "location": "Tel Aviv, Israel",
    "season": "",
@@ -8260,6 +8404,42 @@
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10592104/apply",
    "first_seen": "2026-10-30T18:50:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "\u3010Class of 2028 & 2029\uff0fInternship\u3011Software Development Engineers - Amazon International Stores",
+   "location": "Tokyo, Japan",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10503558/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "2027 Software Dev Engineer Intern - Italy",
+   "location": "Turin, Italy",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10555867/apply",
+   "first_seen": "2026-09-23T18:36:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern - Amazon University Talent Acquisition",
+   "location": "Zapopan, Mexico",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10574927/apply",
+   "first_seen": "2026-11-11T19:30:23Z"
   },
   {
    "tier": "B",
@@ -8949,6 +9129,30 @@
    "tier": "B",
    "track": "swe",
    "company": "Apple",
+   "title": "Wireless Software & AI/ML Engineer Intern - Beijing",
+   "location": "Beijing, China",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200688346-0351",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Intern - Software Automation Engineer",
+   "location": "Cork, Ireland",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200693668-1418",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
    "title": "Hardware Technologies Engineering Intern",
    "location": "Fountain Inn, SC",
    "season": "Summer",
@@ -9032,6 +9236,66 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Apple",
+   "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
+   "location": "Munich, Germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200687209-1731",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Internship - Software Engineering",
+   "location": "Munich, Germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200690139-1731",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test",
+   "location": "Munich, Germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200689729-1731",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Modeling Software Intern",
+   "location": "Munich, Germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200690119-1731",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation - WTE",
+   "location": "Munich, Germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200689711-1731",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "apple",
    "title": "ai/ml internship: self-improving ai agents for cybersecurity, sear",
    "location": "paris, \u00eele-de-france, france",
@@ -9057,6 +9321,66 @@
    "tier": "B",
    "track": "swe",
    "company": "Apple",
+   "title": "Intern - Full Stack Engineer",
+   "location": "Prague, Czechia",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200688776-2611",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Software Engineer Intern - Full-Stack & AI Agents - Shanghai",
+   "location": "Shanghai, China",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200690042-3715",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Software Engineer Intern - Core OS",
+   "location": "Shanghai, China",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200690888-3715",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Software Engineering Intern - AI Tools for Hardware Engineering",
+   "location": "Shanghai, China",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200688946-3715",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Software Engineering Intern - AI Tools for Hardware Engineering",
+   "location": "Shenzhen, China",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200688942-3435",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
    "title": "Software Undergrad Engineering Internship",
    "location": "SWE intern (undergrad)",
    "season": "",
@@ -9064,6 +9388,18 @@
    "source": "sndsh404",
    "url": "https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Software Engineer Intern - Core OS",
+   "location": "Taipei, Taiwan",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200683709-3950",
+   "first_seen": "2026-11-11T19:30:23Z"
   },
   {
    "tier": "B",
@@ -9676,18 +10012,6 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000160961018",
    "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Arista Networks",
-   "title": "Intern Software Engineer - C/C++",
-   "location": "Remote - Poland",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true",
-   "first_seen": "2026-09-12T17:06:07Z"
   },
   {
    "tier": "B",
@@ -11841,24 +12165,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Bree",
-   "title": "Software Engineer - Product - Co-op",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bree",
    "title": "Software Engineer - Backend - Co-op",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bree",
+   "title": "Software Engineer - Product - Co-op",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -12441,24 +12765,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Cambridge Consultants",
-   "title": "Software Engineering Internship - 2027 start",
-   "location": "United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101",
-   "first_seen": "2026-10-02T20:59:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cambridge Consultants",
    "title": "Software Test Engineering Internship - 2027 start",
    "location": "United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995787101",
+   "first_seen": "2026-10-02T20:59:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Cambridge Consultants",
+   "title": "Software Engineering Internship - 2027 start",
+   "location": "United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101",
    "first_seen": "2026-10-02T20:59:14Z"
   },
   {
@@ -12952,6 +13276,18 @@
    "source": "simplify",
    "url": "https://careers.certara.com/jobs/2627?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Certara",
+   "title": "Junior Software Developer - Student Intern",
+   "location": "Sheffield, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://emeacareers-certara.icims.com/jobs/2609/job",
+   "first_seen": "2026-11-11T19:30:23Z"
   },
   {
    "tier": "B",
@@ -16011,6 +16347,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Echo Global Logistics",
+   "title": "Software Engineering Intern- Chicago",
+   "location": "Remote",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://echo.wd1.myworkdayjobs.com/en-US/echo_logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
    "first_seen": "2026-11-11T00:15:19Z"
   },
   {
@@ -25677,24 +26025,24 @@
    "tier": "B",
    "track": "swe",
    "company": "NCR Atleos",
-   "title": "Software Engineering Internship",
-   "location": "Dundee, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
-   "first_seen": "2026-10-13T20:44:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NCR Atleos",
    "title": "Software Support Internship",
    "location": "Dundee, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1",
+   "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NCR Atleos",
+   "title": "Software Engineering Internship",
+   "location": "Dundee, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
    "first_seen": "2026-10-13T20:44:34Z"
   },
   {
@@ -27292,18 +27640,6 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000159818139",
    "first_seen": "2026-11-05T16:51:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "PA Consulting",
-   "title": "2027 Summer Internship - Software & AI Systems - Cambridge",
-   "location": "Melbourn, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.smartrecruiters.com/PAConsulting/744000155685700-2027-summer-internship-software-ai-systems-cambridge-?oga=true",
-   "first_seen": "2026-10-16T16:49:19Z"
   },
   {
    "tier": "B",
@@ -29684,18 +30020,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Redgate",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df",
-   "first_seen": "2026-10-21T17:26:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Regeneron Pharmaceuticals",
    "title": "Data Analytics Intern, Dashboards & Business Process Automation",
    "location": "Armonk, NY / Warren, NJ / Tarrytown, NY",
@@ -30177,18 +30501,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Vehicle Controls - Summer 2027",
-   "location": "Vancouver, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0",
-   "first_seen": "2026-10-23T18:32:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rivian",
    "title": "Software Engineering Intern - Embedded Platforms - Summer 2027",
    "location": "Vancouver, Canada",
    "season": "",
@@ -30207,6 +30519,18 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec",
+   "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rivian",
+   "title": "Software Engineering Intern - Vehicle Controls - Summer 2027",
+   "location": "Vancouver, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0",
    "first_seen": "2026-10-23T18:32:26Z"
   },
   {
@@ -34605,18 +34929,6 @@
    "tier": "B",
    "track": "swe",
    "company": "TikTok",
-   "title": "Backend Engineer Intern - TikTok Shop - Europe - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668567025010690357",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TikTok",
    "title": "Site Reliability Engineer Intern - Global SRE- GMPT - 2027 Start",
    "location": "Singapore",
    "season": "",
@@ -34629,12 +34941,36 @@
    "tier": "B",
    "track": "swe",
    "company": "TikTok",
+   "title": "Backend Engineer Intern - TikTok Shop - Europe - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7668567025010690357",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TikTok",
    "title": "AI Full-Stack Engineer Intern - TikTok Shop - SEA - 2027 Start",
    "location": "Singapore",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7668566238498408709",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7667912295692093749",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
@@ -34659,18 +34995,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7667916202236348725",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7667912295692093749",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
