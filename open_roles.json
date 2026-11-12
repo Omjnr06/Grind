@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T21:30:22Z",
+ "generated_at": "2026-11-12T21:45:17Z",
  "counts": {
   "target": 593,
-  "relevant": 2598
+  "relevant": 2597
  },
  "roles": [
   {
@@ -17188,18 +17188,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008",
    "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Equitable Bank",
-   "title": "Commercial Lending AI Engineer Intern - Winter 2027",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
