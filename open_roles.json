@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T18:00:25Z",
+ "generated_at": "2026-11-12T18:15:16Z",
  "counts": {
   "target": 595,
-  "relevant": 2602
+  "relevant": 2599
  },
  "roles": [
   {
@@ -8236,18 +8236,6 @@
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10567708/apply",
    "first_seen": "2026-11-11T19:30:23Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Amazon",
-   "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
-   "location": "Detroit, MI",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
-   "first_seen": "2026-10-23T18:32:26Z"
   },
   {
    "tier": "B",
@@ -25112,18 +25100,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "McKesson",
-   "title": "Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution",
-   "location": "Montreal, QC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "MDA",
    "title": "Software Engineering Intern",
    "location": "Brampton, Canada",
@@ -25888,18 +25864,6 @@
    "source": "zshah101",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Monolithic Power Systems",
-   "title": "Applications Engineer Intern",
-   "location": "Cambridge, MA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/9g",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
