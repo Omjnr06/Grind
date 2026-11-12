@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T15:00:27Z",
+ "generated_at": "2026-11-12T15:15:19Z",
  "counts": {
-  "target": 596,
-  "relevant": 2581
+  "target": 595,
+  "relevant": 2579
  },
  "roles": [
   {
@@ -3376,18 +3376,6 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Microsoft",
-   "title": "Research Intern - Machine Intelligence",
-   "location": "Cambridge, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050083",
-   "first_seen": "2026-10-29T16:03:48Z"
   },
   {
    "tier": "A",
@@ -25676,18 +25664,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Molina Healthcare",
-   "title": "Electronic Data Interchange Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040156",
-   "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Moment Energy",
    "title": "Data Scientist Co-op",
    "location": "Surrey, BC, Canada",
@@ -37900,18 +37876,6 @@
    "source": "simplify",
    "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zoetis",
-   "title": "AI Architecture, Enablement & Tools Intern, AI Capabilities",
-   "location": "Remote / United States / Kalamazoo, MI",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ph",
-   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
