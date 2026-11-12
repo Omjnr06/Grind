@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T19:45:18Z",
+ "generated_at": "2026-11-12T20:00:24Z",
  "counts": {
   "target": 594,
-  "relevant": 2594
+  "relevant": 2596
  },
  "roles": [
   {
@@ -8049,6 +8049,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Altera",
+   "title": "FPGA IP Design Engineer Intern, PEY",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wy",
+   "first_seen": "2026-11-12T15:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altera",
    "title": "Quartus User Interface Intern",
    "location": "Toronto, ON, Canada",
    "season": "Summer",
@@ -15716,6 +15728,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Diversified Gas & Oil Corporation",
+   "title": "Information Technology Intern",
+   "location": "Birmingham, AL",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1xe",
+   "first_seen": "2026-11-12T20:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Docusign",
    "title": "Software Engineer Intern",
    "location": "Chicago, IL",
@@ -20488,18 +20512,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1e9",
    "first_seen": "2026-11-03T21:15:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Highmark Health",
-   "title": "Data Analyst enGen Undergraduate Intern",
-   "location": "Remote / United States / Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1qu",
-   "first_seen": "2026-11-10T18:50:36Z"
   },
   {
    "tier": "B",
@@ -36652,6 +36664,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/fq",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "US Internships Public Careers Site",
+   "title": "Undergraduate Frontend Software Engineering Intern",
+   "location": "Los Angeles, CA / San Mateo, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1xb",
+   "first_seen": "2026-11-12T20:00:24Z"
   },
   {
    "tier": "B",
