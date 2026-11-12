@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T05:15:17Z",
+ "generated_at": "2026-11-12T05:30:22Z",
  "counts": {
   "target": 591,
-  "relevant": 2578
+  "relevant": 2576
  },
  "roles": [
   {
@@ -18645,18 +18645,6 @@
    "tier": "B",
    "track": "swe",
    "company": "General Motors",
-   "title": "Research and Development Intern, Defense Lab Modeling and Simulation",
-   "location": "Cambridge, MA",
-   "season": "Summer",
-   "sponsorship": "U.S. Citizenship is Required",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/8b",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
    "title": "Research and Development Intern, AI/Machine Learning",
    "location": "Mountain View, CA",
    "season": "Summer",
@@ -18676,18 +18664,6 @@
    "source": "zshah101",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620",
    "first_seen": "2026-10-13T01:21:46Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
-   "title": "Research and Development Intern, Machine Learning for Automation",
-   "location": "Seattle, WA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/8c",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
