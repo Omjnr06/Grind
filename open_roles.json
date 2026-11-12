@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T17:30:21Z",
+ "generated_at": "2026-11-12T17:45:21Z",
  "counts": {
   "target": 595,
-  "relevant": 2604
+  "relevant": 2602
  },
  "roles": [
   {
@@ -25089,18 +25089,6 @@
    "tier": "B",
    "track": "swe",
    "company": "McDonald's",
-   "title": "Global Tech Infrastructure & Operations Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
-   "first_seen": "2026-11-11T23:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "McDonald's",
    "title": "Software Development Engineer Intern",
    "location": "San Jose, CA",
    "season": "Summer",
@@ -38188,18 +38176,6 @@
    "source": "zshah101",
    "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2",
    "first_seen": "2026-11-09T21:03:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zoetis Services",
-   "title": "AI Capabilities Intern - AI Architecture, Enablement & Tools",
-   "location": "Remote in USA / Parsippany-Troy Hills, NJ / Kalamazoo, MI",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016",
-   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
