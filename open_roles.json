@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T05:30:22Z",
+ "generated_at": "2026-11-12T05:45:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2576
+  "relevant": 2575
  },
  "roles": [
   {
@@ -24292,18 +24292,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Vt",
    "first_seen": "2026-10-27T13:09:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Manulife Financial",
-   "title": "AI Intern - AI",
-   "location": "Toronto, ON, Canada",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1",
-   "first_seen": "2026-10-20T23:14:58Z"
   },
   {
    "tier": "B",
