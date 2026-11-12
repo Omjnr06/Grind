@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:00:24Z",
+ "generated_at": "2026-11-12T10:15:21Z",
  "counts": {
   "target": 594,
   "relevant": 2582
@@ -15008,6 +15008,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Conveo.ai",
+   "title": "Engineer Intern",
+   "location": "London, UK / Antwerp, Belgium",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/conveo/00915c85-373b-4094-b17e-1dca197e644f/application?embed=true",
+   "first_seen": "2026-11-12T10:15:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Corning",
    "title": "Image Analysis Intern",
    "location": "Corning, NY",
@@ -26248,18 +26260,6 @@
    "source": "speedyapply_intl",
    "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
    "first_seen": "2026-10-13T20:44:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NERv Technology Inc. D.B.A. FluidAI Medical",
-   "title": "Data and AI Engineering Associate",
-   "location": "Kitchener, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
