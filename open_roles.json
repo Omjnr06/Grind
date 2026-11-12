@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T06:00:24Z",
+ "generated_at": "2026-11-12T06:15:16Z",
  "counts": {
   "target": 591,
-  "relevant": 2575
+  "relevant": 2574
  },
  "roles": [
   {
@@ -19144,18 +19144,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cs",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Geotab",
-   "title": "Software Developer Intern",
-   "location": "Oakville, ON, Canada / Waterloo, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
