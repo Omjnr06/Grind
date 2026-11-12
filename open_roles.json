@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T09:15:17Z",
+ "generated_at": "2026-11-12T09:30:21Z",
  "counts": {
   "target": 594,
-  "relevant": 2579
+  "relevant": 2582
  },
  "roles": [
   {
@@ -19288,6 +19288,42 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Qz",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GIRO",
+   "title": "Software Development Intern, Algorithms and Operations Research",
+   "location": "Montreal, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wg",
+   "first_seen": "2026-11-12T09:30:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GIRO",
+   "title": "Front-End Web Development Intern",
+   "location": "Montreal, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wh",
+   "first_seen": "2026-11-12T09:30:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GIRO",
+   "title": "Software Development, Quality Assurance and AI Intern",
+   "location": "Montreal, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wi",
+   "first_seen": "2026-11-12T09:30:21Z"
   },
   {
    "tier": "B",
