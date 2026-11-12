@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T03:30:20Z",
+ "generated_at": "2026-11-12T03:45:16Z",
  "counts": {
   "target": 591,
-  "relevant": 2575
+  "relevant": 2578
  },
  "roles": [
   {
@@ -11227,6 +11227,18 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "Frontend Engineering Intern",
+   "location": "United States (Remote)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/bask-health-1/j/9C2964C7CD/",
+   "first_seen": "2026-11-12T03:45:16Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "Bask Health",
    "title": "AI Product Intern",
@@ -11680,6 +11692,42 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1vK",
    "first_seen": "2026-11-12T00:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bloom Energy",
+   "title": "AI Solutions Engineer Intern",
+   "location": "San Jose, California",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361",
+   "first_seen": "2026-11-12T03:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bloom Energy",
+   "title": "Data Science Intern",
+   "location": "San Jose, California",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360",
+   "first_seen": "2026-11-12T03:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bloom Energy",
+   "title": "RMCC Data Science Intern",
+   "location": "San Jose, California",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362",
+   "first_seen": "2026-11-12T03:45:16Z"
   },
   {
    "tier": "B",
@@ -21544,18 +21592,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17D",
    "first_seen": "2026-09-01T16:47:24Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "J.M. Smucker",
-   "title": "Data Science Intern, Summer 2027",
-   "location": "Working Remote USA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118",
-   "first_seen": "2026-11-05T22:27:01Z"
   },
   {
    "tier": "B",
@@ -32180,6 +32216,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "ServiceNow",
+   "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
+   "location": "Santa Clara, CALIFORNIA, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161209600",
+   "first_seen": "2026-11-12T03:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "SESCO",
    "title": "Quantitative Research and Trading Intern",
    "location": "Toronto, Canada",
@@ -36460,18 +36508,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/13t",
    "first_seen": "2026-09-22T22:04:46Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Vatic Investments",
-   "title": "AI Research Internship (Summer 2027)",
-   "location": "New York",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
-   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
