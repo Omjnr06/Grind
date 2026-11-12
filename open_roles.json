@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:15:18Z",
+ "generated_at": "2026-11-12T11:30:22Z",
  "counts": {
   "target": 596,
   "relevant": 2581
@@ -3463,6 +3463,18 @@
   },
   {
    "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Data Scientist Intern - CoreAI",
+   "location": "Redmond, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+   "first_seen": "2026-11-12T10:45:17Z"
+  },
+  {
+   "tier": "A",
    "track": "pm",
    "company": "Microsoft",
    "title": "Product Manager Intern",
@@ -3652,18 +3664,6 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
    "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Microsoft",
-   "title": "Data Scientist Intern - CoreAI",
-   "location": "Redmond, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
-   "first_seen": "2026-11-12T10:45:17Z"
   },
   {
    "tier": "A",
