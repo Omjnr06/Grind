@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T22:30:21Z",
+ "generated_at": "2026-11-12T22:45:18Z",
  "counts": {
   "target": 593,
-  "relevant": 2597
+  "relevant": 2596
  },
  "roles": [
   {
@@ -14404,18 +14404,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1qy",
    "first_seen": "2026-11-10T18:50:36Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Clasp",
-   "title": "Product and Operations Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/clasp/43f4eb5d-f990-43b9-959f-70e6f0158246/application?embed=true",
-   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
