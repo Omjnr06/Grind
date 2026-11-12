@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T20:00:24Z",
+ "generated_at": "2026-11-12T20:15:18Z",
  "counts": {
-  "target": 594,
-  "relevant": 2596
+  "target": 593,
+  "relevant": 2598
  },
  "roles": [
   {
@@ -7082,20 +7082,8 @@
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
-   "first_seen": "2026-10-27T13:09:29Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Visa",
-   "title": "Software Engineer, Intern - 2027 Foster City, CA",
-   "location": "US - Foster City, CA",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W",
-   "first_seen": "2026-11-11T01:00:25Z"
+   "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-3",
+   "first_seen": "2026-11-12T20:15:18Z"
   },
   {
    "tier": "A",
@@ -7288,18 +7276,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/gz",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AbbVie",
-   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
-   "location": "North Chicago, IL, United States (Hybrid)",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
-   "first_seen": "2026-08-20T14:52:09Z"
   },
   {
    "tier": "B",
@@ -11277,6 +11253,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Bask Health",
+   "title": "Machine Learning Engineering Intern",
+   "location": "United States (Remote)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/bask-health-1/j/71AEBBCADE/",
+   "first_seen": "2026-11-12T20:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
    "title": "Backend Engineering Intern",
    "location": "United States (Remote)",
    "season": "Not stated",
@@ -11320,6 +11308,18 @@
    "source": "zshah101",
    "url": "https://apply.workable.com/bask-health-1/j/E81C7F7D3B/",
    "first_seen": "2026-11-11T22:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "AI Engineering Intern",
+   "location": "United States (Remote)",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://apply.workable.com/bask-health-1/j/F0E122E877/",
+   "first_seen": "2026-11-12T20:15:18Z"
   },
   {
    "tier": "B",
@@ -12124,6 +12124,18 @@
    "source": "zshah101",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157483412",
    "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bosch",
+   "title": "AI Research Intern \u2013 Time Series Foundation Models",
+   "location": "Sunnyvale, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161339309",
+   "first_seen": "2026-11-12T20:15:18Z"
   },
   {
    "tier": "B",
@@ -19880,6 +19892,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Greystone",
+   "title": "Salesforce Developer Intern - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://greyco.wd108.myworkdayjobs.com/GTI/job/New-York-NY/Summer-2027---Salesforce-Developer-Intern_JR0000144",
+   "first_seen": "2026-11-12T20:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Gritt",
    "title": "ML & Cloud Infrastructure Engineer Intern",
    "location": "South SF",
@@ -27045,6 +27069,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+   "location": "Canada / Santa Clara, CA / United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+   "first_seen": "2026-11-05T16:51:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "Math Libraries Intern",
    "location": "Canada / Santa Clara, CA / United States",
    "season": "Summer 2027",
@@ -27052,18 +27088,6 @@
    "source": "simplify",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
    "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
-   "title": "Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI",
-   "location": "Canada / Santa Clara, CA / United States",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
-   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
@@ -31756,18 +31780,6 @@
    "source": "zshah101",
    "url": "https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-3",
    "first_seen": "2026-11-11T01:00:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Salesforce",
-   "title": "Engineer Intern",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Engineering-Intern_JR367683",
-   "first_seen": "2026-11-10T23:45:16Z"
   },
   {
    "tier": "B",
