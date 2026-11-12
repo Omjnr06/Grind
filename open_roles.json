@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T08:00:24Z",
+ "generated_at": "2026-11-12T08:15:19Z",
  "counts": {
-  "target": 591,
-  "relevant": 2580
+  "target": 594,
+  "relevant": 2579
  },
  "roles": [
   {
@@ -861,6 +861,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Apple",
+   "title": "Camera Software Intern",
+   "location": "Cambridge, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.apple.com/en-us/details/200694477",
+   "first_seen": "2026-11-12T08:15:19Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Apple",
    "title": "Compiler Engineering Intern",
    "location": "London, UK",
    "season": "",
@@ -892,6 +904,18 @@
    "source": "simplify",
    "url": "https://jobs.apple.com/en-us/details/200694316",
    "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Framebuffer Driver Engineer Intern",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.apple.com/en-us/details/200694489",
+   "first_seen": "2026-11-12T08:15:19Z"
   },
   {
    "tier": "A",
@@ -6573,6 +6597,18 @@
    "tier": "A",
    "track": "swe",
    "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Search",
+   "location": "San Jose, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7704696088079010053",
+   "first_seen": "2026-11-12T08:15:19Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
    "title": "Site Reliability Engineer Intern - Global SRE - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
@@ -7804,30 +7840,6 @@
    "source": "simplify",
    "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
    "first_seen": "2026-07-24T09:31:28Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Alaska Airlines",
-   "title": "Software Engineer Intern",
-   "location": "Bellevue, WA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1kc",
-   "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Alaska Airlines",
-   "title": "Cybersecurity Threat Defense Intern",
-   "location": "Bellevue, WA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1kd",
-   "first_seen": "2026-11-06T17:01:11Z"
   },
   {
    "tier": "B",
@@ -11119,6 +11131,30 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "Creative Engineering Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1w8",
+   "first_seen": "2026-11-12T08:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "Frontend Engineer Intern, Frontend Engineering",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1w9",
+   "first_seen": "2026-11-12T08:15:19Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "Bask Health",
    "title": "Product Management Intern",
@@ -13137,12 +13173,12 @@
    "tier": "B",
    "track": "swe",
    "company": "CARIAD",
-   "title": "Engineer 1 Intern - VLA Planning and Control Deployment",
+   "title": "Engineer 1 Intern, VLA Planning and Control Deployment",
    "location": "Mountain View, CA",
-   "season": "",
+   "season": "Summer",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462886008",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wa",
    "first_seen": "2026-11-12T07:45:18Z"
   },
   {
@@ -18688,18 +18724,6 @@
    "source": "simplify",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
-   "title": "Research and Development Intern, AI/Machine Learning",
-   "location": "Mountain View, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/8d",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -25953,6 +25977,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Nasdaq",
+   "title": "Back End Software Developer Co-op",
+   "location": "Toronto, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wb",
+   "first_seen": "2026-11-12T08:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nasdaq",
    "title": "Back End Software Developer Co-op Intern",
    "location": "Toronto, ON, Canada",
    "season": "",
@@ -26373,13 +26409,13 @@
    "tier": "B",
    "track": "swe",
    "company": "Nintendo",
-   "title": "Software Engineer Intern, Platform Security",
+   "title": "Software Engineer Intern - Platform Security",
    "location": "Redmond, WA",
-   "season": "Summer",
+   "season": "Summer 2027",
    "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/12o",
-   "first_seen": "2026-10-31T21:28:45Z"
+   "source": "simplify",
+   "url": "https://careers.nintendo.com/?gh_jid=4469778009",
+   "first_seen": "2026-10-20T16:57:30Z"
   },
   {
    "tier": "B",
@@ -26392,18 +26428,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/12p",
    "first_seen": "2026-10-31T21:28:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nintendo",
-   "title": "Intern - Software Engineer - Performance Tools - NTD",
-   "location": "Redmond, WA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://careers.nintendo.com/?gh_jid=4473568009",
-   "first_seen": "2026-10-20T16:57:30Z"
   },
   {
    "tier": "B",
