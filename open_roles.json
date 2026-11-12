@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T03:15:19Z",
+ "generated_at": "2026-11-12T03:30:20Z",
  "counts": {
   "target": 591,
-  "relevant": 2572
+  "relevant": 2575
  },
  "roles": [
   {
@@ -19965,6 +19965,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Hewlett Packard Enterprise",
+   "title": "Research Associate Intern, Systems Architecture Lab",
+   "location": "Milpitas, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1w1",
+   "first_seen": "2026-11-12T03:30:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Hewlett Packard Enterprise",
    "title": "Hardware Engineering Intern",
    "location": "Remote / United States",
    "season": "Summer",
@@ -24755,10 +24767,10 @@
    "company": "McDonald's",
    "title": "Global Tech Infrastructure & Operations Intern",
    "location": "Chicago, IL",
-   "season": "Summer",
+   "season": "Summer 2027",
    "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1vz",
+   "source": "simplify",
+   "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
    "first_seen": "2026-11-11T23:45:17Z"
   },
   {
@@ -24772,6 +24784,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1si",
    "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "McDonald's",
+   "title": "Global Tech Infrastructure & Operations Intern",
+   "location": "Santa Clara, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1vz",
+   "first_seen": "2026-11-11T23:45:17Z"
   },
   {
    "tier": "B",
@@ -32092,6 +32116,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application?embed=true",
    "first_seen": "2026-10-28T14:12:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ServiceNow",
+   "title": "Associate Detection Engineering Intern",
+   "location": "Kirkland, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1w0",
+   "first_seen": "2026-11-12T03:30:20Z"
   },
   {
    "tier": "B",
