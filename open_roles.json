@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T23:15:16Z",
+ "generated_at": "2026-11-12T23:30:19Z",
  "counts": {
-  "target": 593,
-  "relevant": 2594
+  "target": 592,
+  "relevant": 2595
  },
  "roles": [
   {
@@ -7053,18 +7053,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Visa",
-   "title": "Software Engineer Intern",
-   "location": "San Jose, CA / Folsom, CA",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Xf",
-   "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Visa",
    "title": "Business Strategy Intern, Data and AI Team - Summer 2027",
    "location": "US - Foster City, CA",
    "season": "Summer 2027",
@@ -13196,6 +13184,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "CarGurus",
+   "title": "Data Analytics Engineer Intern",
+   "location": "San Mateo, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1xc",
+   "first_seen": "2026-11-12T20:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "CARIAD",
    "title": "Engineer 1 Intern, VLA Planning and Control Deployment",
    "location": "Mountain View, CA",
@@ -18368,6 +18368,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Garmin International",
+   "title": "IT DevOps Administrator Intern",
+   "location": "San Mateo, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1xf",
+   "first_seen": "2026-11-12T20:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Garner Health",
    "title": "Software Engineering Intern",
    "location": "New York City, New York",
@@ -18736,18 +18748,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1nt",
    "first_seen": "2026-11-09T10:36:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
-   "title": "Machine Learning Engineer Intern, Embodied AI",
-   "location": "Sunnyvale, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1rQ",
-   "first_seen": "2026-11-10T21:39:27Z"
   },
   {
    "tier": "B",
