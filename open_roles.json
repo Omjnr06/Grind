@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T11:30:22Z",
+ "generated_at": "2026-11-12T11:45:16Z",
  "counts": {
   "target": 596,
-  "relevant": 2581
+  "relevant": 2584
  },
  "roles": [
   {
@@ -7215,6 +7215,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "4AG Robotics",
+   "title": "Robotics Software Co-op",
+   "location": "Salmon Arm, BC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -24861,6 +24873,18 @@
    "tier": "B",
    "track": "swe",
    "company": "MBDA",
+   "title": "Weapon Systems Algorithms Engineer - Undergraduate Placement",
+   "location": "Bristol, UK / Stevenage, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Undergraduate-Placement-2027_R37726",
+   "first_seen": "2026-11-12T11:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "MBDA",
    "title": "Weapon System Simulation & Experimentation Engineer - Undergraduate Placement",
    "location": "Bristol, UK / Stevenage, UK",
    "season": "",
@@ -27819,6 +27843,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1io",
+   "first_seen": "2026-10-30T00:55:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Overland AI",
+   "title": "Software Engineering Intern",
+   "location": "Seattle, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e",
    "first_seen": "2026-10-30T00:55:22Z"
   },
   {
