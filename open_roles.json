@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T07:30:19Z",
+ "generated_at": "2026-11-12T07:45:18Z",
  "counts": {
   "target": 591,
-  "relevant": 2574
+  "relevant": 2580
  },
  "roles": [
   {
@@ -11217,6 +11217,30 @@
    "tier": "B",
    "track": "swe",
    "company": "Bask Health",
+   "title": "Creative Engineering Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/bask-health-1/j/24DD93E3BA/apply",
+   "first_seen": "2026-11-12T07:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "Frontend Engineer Intern - Frontend Engineering",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply",
+   "first_seen": "2026-11-12T07:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
    "title": "Backend Engineering Intern",
    "location": "United States (Remote)",
    "season": "Not stated",
@@ -13108,6 +13132,30 @@
    "source": "simplify",
    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Configuration-and-Automation_R14185",
    "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CARIAD",
+   "title": "Engineer 1 Intern - VLA Planning and Control Deployment",
+   "location": "Mountain View, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462886008",
+   "first_seen": "2026-11-12T07:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CARIAD",
+   "title": "Engineer 1 Intern - VLA Model Development",
+   "location": "Mountain View, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462798008",
+   "first_seen": "2026-11-12T07:45:18Z"
   },
   {
    "tier": "B",
@@ -19989,6 +20037,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Hewlett Packard Enterprise",
+   "title": "Systems Architecture Research Associate Intern - Systems Architecture Lab",
+   "location": "Milpitas, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728",
+   "first_seen": "2026-11-12T07:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Hewlett Packard Enterprise",
    "title": "Hardware Engineering Intern",
    "location": "Remote / United States",
    "season": "Summer",
@@ -25888,6 +25948,18 @@
    "source": "sndsh404",
    "url": "https://www.workatastartup.com/jobs/94647",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nasdaq",
+   "title": "Back End Software Developer Co-op Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/nasdaq/jobs/4453620009",
+   "first_seen": "2026-11-12T07:45:18Z"
   },
   {
    "tier": "B",
