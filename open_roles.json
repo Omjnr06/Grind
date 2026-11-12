@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T09:30:21Z",
+ "generated_at": "2026-11-12T09:45:17Z",
  "counts": {
   "target": 594,
   "relevant": 2582
@@ -9112,6 +9112,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
    "first_seen": "2026-11-05T16:51:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Anthropic",
+   "title": "Anthropic Fellows Program - ML Systems & Performance",
+   "location": "London, UK / SF / Remote in USA / Remote in Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -27844,18 +27856,6 @@
    "source": "simplify",
    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Paccar",
-   "title": "Product Planning Intern",
-   "location": "Kirkland, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors",
-   "first_seen": "2026-10-26T22:57:43Z"
   },
   {
    "tier": "B",
