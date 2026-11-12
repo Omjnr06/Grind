@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T16:30:24Z",
+ "generated_at": "2026-11-12T16:45:17Z",
  "counts": {
   "target": 595,
-  "relevant": 2604
+  "relevant": 2605
  },
  "roles": [
   {
@@ -19353,18 +19353,6 @@
    "tier": "B",
    "track": "swe",
    "company": "GIRO",
-   "title": "Front-End Web Development Intern",
-   "location": "Montreal, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1wh",
-   "first_seen": "2026-11-12T09:30:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GIRO",
    "title": "Software Development, Quality Assurance and AI Intern",
    "location": "Montreal, Canada",
    "season": "Winter",
@@ -19420,6 +19408,18 @@
    "source": "speedyapply_intl",
    "url": "https://giro.wd10.myworkdayjobs.com/en-US/giro/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314",
    "first_seen": "2026-10-16T16:49:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GIRO",
+   "title": "Front-End Web Development Intern",
+   "location": "St. Louis, MO / Austin, TX / Morris Plains, NJ / Bloomfield, CT",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wh",
+   "first_seen": "2026-11-12T09:30:21Z"
   },
   {
    "tier": "B",
@@ -36352,6 +36352,18 @@
    "source": "simplify",
    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
    "first_seen": "2026-10-24T08:23:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Trinity Life Sciences",
+   "title": "Data Science Intern",
+   "location": "Waltham, MA / New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wF",
+   "first_seen": "2026-11-12T16:45:17Z"
   },
   {
    "tier": "B",
