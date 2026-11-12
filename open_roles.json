@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T14:30:21Z",
+ "generated_at": "2026-11-12T14:45:18Z",
  "counts": {
   "target": 596,
-  "relevant": 2583
+  "relevant": 2581
  },
  "roles": [
   {
@@ -14012,18 +14012,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Cincinnati Children\u2019s Hospital and Medical Center",
-   "title": "Software Engineering Developer Intern",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Cintas",
    "title": "IT Engineer Intern, Customer Channels",
    "location": "Foster City, CA",
@@ -26932,18 +26920,6 @@
    "source": "simplify",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
    "first_seen": "2026-11-06T09:52:32Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
-   "title": "Developer Technology Engineer Intern - Compute Performance",
-   "location": "Bristol, UK / Z\u00fcrich, Switzerland",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
