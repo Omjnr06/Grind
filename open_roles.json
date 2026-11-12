@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T15:30:20Z",
+ "generated_at": "2026-11-12T15:45:18Z",
  "counts": {
   "target": 595,
-  "relevant": 2579
+  "relevant": 2592
  },
  "roles": [
   {
@@ -8061,6 +8061,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Altera",
+   "title": "FPGA IP Design Engineer Intern, PEY",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wy",
+   "first_seen": "2026-11-12T15:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altera",
    "title": "Quartus User Interface Intern",
    "location": "Toronto, ON, Canada",
    "season": "Summer",
@@ -13168,6 +13180,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1js",
    "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CareSource",
+   "title": "Software Engineer Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wz",
+   "first_seen": "2026-11-12T15:45:18Z"
   },
   {
    "tier": "B",
@@ -19504,6 +19528,66 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1im",
    "first_seen": "2026-10-30T00:55:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Multiple Teams",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175424?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175427?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - The Core Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175426?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Engineering",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/170644?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171535?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -27644,6 +27728,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Ontario Securities Commission",
+   "title": "Economic Co-op - Market & Analysis",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://osc.wd3.myworkdayjobs.com/OSCCareers/job/CA-ON-Toronto/Economic--Market---Analysis-Co-op-Student_JR100976",
+   "first_seen": "2026-11-12T15:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "OpenMind",
    "title": "Engineering Intern",
    "location": "SF",
@@ -28912,6 +29008,30 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1gu",
    "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Plusgrade",
+   "title": "Data Science Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230",
+   "first_seen": "2026-11-12T15:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Plusgrade",
+   "title": "Applied AI Engineer Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233",
+   "first_seen": "2026-11-12T15:45:18Z"
   },
   {
    "tier": "B",
@@ -36934,6 +37054,18 @@
    "track": "swe",
    "company": "Visa",
    "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
+   "first_seen": "2026-11-12T15:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Visa",
+   "title": "Software Engineer Intern",
    "location": "Cambridge, United Kingdom",
    "season": "",
    "sponsorship": "",
@@ -36946,12 +37078,36 @@
    "track": "swe",
    "company": "Visa",
    "title": "Software Engineer Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1",
+   "first_seen": "2026-11-12T15:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Visa",
+   "title": "Software Engineer Intern",
    "location": "London, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_talent_portal/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF089103W",
    "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Visa",
+   "title": "Software Engineer Intern",
+   "location": "Reading, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W",
+   "first_seen": "2026-11-12T15:45:18Z"
   },
   {
    "tier": "B",
