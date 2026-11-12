@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T23:45:17Z",
+ "generated_at": "2026-11-12T00:00:25Z",
  "counts": {
-  "target": 592,
-  "relevant": 2569
+  "target": 590,
+  "relevant": 2566
  },
  "roles": [
   {
@@ -2092,30 +2092,6 @@
    "source": "zshah101",
    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
    "first_seen": "2026-09-08T20:06:29Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Disney",
-   "title": "Systems Engineer Intern, Data Services",
-   "location": "Vancouver, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Uz",
-   "first_seen": "2026-10-27T07:01:37Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Disney",
-   "title": "Software Engineer Intern, Pipeline Infrastructure",
-   "location": "Vancouver, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/UA",
-   "first_seen": "2026-10-27T07:01:37Z"
   },
   {
    "tier": "A",
@@ -7712,18 +7688,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "AIM Defence",
-   "title": "Computer Vision Engineering Intern",
-   "location": "Vancouver, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1va",
-   "first_seen": "2026-11-11T21:15:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Akuna Capital",
    "title": "Software Engineer Intern - C++, Summer 2027",
    "location": "Chicago, IL",
@@ -11059,6 +11023,42 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "Software Engineer Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1vw",
+   "first_seen": "2026-11-12T00:00:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "Backend Engineer Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1vx",
+   "first_seen": "2026-11-12T00:00:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Bask Health",
+   "title": "Product Engineering Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1vy",
+   "first_seen": "2026-11-12T00:00:25Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "Bask Health",
    "title": "Product Management Intern",
@@ -12124,42 +12124,6 @@
    "source": "simplify",
    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Brain Co.",
-   "title": "AI Product Engineer Co-op",
-   "location": "San Francisco, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/9r",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Brain Co.",
-   "title": "AI Security Engineer Co-op",
-   "location": "San Francisco, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/9s",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Brain Co.",
-   "title": "Machine Learning Engineer, Applied AI Co-op",
-   "location": "San Francisco, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/9t",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
@@ -15580,18 +15544,6 @@
    "source": "simplify",
    "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Disney",
-   "title": "Full Stack Web Development Intern, Walt Disney Animation Studios",
-   "location": "Burbank, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/YM",
-   "first_seen": "2026-10-29T09:05:59Z"
   },
   {
    "tier": "B",
@@ -24743,10 +24695,10 @@
    "company": "McDonald's",
    "title": "Global Tech Infrastructure & Operations Intern",
    "location": "Chicago, IL",
-   "season": "Summer 2027",
+   "season": "Summer",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1vz",
    "first_seen": "2026-11-11T23:45:17Z"
   },
   {
@@ -29596,18 +29548,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Rq",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Qualcomm",
-   "title": "Deep Learning Research Intern, Embodied AI",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/10q",
-   "first_seen": "2026-10-30T06:38:22Z"
   },
   {
    "tier": "B",
