@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T13:00:25Z",
+ "generated_at": "2026-11-12T13:15:16Z",
  "counts": {
   "target": 596,
-  "relevant": 2585
+  "relevant": 2584
  },
  "roles": [
   {
@@ -7312,18 +7312,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/gz",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AbbVie",
-   "title": "Business Technology Solutions Intern - Data & Software Engineering",
-   "location": "North Chicago, IL",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1tw",
-   "first_seen": "2026-11-11T06:00:24Z"
   },
   {
    "tier": "B",
