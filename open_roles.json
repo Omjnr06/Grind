@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T18:30:20Z",
+ "generated_at": "2026-11-12T18:45:19Z",
  "counts": {
   "target": 595,
   "relevant": 2599
@@ -25196,6 +25196,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Medpace",
+   "title": "Information Security Intern",
+   "location": "Montreal, Canada",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wn",
+   "first_seen": "2026-11-12T11:30:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Megazone Cloud US",
    "title": "Cloud Operations Co-op 2027",
    "location": "Rochester, NY",
@@ -26500,18 +26512,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007",
    "first_seen": "2026-10-29T02:50:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "New York ISO",
-   "title": "IT Software Development Intern",
-   "location": "Rensselaer, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/13f",
-   "first_seen": "2026-11-01T06:30:48Z"
   },
   {
    "tier": "B",
