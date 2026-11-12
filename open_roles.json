@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T23:00:23Z",
+ "generated_at": "2026-11-12T23:15:16Z",
  "counts": {
   "target": 593,
-  "relevant": 2596
+  "relevant": 2594
  },
  "roles": [
   {
@@ -36544,30 +36544,6 @@
    "source": "simplify",
    "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185",
    "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "University of Texas at Austin",
-   "title": "Undergraduate Research Assistant Programmer",
-   "location": "Austin, TX",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "University of Texas at Austin",
-   "title": "Undergraduate Research Assistant",
-   "location": "Austin, TX",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Undergraduate-Research-Assistant_R_00044725",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
