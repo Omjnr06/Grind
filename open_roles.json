@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T19:00:23Z",
+ "generated_at": "2026-11-12T19:15:18Z",
  "counts": {
   "target": 595,
-  "relevant": 2599
+  "relevant": 2597
  },
  "roles": [
   {
@@ -28496,18 +28496,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Parabola",
-   "title": "Engineer Intern",
-   "location": "SF / NYC",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/parabola-io/ec64d31c-ca7e-4633-b279-1589c53d7eb0/application?embed=true",
-   "first_seen": "2026-11-11T23:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Paragon",
    "title": "Forward Deployed Engineer Intern",
    "location": "San Francisco, CA",
@@ -31684,18 +31672,6 @@
    "source": "simplify",
    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1",
    "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "S&P Global",
-   "title": "Product Management Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1",
-   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
