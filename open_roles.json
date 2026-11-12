@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T12:00:25Z",
+ "generated_at": "2026-11-12T12:15:16Z",
  "counts": {
   "target": 596,
-  "relevant": 2584
+  "relevant": 2585
  },
  "roles": [
   {
@@ -31024,6 +31024,18 @@
    "source": "simplify",
    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533",
    "first_seen": "2026-11-06T17:01:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Roche",
+   "title": "AI & Digitalisation Intern",
+   "location": "Welwyn, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162",
+   "first_seen": "2026-11-12T12:15:16Z"
   },
   {
    "tier": "B",
