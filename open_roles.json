@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T17:00:25Z",
+ "generated_at": "2026-11-12T17:15:17Z",
  "counts": {
   "target": 595,
-  "relevant": 2605
+  "relevant": 2604
  },
  "roles": [
   {
@@ -8056,18 +8056,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1p3",
    "first_seen": "2026-11-09T21:03:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altera",
-   "title": "FPGA IP Design Engineer Intern, PEY",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1wy",
-   "first_seen": "2026-11-12T15:45:18Z"
   },
   {
    "tier": "B",
