@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T19:00:24Z",
+ "generated_at": "2026-11-13T19:15:16Z",
  "counts": {
   "target": 594,
-  "relevant": 2616
+  "relevant": 2614
  },
  "roles": [
   {
@@ -10099,6 +10099,18 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "ASML",
+   "title": "EUV Data Science and Analytics Intern",
+   "location": "Austin, TX",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yZ",
+   "first_seen": "2026-11-13T19:15:16Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "ASML",
    "title": "Imaging Product Engineer Intern",
@@ -11044,18 +11056,6 @@
    "source": "simplify",
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Barclays",
-   "title": "Chief Client Office Intern, Client Data & Engineering Group",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/10x",
-   "first_seen": "2026-10-30T18:50:46Z"
   },
   {
    "tier": "B",
@@ -31341,18 +31341,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Roche",
-   "title": "Data Expert Intern - Compliance by Design - Data Capability",
-   "location": "Welwyn, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533",
-   "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Roche",
    "title": "AI & Digitalisation Intern",
    "location": "Welwyn, UK",
    "season": "",
@@ -32200,18 +32188,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17G",
    "first_seen": "2026-11-01T13:46:06Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Samsung Semiconductor",
-   "title": "Compiler Engineer Intern",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1yw",
-   "first_seen": "2026-11-13T07:15:16Z"
   },
   {
    "tier": "B",
