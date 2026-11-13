@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T23:02:25Z",
+ "generated_at": "2026-11-13T23:15:27Z",
  "counts": {
   "target": 587,
-  "relevant": 2603
+  "relevant": 2598
  },
  "roles": [
   {
@@ -11925,18 +11925,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Bombardier",
-   "title": "Developer Intern",
-   "location": "Mississauga, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Sn",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bombardier",
    "title": "Extended Reality Programmer Intern",
    "location": "Spring, TX / Fort Collins, CO / Austin, TX",
    "season": "Winter",
@@ -13228,42 +13216,6 @@
    "source": "simplify",
    "url": "https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009",
    "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Celestica",
-   "title": "Software Testing Intern",
-   "location": "Austin, TX",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/R0",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Celestica",
-   "title": "Software & Hardware Engineer Intern",
-   "location": "Austin, TX",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/R2",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Celestica",
-   "title": "SCM Data Analyst Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/R1",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -17529,12 +17481,12 @@
    "tier": "B",
    "track": "swe",
    "company": "F&G",
-   "title": "IT Software Engineer Intern - Summer",
+   "title": "Intern - IT Cloud Enablement - Summer - 2027",
    "location": "Remote - Des Moines, IA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7994868003",
    "first_seen": "2026-10-13T20:44:34Z"
   },
   {
@@ -20385,11 +20337,11 @@
    "tier": "B",
    "track": "swe",
    "company": "Hootsuite",
-   "title": "Software Developer Co-op Intern",
-   "location": "Toronto, ON, Canada / Vancouver, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
+   "title": "Co-op/Intern - Software Development - Winter 2027",
+   "location": "Toronto, Canada +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
    "first_seen": "2026-11-07T01:52:47Z"
   },
@@ -38043,18 +37995,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zipline",
-   "title": "Change Management Intern - Spring 2027",
-   "location": "South SF",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.zipline.com/open-roles/7990677003?gh_jid=7990677003",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
