@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T18:45:18Z",
+ "generated_at": "2026-11-13T19:00:24Z",
  "counts": {
   "target": 594,
-  "relevant": 2614
+  "relevant": 2616
  },
  "roles": [
   {
@@ -15058,11 +15058,11 @@
    "track": "swe",
    "company": "CoStar Group",
    "title": "Vision & Learning Intern",
-   "location": "Sunnyvale, CA",
-   "season": "Summer 2027",
+   "location": "Mississauga, Canada",
+   "season": "Summer",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yq",
    "first_seen": "2026-11-13T02:30:20Z"
   },
   {
@@ -15076,6 +15076,18 @@
    "source": "simplify",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CoStar Group",
+   "title": "Vision & Learning Intern",
+   "location": "Sunnyvale, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
+   "first_seen": "2026-11-13T02:30:20Z"
   },
   {
    "tier": "B",
@@ -16636,6 +16648,18 @@
    "source": "simplify",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822",
    "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "E2 Consulting Engineers",
+   "title": "Data Analyst Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yp",
+   "first_seen": "2026-11-13T01:15:17Z"
   },
   {
    "tier": "B",
