@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T00:30:27Z",
+ "generated_at": "2026-11-13T00:45:17Z",
  "counts": {
-  "target": 592,
-  "relevant": 2620
+  "target": 593,
+  "relevant": 2622
  },
  "roles": [
   {
@@ -5721,6 +5721,18 @@
    "tier": "A",
    "track": "swe",
    "company": "TikTok",
+   "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ym",
+   "first_seen": "2026-11-13T00:45:17Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
    "title": "Research Scientist Intern - TikTok Search / Generative AI - LLM",
    "location": "San Jose, CA",
    "season": "Summer 2027",
@@ -11140,6 +11152,30 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1w9",
    "first_seen": "2026-11-12T08:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yh",
+   "first_seen": "2026-11-13T00:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bask Health",
+   "title": "AI Engineering Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yi",
+   "first_seen": "2026-11-13T00:45:17Z"
   },
   {
    "tier": "B",
@@ -27731,10 +27767,10 @@
    "company": "Octant Bio",
    "title": "Software Engineering Intern",
    "location": "Emeryville, CA",
-   "season": "Summer 2027",
+   "season": "Summer",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.octant.bio/jobs?gh_jid=6260895004",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yg",
    "first_seen": "2026-11-13T00:15:16Z"
   },
   {
