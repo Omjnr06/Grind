@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T19:30:21Z",
+ "generated_at": "2026-11-13T19:45:18Z",
  "counts": {
   "target": 592,
   "relevant": 2598
@@ -9004,18 +9004,6 @@
    "source": "simplify",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007",
    "first_seen": "2026-10-09T20:05:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Ann & Robert H. Lurie Children\u2019s Hospital of Chicago",
-   "title": "Research Student Assistant-Behavioral Health Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/Research-Student-Assistant-Behavioral-Health_JR2026-2801",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -23061,18 +23049,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Kinaxis",
-   "title": "Developer Intern - Back End Technologies",
-   "location": "Ottawa, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kinaxis",
    "title": "Full Stack Developer Intern - C#",
    "location": "Ottawa, ON, Canada",
    "season": "Winter 2027",
@@ -30428,6 +30404,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Reliable Robotics Corporation",
+   "title": "Flight Software Engineer Intern",
+   "location": "Mountain View, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1z1",
+   "first_seen": "2026-11-13T19:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Relling",
    "title": "Robotics Software Engineering Intern",
    "location": "San Francisco, CA",
@@ -32008,6 +31996,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17G",
    "first_seen": "2026-11-01T13:46:06Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung Semiconductor",
+   "title": "SSD Firmware Development Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1z0",
+   "first_seen": "2026-11-13T19:45:18Z"
   },
   {
    "tier": "B",
