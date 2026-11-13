@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T15:00:25Z",
+ "generated_at": "2026-11-13T15:15:16Z",
  "counts": {
   "target": 595,
-  "relevant": 2633
+  "relevant": 2632
  },
  "roles": [
   {
@@ -37840,18 +37840,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1bl",
    "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Wells Fargo",
-   "title": "Software Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607",
-   "first_seen": "2026-11-05T08:43:29Z"
   },
   {
    "tier": "B",
