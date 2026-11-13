@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T22:15:16Z",
+ "generated_at": "2026-11-13T22:30:22Z",
  "counts": {
   "target": 588,
-  "relevant": 2599
+  "relevant": 2604
  },
  "roles": [
   {
@@ -9849,6 +9849,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Arcesium",
+   "title": "AI Transformation Intern",
+   "location": "New York",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007",
+   "first_seen": "2026-11-12T00:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Arcesium",
    "title": "Software Engineer Intern",
    "location": "New York City, NY",
    "season": "Not stated",
@@ -9880,18 +9892,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Arcesium",
-   "title": "Technology Operations Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007",
-   "first_seen": "2026-11-12T00:15:18Z"
   },
   {
    "tier": "B",
@@ -10000,6 +10000,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1yZ",
    "first_seen": "2026-11-13T19:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ASML",
+   "title": "Internship - EUV Data Science and Analytics",
+   "location": "Austin, TX, USA",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+   "first_seen": "2026-11-13T22:30:22Z"
   },
   {
    "tier": "B",
@@ -20318,8 +20330,8 @@
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865",
-   "first_seen": "2026-10-26T18:56:03Z"
+   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1",
+   "first_seen": "2026-10-16T16:49:19Z"
   },
   {
    "tier": "B",
@@ -30356,6 +30368,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Reliable Robotics",
+   "title": "Flight Software Engineer Intern (Summer 2027)",
+   "location": "Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
+   "first_seen": "2026-11-13T22:30:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Reliable Robotics Corporation",
    "title": "Flight Software Engineer Intern",
    "location": "Mountain View, CA",
@@ -31924,6 +31948,42 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
    "first_seen": "2026-11-13T08:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung",
+   "title": "Intern, AI Systems Performance Engineer",
+   "location": "San Jose, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
+   "first_seen": "2026-11-13T22:30:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung",
+   "title": "Intern, ML Compiler (Kernel Auto-Tuning)",
+   "location": "San Jose, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
+   "first_seen": "2026-11-13T22:30:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung",
+   "title": "Intern, SSD Firmware Development",
+   "location": "San Jose, California, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+   "first_seen": "2026-11-13T22:30:22Z"
   },
   {
    "tier": "B",
