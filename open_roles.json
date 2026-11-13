@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T22:30:22Z",
+ "generated_at": "2026-11-13T22:45:16Z",
  "counts": {
-  "target": 588,
-  "relevant": 2604
+  "target": 587,
+  "relevant": 2603
  },
  "roles": [
   {
@@ -6976,18 +6976,6 @@
    "source": "speedyapply",
    "url": "https://lifeattiktok.com/search/7668837276597127477",
    "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Visa",
-   "title": "Sophomore Program Software Engineer Intern",
-   "location": "Foster City, CA",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Vy",
-   "first_seen": "2026-10-27T13:09:29Z"
   },
   {
    "tier": "A",
@@ -15892,18 +15880,6 @@
    "source": "speedyapply_intl",
    "url": "https://meredith.wd5.myworkdayjobs.com/en-US/ext/job/Edmonton-AB---10160-103-St-NW/Cloud-Platform-Engineering-Intern_JR15684",
    "first_seen": "2026-09-30T19:15:02Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Dow Jones",
-   "title": "Data Analyst Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
