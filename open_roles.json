@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T18:30:31Z",
+ "generated_at": "2026-11-13T18:45:18Z",
  "counts": {
   "target": 594,
-  "relevant": 2617
+  "relevant": 2614
  },
  "roles": [
   {
@@ -13221,18 +13221,6 @@
    "tier": "B",
    "track": "swe",
    "company": "CareSource",
-   "title": "Software Engineer Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136",
-   "first_seen": "2026-11-13T00:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CareSource",
    "title": "Clinical Operations Business Analyst Intern",
    "location": "Remote in USA",
    "season": "Summer 2027",
@@ -23205,18 +23193,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Kinaxis",
-   "title": "Intern Developer - Back End Technologies",
-   "location": "Ottawa, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://kinaxis.jibeapply.com/jobs/35372?icims=1",
-   "first_seen": "2026-10-31T07:44:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kinaxis",
    "title": "Co-op/Intern Developer - Machine Learning",
    "location": "Remote",
    "season": "",
@@ -32728,18 +32704,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1bm",
    "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Shield AI",
-   "title": "Software Engineer Co-op Intern",
-   "location": "Seattle, WA / Washington, DC / Dallas, TX / San Diego, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply",
-   "first_seen": "2026-11-06T02:41:14Z"
   },
   {
    "tier": "B",
