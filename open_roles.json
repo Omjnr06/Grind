@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T01:15:17Z",
+ "generated_at": "2026-11-13T01:30:19Z",
  "counts": {
-  "target": 594,
-  "relevant": 2622
+  "target": 595,
+  "relevant": 2615
  },
  "roles": [
   {
@@ -664,6 +664,18 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
    "first_seen": "2026-10-08T02:53:58Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Security Engineer Internship \u2013 2027 (US)",
+   "location": "Seattle, Washington, USA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
+   "first_seen": "2026-09-23T00:27:58Z"
   },
   {
    "tier": "A",
@@ -10245,18 +10257,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Astera Labs",
-   "title": "Firmware Engineering Intern (Optical)",
-   "location": "San Jose, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738565005",
-   "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Astera Labs",
    "title": "CyberSecurity Engineer Intern",
    "location": "San Jose, CA",
    "season": "Not stated",
@@ -12604,18 +12604,6 @@
    "source": "simplify",
    "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Brex",
-   "title": "Software Engineer, Intern  (Summer 2027)",
-   "location": "San Francisco, California, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-   "first_seen": "2026-11-11T22:45:18Z"
   },
   {
    "tier": "B",
@@ -19065,30 +19053,6 @@
    "tier": "B",
    "track": "swe",
    "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-   "first_seen": "2026-10-14T21:40:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-   "first_seen": "2026-10-14T21:40:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
    "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
    "location": "Sunnyvale, California, United States of America",
    "season": "Summer 2027",
@@ -19389,18 +19353,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Gilead Sciences",
-   "title": "Intern - Research - Inflammation - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
-   "first_seen": "2026-09-29T06:56:02Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
    "title": "Intern - Research - Oncology Biomarker - AI",
    "location": "United States - California - Foster City",
    "season": "Not stated",
@@ -19408,18 +19360,6 @@
    "source": "zshah101",
    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587",
    "first_seen": "2026-09-25T22:16:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gilead Sciences",
-   "title": "Intern - Research - Protein Therapeutics, Computational Biologics Engineering - AI",
-   "location": "United States - California - Foster City",
-   "season": "Not stated",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739",
-   "first_seen": "2026-09-29T06:56:02Z"
   },
   {
    "tier": "B",
@@ -25627,18 +25567,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "Micron Technology",
-   "title": "Intern \u2013 Memory Systems Architecture & AI",
-   "location": "San Jose, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524",
-   "first_seen": "2026-09-29T01:14:48Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "Micron Technology",
    "title": "CMBU Product Management Intern",
@@ -26356,6 +26284,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
    "first_seen": "2026-10-15T18:18:56Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Muon Space",
+   "title": "Software Engineering Intern-Information Systems (Summer 2027)",
+   "location": "San Jose, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
+   "first_seen": "2026-11-12T23:45:16Z"
   },
   {
    "tier": "B",
@@ -32721,18 +32661,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Shield AI",
-   "title": "Software Engineer Intern - Summer 2027",
-   "location": "San Mateo, California",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036",
-   "first_seen": "2026-11-09T21:03:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Shield AI",
    "title": "Software Engineer Co-op Intern",
    "location": "Seattle, WA / Washington, DC / Dallas, TX / San Diego, CA",
    "season": "Summer 2027",
@@ -33201,7 +33129,7 @@
    "tier": "B",
    "track": "swe",
    "company": "Skydio",
-   "title": "Frontend Software Engineer Intern - Summer 2027",
+   "title": "Frontend Software Engineer Intern",
    "location": "San Mateo, California, United States",
    "season": "Summer 2027",
    "sponsorship": "unknown",
@@ -38396,18 +38324,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Zoetis",
-   "title": "AI Acceleration Intern - AI Development Lifecycle",
-   "location": "US Remote",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2",
-   "first_seen": "2026-11-09T21:03:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Zoox",
    "title": "Data Scientist Intern",
    "location": "Boston, MA / Foster City, CA",
@@ -38440,6 +38356,18 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
    "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "Data Scientist Intern [Summer 2027]",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+   "first_seen": "2026-11-13T01:30:19Z"
   },
   {
    "tier": "B",
