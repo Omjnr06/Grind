@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T21:30:22Z",
+ "generated_at": "2026-11-13T21:45:18Z",
  "counts": {
-  "target": 590,
-  "relevant": 2600
+  "target": 588,
+  "relevant": 2601
  },
  "roles": [
   {
@@ -628,18 +628,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Mg",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
-   "title": "Robotics Applied Scientist 2 Intern",
-   "location": "Seattle, WA / North Reading, MA / NYC / Bellevue, WA / Sunnyvale, CA / Westborough, MA",
-   "season": "Winter 2027, Spring 2027, Summer 2027, Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
-   "first_seen": "2026-10-28T23:30:45Z"
   },
   {
    "tier": "A",
@@ -4060,18 +4048,6 @@
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/287443",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Developer Intern - IT Apps",
-   "location": "Fremont, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/289683",
-   "first_seen": "2026-11-11T02:45:16Z"
   },
   {
    "tier": "A",
@@ -32272,6 +32248,18 @@
    "source": "simplify",
    "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160",
    "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Seaspan",
+   "title": "Data Engineering Intern",
+   "location": "North Vancouver, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1zc",
+   "first_seen": "2026-11-13T21:45:18Z"
   },
   {
    "tier": "B",
