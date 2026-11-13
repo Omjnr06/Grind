@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T18:00:25Z",
+ "generated_at": "2026-11-13T18:15:17Z",
  "counts": {
   "target": 594,
-  "relevant": 2618
+  "relevant": 2617
  },
  "roles": [
   {
@@ -14775,18 +14775,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Mt",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Coinbase",
-   "title": "Data Engineer Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Mv",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
