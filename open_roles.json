@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T07:00:24Z",
+ "generated_at": "2026-11-13T07:15:16Z",
  "counts": {
   "target": 596,
-  "relevant": 2627
+  "relevant": 2624
  },
  "roles": [
   {
@@ -11768,30 +11768,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "BlackRock",
-   "title": "Quantitative Master\u2019s Intern - Investments - Quantitative Investing",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "BlackRock",
-   "title": "Quantitative Master\u2019s Internship - Technology - Analytics & Modeling",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Blackstone",
    "title": "Blackstone Credit and Insurance \u2013 Quant and Portfolio Analytics Summer Analyst Intern",
    "location": "London, UK",
@@ -23132,18 +23108,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "KeyBank",
-   "title": "Marketing Analytics Intern",
-   "location": "Brooklyn, OH",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Keyrock",
    "title": "Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Trading",
    "location": "London, UK / Brussels, Belgium",
@@ -32312,6 +32276,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Samsung Semiconductor",
+   "title": "Compiler Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yw",
+   "first_seen": "2026-11-13T07:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "San Francisco Data",
    "title": "Engineer Intern",
    "location": "SF",
@@ -34431,18 +34407,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TD Bank",
-   "title": "Graduate Leadership Program Commercial Banking Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
