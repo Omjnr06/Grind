@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T23:45:16Z",
+ "generated_at": "2026-11-13T00:00:26Z",
  "counts": {
   "target": 592,
-  "relevant": 2605
+  "relevant": 2607
  },
  "roles": [
   {
@@ -10804,6 +10804,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Z0",
    "first_seen": "2026-10-29T16:03:48Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bank of Montreal",
+   "title": "AI Developer Co-op",
+   "location": "Toronto, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1y4",
+   "first_seen": "2026-11-13T00:00:26Z"
   },
   {
    "tier": "B",
@@ -26145,6 +26157,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Muon Space",
+   "title": "Software Engineer Intern, Information Systems",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1y6",
+   "first_seen": "2026-11-12T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Muon Space",
    "title": "Flight Software Engineering Intern (Summer 2027)",
    "location": "San Jose, CA",
    "season": "Summer 2027",
@@ -26164,18 +26188,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
    "first_seen": "2026-10-15T18:18:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Muon Space",
-   "title": "Software Engineer Intern - Information Systems",
-   "location": "San Jose, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
-   "first_seen": "2026-11-12T23:45:16Z"
   },
   {
    "tier": "B",
@@ -26860,6 +26872,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
    "first_seen": "2026-10-27T13:09:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "North Atlantic Industries",
+   "title": "Embedded Software Engineer Intern",
+   "location": "Bohemia, NY",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1y5",
+   "first_seen": "2026-11-13T00:00:26Z"
   },
   {
    "tier": "B",
