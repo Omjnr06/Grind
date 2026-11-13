@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T03:30:19Z",
+ "generated_at": "2026-11-13T03:45:17Z",
  "counts": {
   "target": 596,
-  "relevant": 2627
+  "relevant": 2626
  },
  "roles": [
   {
@@ -34228,18 +34228,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1qz",
    "first_seen": "2026-11-10T18:50:36Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tacit",
-   "title": "Data Scientist Intern",
-   "location": "SF",
-   "season": "Spring 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/tacit/561245bf-8341-45ba-802c-2fa8bb475da0/application?embed=true",
-   "first_seen": "2026-11-11T23:45:17Z"
   },
   {
    "tier": "B",
