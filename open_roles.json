@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T17:00:24Z",
+ "generated_at": "2026-11-13T17:15:18Z",
  "counts": {
-  "target": 595,
-  "relevant": 2619
+  "target": 594,
+  "relevant": 2620
  },
  "roles": [
   {
@@ -5716,18 +5716,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1k2",
    "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ym",
-   "first_seen": "2026-11-13T00:45:17Z"
   },
   {
    "tier": "A",
@@ -35584,6 +35572,18 @@
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7704912455690504453",
    "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+   "location": "Mount Holly, NC",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ym",
+   "first_seen": "2026-11-13T00:45:17Z"
   },
   {
    "tier": "B",
