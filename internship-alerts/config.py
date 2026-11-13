@@ -7,7 +7,7 @@ TIER_A_TARGETS = {
     "google", "spotify", "apple", "meta", "microsoft", "databricks", "intuit",
     "disney", "tesla", "tiktok", "visa", "amazon", "waymo",
     "wealthsimple", "shopify", "bloomberg", "ramp", "datadog", "plaid",
-    "cockroach labs", "unitedmasters",
+    "cockroach labs", "unitedmasters", "ibm",
 }
 
 COMPANY_ALIASES = {
@@ -21,6 +21,7 @@ COMPANY_ALIASES = {
     "unitedmasters": ["united masters"],
     "waymo": ["waymo llc"],
     "databricks": [],
+    "ibm": ["international business machines"],
 }
 
 LOCATION_PHRASES = [
