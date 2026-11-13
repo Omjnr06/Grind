@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T20:00:23Z",
+ "generated_at": "2026-11-13T20:15:17Z",
  "counts": {
-  "target": 592,
-  "relevant": 2598
+  "target": 590,
+  "relevant": 2599
  },
  "roles": [
   {
@@ -5025,18 +5025,6 @@
    "tier": "A",
    "track": "swe",
    "company": "TikTok",
-   "title": "Software Engineer Intern, Privacy and Security",
-   "location": "Remote / Carmel, IN",
-   "season": "Summer",
-   "sponsorship": "Offers Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/6l",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
    "title": "Software Engineer Intern, TikTok-Social-Friending",
    "location": "San Francisco, CA",
    "season": "Summer",
@@ -5595,18 +5583,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/18h",
-   "first_seen": "2026-11-01T13:46:06Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern, Visual Search",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/18j",
    "first_seen": "2026-11-01T13:46:06Z"
   },
   {
@@ -15064,6 +15040,18 @@
    "source": "simplify",
    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801",
    "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CrowdStrike",
+   "title": "Insider Risk Engineering Intern",
+   "location": "Arlington, VA / Redmond, WA / Sunnyvale, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1z6",
+   "first_seen": "2026-11-13T20:15:17Z"
   },
   {
    "tier": "B",
