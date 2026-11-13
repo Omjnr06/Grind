@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T16:30:35Z",
+ "generated_at": "2026-11-13T16:45:24Z",
  "counts": {
   "target": 595,
-  "relevant": 2620
+  "relevant": 2618
  },
  "roles": [
   {
@@ -19017,30 +19017,6 @@
    "tier": "B",
    "track": "swe",
    "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-   "first_seen": "2026-10-14T21:40:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-   "first_seen": "2026-10-14T21:40:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Motors",
    "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
    "location": "Sunnyvale, California, United States of America",
    "season": "Summer 2027",
@@ -38037,11 +38013,11 @@
    "tier": "B",
    "track": "swe",
    "company": "WTW",
-   "title": "Data Analyst Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
+   "title": "Early Careers: Data Analyst Internship",
+   "location": "New York, NY, United States",
+   "season": "Not stated",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277",
    "first_seen": "2026-11-13T16:15:17Z"
   },
