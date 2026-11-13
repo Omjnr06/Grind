@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T16:00:28Z",
+ "generated_at": "2026-11-13T16:15:17Z",
  "counts": {
   "target": 595,
-  "relevant": 2619
+  "relevant": 2620
  },
  "roles": [
   {
@@ -18236,6 +18236,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Fonds de solidarit\u00e9 FTQ",
+   "title": "Business Intelligence and M365 Solutions Intern",
+   "location": "Montreal, QC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874",
+   "first_seen": "2026-11-13T16:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Formulary Financial",
    "title": "Software Engineering Intern",
    "location": "New York City (4 days on-site)",
@@ -33331,18 +33343,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "Snowflake",
-   "title": "Product Management Intern",
-   "location": "Menlo Park, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true",
-   "first_seen": "2026-10-30T22:43:21Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "Snowflake",
    "title": "Software Engineer Intern, Database Engineering",
@@ -38032,6 +38032,18 @@
    "source": "simplify",
    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "WTW",
+   "title": "Data Analyst Intern",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277",
+   "first_seen": "2026-11-13T16:15:17Z"
   },
   {
    "tier": "B",
