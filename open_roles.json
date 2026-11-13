@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T06:00:24Z",
+ "generated_at": "2026-11-13T06:15:17Z",
  "counts": {
   "target": 596,
-  "relevant": 2626
+  "relevant": 2627
  },
  "roles": [
   {
@@ -10724,6 +10724,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Aurora Innovation",
+   "title": "Software Engineer Intern, Vehicle Platforms",
+   "location": "Mountain View, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yu",
+   "first_seen": "2026-11-13T06:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Auto-Owners Insurance",
    "title": "Software Engineer Intern",
    "location": "Bellevue, WA",
@@ -13946,7 +13958,7 @@
    "season": "Winter 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544",
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1",
    "first_seen": "2026-10-30T22:43:21Z"
   },
   {
