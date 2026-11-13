@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T10:00:23Z",
+ "generated_at": "2026-11-13T10:15:19Z",
  "counts": {
-  "target": 597,
-  "relevant": 2637
+  "target": 595,
+  "relevant": 2636
  },
  "roles": [
   {
@@ -4881,18 +4881,6 @@
    "tier": "A",
    "track": "swe",
    "company": "TikTok",
-   "title": "Client Solutions Intern - Global Business Solutions",
-   "location": "Austin, TX",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://lifeattiktok.com/search/7684623688945961221",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
    "title": "Machine Learning Engineer Intern, Search Quality",
    "location": "Burbank, CA / Remote / United States",
    "season": "Summer",
@@ -4983,18 +4971,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7677467375486765317",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Client Solutions Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://lifeattiktok.com/search/7684622182248548661",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -26896,18 +26872,6 @@
    "source": "speedyapply_intl",
    "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1",
    "first_seen": "2026-10-13T20:44:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NERv Technology Inc. D.B.A. FluidAI Medical",
-   "title": "Data and AI Engineering Associate",
-   "location": "Kitchener, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
