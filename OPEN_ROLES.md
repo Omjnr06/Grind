@@ -1,6 +1,6 @@
-# Open roles board — 2026-11-12
+# Open roles board — 2026-11-13
 
-**595 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
+**594 target-company roles open.** Real-time pings cover new drops; this board is the full standing list so nothing gets lost.
 
 ## UK Programs & Visa
 - **UK Youth Mobility Scheme (visa)** — Apply yourself — 2yr UK work visa, no employer sponsorship (Canadian, 18-35).  
@@ -90,6 +90,9 @@
 - **Amazon** — Software Development Engineer Intern - Summer 2027 - CAN  
   Vancouver, Canada · term n/a · [speedyapply_intl]  
   https://www.amazon.jobs/jobs/10553947/apply
+- **Amazon** — Security Engineer Intern  
+  Seattle, WA · Fall · [vanshb03]  
+  https://go.vansh.nyc/1yo
 - **[UK] Amazon** — Software Development Engineer Apprentice  
   Edinburgh, UK · Fall 2027 · [simplify]  
   https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract
@@ -177,6 +180,9 @@
 - **Amazon** — Data Engineer Internship - 2027 (US)  
   Seattle, Washington, USA · Summer 2027 · [zshah101]  
   https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us
+- **Amazon** — Security Engineer Internship – 2027 (US)  
+  Seattle, Washington, USA · Summer 2027 · [zshah101]  
+  https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us
 - **Amazon** — Software Development Engineer Intern, AWS Database - 2027 (US)  
   Seattle, Washington, USA · Summer 2027 · [zshah101]  
   https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
@@ -858,6 +864,9 @@
 - **Microsoft** — Research Intern - Data Systems  
   Redmond, WA · term n/a · [simplify]  
   https://apply.careers.microsoft.com/careers/job/1970393557008574
+- **Microsoft** — Applied Scientist Intern  
+  Redmond, WA · term n/a · [simplify]  
+  https://apply.careers.microsoft.com/careers/job/1970393556986141
 - **Microsoft** — Research Intern - Document Intelligence and Content Understanding  
   Redmond, WA · term n/a · [simplify]  
   https://apply.careers.microsoft.com/careers/job/1970393557037649
@@ -882,9 +891,6 @@
 - **Microsoft** — Research Intern - Machine Learning and Optimization  
   Redmond, WA · term n/a · [simplify]  
   https://apply.careers.microsoft.com/careers/job/1970393557049981
-- **Microsoft** — Applied Scientist Intern  
-  Redmond, WA · term n/a · [simplify]  
-  https://apply.careers.microsoft.com/careers/job/1970393557050150
 - **Microsoft** — Research Intern - Coding Agents & Post-Training Optimization  
   Redmond, WA · term n/a · [simplify]  
   https://apply.careers.microsoft.com/careers/job/1970393557053024
@@ -1248,6 +1254,9 @@
 - **TikTok** — Machine Learning Engineer Intern - E-Commerce User Growth  
   San Jose, CA · term n/a · [simplify]  
   https://lifeattiktok.com/search/7694354937320868149
+- **TikTok** — Research Scientist Intern - Content Ecology - Local Services  
+  San Jose, CA · term n/a · [simplify]  
+  https://lifeattiktok.com/search/7707222170826623285
 - **TikTok** — Site Reliability Engineer Intern - Global SRE - 2027 Summer  
   San Jose, CA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7670874691332212997
@@ -1266,12 +1275,12 @@
 - **TikTok** — Platform Campaign Project Intern  
   Seattle, WA · term n/a · [simplify]  
   https://lifeattiktok.com/search/7706422460086159669
+- **TikTok** — Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer  
+  Seattle, WA · term n/a · [speedyapply]  
+  https://lifeattiktok.com/search/7670700387322300677
 - **TikTok** — Software Development Engineer Intern - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Summer  
   Seattle, WA · term n/a · [speedyapply]  
   https://lifeattiktok.com/search/7668837276597127477
-- **TikTok** — Software Engineer Project Intern - Global E-Commerce Search Infrastructure - 2026 Start  
-  Seattle, WA · term n/a · [speedyapply]  
-  https://lifeattiktok.com/search/7662594807715072261
 - **[UK] TikTok** — Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure  
   Mountain View, CA / Ann Arbor, MI / Atlanta, GA / Austin, TX / Boulder, CO / Cambridge, MA / Chicago, IL / Houston, TX / Irvine, CA / Kirkland, WA / Los Angeles, CA / Madison, WI / New York, NY / Palo Alto, CA / Princeton, NJ / Pittsburgh, PA / Raleigh, NC / Durham, NC / Goleta, CA / San Bruno, CA / Seattle, WA / San Francisco, CA / San Jose, CA / Sunnyvale, CA / Washington, DC · Fall · [vanshb03]  
   https://go.vansh.nyc/18x
@@ -1473,18 +1482,12 @@
 - **TikTok** — Backend Software Engineer Intern, Global E-Commerce  
   Seattle, WA · Summer · [vanshb03]  
   https://go.vansh.nyc/67
-- **TikTok** — Client Solutions Intern - Global Business Solutions  
-  Austin, TX · Summer 2027 · [simplify]  
-  https://lifeattiktok.com/search/7684623688945961221
 - **[UK] TikTok** — Data Analyst Intern - LIVE  
   London, UK · Summer 2027 · [simplify]  
   https://lifeattiktok.com/search/7674944387893791029
 - **TikTok** — Client Solutions Intern - Global Business Solutions  
   NYC · Summer 2027 · [simplify]  
   https://lifeattiktok.com/search/7677467375486765317
-- **TikTok** — Client Solutions Intern  
-  NYC · Summer 2027 · [simplify]  
-  https://lifeattiktok.com/search/7684622182248548661
 - **TikTok** — Research Scientist Intern - TikTok Search / Generative AI - LLM  
   San Jose, CA · Summer 2027 · [simplify]  
   https://lifeattiktok.com/search/7629250876813642037
@@ -1689,6 +1692,9 @@
 - **TikTok** — Software Engineer Intern - TikTok Search  
   San Jose, CA · Summer 2027 · [simplify]  
   https://lifeattiktok.com/search/7704696088079010053
+- **TikTok** — Machine Learning Scientist Intern - Local Services  
+  San Jose, CA · Summer 2027 · [simplify]  
+  https://lifeattiktok.com/search/7703925583541979445
 - **TikTok** — Research Scientist Intern - Trust and Safety  
   Seattle, WA · Summer 2027 · [simplify]  
   https://lifeattiktok.com/search/7662672903447988485
@@ -1713,9 +1719,6 @@
 - **TikTok** — Machine Learning Engineer Intern - Search  
   Seattle, WA · Summer 2027 · [simplify]  
   https://lifeattiktok.com/search/7668396597746862341
-- **TikTok** — Fullstack Software Engineer Intern - Global E-Commerce  
-  Seattle, WA · Summer 2027 · [simplify]  
-  https://lifeattiktok.com/search/7670700387322300677
 - **[PM] TikTok** — Product Manager Intern - Ads Interface and Platform  
   Seattle, WA · Summer 2027 · [simplify]  
   https://lifeattiktok.com/search/7672569081632229685
@@ -1773,18 +1776,12 @@
 - **Visa** — Software Engineer Intern  
   Mountain View, CA · Summer · [vanshb03]  
   https://go.vansh.nyc/Vz
-- **Visa** — Software Engineer Intern  
-  San Jose, CA / Folsom, CA · Summer · [vanshb03]  
-  https://go.vansh.nyc/Xf
 - **Visa** — Business Strategy Intern, Data and AI Team - Summer 2027  
   US - Foster City, CA · Summer 2027 · [zshah101]  
   https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2
 - **Visa** — Data Science Intern, Data and AI Team – Summer 2027  
   US - Foster City, CA · Summer 2027 · [zshah101]  
-  https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1
-- **Visa** — Software Engineer, Intern - 2027 Foster City, CA  
-  US - Foster City, CA · Summer 2027 · [zshah101]  
-  https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W
+  https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-3
 - **Waymo** — Scenes Intern  
   Mountain View, CA · Summer · [vanshb03]  
   https://go.vansh.nyc/IK
@@ -1795,7 +1792,7 @@
   Mountain View, California, United States; San Francisco, California, United States · Summer 2027 · [zshah101]  
   https://careers.withwaymo.com/jobs?gh_jid=8174099
 
-## Other relevant (2597)
+## Other relevant (2616)
 - 10a Labs — Engineering Fellow — SF · term n/a  
   https://job-boards.greenhouse.io/10alabs/jobs/4203095009
 - 1Password — Developer Intern, Vault Team — Remote / United States / Canada · Winter  
@@ -1814,6 +1811,8 @@
   https://go.vansh.nyc/Mn
 - AArete — Data Architecture & Engineering Intern — Chicago, IL · Summer 2027  
   https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false
+- AB InBev — Technology Intern — Toronto, ON, Canada · Summer 2027  
+  https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805
 - ABB — AI Robotics Intern- Fall 2026 — Milpitas, California, USA · Fall 2026  
   https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846
 - ABB — AI Robotics UI/UX Intern- Fall 2026 — Milpitas, California, USA · Fall 2026  
@@ -1822,8 +1821,6 @@
   https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1
 - ABB — R&D Software Engineer Intern — Vancouver, Canada · Summer  
   https://go.vansh.nyc/gz
-- AbbVie — 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) — North Chicago, IL, United States (Hybrid) · Summer 2027  
-  https://jobs.smartrecruiters.com/AbbVie/3743990014697918
 - Abundant — Research Intern Fellow — SF · term n/a  
   https://jobs.ashbyhq.com/abundant/4da99916-c29b-49a2-8e2d-1964b1838e11/application?embed=true
 - Abundant — Research Intern Fellow — San Francisco, CA · Summer  
@@ -1860,6 +1857,8 @@
   https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519
 - Adobe — Software Engineer Intern — Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT · Summer 2027  
   https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666
+- [UK] Adobe — Research Scientist Intern — London, UK · Winter 2027  
+  https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345
 - ADT — Technology & Engineering Intern — San Francisco, CA · Summer  
   https://go.vansh.nyc/12y
 - AECOM — Internship and Entry-Level Graduate Opportunities - Fall 2026 SU Engineering & Computer Science, iSchool, and Architecture Career Fair — Syracuse, NY, United States (Hybrid) · Fall 2026  
@@ -1954,6 +1953,8 @@
   https://go.vansh.nyc/ZA
 - Altera — FPGA Design Verification Intern — Toronto, Canada · Summer  
   https://go.vansh.nyc/1p3
+- Altera — FPGA IP Design Engineer Intern, PEY — Toronto, Canada · Summer  
+  https://go.vansh.nyc/1wy
 - Altera — Quartus User Interface Intern — Toronto, ON, Canada · Summer  
   https://go.vansh.nyc/d2
 - Altice USA — Developer Intern - Financial & People Systems — Bethpage, NY · Winter 2027  
@@ -2150,12 +2151,12 @@
   https://jobs.apple.com/en-us/details/200687209-1731
 - Apple — Internship - Software Engineering — Munich, Germany · term n/a  
   https://jobs.apple.com/en-us/details/200690139-1731
-- Apple — Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test — Munich, Germany · term n/a  
-  https://jobs.apple.com/en-us/details/200689729-1731
-- Apple — Modeling Software Intern — Munich, Germany · term n/a  
-  https://jobs.apple.com/en-us/details/200690119-1731
 - Apple — Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation - WTE — Munich, Germany · term n/a  
   https://jobs.apple.com/en-us/details/200689711-1731
+- Apple — Modeling Software Intern — Munich, Germany · term n/a  
+  https://jobs.apple.com/en-us/details/200690119-1731
+- Apple — Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test — Munich, Germany · term n/a  
+  https://jobs.apple.com/en-us/details/200689729-1731
 - apple — ai/ml internship: self-improving ai agents for cybersecurity, sear — paris, île-de-france, france · term n/a  
   https://www.linkedin.com/jobs/view/4479920193
 - apple — internship - machine learning research — paris, île-de-france, france · term n/a  
@@ -2324,8 +2325,6 @@
   https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005
 - Astera Labs — Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software — Vancouver, BC, Canada · term n/a  
   https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005
-- Astera Labs — Firmware Engineering Intern (Optical) — San Jose, CA · Not stated  
-  https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738565005
 - Astera Labs — CyberSecurity Engineer Intern — San Jose, CA · Not stated  
   https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005
 - Astera Labs — SG&A AI Implementation Intern — San Jose, CA · Not stated  
@@ -2390,6 +2389,8 @@
   https://job-boards.greenhouse.io/atoms/jobs/8356071002
 - [UK] aurora energy research — graduate software engineering programme (oxford, 2027) — oxford, england, united kingdom · term n/a  
   https://www.linkedin.com/jobs/view/4471994808
+- Aurora Innovation — Software Engineer Intern, Vehicle Platforms — Mountain View, CA · Summer  
+  https://go.vansh.nyc/1yu
 - Auto-Owners Insurance — Software Engineer Intern — Bellevue, WA · Summer  
   https://go.vansh.nyc/gh
 - Auto-Owners Insurance — Predictive Modeler Intern — Vancouver, Canada · Summer  
@@ -2418,12 +2419,14 @@
   https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657
 - Bank of Montreal — Quantitative Analyst Co-op Intern — Toronto, ON, Canada · Summer 2027  
   https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1
+- Bank of Montreal — AI Developer Co-op — Toronto, Canada · Winter  
+  https://go.vansh.nyc/1y4
 - Bank of Montreal — UX/UI Designer Co-op Intern — Toronto, ON, Canada · Winter 2027  
   https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951
-- Bank of Montreal — Technology Research Associate Co-op Intern — Toronto, ON, Canada · Winter 2027  
-  https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978
 - Bank of Montreal — Data Analyst Co-op Intern — Toronto, ON, Canada · Winter 2027  
   https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973
+- Bank of Montreal — AI Developer Co-op Intern — Toronto, ON, Canada · Winter 2027  
+  https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323
 - [UK] Barclays — 2027 Technology Developer Summer Internship Programme London — Canary Wharf, United Kingdom · term n/a  
   https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397
 - [UK] Barclays — 2027 Technology Developer Summer Internship Programme Glasgow — Glasgow, United Kingdom · term n/a  
@@ -2446,8 +2449,6 @@
   https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782
 - [UK] Barclays — Technology Developer Intern - Programme — Northampton, UK · Summer 2027  
   https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379
-- Barclays — Client Data & Engineering Group Summer Intern - Chief Client Office — NYC · Summer 2027  
-  https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731
 - Base Power — Software Engineering Intern — Austin, TX · Not stated  
   https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc
 - Base Power — Firmware Engineering Intern — Austin, TX · Not stated  
@@ -2474,6 +2475,12 @@
   https://apply.workable.com/bask-health-1/j/24DD93E3BA/apply
 - Bask Health — Frontend Engineer Intern - Frontend Engineering — Remote in USA · term n/a  
   https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply
+- Bask Health — Machine Learning Engineer Intern — Remote in USA · term n/a  
+  https://apply.workable.com/bask-health-1/j/71AEBBCADE/apply
+- Bask Health — AI Engineering Intern — Remote in USA · term n/a  
+  https://apply.workable.com/bask-health-1/j/F0E122E877/apply
+- Bask Health — Machine Learning Engineering Intern — United States (Remote) · Not stated  
+  https://apply.workable.com/bask-health-1/j/71AEBBCADE/
 - Bask Health — Backend Engineering Intern — United States (Remote) · Not stated  
   https://apply.workable.com/bask-health-1/j/98DB106D88/
 - Bask Health — Frontend Engineering Intern — United States (Remote) · Not stated  
@@ -2482,6 +2489,8 @@
   https://apply.workable.com/bask-health-1/j/9D7E69054E/
 - Bask Health — Software Engineering Intern — United States (Remote) · Not stated  
   https://apply.workable.com/bask-health-1/j/E81C7F7D3B/
+- Bask Health — AI Engineering Intern — United States (Remote) · Not stated  
+  https://apply.workable.com/bask-health-1/j/F0E122E877/
 - Bask Health — Software Engineer Intern — Remote / United States · Summer  
   https://go.vansh.nyc/1vw
 - Bask Health — Backend Engineer Intern — Remote / United States · Summer  
@@ -2492,6 +2501,10 @@
   https://go.vansh.nyc/1w8
 - Bask Health — Frontend Engineer Intern, Frontend Engineering — Remote / United States · Summer  
   https://go.vansh.nyc/1w9
+- Bask Health — Machine Learning Engineer Intern — Remote / United States · Summer  
+  https://go.vansh.nyc/1yh
+- Bask Health — AI Engineering Intern — Remote / United States · Summer  
+  https://go.vansh.nyc/1yi
 - Bedrock Robotics — Simulation Engineer Intern - Neural Rendering — SF · term n/a  
   https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc/application?embed=true
 - Bedrock Robotics — 2027 Internship Software Engineer, Fleet Platform — New York City, NY · Summer 2027  
@@ -2540,18 +2553,8 @@
   https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002
 - BlackRock — Summer Internship Program, AMERS (all tracks) — New York, NY (multiple US) · term n/a  
   https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544
-- [UK] BlackRock — Quantitative Master's Intern - Investments - Quantitative Investing — London, UK · Summer 2027  
-  https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465
-- BlackRock — Quantitative Master’s Intern - Investments - Quantitative Investing — NYC · Summer 2027  
-  https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473
 - BlackRock — Quantitative Master’s Intern - Investments - Global Capital Markets — NYC · Summer 2027  
   https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468
-- BlackRock — Quantitative Masters Intern - Technology - Analytics & Modeling — NYC · Summer 2027  
-  https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477
-- BlackRock — Quantitative Master’s Intern - Investments - Quantitative Investing — SF · Summer 2027  
-  https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474
-- BlackRock — Quantitative Master’s Internship - Technology - Analytics & Modeling — SF · Summer 2027  
-  https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476
 - [UK] Blackstone — Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern — London, UK · Summer 2027  
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819
 - [UK] Blackstone — Software Engineer Summer Analyst - Technology and Innovations — London, UK · Summer 2027  
@@ -2574,10 +2577,10 @@
   https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216
 - Blue Origin — Avionics Software Intern (Spring 2027) — Seattle, WA (multiple US) · term n/a  
   https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213
-- Blue Origin — Summer 2027 Avionics Software Internship - Graduate — Seattle, WA +2 · term n/a  
-  https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423
 - Blue Origin — Summer 2027 Software Developer Internship - Undergraduate — Seattle, WA +2 · term n/a  
   https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425
+- Blue Origin — Summer 2027 Avionics Software Internship - Graduate — Seattle, WA +2 · term n/a  
+  https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423
 - Blue Origin — Summer 2027 Avionics Software Internship - Undergraduate — Seattle, WA +3 · term n/a  
   https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424
 - Blue Origin — Summer 2027 Software Developer Internship - Graduate — Seattle, WA +3 · term n/a  
@@ -2622,6 +2625,8 @@
   https://jobs.smartrecruiters.com/BoschGroup/744000154759734
 - Bosch — Agentic AI R&D Intern — Sunnyvale, CA, United States · Not stated  
   https://jobs.smartrecruiters.com/BoschGroup/744000157483412
+- Bosch — AI Research Intern – Time Series Foundation Models — Sunnyvale, California, United States · Not stated  
+  https://jobs.smartrecruiters.com/BoschGroup/744000161339309
 - Bosch — AI Research Intern, Wireless Foundation Models — San Francisco, CA / New York, NY · Summer  
   https://go.vansh.nyc/be
 - Bosch — Robotics Research Intern — Sunnyvale, CA · Summer  
@@ -2690,8 +2695,6 @@
   https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591
 - Brevan Howard — Execution Research Intern - Systematic Execution Research — NYC · Summer 2027  
   https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595
-- Brex — Software Engineer, Intern  (Summer 2027) — San Francisco, California, United States · Summer 2027  
-  https://www.brex.com/careers/8936403002?gh_jid=8936403002
 - Bridge Neurotech — Machine Learning Software Engineer Intern — Redwood City, CA · term n/a  
   https://jobs.ashbyhq.com/bridgeneurotech/50041fa1-417b-4269-8675-8c8746ed93bf/application?embed=true
 - Broadridge — Technology Intern — New York, NY / Edgewood, NY / Newark, NJ · Summer  
@@ -2768,6 +2771,8 @@
   https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995820101
 - Canadian Tire — Business Operations Analyst Student - Winter 2027 — Welland, ON, Canada · term n/a  
   https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928
+- [UK] Cantor Fitzgerald — Technology Summer Internship - Development — London, UK · Summer 2027  
+  https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537
 - Capital de Recherche Tower — Software Developer Intern — Montreal, Canada · Summer  
   https://go.vansh.nyc/1t0
 - Capital de Recherche Tower — Machine Learning Intern — Montreal, Canada · Summer  
@@ -2800,8 +2805,12 @@
   https://go.vansh.nyc/1js
 - CareSource — Software Engineer Intern — Remote / United States · Summer  
   https://go.vansh.nyc/1wz
-- CareSource — Configuration and Automation Intern — Remote in USA · Summer 2027  
-  https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Configuration-and-Automation_R14185
+- CareSource — Summer Internship Program – Provider Analytics AI Intern — Remote in USA · Summer 2027  
+  https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481
+- CareSource — Clinical Operations Business Analyst Intern — Remote in USA · Summer 2027  
+  https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353
+- CarGurus — Data Analytics Engineer Intern — San Mateo, CA · Summer  
+  https://go.vansh.nyc/1xc
 - CARIAD — Engineer 1 Intern - VLA Model Development — Mountain View, CA · term n/a  
   https://job-boards.greenhouse.io/cariadinc/jobs/5462798008
 - CARIAD — Engineer 1 Intern, VLA Planning and Control Deployment — Mountain View, CA · Summer  
@@ -2810,8 +2819,6 @@
   https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009
 - Castleton Commodities International — Data Engineering Intern — Stamford, CT / Houston, TX / New York City, NY · Summer  
   https://go.vansh.nyc/5v
-- [UK] Castleton Commodities International — Data Science Machine Learning Intern — London, UK · Summer 2027  
-  https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345
 - Category Labs — Research Intern — NYC · Summer 2027  
   https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true
 - Cboe Global Markets — Software Engineer Intern — Chicago, IL +2 · term n/a  
@@ -2908,8 +2915,6 @@
   https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2
 - CIBC — Application/Software Developer Co-op - Capital Markets Technology — Toronto, ON, Canada · Winter 2027  
   https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523
-- CIBC — Project Analyst Co-op — Toronto, ON, Canada · Winter 2027  
-  https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544
 - Ciena — Stagiaire en développement logiciel - Software developer Intern/Co-op — Remote - Canada · term n/a  
   https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046
 - Ciena — Software Developer Intern — Montreal, Canada · Winter  
@@ -2940,6 +2945,8 @@
   https://go.vansh.nyc/1cq
 - Cintas — IT Engineer Intern, Customer Channels — Foster City, CA · Summer  
   https://go.vansh.nyc/1jw
+- Cintas — IT OT Software Engineer Intern — Montreal, Canada · Summer  
+  https://go.vansh.nyc/1yj
 - Circleback — Software Engineering Intern (Summer 2027) — San Francisco, CA · term n/a  
   https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027
 - Circleback — Software Engineer Intern — SF · Summer 2027  
@@ -2980,16 +2987,12 @@
   https://go.vansh.nyc/Zg
 - Cisive — Software Developer Intern — Remote / United States · Summer  
   https://go.vansh.nyc/SB
-- [UK] Citadel — Software Engineer - Intern - Europe — London, United Kingdom · term n/a  
-  https://www.citadel.com/careers/details/software-engineer-intern-europe/
 - Citadel — Software Engineer Intern — New York, NY / Greenwich, CT / Miami, FL / Houston, TX · Summer  
   https://go.vansh.nyc/3a
 - Citadel — Sector Data Scientist Intern — NYC · Summer 2027  
   https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/
 - [UK] Citadel Securities — Software Engineer - Intern - Europe — London, United Kingdom · term n/a  
   https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/
-- [UK] [PM] Citco — Product Intern — London, UK · term n/a  
-  https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19073
 - Citco — Software Engineer Intern — Toronto, ON, Canada · term n/a  
   https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964
 - Citi — Technology Analyst Intern, Application Development — Jersey City, NJ / New York, NY · Summer  
@@ -3010,16 +3013,14 @@
   https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301
 - Clarios — IT Digital/AI Intern — Remote / United States / Canada · Summer  
   https://go.vansh.nyc/1qy
-- [PM] Clasp — Product and Operations Intern — NYC · term n/a  
-  https://jobs.ashbyhq.com/clasp/43f4eb5d-f990-43b9-959f-70e6f0158246/application?embed=true
 - Clay — Software Engineering Intern — New York City, NY · Not stated  
   https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa
 - Clearwater Analytics — Software Development Intern — Chicago, IL · term n/a  
-  https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187
+  https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186
 - [UK] Clearwater Analytics — Software Development Intern — London, United Kingdom · term n/a  
   https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---London/Software-Development-Intern_R12096
 - Clearwater Analytics — Quant Developer Intern — New York City, NY · term n/a  
-  https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12182
+  https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12183
 - Clerkie — Software Engineer Internship — Remote · term n/a  
   http://getfiber.ai/careers?gh_jid=5225258007
 - Clio — Software Developer Co-op — Toronto, ON, Canada / Calgary, AB, Canada / Vancouver, BC, Canada · Fall 2026, Winter 2026, Spring 2027  
@@ -3034,6 +3035,8 @@
   https://boards.greenhouse.io/cloudflare/jobs/8274790
 - Cloudflare — Software Engineer Intern — Austin, TX · Winter 2027, Spring 2027, Summer 2027  
   https://boards.greenhouse.io/cloudflare/jobs/8199958
+- CME Group — Software Engineering Fellow — Chicago, IL · term n/a  
+  https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Fellowship---Summer-2027_34824
 - CNA Insurance — Technology Internship Program - Software Engineering — Chicago, IL · term n/a  
   https://cna.wd1.myworkdayjobs.com/en-US/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107
 - CNA Insurance — Software Engineering Intern, Technology — Chicago, IL · Summer  
@@ -3052,8 +3055,6 @@
   https://go.vansh.nyc/Mu
 - Coinbase — Analytics Engineer Intern — San Francisco, CA · Summer  
   https://go.vansh.nyc/Mt
-- Coinbase — Data Engineer Intern — San Francisco, CA · Summer  
-  https://go.vansh.nyc/Mv
 - Coinbase — Software Engineer Intern — San Francisco, CA · Summer  
   https://go.vansh.nyc/Mw
 - Coinbase — Data Science Intern — Hybrid - New York, NY · Summer 2027  
@@ -3114,6 +3115,10 @@
   https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866
 - [PM] CoStar Group — Associate Product Manager — Sunnyvale, CA · term n/a  
   https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946
+- CoStar Group — Vision & Learning Intern — Mississauga, Canada · Summer  
+  https://go.vansh.nyc/1yq
+- CoStar Group — Vision & Learning Intern — Sunnyvale, CA · Summer 2027  
+  https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196
 - Courier Health — Software Engineering Intern (Summer 2027) — New York, New York, United States · Summer 2027  
   https://job-boards.greenhouse.io/courierhealth/jobs/5258913007
 - Coveo — Software Developer Intern, Solutions Engineering Core Team — Montreal, Canada · Winter  
@@ -3126,6 +3131,8 @@
   https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1
 - CrowdStrike — Sales Data Analytics Intern — Arlington County, Arlington, VA / Sunnyvale, CA · Summer 2027  
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801
+- [UK] CrowdStrike — Intelligence Launch Intern — London, UK / Reading, UK · Summer 2027  
+  https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500
 - Crowe — Data Analytics Developer Intern — Chicago, IL · term n/a  
   https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041
 - Crowe — Cybersecurity Intern — Chicago, IL / Indianapolis, IN / Dallas, TX / New York, NY · Summer  
@@ -3232,6 +3239,8 @@
   https://jobs.gusto.com/postings/diverse-health-software-and-product-development-engineer-intern-9c12f3ae-1d49-4a51-99d7-d88d0a6cb820
 - [UK] Diversified Energy — Information Technology Intern — Birmingham, AL · Summer 2027  
   https://careers.div.energy/jobs/2734?icims=1
+- [UK] Diversified Gas & Oil Corporation — Information Technology Intern — Birmingham, AL · Summer  
+  https://go.vansh.nyc/1xe
 - Docusign — Software Engineer Intern — Chicago, IL · term n/a  
   https://careers.docusign.com/jobs/30470?icims=1
 - DocuSign — Software Engineer Intern — Seattle, WA · term n/a  
@@ -3278,6 +3287,8 @@
   https://go.vansh.nyc/en
 - [UK] DraftKings — Software Engineer Intern — London, UK · Summer 2027  
   https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150
+- [UK] DraftKings — Data Science Intern — London, UK · Summer 2027  
+  https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149
 - [UK] Draper — Classified Cybersecurity/IT Internship (Summer 2027) — Cambridge, MA · Summer 2027  
   https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021
 - [UK] DreamWorks Animation — Audience Insights & Analytics Intern — London, UK · Summer 2027  
@@ -3368,12 +3379,14 @@
   https://job-boards.greenhouse.io/dvtrading/jobs/4722749005
 - DwyerOmega — Applied AI Intern — Remote in USA · Spring 2027  
   https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822
+- E2 Consulting Engineers — Data Analyst Intern — Remote / United States · Summer  
+  https://go.vansh.nyc/1yp
 - Echo Global Logistics — Software Engineering Intern- Chicago — Remote · term n/a  
   https://echo.wd1.myworkdayjobs.com/en-US/echo_logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1
-- [UK] Eclipse Automation — Controls Software Design Co-op — Cambridge, Canada · term n/a  
-  https://jobs.dayforcehcm.com/en-US/eclipse/candidateportal/jobs/4193
 - [UK] Eclipse Automation — Software Design Co-op - Nuclear — Cambridge, Canada · term n/a  
   https://jobs.dayforcehcm.com/en-US/eclipse/candidateportal/jobs/4199
+- [UK] Eclipse Automation — Controls Software Design Co-op — Cambridge, Canada · term n/a  
+  https://jobs.dayforcehcm.com/en-US/eclipse/candidateportal/jobs/4193
 - [UK] Eclipse Automation — Software Developer Co-op — Cambridge, Canada · term n/a  
   https://jobs.dayforcehcm.com/en-US/eclipse/candidateportal/jobs/4184
 - Economy Polymers & Chemicals — AI & Business Systems Automation Intern — San Mateo, CA · Summer  
@@ -3398,8 +3411,6 @@
   https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192
 - [UK] Electronic Arts — Software Engineer Intern - Gameplay UI — Birmingham, UK · Summer 2027  
   https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190
-- [UK] Electronic Arts — Client AI Software Engineer Intern — Manchester, UK · Summer 2027  
-  https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364
 - Electronic Arts — Software Engineer Co-op — Vancouver, BC, Canada · Summer 2027  
   https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231
 - Electronic Arts — Software Engineer Intern — Vancouver, BC, Canada · Summer 2027  
@@ -3454,6 +3465,8 @@
   https://go.vansh.nyc/au
 - Entrust — Software Development Intern — Ottawa, ON, Canada · Winter 2027  
   https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359
+- Environmental Defense Fund — Consumer Energy Analytics Intern — Remote in USA / St. Petersburg, FL · Summer 2027  
+  https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752
 - [UK] epic games — machine learning intern — greater london, england, united kingdom · term n/a  
   https://www.linkedin.com/jobs/view/4450376410
 - Epic Games — Machine Learning Research Intern — Montreal, Canada · Summer  
@@ -3472,8 +3485,6 @@
   https://go.vansh.nyc/1ee
 - EQT Corporation — AI Intern — Remote in USA · term n/a  
   https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008
-- Equitable Bank — Commercial Lending AI Engineer Intern - Winter 2027 — Toronto, ON, Canada · Winter 2027  
-  https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply
 - Equitable Bank — Credit Risk Intern — Toronto, ON, Canada · Winter 2027  
   https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply
 - Equitable Bank — Software Engineer Intern — Toronto, ON, Canada · Winter 2027  
@@ -3628,6 +3639,8 @@
   https://job-boards.greenhouse.io/ftsp27co-ops/jobs/8176219
 - Flow Traders — Quantitative Trading Intern Summer 2027 — New York, NY · Summer 2027  
   https://job-boards.greenhouse.io/flowtraders/jobs/8047166
+- Fonds de solidarité FTQ — Business Intelligence and M365 Solutions Intern — Montreal, QC, Canada · term n/a  
+  https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874
 - Formulary Financial — Software Engineering Intern — New York City (4 days on-site) · Summer 2027  
   https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04
 - Formulary Financial — Software Engineer Intern — NYC · Summer 2027  
@@ -3672,6 +3685,8 @@
   https://go.vansh.nyc/Lo
 - Garmin — Software Engineer Intern — San Francisco, CA · Summer  
   https://go.vansh.nyc/1nr
+- Garmin International — IT DevOps Administrator Intern — San Mateo, CA · Summer  
+  https://go.vansh.nyc/1xf
 - Garner Health — Software Engineering Intern — New York City, New York · Not stated  
   https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004
 - GCM Grosvenor — Cybersecurity Intern — Chicago, IL · Summer  
@@ -3702,8 +3717,6 @@
   https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1
 - GE Vernova — Power System Intern — Bellevue, WA · Summer 2027  
   https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2
-- [UK] Gearset — Software Engineer Intern — Cambridge, UK · Summer 2027  
-  https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true
 - Gecko Robotics — Embedded Software Engineer Intern, RoboSPLAT Field Infra — Austin, TX / Milford, MI / Mountain View, CA / Warren, MI · Summer  
   https://go.vansh.nyc/It
 - Gecko Robotics — AI/Machine Learning Engineering Intern — New York City · Summer 2027  
@@ -3736,8 +3749,6 @@
   https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696
 - General Motors — Autonomous Driving Software Engineer Intern — Sunnyvale, CA · Summer  
   https://go.vansh.nyc/1nt
-- General Motors — Machine Learning Engineer Intern, Embodied AI — Sunnyvale, CA · Summer  
-  https://go.vansh.nyc/1rQ
 - General Motors — Software Engineer Intern - Digital Product: Software Engineering — Austin, TX / Milford, MI / Mountain View, CA / Warren, MI · Summer 2027  
   https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546
 - [PM] General Motors — Product Management Intern - Digital Product — Austin, TX / Warren, MI · Summer 2027  
@@ -3758,14 +3769,6 @@
   https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143
 - [PM] General Motors — Product Management Intern - Vehicle Autonomy — Sunnyvale, CA · Summer 2027  
   https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449
-- General Motors — Software Engineer Intern - Machine Learning Engineer - Embodied AI — Sunnyvale, CA · Summer 2027  
-  https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034
-- General Motors — Software Engineer Intern - AV/AI Platform — Sunnyvale, CA / Warren, MI · Summer 2027  
-  https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696
-- General Motors — 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles — Sunnyvale, California, United States of America · Summer 2027  
-  https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406
-- General Motors — 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure — Sunnyvale, California, United States of America · Summer 2027  
-  https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410
 - General Motors — 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles — Sunnyvale, California, United States of America · Summer 2027  
   https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439
 - General Motors — 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation — Sunnyvale, California, United States of America · Summer 2027  
@@ -3814,12 +3817,8 @@
   https://go.vansh.nyc/cs
 - Gesture — AI Full Stack Engineer Intern — Remote · term n/a  
   https://jobs.gusto.com/postings/gesture-us-inc-ai-full-stack-engineer-intern-e6b31003-155a-48dd-a442-a664809ff969
-- Gilead Sciences — Intern - Research - Inflammation - AI — United States - California - Foster City · Not stated  
-  https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741
 - Gilead Sciences — Intern - Research - Oncology Biomarker - AI — United States - California - Foster City · Not stated  
   https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587
-- Gilead Sciences — Intern - Research - Protein Therapeutics, Computational Biologics Engineering - AI — United States - California - Foster City · Not stated  
-  https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739
 - Gilead Sciences — Research Intern, Strategy, Innovation & Portfolio - AI — Foster City, CA · Summer  
   https://go.vansh.nyc/ah
 - Ginkgo Bioworks — Software Intern, Autonomous Lab — Toronto, Canada · Summer  
@@ -3858,34 +3857,6 @@
   https://go.vansh.nyc/Zs
 - Golden Analytics — Software Engineer Intern — Toronto, Canada · Summer  
   https://go.vansh.nyc/1im
-- [UK] Goldman Sachs — Quantitative Strategist Intern - Multiple Teams — London, UK · Summer 2027  
-  https://higher.gs.com/roles/175424?type=students
-- [UK] Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management — London, UK · Summer 2027  
-  https://higher.gs.com/roles/175423?type=students
-- [UK] Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats — London, UK · Summer 2027  
-  https://higher.gs.com/roles/175427?type=students
-- [UK] Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats — London, UK · Summer 2027  
-  https://higher.gs.com/roles/175421?type=students
-- [UK] Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats — London, UK · Summer 2027  
-  https://higher.gs.com/roles/175426?type=students
-- [UK] Goldman Sachs — Quantitative Strategist Intern - Investment Banking — London, UK · Summer 2027  
-  https://higher.gs.com/roles/175428?type=students
-- [UK] Goldman Sachs — Summer Analyst Intern - Engineering — London, UK · Summer 2027  
-  https://higher.gs.com/roles/170644?type=students
-- Goldman Sachs — Summer Associate Intern - Multiple Teams — NYC · Summer 2027  
-  https://higher.gs.com/roles/171566?type=students
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats — NYC · Summer 2027  
-  https://higher.gs.com/roles/171535?type=students
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams — NYC · Summer 2027  
-  https://higher.gs.com/roles/171563?type=students
-- Goldman Sachs — Summer Associate Intern — NYC · Summer 2027  
-  https://higher.gs.com/roles/171552?type=students
-- Goldman Sachs — Summer Analyst Intern — NYC · Summer 2027  
-  https://higher.gs.com/roles/171550?type=students
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats — NYC · Summer 2027  
-  https://higher.gs.com/roles/171533?type=students
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats — NYC · Summer 2027  
-  https://higher.gs.com/roles/171547?type=students
 - Google — Software Engineering Intern - Summer 2027 — Shanghai, China · term n/a  
   https://www.google.com/about/careers/applications/jobs/results/109864326646375110
 - Google — Software Engineering Intern - 2027 - English — Singapore · term n/a  
@@ -3902,10 +3873,10 @@
   https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235
 - [UK] GPC — Web Developer Intern — Birmingham, AL · term n/a  
   https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238
-- [UK] GPC — Customer Software Development Intern — Birmingham, AL · term n/a  
-  https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135
 - [UK] GPC — Cloud SRE Intern — Birmingham, AL · term n/a  
   https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134
+- [UK] GPC — Software Developer Intern — Birmingham, AL · term n/a  
+  https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140
 - Graco — AI Intern — New York, NY / Bethlehem, PA / Holmdel, NJ · Summer  
   https://go.vansh.nyc/1cx
 - Grant Thornton — Cybersecurity and Privacy Intern - Summer 2027 — New York, NY, United States · Summer 2027  
@@ -3922,6 +3893,8 @@
   https://go.vansh.nyc/Wu
 - Grey State Apparel — Data Analyst Intern — New York, NY · Summer  
   https://go.vansh.nyc/1qN
+- Greystone — Salesforce Developer Intern - Summer 2027 — New York, NY · Summer 2027  
+  https://greyco.wd108.myworkdayjobs.com/GTI/job/New-York-NY/Summer-2027---Salesforce-Developer-Intern_JR0000144
 - Gritt — ML & Cloud Infrastructure Engineer Intern — South SF · term n/a  
   https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523/application?embed=true
 - Gritt Robotics — ML & Cloud Infrastructure Engineer Intern — South San Francisco, CA · term n/a  
@@ -4016,8 +3989,6 @@
   https://go.vansh.nyc/bb
 - Highmark Health — Vulnerability Management Analyst Undergraduate Intern — Remote / United States · Summer  
   https://go.vansh.nyc/1e9
-- Highmark Health — Data Analyst enGen Undergraduate Intern — Remote / United States / Canada · Summer  
-  https://go.vansh.nyc/1qu
 - Highmark Health — Reimbursement Analyst Intern — New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho · Summer 2027  
   https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Reimbursement-Analyst-Undergraduate-Intern_J287154
 - Highmark Health — Evaluation Analytics Graduate Intern — New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho · Summer 2027  
@@ -4100,6 +4071,62 @@
   https://job-boards.greenhouse.io/hpiq/jobs/6116398004
 - HP IQ — Software Engineering Intern, Connectivity (Summer 2027) — San Francisco, CA · Summer 2027  
   https://job-boards.greenhouse.io/hpiq/jobs/6176783004
+- Huawei — Engineer Co-op - Compiler — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7
+- Huawei — Researcher Co-op - Machine Learning - Speech & Audio AI — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-researcher-machine-learning-speech-audio-ai
+- Huawei — Engineer Co-op - Openjiuwen AI Agent Platform — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform
+- Huawei — Audio Researcher Intern - Speech & Acoustic AI — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-audio-speech-acoustic-ai
+- Huawei — Researcher Computer Vision Intern — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3
+- Huawei — LLM Researcher Intern - Agentic AI - RL — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-llms-agentic-ai-and-rl
+- Huawei — Intern Researcher - AI Foundation Model Training — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-ai-foundation-model-training
+- Huawei — Researcher Applied 3D AIGC Intern — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-applied-3d-aigc
+- Huawei — Physical AI Researcher Intern — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-physical-ai
+- Huawei — Engineer-Mobile AI Co-op — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-engineer-mobile-ai
+- Huawei — Researcher Co-op - Video Generation & 3D Computer Vision — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-researcher-video-generation-3d-computer-vision
+- Huawei — Engineer Distributed Agent System Co-op — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1
+- Huawei — Embodied AI Researcher Intern - Embodied AI — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-1
+- Huawei — Software Engineer Co-op - AI Software Engineering — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering
+- Huawei — Researcher Intern - Multimodal AI & Interaction — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction
+- Huawei — Researcher Co-op - Physical AI — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-researcher-physical-ai
+- Huawei — Researcher Co-op - Large Language Models - Computer Vision — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision-1
+- Huawei — Researcher Co-op - Agentic AI — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-researcher-agentic-ai
+- Huawei — Researcher Co-op - LLM - Computer Vision — Markham, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision
+- Huawei — Researcher Intern - Agentic AI — Montreal, QC, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1
+- Huawei — Intern Researcher - AI Agents — Montreal, QC, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1
+- Huawei — Researcher Intern - Multimodal Learning — Montreal, QC, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-learning
+- Huawei — Researcher Intern — Montreal, QC, Canada / Ottawa, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-5
+- Huawei — Engineer Co-op - Intelligent Real-Time Operating System — Ottawa, ON, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system
+- Huawei — Researcher Intern - AI/ML Technology Insight and Planning — Vancouver, BC, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning
+- Huawei — Researcher Co-op - AI Computing System — Vancouver, BC, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1
+- Huawei — Engineer Intern - RL Post-Training for LLMs — Vancouver, BC, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-engineer-rl-post-training-for-llms
+- Huawei — Engineer Intern - AI — Vancouver, BC, Canada · term n/a  
+  https://huaweicanada.recruitee.com/o/intern-engineer-ai
 - HUB International — AI Engineering Intern — Chicago, IL · Summer  
   https://go.vansh.nyc/1vr
 - Hudson River Trading — Software Engineering Intern (Summer 2027, C++ / Python) — New York, NY (multiple) · term n/a  
@@ -4208,6 +4235,10 @@
   https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false
 - Intercontinental Exchange — Regulatory Products Intern — NYC · Summer 2027  
   https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false
+- Intermountain Healthcare — Machine Learning Operations Intern — Remote in USA · term n/a  
+  https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318
+- Intermountain Healthcare — AI/ML Engineer Intern — Remote in USA · term n/a  
+  https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835
 - International — Artificial Intelligence/Machine Learning Intern — Syracuse, NY · Summer  
   https://go.vansh.nyc/1sz
 - [UK] Intropic — Quantrepreneur - Quantitative Development — London, UK · term n/a  
@@ -4272,8 +4303,6 @@
   https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002
 - [UK] Jane Street — Quantitative Researcher — London, UK · term n/a  
   https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002
-- [UK] Jane Street — Trading Desk Operations Engineer Intern — London, UK · term n/a  
-  https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002
 - [UK] Jane Street — Formal Methods Research and Development Intern — London, UK · term n/a  
   https://www.janestreet.com/join-jane-street/apply/8927052002?gh_jid=8927052002
 - [UK] Jane Street — Software Engineer Summer Internship — London, United Kingdom · term n/a  
@@ -4414,8 +4443,6 @@
   https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply
 - KeyBank — 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland — Brooklyn, OH · Summer 2027  
   https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384
-- KeyBank — Marketing Analytics Intern — Brooklyn, OH · Summer 2027  
-  https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822
 - [UK] Keyrock — DeFi Quant Research Intern - Digital Assets Market Making — London, UK / Brussels, Belgium · Spring 2027  
   https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313/application?embed=true
 - [UK] Keyrock — Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Trading — London, UK / Brussels, Belgium · Winter 2027  
@@ -4450,8 +4477,6 @@
   https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false
 - Kinaxis — Full Stack Developer Intern - C# — Ottawa, ON, Canada · Winter 2027  
   https://kinaxis.jibeapply.com/jobs/35343?icims=1
-- Kinaxis — Intern Developer - Back End Technologies — Ottawa, ON, Canada · Winter 2027  
-  https://kinaxis.jibeapply.com/jobs/35372?icims=1
 - Kinaxis — Developer Intern Co-op - Machine Learning — Remote in Canada · Winter 2027  
   https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false
 - Kinaxis — AI/ML Researcher Intern — Remote in Canada · Winter 2027  
@@ -4768,6 +4793,8 @@
   https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply
 - Maxinsights — Machine Learning Engineer Intern - Video Foundation Models & Agentic AI — Santa Clara, CA · term n/a  
   https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true
+- Maxinsights — Data Operations Intern — Santa Clara, CA · term n/a  
+  https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true
 - [UK] MBDA — Computer Vision and Artificial Intelligence Engineer - Image Processing UK — Bristol, UK · term n/a  
   https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Summer-Placement-2027_R37483
 - [UK] MBDA — Software Engineer - Undergraduate Placement — Bristol, UK · term n/a  
@@ -4856,10 +4883,6 @@
   https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941
 - Micron Technology — Intern - SSD Firmware — San Jose, CA +1 · term n/a  
   https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209
-- Micron Technology — Data Scientist Intern — San Jose, CA / Folsom, CA · term n/a  
-  https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549
-- Micron Technology — Intern – Memory Systems Architecture & AI — San Jose, CA · Not stated  
-  https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524
 - Micron Technology — Design Engineer Intern, Pathfinding — San Jose, CA / Folsom, CA · Summer  
   https://go.vansh.nyc/d7
 - Microsoft — Cloud Solution Architecture Intern — Brussels, Belgium · term n/a  
@@ -4904,12 +4927,16 @@
   https://go.vansh.nyc/bo
 - [UK] Mitsubishi UFG — Summer Analyst Programme: Global Markets Intern - Markets Engineering — London, UK · Summer 2027  
   https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1
+- [UK] Moderna — Investigator Site Budgets & Contracts Co-op - Data Integration & Reporting — Cambridge, MA · term n/a  
+  https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Investigator-Site-Budgets---Contracts-and-Data-Integration---Reporting_R20170
 - [UK] Moderna — Biometrics Co-op — Cambridge, MA · Spring  
   https://go.vansh.nyc/1o2
 - [UK] Moderna — mRNA Design Engineer Co-op — Cambridge, MA · Winter 2027  
   https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125
 - Modernizing Medicine — Software Engineering Intern — Toronto, Canada · Summer  
   https://go.vansh.nyc/13e
+- Molina Healthcare — Customer Experience & Analytics Intern - Undergraduate — Remote in USA · Summer 2027  
+  https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169
 - Moment Energy — Data Scientist Co-op — Surrey, BC, Canada · Winter 2027  
   https://job-boards.greenhouse.io/momentenergy/jobs/4421775009
 - Moment Energy — Software Engineering Co-op — Surrey, BC, Canada · Winter 2027  
@@ -4948,6 +4975,8 @@
   https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250
 - Motorola — Localization and QA Automation Developer Co-op — Vancouver, Canada · Winter  
   https://go.vansh.nyc/We
+- Motorola Solutions — Systems Engineering Intern — Chicago, IL · term n/a  
+  https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657
 - Motorola Solutions — Software Engineer Intern - Summer 2027 — Chicago, IL · term n/a  
   https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679
 - Motorola Solutions — Software Engineering - 2026 Spring Co-Op — Chicago, IL +8 · term n/a  
@@ -4960,12 +4989,16 @@
   https://multimatic.wd10.myworkdayjobs.com/MMEC/job/East-Gwillimbury-Ontario/Application-Engineering-Co-op_JR103259
 - Multiply Labs — Software Intern — SF · term n/a  
   https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply
+- Muon Space — Software Engineer Intern, Information Systems — San Jose, CA · Summer  
+  https://go.vansh.nyc/1y6
 - Muon Space — GNC Software Engineering Intern (Summer 2027) — Mountain View, CA · Summer 2027  
   https://job-boards.greenhouse.io/muonspace/jobs/5252680007
 - Muon Space — Flight Software Engineering Intern (Summer 2027) — San Jose, CA · Summer 2027  
   https://job-boards.greenhouse.io/muonspace/jobs/5247725007
 - Muon Space — Ground Software Engineering Intern (Summer 2027) — San Jose, CA · Summer 2027  
   https://job-boards.greenhouse.io/muonspace/jobs/5266679007
+- Muon Space — Software Engineering Intern-Information Systems (Summer 2027) — San Jose, CA · Summer 2027  
+  https://job-boards.greenhouse.io/muonspace/jobs/5293973007
 - N1 — Software Engineer Intern (Backend, Rust) — New York City, NY · Not stated  
   https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6
 - Naive — Software Engineer Intern ⏳ — San Francisco, CA / Remote (US) · term n/a  
@@ -4978,6 +5011,8 @@
   https://www.workatastartup.com/jobs/94993
 - National Interstate Insurance — Claims Lab Developer Intern — San Francisco, CA / Sunnyvale, CA · Summer  
   https://go.vansh.nyc/Wm
+- National Laboratory of the Rockies — Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling — Remote in USA · term n/a  
+  https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589
 - [UK] NatWest Group — Engineering Intern — Bristol, UK · term n/a  
   https://rbs.wd3.myworkdayjobs.com/rbs/job/Bristol/Engineering----Internship_R-00285732
 - [UK] NatWest Group — Engineering Intern — London, UK · term n/a  
@@ -5004,10 +5039,10 @@
   https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930
 - NBCUniversal — NBC Sports Bay Area & California - Programming Intern - Summer 2027 — San Francisco, CALIFORNIA, United States (Hybrid) · Summer 2027  
   https://jobs.smartrecruiters.com/NBCUniversal3/744000159947792
-- [UK] NCR Atleos — Software Support Internship — Dundee, United Kingdom · term n/a  
-  https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1
 - [UK] NCR Atleos — Software Engineering Internship — Dundee, United Kingdom · term n/a  
   https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1
+- [UK] NCR Atleos — Software Support Internship — Dundee, United Kingdom · term n/a  
+  https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1
 - NERv Technology Inc. D.B.A. FluidAI Medical — Data and AI Engineering Associate — Kitchener, ON, Canada · term n/a  
   https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52
 - NetApp — Software Engineer Intern — South San Francisco, CA · Summer  
@@ -5078,6 +5113,8 @@
   https://go.vansh.nyc/1jk
 - Normal Computing — AI Research Resident - Algorithms Codesign — NYC · term n/a  
   https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true
+- North Atlantic Industries — Embedded Software Engineer Intern — Bohemia, NY · Spring  
+  https://go.vansh.nyc/1y5
 - North Atlantic Industries — Full Stack Software Engineer Intern - Summer 2027 — Bohemia, NY · Summer 2027  
   https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054
 - Northrop Grumman — Engineering Software and Analysis Intern — United States-California-Sunnyvale · Not stated  
@@ -5116,12 +5153,12 @@
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478
 - NVIDIA — AI Operations Intern - AI Clouds - Summer 2027 — Santa Clara, CA · term n/a  
   https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
-- NVIDIA — NVIDIA 2027 Internships: Systems Software Engineering — Santa Clara, CA · term n/a  
-  https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492
 - NVIDIA — NVIDIA 2027 Internships: Software Engineering — Santa Clara, CA · term n/a  
   https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495
 - NVIDIA — NVIDIA Spring 2027 Internships: Developer and Performance Technology — Santa Clara, CA · term n/a  
   https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499
+- NVIDIA — NVIDIA 2027 Internships: Systems Software Engineering — Santa Clara, CA · term n/a  
+  https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492
 - NVIDIA — Applied Research Intern, NLP - Fall 2026 — US, CA, Santa Clara · Fall 2026  
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488
 - NVIDIA — Software Engineering Intern, Dynamo - Fall 2026 — US, CA, Santa Clara · Fall 2026  
@@ -5156,10 +5193,10 @@
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260
 - NVIDIA — Software Engineering Intern — Canada / Santa Clara, CA · Summer 2027  
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495
+- NVIDIA — Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 — Canada / Santa Clara, CA / United States · Summer 2027  
+  https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548
 - NVIDIA — Math Libraries Intern — Canada / Santa Clara, CA / United States · Summer 2027  
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449
-- NVIDIA — Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI — Canada / Santa Clara, CA / United States · Summer 2027  
-  https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548
 - NVIDIA — Systems Research Intern - Observability — Canada / Santa Clara, CA / United States · Summer 2027  
   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644
 - NVIDIA — Research Intern — Santa Clara, CA · Summer 2027  
@@ -5198,6 +5235,8 @@
   https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Model-Risk-Management_REQ-4861
 - Oceaneering — Software Intern, C++ — Austin, TX · Summer  
   https://go.vansh.nyc/V2
+- Octant Bio — Software Engineering Intern — Emeryville, CA · Summer  
+  https://go.vansh.nyc/1yg
 - Odys Aviation — Robotics & Embedded Systems Intern — Los Angeles, CA / San Francisco, CA · Summer  
   https://go.vansh.nyc/1ev
 - Old Mission — Software Engineer Intern (Summer 2027, June Start) — Chicago, IL · term n/a  
@@ -5276,8 +5315,6 @@
   https://go.vansh.nyc/1dr
 - Paccar — Engineering Operations Intern — Kirkland, WA · Summer 2027  
   https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors
-- Paccar — Greenhouse Gas Data Analyst Intern — Kirkland, WA · Summer 2027  
-  https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors
 - Pacific Fusion — Software Engineering Intern — San Leandro, CA / Fremont, CA / Los Lunas, NM · Summer  
   https://go.vansh.nyc/1g4
 - Pacific Fusion — Summer 2027 Internship- Software Engineering — Fremont, CA / Los Lunas, NM / San Leandro, CA · Summer 2027  
@@ -5412,8 +5449,6 @@
   https://go.vansh.nyc/1rl
 - Peripheral — Robotics Engineering Intern, Capture Systems — Toronto, Canada · Summer  
   https://go.vansh.nyc/1rj
-- [UK] Pernod Ricard, créateurs de convivialité — Data & Business Transformation Placement Intern — London, UK · Summer 2027  
-  https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/London/Data---Business-Transformation-Placement---June-2027_JR-055452-1
 - [UK] Philips — Co-op - Software Development Engineer (Automation) – Cambridge, MA – Fall 2026 — Cambridge (US), Massachusetts, United States · Fall 2026  
   https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708
 - Phoebe — Software Engineering Intern — New York City, NY · Fall 2026  
@@ -5484,10 +5519,10 @@
   https://go.vansh.nyc/17w
 - Pramaana Labs — Research Intern — Palo Alto, CA / Bengaluru, Karnataka, India · term n/a  
   https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0/application?embed=true
-- Priceline — Software Engineering - Web/Javascript - Northeastern Co-op — New York City, NY · term n/a  
-  https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818
 - Priceline — Software Engineering - Full Stack - Northeastern Co-op — New York City, NY · term n/a  
   https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822
+- Priceline — Software Engineering - Web/Javascript - Northeastern Co-op — New York City, NY · term n/a  
+  https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818
 - ProCogia — LLM Research Intern — Vancouver, BC, Canada · Fall 2026, Winter 2027  
   https://procogia.com/about-us/careers/?gh_jid=5448685008
 - ProCogia — LLM Research Intern — Vancouver, Canada · Winter  
@@ -5650,6 +5685,8 @@
   https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a
 - Realm — Software Engineer Intern — Remote / United States · Summer  
   https://go.vansh.nyc/1ew
+- [UK] Reasonable AI — Student Researcher Program Intern - Formal Reasoning - LLM Post-Training — London, UK / Budapest, Hungary · term n/a  
+  https://apply.workable.com/reasonable/j/383AD7E2BA/apply
 - [UK] Red Bull — Shopper Insights Intern — London, UK · term n/a  
   https://jobs.smartrecruiters.com/RedBull/744000160572389
 - [UK] Red Bull — Category Intern — London, UK · term n/a  
@@ -5687,7 +5724,7 @@
 - Revel — Forward Deployed Engineer Intern - Software — SF / LA · Summer 2027  
   https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true
 - Revvity — Full-stack AI Developer Intern — Remote - Cidade Ademar, Brazil · term n/a  
-  https://revvity.wd103.myworkdayjobs.com/en-US/external/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791
+  https://revvity.wd103.myworkdayjobs.com/en-US/external/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792
 - Rhoda AI — Research Intern — Mountain View, CA · term n/a  
   https://jobs.ashbyhq.com/rhoda-ai/20056166-79de-420b-8569-d0b15ee83599/application?embed=true
 - Rhoda AI — Software Engineer Intern, Inference — Mountain View, CA · Summer  
@@ -5746,12 +5783,12 @@
   https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c
 - Rivian — Software Engineering Intern - Embedded Platforms - Summer 2027 — Palo Alto, CA +2 · term n/a  
   https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048
-- Rivian — Software Engineering Intern - Embedded Platforms - Summer 2027 — Vancouver, Canada · term n/a  
-  https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1
 - Rivian — Software Engineering Intern - Connected Systems - Summer 2027 — Vancouver, Canada · term n/a  
   https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec
 - Rivian — Software Engineering Intern - Vehicle Controls - Summer 2027 — Vancouver, Canada · term n/a  
   https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0
+- Rivian — Software Engineering Intern - Embedded Platforms - Summer 2027 — Vancouver, Canada · term n/a  
+  https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1
 - Rivian — Software Engineering Intern - Vehicle Controls - January - August 2027 — Vancouver, Canada · term n/a  
   https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b
 - Rivian — Software Engineering Intern - Applications - Summer 2027 — Vancouver, Canada +1 · term n/a  
@@ -5792,8 +5829,6 @@
   https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162
 - Roche — Assay Bioinformatics Intern, CSI — Toronto, Canada · Summer  
   https://go.vansh.nyc/1qi
-- [UK] Roche — Computer Science Industrial Placement Student Intern - Data Capability — Welwyn, UK · Summer 2027  
-  https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915
 - [UK] Roche — Data Expert Intern - Compliance by Design - Data Capability — Welwyn, UK · Summer 2027  
   https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533
 - Rockefeller Capital Management — Analyst Intern, Information Security — New York, NY · Summer  
@@ -5898,10 +5933,8 @@
   https://go.vansh.nyc/1tc
 - SageSure — Data Science Product Analyst Intern — Remote / United States · Summer  
   https://go.vansh.nyc/1oj
-- [UK] SailPoint — Software Engineer Intern - Platform Engines — Remote - United Kingdom · Summer 2027  
-  https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164
-- [UK] Salesforce — Engineer Intern — London, UK · term n/a  
-  https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Engineering-Intern_JR367683
+- [UK] SailPoint — Software Engineer Intern - Platform Engines — Remote - United Kingdom · term n/a  
+  https://sailpoint.wd1.myworkdayjobs.com/en-US/sailpoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164
 - [PM] Salesforce — Associate Product Manager Intern (APM) — San Francisco, CA · term n/a  
   https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1
 - Salesforce — AI Labs Intern, Emerging Talent — San Francisco, CA / Seattle, WA · Summer  
@@ -5930,12 +5963,16 @@
   https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003
 - Samsung — Intern, AI System Architecture Research Scientist — San Jose, California, United States · Not stated  
   https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003
+- Samsung — Intern, Compiler Engineer — San Jose, California, United States · Not stated  
+  https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003
 - Samsung Research America — Robotics Lab Intern — Mountain View, CA · Spring 2027  
   https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927812002
 - Samsung Research America — Health AI Scholar Intern - Digital Health Algorithms Team — Mountain View, CA · Winter 2027  
   https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002
 - Samsung Semiconductor — Systems Software Engineering Intern — San Jose, CA · Summer  
   https://go.vansh.nyc/17G
+- Samsung Semiconductor — Compiler Engineer Intern — San Jose, CA · Summer  
+  https://go.vansh.nyc/1yw
 - San Francisco Data — Engineer Intern — SF · term n/a  
   https://jobs.ashbyhq.com/sfdata/20f37c79-b892-46d9-98d9-3588ab45542c/application?embed=true
 - Sardine — Engineering Intern — Remote / United States / Canada · Summer  
@@ -6004,10 +6041,10 @@
   https://go.vansh.nyc/Jr
 - Serval — Software Engineer Intern — SF · term n/a  
   https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application?embed=true
-- ServiceNow — AI Engineering - Assoc Software Engineer Internships - Summer 2027 - Bachelors — Santa Clara, CA · term n/a  
-  https://jobs.smartrecruiters.com/ServiceNow/744000155345889-ai-engineering-assoc-software-engineer-internships-summer-2027-bachelors-?oga=true
 - ServiceNow — AI Engineering - Software Engineer Internships - Summer 2027 - Masters — Santa Clara, CA · term n/a  
   https://jobs.smartrecruiters.com/ServiceNow/744000155345689-ai-engineering-software-engineer-internships-summer-2027-masters-?oga=true
+- ServiceNow — AI Engineering - Assoc Software Engineer Internships - Summer 2027 - Bachelors — Santa Clara, CA · term n/a  
+  https://jobs.smartrecruiters.com/ServiceNow/744000155345889-ai-engineering-assoc-software-engineer-internships-summer-2027-bachelors-?oga=true
 - ServiceNow — Assoc AI Engineering (Cloud Security Automation) Intern — Santa Clara, CALIFORNIA, United States · Not stated  
   https://jobs.smartrecruiters.com/ServiceNow/744000161209600
 - ServiceNow — Associate Detection Engineering Intern — Kirkland, WA · Summer  
@@ -6022,10 +6059,6 @@
   https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006
 - Shield AI — Embedded Firmware Intern — Mountain View, CA · Summer  
   https://go.vansh.nyc/1bm
-- Shield AI — Software Engineer Intern - Summer 2027 — San Mateo, California · Summer 2027  
-  https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036
-- Shield AI — Software Engineer Co-op Intern — Seattle, WA / Washington, DC / Dallas, TX / San Diego, CA · Summer 2027  
-  https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply
 - ShopBack — Software Engineer Intern — New York City, New York · Not stated  
   https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98
 - ShopBack — Software Engineer Intern — San Francisco, California · Not stated  
@@ -6102,7 +6135,7 @@
   https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true
 - Skydio — Software Engineer Intern - Summer 2027 — San Mateo, California, United States · Summer 2027  
   https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c
-- Skydio — Frontend Software Engineer Intern - Summer 2027 — San Mateo, California, United States · Summer 2027  
+- Skydio — Frontend Software Engineer Intern — San Mateo, California, United States · Summer 2027  
   https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd
 - Skydio — Mobile Software Engineer Intern - Summer 2027 — San Mateo, California, United States · Summer 2027  
   https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52
@@ -6118,8 +6151,6 @@
   https://go.vansh.nyc/1u
 - Snowflake — Software Engineer Intern, Database Engineering — San Francisco, CA / New York, NY · Fall  
   https://go.vansh.nyc/2c
-- [PM] Snowflake — Product Management Intern — Menlo Park, CA · Summer 2027  
-  https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true
 - Solink — Software Engineer Co-op - Apps — Ottawa, ON, Canada · Winter 2027  
   https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true
 - [PM] Sonos — Software Product Management Intern - Seattle — Seattle, WA · term n/a  
@@ -6166,6 +6197,8 @@
   https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124
 - SRC, Inc — Engineering Intern — Syracuse, NY · Spring 2027  
   https://jobs.jobvite.com/src-inc/job/oC3GAfwF?nl=1&nl=1&fr=false
+- StackAV — Research Intern - Autonomy — Remote in USA / Pittsburgh, PA · Summer 2027  
+  https://job-boards.greenhouse.io/stackav/jobs/5287594007
 - Stand Together — Analytics Intern — Chicago, IL · Spring  
   https://go.vansh.nyc/1t9
 - Stand Together — Data Analyst Intern, Open the Books — Vancouver, Canada · Spring  
@@ -6238,12 +6271,12 @@
   https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768
 - T-Mobile — Summer 2027 Software Engineer HR Data Products Internship — Bellevue, WA · term n/a  
   https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916
-- T-Mobile — AI Strategist Intern — Bellevue, WA · Summer  
-  https://go.vansh.nyc/1l9
 - T-Mobile — Software Engineer Intern, T-Ads — Remote / United States / Canada · Summer  
   https://go.vansh.nyc/1qz
 - T-Mobile — Business Analytics & Reporting Intern — Bellevue, WA · Summer 2027  
   https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319
+- [PM] T-Mobile — Data Product Intern — Bellevue, WA · Summer 2027  
+  https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212
 - T-Mobile — Summer 2027 AI Engineering Internship — Bellevue, Washington · Summer 2027  
   https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765
 - T-Mobile — Summer 2027 AI Strategist Internship — Bellevue, Washington · Summer 2027  
@@ -6256,8 +6289,6 @@
   https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757
 - T-Mobile — Summer 2027 Software Engineering Internship — New York, New York · Summer 2027  
   https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886
-- Tacit — Data Scientist Intern — SF · Spring 2027, Summer 2027  
-  https://jobs.ashbyhq.com/tacit/561245bf-8341-45ba-802c-2fa8bb475da0/application?embed=true
 - [UK] Talos — Software Engineer Intern - Trading — London, United Kingdom · term n/a  
   https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d
 - [UK] Talos — Software Engineer Intern - Infrastructure — London, United Kingdom · term n/a  
@@ -6290,8 +6321,6 @@
   https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Graduate-Leadership-Program--Consumer-Deposit-and-Payment-Products_R_1508783
 - [UK] TD Bank — Technology Intern — London, UK · Summer 2027  
   https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239
-- TD Bank — Graduate Leadership Program Commercial Banking Intern — NYC · Summer 2027  
-  https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612
 - TD Bank — Portfolio Analytics Data Analyst Intern/Co-op — San Francisco, CA · Winter  
   https://go.vansh.nyc/aa
 - [PM] TD Bank — Product Management Co-op, L&H — Seattle, WA / Austin, TX / Cupertino, CA · Winter  
@@ -6460,10 +6489,10 @@
   https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Switzerland-Zug-Zug/Applied-Science-Intern_JREQ204561
 - Thomson Reuters — Software Engineer Co-Op — Rochester, NY · term n/a  
   https://thomsonreuters.wd5.myworkdayjobs.com/en-US/external_career_site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587
-- Thrivent — Associate Software Engineer - Sophomore Intern Summer 2027 — Remote - Minnesota, USA · term n/a  
-  https://thrivent.wd5.myworkdayjobs.com/en-US/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457-2
 - Thrivent — Associate Software Engineer - Junior Intern Summer 2027 — Remote - Minnesota, USA · term n/a  
   https://thrivent.wd5.myworkdayjobs.com/en-US/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334-2
+- Thrivent — Associate Software Engineer - Sophomore Intern Summer 2027 — Remote - Minnesota, USA · term n/a  
+  https://thrivent.wd5.myworkdayjobs.com/en-US/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457-2
 - Thrivent — Associate Software Engineer - Junior Intern Summer 2027 — Remote-Minnesota · Summer 2027  
   https://thrivent.wd5.myworkdayjobs.com/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334-2
 - Thrivent — Associate Software Engineer - Sophomore Intern Summer 2027 — Remote-Minnesota · Summer 2027  
@@ -6532,6 +6561,8 @@
   https://go.vansh.nyc/18u
 - TikTok — Software Engineer Intern, Agentic Creation-Effect Platform — Huntsville, AL · Summer  
   https://go.vansh.nyc/6o
+- TikTok — Machine Learning Engineer Intern, Data-Global E-Commerce-Search — Mount Holly, NC · Summer  
+  https://go.vansh.nyc/1ym
 - TikTok — Software Engineer Intern, Data Arch - E-commerce — Washington, DC · Summer  
   https://go.vansh.nyc/6n
 - [PM] TikTok — Product Manager Intern - Pgc — LA · Summer 2027  
@@ -6566,6 +6597,8 @@
   https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603
 - TMX Group — Analyst – Market Insights Intern — Toronto, ON, Canada · Winter 2027  
   https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586
+- TMX Group — AI Engineer Intern — Toronto, ON, Canada · Winter 2027  
+  https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680
 - TobogganLabs — Data Science Intern — Montreal, Canada · Summer  
   https://go.vansh.nyc/13r
 - Together AI — Technical Writer Intern - Developer Experience - Summer 2027 — San Francisco, CA · term n/a  
@@ -6608,6 +6641,8 @@
   https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply
 - [UK] Toyota Research Institute — Robotics Intern - Teleoperation and Spatial Computing — Cambridge, MA · term n/a  
   https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871/apply
+- [UK] Toyota Research Institute — Robotics Intern - Prototyping and Research Operations — Cambridge, MA · term n/a  
+  https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply
 - [UK] Toyota Research Institute — Accelerated Science Intern, Machine Learning/Agentic AI — Cambridge, MA · Not stated  
   https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495
 - Toyota Research Institute — Robotics Intern, Human-Machine Interaction Research — Foster City, CA · Summer  
@@ -6690,8 +6725,6 @@
   https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
 - UiPath — Software Engineer Intern — Bellevue, WA · term n/a  
   https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04
-- UiPath — AI Engineer Intern — Bellevue, WA · Summer 2027  
-  https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true
 - [PM] UL Solutions — Product Management Intern — Northbrook, IL / Chicago, IL · Summer 2027  
   https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625
 - UL Solutions — Data Science Intern — Northbrook, IL / Chicago, IL · Summer 2027  
@@ -6704,10 +6737,6 @@
   https://go.vansh.nyc/11t
 - University of Ottawa — Research Assistant Intern - Data Analysis — Ottawa, ON, Canada · Winter 2027  
   https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185
-- University of Texas at Austin — Undergraduate Research Assistant Programmer — Austin, TX · term n/a  
-  https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531
-- University of Texas at Austin — Undergraduate Research Assistant — Austin, TX · term n/a  
-  https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Undergraduate-Research-Assistant_R_00044725
 - University of Texas at Austin — Graduate Assistant - Data - Dell Medical School — Austin, TX · term n/a  
   https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--Data--Texas-Child-Mental-Health-Programs--Department-of-Psychiatry-and-Behavioral-Sciences--Dell-Medical-School_R_00047460-1
 - University of Texas at Austin — Graduate Research Assistant - Quantitative and Systems Health Services — Austin, TX · term n/a  
@@ -6716,12 +6745,18 @@
   https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Digital-Archive-Student-Assistant--Creative-Development_R_00034073
 - University of Texas at Austin — Student Technician - Applied Research Laboratories — Austin, TX · term n/a  
   https://utaustin.wd1.myworkdayjobs.com/utstudent/job/PICKLE-RESEARCH-CAMPUS/Student-Technician_R_00048194
+- University of Texas at Austin — Undergraduate Research Assistant - Programmer — Austin, TX · term n/a  
+  https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531
+- University of Texas at Austin — Undergraduate Research Assistant - Molecular Biosciences — Austin, TX · term n/a  
+  https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Undergraduate-Research-Assistant_R_00044725
 - University of Texas at Austin — Video and Analytics Intern - Baseball — Austin, TX · Summer 2026, Fall 2026, Winter 2027, Spring 2027  
   https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706
 - Upstart — Applied Scientist Intern — Remote / United States · Summer  
   https://go.vansh.nyc/1m4
 - Ursa Major — Embedded Flight Software Intern — Toronto, Canada · Summer  
   https://go.vansh.nyc/fq
+- US Internships Public Careers Site — Undergraduate Frontend Software Engineering Intern — Los Angeles, CA / San Mateo, CA · Summer  
+  https://go.vansh.nyc/1xb
 - [PM] USAFacts — AI Product Intern — Bellevue, WA · Not stated  
   https://job-boards.greenhouse.io/usafacts/jobs/4478239009
 - USAFacts — AI & Software Engineering Intern — Bellevue, WA · Summer  
@@ -6840,8 +6875,6 @@
   https://apply.workable.com/waterworth/j/D450C48C96/apply
 - Wellmark — Software Engineer Intern, AI Platform Team — San Mateo, CA / Dallas, TX · Summer  
   https://go.vansh.nyc/1bl
-- [UK] Wells Fargo — Software Engineer Intern — London, UK · Summer 2027  
-  https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607
 - Welltower — Cyber Security Intern — Vancouver, Canada · Summer  
   https://go.vansh.nyc/1uw
 - [UK] WEP Clinical — IT Intern - AI & Transformation — London, UK · term n/a  
@@ -6870,6 +6903,8 @@
   https://go.vansh.nyc/10z
 - WhatNot — Software Engineer Intern — Seattle, WA / SF / LA / NYC · Summer 2027  
   https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true
+- [PM] White Cap Supply Holdings — Product Data Management Intern — Remote in USA · term n/a  
+  https://whitecap.wd1.myworkdayjobs.com/careers/job/Corporate-Intern---Product-Data-Management_WCJR-036650
 - WhiteWater Midstream — Data Science Intern - Summer 2027 — Austin, TX · Summer 2027  
   https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007
 - Wikimedia Foundation — Software Engineering Intern — Remote in USA · Winter 2027, Spring 2027  
@@ -6878,10 +6913,10 @@
   https://go.vansh.nyc/1t8
 - William Blair — Software Engineering Intern - Wit — Chicago, IL · Summer 2027  
   https://www.williamblair.com/Careers/job-description?gh_jid=5242287007
-- Wing — Data Infra Software Engineering Intern - Summer 2027 — Palo Alto, CA · term n/a  
-  https://wing.com/careers/8872471002?gh_jid=8872471002
 - Wing — Execution & Topology Software Engineering Intern - Summer 2027 — Palo Alto, CA · term n/a  
   https://wing.com/careers/8872477002?gh_jid=8872477002
+- Wing — Data Infra Software Engineering Intern - Summer 2027 — Palo Alto, CA · term n/a  
+  https://wing.com/careers/8872471002?gh_jid=8872471002
 - Wing — Route Planning Software Engineering Intern - Summer 2027 — Palo Alto, CA · term n/a  
   https://wing.com/careers/8872472002?gh_jid=8872472002
 - Wing — Manufacturing Software Test Intern - Summer 2027 — Palo Alto, CA · term n/a  
@@ -6896,6 +6931,8 @@
   https://go.vansh.nyc/Xy
 - WSP — Transportation Data Analyst Intern - Summer 2027 — Seattle, WA, United States · Summer 2027  
   https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952
+- WTW — Early Careers: Data Analyst Internship — New York, NY, United States · Not stated  
+  https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277
 - [UK] WTW — Data Scientist Intern - P&C Insurance — London, UK / Reigate, UK · Summer 2027  
   https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997
 - [UK] WTW — Software Developer Intern — Reigate, UK · Summer 2027  
@@ -6918,20 +6955,16 @@
   https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625
 - Zekelman Industries — Business Intelligence Intern - Program Development — Austin, TX / Troy, MI · Summer 2027  
   https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769
-- Zillow — Data Science Intern — Seattle, WA · Summer  
-  https://go.vansh.nyc/Tk
-- Zillow — Applied Scientist Intern - Economics — Seattle, WA · Summer 2027  
-  https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1
 - Zillow — Software Development Engineer Intern — Seattle, WA / Remote in USA · Summer 2027  
   https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630
 - Zimmer Biomet Holdings — Software Developer Co-op — Montreal, Canada · Spring  
   https://go.vansh.nyc/1bk
 - Zimmer Biomet Holdings — Software Developer Co-op — Montreal, QC, Canada · Spring 2027  
   https://careers.zimmerbiomet.com/us/en/job/13309
-- Zipline — Firmware Engineer Intern - Spring 2027 — South San Francisco, CA · term n/a  
-  https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003
 - Zipline — Firmware Engineer Intern - Summer 2027 — South San Francisco, CA · term n/a  
   https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003
+- Zipline — Firmware Engineer Intern - Spring 2027 — South San Francisco, CA · term n/a  
+  https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003
 - Zipline — Software Systems Validation Intern - Spring 2027 — South San Francisco, CA · term n/a  
   https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003
 - Zipline — Software Engineer Intern - Spring 2027 — South San Francisco, CA · term n/a  
@@ -6956,8 +6989,6 @@
   https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003
 - Zipline — Autonomy Intern — South SF · Summer 2027  
   https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003
-- Zoetis — AI Acceleration Intern - AI Development Lifecycle — US Remote · Not stated  
-  https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2
 - Zoox — Data Scientist — Foster City, CA · term n/a  
   https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply
 - Zoox — AI Workflows & Safety Decision Making Intern — Foster City, CA · term n/a  
@@ -6972,6 +7003,8 @@
   https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply
 - Zoox — AI Workflows Intern [Summer 2027] — Foster City, CA · Summer 2027  
   https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1
+- Zoox — Data Scientist Intern [Summer 2027] — Foster City, CA · Summer 2027  
+  https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db
 - Zoox — Software Engineer Intern, Autonomy Software [Summer 2027] — Foster City, CA · Summer 2027  
   https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877
 - Zoox — Data Science Intern [Summer 2027] — Foster City, CA · Summer 2027  
@@ -6988,5 +7021,7 @@
   https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply
 - Zoox — Safety Reporting & Benchmarking Intern — Foster City, CA · Summer 2027  
   https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply
+- Zoox — Data Scientist Intern — Foster City, CA · Summer 2027  
+  https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply
 - ZS — Business Technology Solutions Consultant Intern - University Students — NYC · term n/a  
   https://jobs.zs.com/jobs/63370?icims=1
