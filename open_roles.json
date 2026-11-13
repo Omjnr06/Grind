@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T01:00:24Z",
+ "generated_at": "2026-11-13T01:15:17Z",
  "counts": {
-  "target": 593,
+  "target": 594,
   "relevant": 2622
  },
  "roles": [
@@ -376,6 +376,18 @@
    "source": "simplify",
    "url": "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Security Engineer Intern",
+   "location": "Seattle, WA",
+   "season": "Fall",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yo",
+   "first_seen": "2026-11-13T01:15:17Z"
   },
   {
    "tier": "A",
