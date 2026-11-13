@@ -52,6 +52,7 @@ jobs:
         run: python main.py
 
       - name: Publish state to bot-state branch
+        id: publish
         run: |
           cd _state
           git config user.name "intern-alerts-bot"
@@ -66,6 +67,18 @@ jobs:
           else
             git commit -m "state: $(date -u +%FT%TZ)"
             git push origin HEAD:bot-state
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Refresh the /grind page
+        if: steps.publish.outputs.pushed == 'true'
+        continue-on-error: true
+        env:
+          GRIND_REVALIDATE_SECRET: ${{ secrets.GRIND_REVALIDATE_SECRET }}
+        run: |
+          if [ -z "$GRIND_REVALIDATE_SECRET" ]; then echo "GRIND_REVALIDATE_SECRET not set; skipping"; exit 0; fi
+          curl -sS --fail-with-body --max-time 60 -X POST \
+            -H "Authorization: Bearer $GRIND_REVALIDATE_SECRET" \
+            https://www.magbadelojr.com/api/grind/revalidate
 
 
