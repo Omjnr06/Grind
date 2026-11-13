@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T02:15:20Z",
+ "generated_at": "2026-11-13T02:30:20Z",
  "counts": {
   "target": 595,
-  "relevant": 2614
+  "relevant": 2615
  },
  "roles": [
   {
@@ -15124,6 +15124,18 @@
    "source": "simplify",
    "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CoStar Group",
+   "title": "Vision & Learning Intern",
+   "location": "Sunnyvale, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1yq",
+   "first_seen": "2026-11-13T02:30:20Z"
   },
   {
    "tier": "B",
