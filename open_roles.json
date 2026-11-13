@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T09:30:20Z",
+ "generated_at": "2026-11-13T09:45:16Z",
  "counts": {
   "target": 597,
-  "relevant": 2639
+  "relevant": 2637
  },
  "roles": [
   {
@@ -16857,18 +16857,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Electronic Arts",
-   "title": "Client AI Software Engineer Intern",
-   "location": "Manchester, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Electronic Arts",
    "title": "AI Engineer Intern - Creative Innovations - Character Pipelines",
    "location": "Vancouver, BC, Canada",
    "season": "",
@@ -25412,6 +25400,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Maxinsights",
+   "title": "Data Operations Intern",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true",
+   "first_seen": "2026-11-13T09:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "MBDA",
    "title": "Computer Vision and Artificial Intelligence Engineer - Image Processing UK",
    "location": "Bristol, UK",
@@ -28504,18 +28504,6 @@
    "source": "simplify",
    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Paccar",
-   "title": "Greenhouse Gas Data Analyst Intern",
-   "location": "Kirkland, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors",
-   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
@@ -38404,18 +38392,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Tk",
    "first_seen": "2026-10-27T01:48:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zillow",
-   "title": "Applied Scientist Intern - Economics",
-   "location": "Seattle, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
