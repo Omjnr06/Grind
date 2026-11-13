@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T11:30:19Z",
+ "generated_at": "2026-11-13T11:45:18Z",
  "counts": {
   "target": 595,
-  "relevant": 2633
+  "relevant": 2636
  },
  "roles": [
   {
@@ -7208,6 +7208,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "4AG Robotics",
+   "title": "Robotics Software Co-op",
+   "location": "Salmon Arm, BC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "a2 innovation lab",
    "title": "internship & training program 2026",
    "location": "on, walloon region, belgium",
@@ -7444,6 +7456,18 @@
    "source": "simplify",
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Adobe",
+   "title": "Research Scientist Intern",
+   "location": "London, UK",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345",
+   "first_seen": "2026-11-13T11:45:18Z"
   },
   {
    "tier": "B",
@@ -11715,18 +11739,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "BlackRock",
-   "title": "Quantitative Masters Intern - Technology - Analytics & Modeling",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -28388,6 +28400,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Overland AI",
+   "title": "Software Engineering Intern",
+   "location": "Seattle, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e",
+   "first_seen": "2026-10-30T00:55:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "PA Consulting",
    "title": "Digital Apprentice - Software Development",
    "location": "Belfast, UK",
@@ -30676,6 +30700,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ew",
    "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Reasonable AI",
+   "title": "Student Researcher Program Intern - Formal Reasoning - LLM Post-Training",
+   "location": "London, UK / Budapest, Hungary",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/reasonable/j/383AD7E2BA/apply",
+   "first_seen": "2026-11-13T11:45:18Z"
   },
   {
    "tier": "B",
