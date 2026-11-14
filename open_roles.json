@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T02:30:20Z",
+ "generated_at": "2026-11-14T02:45:16Z",
  "counts": {
   "target": 590,
-  "relevant": 2618
+  "relevant": 2617
  },
  "roles": [
   {
@@ -21940,18 +21940,6 @@
    "source": "simplify",
    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Investissement Qu\u00e9bec",
-   "title": "Automation and Artificial Intelligence Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656",
-   "first_seen": "2026-11-10T23:45:16Z"
   },
   {
    "tier": "B",
