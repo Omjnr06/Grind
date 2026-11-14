@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T11:30:19Z",
+ "generated_at": "2026-11-14T11:45:16Z",
  "counts": {
   "target": 590,
-  "relevant": 2615
+  "relevant": 2619
  },
  "roles": [
   {
@@ -13460,6 +13460,42 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "CenturyLink",
+   "title": "Data Internship - Analytics & Decision Science",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
+   "first_seen": "2026-10-19T01:11:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "CenturyLink",
+   "title": "AI Product & Business Innovation Intern",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CenturyLink",
+   "title": "AI & Automation Builders Internship",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors",
+   "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Certa",
    "title": "Frontend Engineer Intern",
    "location": "London, UK / Remote in India / SF / Jaipur, Rajasthan, India",
@@ -17535,6 +17571,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ExxonMobil",
+   "title": "Global Trading Intern - Quantitative Analyst",
+   "location": "London, UK",
+   "season": "Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.exxonmobil.com/job/London-Placement-Global-Trading-Quantitative-Analyst-London-2027-LND/1439091600/?ats=successfactors",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
