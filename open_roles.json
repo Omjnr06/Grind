@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T21:00:23Z",
+ "generated_at": "2026-11-14T21:15:24Z",
  "counts": {
   "target": 590,
-  "relevant": 2595
+  "relevant": 2593
  },
  "roles": [
   {
@@ -28759,18 +28759,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "Pentair",
-   "title": "Product Management Internship",
-   "location": "Apex, NC / Brookfield, WI / Delavan, WI / North Aurora, IL / New Brighton, MN / Golden Valley, MN",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "Peraton",
    "title": "Software Development Intern",
@@ -30051,18 +30039,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
-   "first_seen": "2026-10-29T16:03:48Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Qube Research & Technologies",
-   "title": "Technology Intern",
-   "location": "Chicago, IL / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
    "first_seen": "2026-10-29T16:03:48Z"
   },
   {
