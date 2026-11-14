@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T01:00:23Z",
+ "generated_at": "2026-11-14T01:15:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2616
+  "relevant": 2618
  },
  "roles": [
   {
@@ -26596,6 +26596,30 @@
    "source": "simplify",
    "url": "https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NetApp",
+   "title": "Software Engineer Intern, Cloud",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1zr",
+   "first_seen": "2026-11-14T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NetApp",
+   "title": "Software Engineer Intern, Systems",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1zs",
+   "first_seen": "2026-11-14T01:15:17Z"
   },
   {
    "tier": "B",
