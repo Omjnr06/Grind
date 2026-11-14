@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T23:45:17Z",
+ "generated_at": "2026-11-14T00:00:25Z",
  "counts": {
   "target": 587,
-  "relevant": 2615
+  "relevant": 2617
  },
  "roles": [
   {
@@ -7324,6 +7324,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1s3",
    "first_seen": "2026-11-10T21:39:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Addepar",
+   "title": "Product Analyst Intern, Navigator",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1zh",
+   "first_seen": "2026-11-14T00:00:25Z"
   },
   {
    "tier": "B",
@@ -20572,6 +20584,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cg",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Horizon3.ai",
+   "title": "Research Intern, Adversarial Intelligence",
+   "location": "Chicago, IL / West Lafayette, IN",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1zk",
+   "first_seen": "2026-11-14T00:00:25Z"
   },
   {
    "tier": "B",
