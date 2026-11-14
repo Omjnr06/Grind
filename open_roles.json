@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T22:00:22Z",
+ "generated_at": "2026-11-14T22:15:19Z",
  "counts": {
   "target": 590,
-  "relevant": 2592
+  "relevant": 2591
  },
  "roles": [
   {
@@ -19684,18 +19684,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/gsacapital/jobs/8570661002",
    "first_seen": "2026-11-10T18:50:36Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Guardian Life",
-   "title": "Data Engineering Intern - Digital & Technology",
-   "location": "Holmdel, NJ / NYC / Bethlehem, PA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
