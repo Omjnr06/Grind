@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T00:30:21Z",
+ "generated_at": "2026-11-14T00:45:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2615
+  "relevant": 2616
  },
  "roles": [
   {
@@ -7108,18 +7108,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/f0",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "1Password",
-   "title": "Product Management Intern - End User Experience",
-   "location": "Remote in USA / Remote in Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -36616,6 +36604,30 @@
    "source": "sndsh404",
    "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Two Sigma",
+   "title": "Quantitative Researcher Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://twosigma.avature.net/careers/JobDetail/13945",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Two Sigma",
+   "title": "AI Research Scientist Intern - 2027 Summer",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://twosigma.avature.net/careers/JobDetail/14096",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
