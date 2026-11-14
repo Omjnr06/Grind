@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T10:30:19Z",
+ "generated_at": "2026-11-14T10:45:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2605
+  "relevant": 2603
  },
  "roles": [
   {
@@ -7628,6 +7628,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Aflac",
+   "title": "Global Investments Legal Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.aflac.com/job/New-York-City-2027-Global-Investments-(NY)-Legal-Intern-NY-10005/1443294500/?ats=successfactors",
+   "first_seen": "2026-10-27T01:48:12Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "AfterQuery",
    "title": "Research Scholar Intern",
    "location": "San Francisco, CA",
@@ -8080,6 +8092,78 @@
    "source": "simplify",
    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
    "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altice USA",
+   "title": "Developer Intern - Financial & People Systems",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Developer,-Financial-&-People-Systems-NY-11714/1449511200/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Altice USA",
+   "title": "Product Management Customer Management App Intern",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027, Spring 2027, Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Altice USA",
+   "title": "Product Management Intern - Video CPE",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Video-CPE-NY-11714/1449511700/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Altice USA",
+   "title": "Product Management B2B Broadband Services Intern",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027, Spring 2027, Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altice USA",
+   "title": "Operations Data Analyst Intern",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Operations-Data-Analyst-NY-11714/1449510400/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altice USA",
+   "title": "Business Enablement Intern",
+   "location": "Long Island City, Queens, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Business-Enablement-NY-11101/1449513600/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
   },
   {
    "tier": "B",
@@ -19269,120 +19353,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175424?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
    "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
    "location": "London, UK",
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://higher.gs.com/roles/175423?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175427?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175421?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175426?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Investment Banking",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175428?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Engineering",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/170644?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171566?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171535?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171563?type=students",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -19407,30 +19383,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://higher.gs.com/roles/171550?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171533?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171547?type=students",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -37372,6 +37324,30 @@
    "source": "zshah101",
    "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386",
    "first_seen": "2026-11-06T22:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "W.W. Grainger",
+   "title": "Customer Experience Intern",
+   "location": "Thornhill, Vaughan, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors",
+   "first_seen": "2026-11-14T00:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "W.W. Grainger",
+   "title": "GCAN Field Operations Analyst Intern",
+   "location": "Thornhill, Vaughan, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors",
+   "first_seen": "2026-11-14T00:15:16Z"
   },
   {
    "tier": "B",
