@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T17:15:16Z",
+ "generated_at": "2026-11-14T17:30:20Z",
  "counts": {
   "target": 590,
-  "relevant": 2607
+  "relevant": 2605
  },
  "roles": [
   {
@@ -19480,30 +19480,6 @@
    "source": "speedyapply_intl",
    "url": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838",
    "first_seen": "2026-10-16T16:49:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gordon Food Service",
-   "title": "Cloud DevOps Intern",
-   "location": "New York, NY / Bethlehem, PA / Holmdel, NJ",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1cv",
-   "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Gordon Food Service",
-   "title": "Data Engineering Intern",
-   "location": "New York, NY / Bethlehem, PA / Holmdel, NJ",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1cw",
-   "first_seen": "2026-11-03T07:55:26Z"
   },
   {
    "tier": "B",
