@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T00:00:25Z",
+ "generated_at": "2026-11-14T00:15:16Z",
  "counts": {
-  "target": 587,
-  "relevant": 2617
+  "target": 590,
+  "relevant": 2615
  },
  "roles": [
   {
@@ -628,6 +628,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Mg",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Robotics Applied Scientist 2 Intern - Robotics",
+   "location": "Seattle, WA / North Reading, MA / NYC / Bellevue, WA / Sunnyvale, CA / Westborough, MA",
+   "season": "Winter 2027, Spring 2027, Summer 2027, Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
+   "first_seen": "2026-11-14T00:15:16Z"
   },
   {
    "tier": "A",
@@ -3664,6 +3676,30 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
    "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+   "first_seen": "2026-11-14T00:15:16Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - AI Coding Agents",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+   "first_seen": "2026-11-14T00:15:16Z"
   },
   {
    "tier": "A",
@@ -9489,18 +9525,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Applied Materials",
-   "title": "Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA)",
-   "location": "Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
-   "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Applied Materials",
    "title": "Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)",
    "location": "Santa Clara, CA",
    "season": "Summer 2027",
@@ -9556,6 +9580,18 @@
    "source": "simplify",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705",
    "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Applied Materials",
+   "title": "Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA)",
+   "location": "Santa Clara,CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+   "first_seen": "2026-10-28T23:30:45Z"
   },
   {
    "tier": "B",
@@ -15892,18 +15928,6 @@
    "source": "speedyapply_intl",
    "url": "https://meredith.wd5.myworkdayjobs.com/en-US/ext/job/Edmonton-AB---10160-103-St-NW/Cloud-Platform-Engineering-Intern_JR15684",
    "first_seen": "2026-09-30T19:15:02Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Dow Jones",
-   "title": "Software Engineer Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891",
-   "first_seen": "2026-10-13T20:44:34Z"
   },
   {
    "tier": "B",
@@ -28161,18 +28185,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Paccar",
-   "title": "Engineering Operations Intern",
-   "location": "Kirkland, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Paccar",
    "title": "Warranty Data Analyst Intern",
    "location": "Miami, FL / Chicago, IL / Atlanta, GA",
    "season": "Summer",
@@ -36609,30 +36621,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Two Sigma",
-   "title": "Quantitative Researcher Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://twosigma.avature.net/careers/JobDetail/13945",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Two Sigma",
-   "title": "AI Research Scientist Intern - 2027 Summer",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://twosigma.avature.net/careers/JobDetail/14096",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Two Sigma",
    "title": "Software Engineering Intern - Summer 2027",
    "location": "NYC",
    "season": "Summer 2027",
@@ -37480,6 +37468,30 @@
    "source": "zshah101",
    "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386",
    "first_seen": "2026-11-06T22:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "W.W. Grainger",
+   "title": "Customer Experience Intern",
+   "location": "Thornhill, Vaughan, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors",
+   "first_seen": "2026-11-14T00:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "W.W. Grainger",
+   "title": "GCAN Field Operations Analyst Intern",
+   "location": "Thornhill, Vaughan, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors",
+   "first_seen": "2026-11-14T00:15:16Z"
   },
   {
    "tier": "B",
