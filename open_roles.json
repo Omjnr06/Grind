@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T15:30:20Z",
+ "generated_at": "2026-11-14T15:45:15Z",
  "counts": {
   "target": 590,
-  "relevant": 2619
+  "relevant": 2620
  },
  "roles": [
   {
@@ -13864,6 +13864,18 @@
    "source": "simplify",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
    "first_seen": "2026-10-20T23:14:58Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Ciena",
+   "title": "Technical Solution Engineer Intern - SE&I",
+   "location": "Montreal, QC, Canada / Ottawa, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
+   "first_seen": "2026-11-14T15:45:15Z"
   },
   {
    "tier": "B",
