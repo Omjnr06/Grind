@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T20:30:21Z",
+ "generated_at": "2026-11-14T20:45:15Z",
  "counts": {
   "target": 590,
-  "relevant": 2597
+  "relevant": 2595
  },
  "roles": [
   {
@@ -14949,18 +14949,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Constellation Brands",
-   "title": "AI Enablement Intern",
-   "location": "Rochester, NY",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
-   "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Constellation Brands",
    "title": "AI and Automation Engineering Intern",
    "location": "Rochester, NY",
    "season": "",
@@ -19719,18 +19707,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Guardian Life",
-   "title": "Application Development Intern - Digital & Technology",
-   "location": "Holmdel, NJ / NYC / Bethlehem, PA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
