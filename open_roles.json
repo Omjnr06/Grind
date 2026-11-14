@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T19:30:20Z",
+ "generated_at": "2026-11-14T19:45:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2599
+  "relevant": 2598
  },
  "roles": [
   {
@@ -26572,18 +26572,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236014007",
    "first_seen": "2026-10-29T02:50:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NewYork-Presbyterian",
-   "title": "Finance Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Summer-2027-Finance-Internship-Program--Patient-Access-Westchester_00888341",
-   "first_seen": "2026-10-31T13:53:54Z"
   },
   {
    "tier": "B",
