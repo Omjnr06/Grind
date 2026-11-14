@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T05:30:19Z",
+ "generated_at": "2026-11-14T05:45:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2602
+  "relevant": 2599
  },
  "roles": [
   {
@@ -8103,30 +8103,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Operations Data Analyst Intern",
-   "location": "Bethpage, NY",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Operations-Data-Analyst-NY-11714/1449510400/?ats=successfactors",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Business Enablement Intern",
-   "location": "Long Island City, Queens, NY",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Business-Enablement-NY-11101/1449513600/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -34084,18 +34060,6 @@
    "source": "simplify",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
    "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "TD Bank",
-   "title": "Graduate Leadership Program Consumer Deposit and Payment Products Intern",
-   "location": "Greenville, SC / Mt Laurel Township, NJ / NYC / Portland, ME / Wilmington, DE",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Graduate-Leadership-Program--Consumer-Deposit-and-Payment-Products_R_1508783",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
