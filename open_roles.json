@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T08:00:23Z",
+ "generated_at": "2026-11-14T08:15:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2601
+  "relevant": 2605
  },
  "roles": [
   {
@@ -7268,6 +7268,42 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Accenture",
+   "title": "Technology Degree Apprentice",
+   "location": "Glasgow, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://accenture.pinpointhq.com/en/postings/fc130ed0-852f-4efa-afc5-780a10e88fb1?ats=pinpointhq",
+   "first_seen": "2026-11-14T08:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Accenture",
+   "title": "Technology Apprentice",
+   "location": "London, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://accenture.pinpointhq.com/en/postings/0f0d4251-2c54-4614-8be7-f0042813b9d3?ats=pinpointhq",
+   "first_seen": "2026-11-14T08:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Accenture",
+   "title": "Technology Software Engineer Apprentice",
+   "location": "Newcastle upon Tyne, UK",
+   "season": "Fall 2027, Spring 2028",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://accenture.pinpointhq.com/en/postings/97c7121d-21cf-4cfc-aed2-5f4b54e81368?ats=pinpointhq",
+   "first_seen": "2026-11-14T08:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "ACLU Kentucky",
    "title": "Undergraduate Software Engineer Intern - Technology and Analytics Department-Educate Pod",
    "location": "NYC",
@@ -12884,6 +12920,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Capgemini",
+   "title": "Digital and Technology Solutions Degree Apprentice - Engineering",
+   "location": "Telford, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.capgemini.com/job/Telford-Engineering-Digital-and-Technology-Solutions-Degree-Apprenticeship-2027/1447967833/?ats=successfactors",
+   "first_seen": "2026-11-14T08:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Capital de Recherche Tower",
    "title": "Software Developer Intern",
    "location": "Montreal, Canada",
@@ -13324,18 +13372,6 @@
    "source": "zshah101",
    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Portfolio-Data-Analyst-Intern--Undergraduate---Summer-2027-_1667733-1",
    "first_seen": "2026-10-30T06:38:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CenturyLink",
-   "title": "Data Internship - Analytics & Decision Science",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
-   "first_seen": "2026-10-19T01:11:35Z"
   },
   {
    "tier": "B",
@@ -28024,6 +28060,18 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000159818139",
    "first_seen": "2026-11-05T16:51:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Paccar",
+   "title": "Engineering Operations Intern",
+   "location": "Kirkland, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
