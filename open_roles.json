@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T21:15:24Z",
+ "generated_at": "2026-11-14T21:30:21Z",
  "counts": {
   "target": 590,
-  "relevant": 2593
+  "relevant": 2592
  },
  "roles": [
   {
@@ -7384,18 +7384,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1s3",
    "first_seen": "2026-11-10T21:39:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Addepar",
-   "title": "Product Analyst Intern, Navigator",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1zh",
-   "first_seen": "2026-11-14T00:00:25Z"
   },
   {
    "tier": "B",
