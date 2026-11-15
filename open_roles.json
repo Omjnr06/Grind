@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T05:15:16Z",
+ "generated_at": "2026-11-15T05:30:21Z",
  "counts": {
   "target": 590,
   "relevant": 2608
@@ -16676,6 +16676,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Eight Sleep",
+   "title": "Firmware Intern",
+   "location": "San Francisco, CA / New York, NY / Washington, DC / Austin, TX",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1zP",
+   "first_seen": "2026-11-15T05:30:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Ekimetrics",
    "title": "Data Science & Marketing Effectiveness Intern",
    "location": "London, UK",
@@ -22456,18 +22468,6 @@
    "source": "speedyapply_intl",
    "url": "https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/",
    "first_seen": "2026-10-29T21:04:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JM Family Enterprises",
-   "title": "Data Engineering Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1jd",
-   "first_seen": "2026-11-05T22:27:01Z"
   },
   {
    "tier": "B",
