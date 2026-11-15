@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:30:21Z",
+ "generated_at": "2026-11-15T18:45:24Z",
  "counts": {
   "target": 590,
   "relevant": 2596
@@ -201,24 +201,24 @@
    "tier": "A",
    "track": "swe",
    "company": "Amazon",
-   "title": "2027 Software Dev Engineer Intern - Embedded Systems - UK",
-   "location": "London, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://www.amazon.jobs/jobs/10588998/apply",
-   "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Machine Learning - UK",
    "location": "London, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10588762/apply",
+   "first_seen": "2026-10-27T18:40:07Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "2027 Software Dev Engineer Intern - Embedded Systems - UK",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10588998/apply",
    "first_seen": "2026-10-27T18:40:07Z"
   },
   {
@@ -10149,6 +10149,18 @@
    "tier": "B",
    "track": "swe",
    "company": "ASML",
+   "title": "Internship - Software Quality Assurance",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
+   "first_seen": "2026-10-25T18:29:33Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ASML",
    "title": "Internship - Application Software QA Engineer",
    "location": "San Jose, CA",
    "season": "",
@@ -10167,18 +10179,6 @@
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
-   "first_seen": "2026-10-25T18:29:33Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ASML",
-   "title": "Internship - Software Quality Assurance",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
    "first_seen": "2026-10-25T18:29:33Z"
   },
   {
@@ -10485,24 +10485,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Astranis Space Technologies",
-   "title": "Flight Software Intern - Winter 2027",
-   "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
-   "first_seen": "2026-09-23T18:36:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Astranis Space Technologies",
    "title": "Flight Software Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+   "first_seen": "2026-09-23T18:36:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Astranis Space Technologies",
+   "title": "Flight Software Intern - Winter 2027",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
    "first_seen": "2026-09-23T18:36:47Z"
   },
   {
@@ -11829,24 +11829,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Blue Origin",
-   "title": "Summer 2027 Software Developer Internship - Undergraduate",
-   "location": "Seattle, WA +2",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425",
-   "first_seen": "2026-09-02T17:08:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Blue Origin",
    "title": "Summer 2027 Avionics Software Internship - Graduate",
    "location": "Seattle, WA +2",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Blue Origin",
+   "title": "Summer 2027 Software Developer Internship - Undergraduate",
+   "location": "Seattle, WA +2",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425",
    "first_seen": "2026-09-02T17:08:21Z"
   },
   {
@@ -12357,24 +12357,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Bree",
-   "title": "Software Engineer - Product - Co-op",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
-   "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bree",
    "title": "Software Engineer - Backend - Co-op",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
+   "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Bree",
+   "title": "Software Engineer - Product - Co-op",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
    "first_seen": "2026-09-05T15:31:30Z"
   },
   {
@@ -20517,24 +20517,24 @@
    "tier": "B",
    "track": "swe",
    "company": "HP",
-   "title": "Software Engineering Intern - Product & Developer Productivity - HP IQ",
-   "location": "San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
-   "first_seen": "2026-11-04T21:37:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "HP",
    "title": "Software Engineering Intern - AIML Platform - HP IQ",
    "location": "San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800",
+   "first_seen": "2026-11-04T21:37:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "HP",
+   "title": "Software Engineering Intern - Product & Developer Productivity - HP IQ",
+   "location": "San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
    "first_seen": "2026-11-04T21:37:26Z"
   },
   {
@@ -26421,24 +26421,24 @@
    "tier": "B",
    "track": "swe",
    "company": "NCR Atleos",
-   "title": "Software Engineering Internship",
-   "location": "Dundee, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
-   "first_seen": "2026-10-13T20:44:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NCR Atleos",
    "title": "Software Support Internship",
    "location": "Dundee, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1",
+   "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NCR Atleos",
+   "title": "Software Engineering Internship",
+   "location": "Dundee, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
    "first_seen": "2026-10-13T20:44:34Z"
   },
   {
@@ -35073,24 +35073,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Thrivent",
-   "title": "Associate Software Engineer - Junior Intern Summer 2027",
-   "location": "Remote - Minnesota, USA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://thrivent.wd5.myworkdayjobs.com/en-US/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334-2",
-   "first_seen": "2026-10-25T18:29:33Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Thrivent",
    "title": "Associate Software Engineer - Sophomore Intern Summer 2027",
    "location": "Remote - Minnesota, USA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://thrivent.wd5.myworkdayjobs.com/en-US/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457-2",
+   "first_seen": "2026-10-25T18:29:33Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Thrivent",
+   "title": "Associate Software Engineer - Junior Intern Summer 2027",
+   "location": "Remote - Minnesota, USA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://thrivent.wd5.myworkdayjobs.com/en-US/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334-2",
    "first_seen": "2026-10-25T18:29:33Z"
   },
   {
