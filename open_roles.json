@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T07:00:23Z",
+ "generated_at": "2026-11-15T07:10:16Z",
  "counts": {
   "target": 590,
-  "relevant": 2607
+  "relevant": 2606
  },
  "roles": [
   {
@@ -10876,18 +10876,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1y4",
    "first_seen": "2026-11-13T00:00:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bank of Montreal",
-   "title": "Workforce Analyst Co-op Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
