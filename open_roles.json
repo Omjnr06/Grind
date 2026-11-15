@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T07:30:21Z",
+ "generated_at": "2026-11-15T07:45:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2606
+  "relevant": 2605
  },
  "roles": [
   {
@@ -10888,18 +10888,6 @@
    "source": "simplify",
    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
    "first_seen": "2026-10-29T16:03:48Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bank of Montreal",
-   "title": "UX/UI Designer Co-op Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
