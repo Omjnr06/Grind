@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T06:30:21Z",
+ "generated_at": "2026-11-15T06:45:21Z",
  "counts": {
   "target": 590,
-  "relevant": 2608
+  "relevant": 2607
  },
  "roles": [
   {
@@ -23511,18 +23511,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Os",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kodiak Robotics",
-   "title": "Data Engineering Intern",
-   "location": "Mountain View, CA",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/kodiak/jobs/4396622009",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
