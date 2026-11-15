@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T17:15:17Z",
+ "generated_at": "2026-11-15T17:30:28Z",
  "counts": {
   "target": 590,
-  "relevant": 2597
+  "relevant": 2596
  },
  "roles": [
   {
@@ -26457,20 +26457,8 @@
    "tier": "B",
    "track": "swe",
    "company": "NetApp",
-   "title": "Software Engineer Intern, Cloud",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1zr",
-   "first_seen": "2026-11-14T01:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NetApp",
    "title": "Software Engineer Intern, Systems",
-   "location": "San Jose, CA",
+   "location": "San Francisco, CA",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
