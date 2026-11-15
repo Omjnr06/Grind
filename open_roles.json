@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T01:15:16Z",
+ "generated_at": "2026-11-15T01:30:28Z",
  "counts": {
   "target": 590,
-  "relevant": 2591
+  "relevant": 2592
  },
  "roles": [
   {
@@ -27832,6 +27832,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1rg",
    "first_seen": "2026-11-10T18:50:36Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Optimum (Altice USA)",
+   "title": "Cybersecurity Operations Intern",
+   "location": "Bethpage, NY",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1zM",
+   "first_seen": "2026-11-15T01:30:28Z"
   },
   {
    "tier": "B",
