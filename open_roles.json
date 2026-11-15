@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T09:00:22Z",
+ "generated_at": "2026-11-15T09:15:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2594
+  "relevant": 2593
  },
  "roles": [
   {
@@ -16648,18 +16648,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Q3",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Eight Sleep",
-   "title": "Firmware Intern",
-   "location": "San Francisco, CA / New York, NY / Washington, DC / Austin, TX",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1zP",
-   "first_seen": "2026-11-15T05:30:21Z"
   },
   {
    "tier": "B",
