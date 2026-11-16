@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T12:00:24Z",
+ "generated_at": "2026-11-16T12:15:17Z",
  "counts": {
   "target": 588,
-  "relevant": 2592
+  "relevant": 2591
  },
  "roles": [
   {
@@ -13636,18 +13636,6 @@
    "source": "simplify",
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
    "first_seen": "2026-10-22T21:30:42Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "Business Analyst Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052",
-   "first_seen": "2026-10-26T22:57:43Z"
   },
   {
    "tier": "B",
