@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T11:30:22Z",
+ "generated_at": "2026-11-16T11:45:26Z",
  "counts": {
   "target": 588,
-  "relevant": 2593
+  "relevant": 2592
  },
  "roles": [
   {
@@ -11848,18 +11848,6 @@
    "source": "speedyapply",
    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Software-Apps-Engineer-I_R70306",
    "first_seen": "2026-08-12T14:31:28Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "BMLL Technologies",
-   "title": "Junior Quantitative Analyst Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/bmlltech/j/685458148E/apply",
-   "first_seen": "2026-11-13T23:45:17Z"
   },
   {
    "tier": "B",
