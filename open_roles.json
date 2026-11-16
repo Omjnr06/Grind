@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T10:30:26Z",
+ "generated_at": "2026-11-16T10:45:25Z",
  "counts": {
   "target": 588,
-  "relevant": 2591
+  "relevant": 2593
  },
  "roles": [
   {
@@ -21392,6 +21392,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Instil Software Ltd",
+   "title": "Software Engineer Placement Intern",
+   "location": "Belfast, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true",
+   "first_seen": "2026-11-16T10:45:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Insulet Corporation",
    "title": "Embedded Software Test Engineering Co-op",
    "location": "Mountain View, CA",
@@ -22432,6 +22444,18 @@
    "source": "simplify",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793",
    "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "JP Morgan Chase",
+   "title": "Quantitative Trading & Research Fellow",
+   "location": "London, UK",
+   "season": "Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807232",
+   "first_seen": "2026-11-16T10:45:25Z"
   },
   {
    "tier": "B",
