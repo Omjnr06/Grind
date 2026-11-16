@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T05:30:21Z",
+ "generated_at": "2026-11-16T05:45:19Z",
  "counts": {
   "target": 590,
-  "relevant": 2606
+  "relevant": 2604
  },
  "roles": [
   {
@@ -10928,18 +10928,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Bank of Montreal",
-   "title": "AI Developer Co-op Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323",
-   "first_seen": "2026-11-12T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Barclays",
    "title": "2027 Technology Developer Summer Internship Programme London",
    "location": "Canary Wharf, United Kingdom",
@@ -13814,7 +13802,7 @@
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-co-op_2622122",
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1",
    "first_seen": "2026-10-28T01:41:27Z"
   },
   {
@@ -27764,18 +27752,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "OLG",
-   "title": "Analytics Engineering & Measurement Student Intern",
-   "location": "Toronto, ON, Canada / Sault Ste. Marie, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700",
-   "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "One Robot",
    "title": "Machine Learning Intern",
    "location": "San Francisco, CA",
@@ -31550,7 +31526,7 @@
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
