@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T11:04:11Z",
+ "generated_at": "2026-11-16T11:15:19Z",
  "counts": {
   "target": 588,
   "relevant": 2593
@@ -27572,6 +27572,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Octaura",
+   "title": "Data Engineer Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+   "first_seen": "2026-11-16T11:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Odys Aviation",
    "title": "Robotics & Embedded Systems Intern",
    "location": "Los Angeles, CA / San Francisco, CA",
@@ -31383,18 +31395,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "Data Engineer Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
