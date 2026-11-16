@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T12:30:32Z",
+ "generated_at": "2026-11-16T12:45:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2591
+  "relevant": 2590
  },
  "roles": [
   {
@@ -31371,18 +31371,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "Data Engineer Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
