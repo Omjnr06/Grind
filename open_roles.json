@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T23:00:24Z",
+ "generated_at": "2026-11-16T23:15:16Z",
  "counts": {
-  "target": 585,
-  "relevant": 2554
+  "target": 584,
+  "relevant": 2550
  },
  "roles": [
   {
@@ -4341,18 +4341,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
-   "title": "Software Engineer Intern, Maps & Navigation, Robotaxi",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ax",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
    "title": "Fullstack Software Engineer Intern, Fleetnet",
    "location": "Palo Alto, CA",
    "season": "Winter",
@@ -8073,18 +8061,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Altice USA",
-   "title": "Software Developer Intern",
-   "location": "Bethpage, NY",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors",
-   "first_seen": "2026-11-16T16:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
    "title": "Business Enablement Intern",
    "location": "Long Island City, Queens, NY",
    "season": "Winter 2027",
@@ -11529,36 +11505,12 @@
    "tier": "B",
    "track": "swe",
    "company": "BitGo",
-   "title": "Software Engineer Intern - Settlement Systems/Go Network",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002",
-   "first_seen": "2026-10-30T06:38:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "BitGo",
    "title": "Software Engineer Intern - Custody",
    "location": "Toronto, ON, Canada",
    "season": "Winter 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
-   "first_seen": "2026-10-30T06:38:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "BitGo",
-   "title": "Product Management Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002",
    "first_seen": "2026-10-30T06:38:22Z"
   },
   {
@@ -20439,18 +20391,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision",
-   "first_seen": "2026-11-13T03:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Huawei",
-   "title": "Researcher Intern - Agentic AI",
-   "location": "Montreal, QC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1",
    "first_seen": "2026-11-13T03:15:16Z"
   },
   {
@@ -30909,18 +30849,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Royal Bank of Canada",
-   "title": "Developer Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
    "title": "Data Engineer Intern",
    "location": "Vancouver, Canada",
    "season": "Summer",
@@ -33903,6 +33831,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ao",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Engineer Intern, Maps & Navigation, Robotaxi",
+   "location": "State College, PA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ax",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
