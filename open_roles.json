@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T07:30:20Z",
+ "generated_at": "2026-11-16T07:45:16Z",
  "counts": {
   "target": 590,
-  "relevant": 2595
+  "relevant": 2594
  },
  "roles": [
   {
@@ -33244,18 +33244,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/spaitial/39ab566f-8626-4633-a0ab-504e082032d6/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Sparx Learning",
-   "title": "Product Leadership Intern",
-   "location": "Exeter, UK",
-   "season": "Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.eu.greenhouse.io/sparxlearning/jobs/4979971101",
-   "first_seen": "2026-10-29T16:03:48Z"
   },
   {
    "tier": "B",
