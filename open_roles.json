@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T17:00:25Z",
+ "generated_at": "2026-11-16T17:15:17Z",
  "counts": {
-  "target": 589,
-  "relevant": 2572
+  "target": 588,
+  "relevant": 2570
  },
  "roles": [
   {
@@ -4203,18 +4203,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ab",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Data Engineer Intern, Applications Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1af",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
@@ -12369,18 +12357,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Bree",
-   "title": "Software Engineer Co-op - Product",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "http://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bree",
    "title": "Software Engineer Co-op - Backend",
    "location": "Toronto, ON, Canada",
    "season": "Winter 2027",
@@ -12795,18 +12771,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Sz",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Cadence Solutions",
-   "title": "Product Management Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/PW",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -34148,6 +34112,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Tesla",
+   "title": "Data Engineer Intern, Applications Engineering",
+   "location": "Washington, DC",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1af",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "TETRAMEM",
    "title": "Software Engineer Intern, Embedded",
    "location": "San Jose, CA",
@@ -34624,18 +34600,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "The New York Times",
-   "title": "Product Manager Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005",
-   "first_seen": "2026-10-30T22:43:21Z"
   },
   {
    "tier": "B",
