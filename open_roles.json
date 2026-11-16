@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T15:00:25Z",
+ "generated_at": "2026-11-16T15:15:18Z",
  "counts": {
-  "target": 588,
-  "relevant": 2585
+  "target": 587,
+  "relevant": 2582
  },
  "roles": [
   {
@@ -3873,18 +3873,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
-   "title": "SoC Firmware Engineer Intern, SI Hardware Infrastructure",
-   "location": "Austin, TX",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1a8",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
    "title": "Software Engineer Intern, Information Security",
    "location": "Bellevue, WA",
    "season": "Winter",
@@ -7347,18 +7335,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002",
-   "first_seen": "2026-11-10T21:39:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Addepar",
-   "title": "Product Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1s3",
    "first_seen": "2026-11-10T21:39:27Z"
   },
   {
@@ -34245,6 +34221,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Tesla",
+   "title": "SoC Firmware Engineer Intern, SI Hardware Infrastructure",
+   "location": "Marlborough, MA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1a8",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Chassis Integration Engineer Intern, Vehicle Firmware",
    "location": "Piscataway, NJ",
    "season": "Winter",
@@ -34653,36 +34641,12 @@
    "tier": "B",
    "track": "swe",
    "company": "The New York Times",
-   "title": "Frontend Engineering Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1l5",
-   "first_seen": "2026-11-06T22:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
    "title": "Android Engineering Intern",
    "location": "New York, NY",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1l6",
-   "first_seen": "2026-11-06T22:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "Full-Stack Engineering Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1l7",
    "first_seen": "2026-11-06T22:04:04Z"
   },
   {
@@ -34780,18 +34744,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005",
    "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "Data Analyst Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1pm",
-   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
