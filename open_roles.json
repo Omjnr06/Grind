@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T16:00:27Z",
+ "generated_at": "2026-11-16T16:15:18Z",
  "counts": {
-  "target": 586,
-  "relevant": 2567
+  "target": 590,
+  "relevant": 2573
  },
  "roles": [
   {
@@ -3861,6 +3861,42 @@
    "tier": "A",
    "track": "swe",
    "company": "Shopify",
+   "title": "Data Intern",
+   "location": "Montreal, QC, Canada / Toronto, ON, Canada / NYC / Ottawa, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
+   "first_seen": "2026-11-16T16:15:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Shopify",
+   "title": "Software Engineer Intern",
+   "location": "Montreal, QC, Canada / Toronto, ON, Canada / Ottawa, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
+   "first_seen": "2026-11-16T16:15:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Shopify",
+   "title": "Applied Machine Learning Engineer Intern",
+   "location": "Montreal, QC, Canada / Toronto, ON, Canada / Ottawa, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
+   "first_seen": "2026-11-16T16:15:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Shopify",
    "title": "Engineering and Data Intern",
    "location": "Remote / Canada",
    "season": "Winter",
@@ -3916,18 +3952,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1a1",
    "first_seen": "2026-10-29T16:03:48Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Integration Engineer Intern, Service Tooling",
-   "location": "Fremont, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ac",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "A",
@@ -4041,6 +4065,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
+   "title": "Software Integration Engineer Intern - Service Tooling",
+   "location": "Fremont, CA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/286127",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
    "location": "Fremont, CA",
    "season": "Spring 2027, Summer 2027",
@@ -4060,6 +4096,42 @@
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/287443",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Engineer Intern, Build & Simulation Platform",
+   "location": "Montreal, Canada / Toronto, Canada / New York, NY / Ottawa, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ad",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Integration Engineer Intern, Service Tooling",
+   "location": "Montreal, Canada / Toronto, Canada / Ottawa, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ac",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Data Engineer Intern, Data Engineering & Business Intelligence",
+   "location": "Montreal, Canada / Toronto, Canada / Ottawa, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ae",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "A",
@@ -4143,30 +4215,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ab",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Intern, Build & Simulation Platform",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ad",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Data Engineer Intern, Data Engineering & Business Intelligence",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ae",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
@@ -7233,18 +7281,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Accenture",
-   "title": "Technology Apprentice",
-   "location": "London, UK",
-   "season": "Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://accenture.pinpointhq.com/en/postings/0f0d4251-2c54-4614-8be7-f0042813b9d3?ats=pinpointhq",
-   "first_seen": "2026-11-14T08:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Accenture",
    "title": "Technology Software Engineer Apprentice",
    "location": "Newcastle upon Tyne, UK",
    "season": "Fall 2027, Spring 2028",
@@ -7360,6 +7396,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910306002",
    "first_seen": "2026-11-13T23:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Addepar",
+   "title": "Technical Product Management Intern - ADX",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002",
+   "first_seen": "2026-11-16T16:15:18Z"
   },
   {
    "tier": "B",
@@ -8037,12 +8085,36 @@
    "tier": "B",
    "track": "swe",
    "company": "Altice USA",
+   "title": "Software Development Intern",
+   "location": "Bethpage, NY",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1so",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altice USA",
    "title": "Developer Intern - Financial & People Systems",
    "location": "Bethpage, NY",
    "season": "Winter 2027",
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Developer,-Financial-&-People-Systems-NY-11714/1449511200/?ats=successfactors",
+   "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Altice USA",
+   "title": "Product Analytics Intern",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Analytics-NY-11714/1449510900/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -8092,6 +8164,30 @@
    "source": "simplify",
    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Operations-Data-Analyst-NY-11714/1449510400/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altice USA",
+   "title": "Software Developer Intern",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors",
+   "first_seen": "2026-11-16T16:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Altice USA",
+   "title": "Data Analyst Intern - Modernization Program BSS/OSS Migration",
+   "location": "Bethpage, NY",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors",
+   "first_seen": "2026-11-16T16:15:18Z"
   },
   {
    "tier": "B",
@@ -17192,18 +17288,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "exacare ai",
-   "title": "Data and Analytics Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166",
-   "first_seen": "2026-11-11T15:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "EXL",
    "title": "Data and AI Intern",
    "location": "London, UK",
@@ -22257,6 +22341,18 @@
    "tier": "B",
    "track": "swe",
    "company": "JP Morgan Chase",
+   "title": "Consumer & Community Banking Intern",
+   "location": "Palo Alto, CA / Columbus, OH / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923",
+   "first_seen": "2026-11-16T16:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "JP Morgan Chase",
    "title": "Data & AI Intern - Analyst",
    "location": "Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE",
    "season": "Summer 2027",
@@ -24160,18 +24256,6 @@
    "source": "simplify",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Lyte AI",
-   "title": "Software Engineering Intern",
-   "location": "Dallas, TX / Washington, DC / Seattle, WA / San Diego, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1in",
-   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
@@ -29289,6 +29373,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Qualcomm",
+   "title": "GPU Compiler Intern",
+   "location": "Cambridge, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
+   "first_seen": "2026-11-16T16:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
    "title": "Sensors Subsystem Engineering Intern, Multiple Teams",
    "location": "Hudson Valley, NY / Austin, TX / Irvine, CA / Santa Clara, CA / Boise, ID",
    "season": "Summer",
@@ -30760,6 +30856,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/gv",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Robert Bosch Venture Capital",
+   "title": "Data Analyst & Marketing/Sales Intern",
+   "location": "Denham, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161793229",
+   "first_seen": "2026-11-16T16:15:18Z"
   },
   {
    "tier": "B",
@@ -35596,6 +35704,18 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac/apply",
    "first_seen": "2026-11-13T23:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Toyota Research Institute",
+   "title": "Research Intern - Spatial Intelligence for Robotics",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply",
+   "first_seen": "2026-11-16T16:15:18Z"
   },
   {
    "tier": "B",
