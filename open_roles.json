@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T18:00:23Z",
+ "generated_at": "2026-11-16T18:15:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2567
+  "relevant": 2565
  },
  "roles": [
   {
@@ -12340,18 +12340,6 @@
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
    "first_seen": "2026-09-05T15:31:30Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bree",
-   "title": "Machine Learning Engineering Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -29068,18 +29056,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1gr",
    "first_seen": "2026-11-04T15:45:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Protective Life",
-   "title": "Business Analytics Intern",
-   "location": "Birmingham, AL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
