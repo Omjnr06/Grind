@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T08:00:23Z",
+ "generated_at": "2026-11-16T08:15:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2594
+  "relevant": 2592
  },
  "roles": [
   {
@@ -13448,18 +13448,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "CenturyLink",
-   "title": "Data Internship - Analytics & Decision Science",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
-   "first_seen": "2026-10-19T01:11:35Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Certa",
    "title": "Frontend Engineer Intern",
    "location": "London, UK / Remote in India / SF / Jaipur, Rajasthan, India",
@@ -13667,10 +13655,10 @@
    "company": "CIBC",
    "title": "Application/Software Developer Co-op - Capital Markets Technology",
    "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
+   "season": "Winter",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/c2",
    "first_seen": "2026-10-20T23:14:58Z"
   },
   {
@@ -31336,18 +31324,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1jt",
    "first_seen": "2026-11-06T02:41:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "Developer Intern - RBC Amplify",
-   "location": "Montreal, QC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
