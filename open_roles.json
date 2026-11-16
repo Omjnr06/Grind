@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T18:30:21Z",
+ "generated_at": "2026-11-16T18:45:19Z",
  "counts": {
-  "target": 588,
-  "relevant": 2565
+  "target": 587,
+  "relevant": 2564
  },
  "roles": [
   {
@@ -4233,18 +4233,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
-   "title": "Software Integration Engineer Intern, SI Platforms",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ai",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
    "title": "SI Hardware RTL Design Engineer Intern, SI Hardware",
    "location": "Palo Alto, CA",
    "season": "Winter",
@@ -8139,18 +8127,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors",
-   "first_seen": "2026-11-16T16:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Data Analyst Intern - Modernization Program BSS/OSS Migration",
-   "location": "Bethpage, NY",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors",
    "first_seen": "2026-11-16T16:15:18Z"
   },
   {
@@ -12747,18 +12723,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Cadence Solutions",
-   "title": "Product Management Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -34048,6 +34012,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/u",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Integration Engineer Intern, SI Platforms",
+   "location": "Universal City, CA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ai",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
