@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T21:30:21Z",
+ "generated_at": "2026-11-16T21:45:25Z",
  "counts": {
   "target": 585,
-  "relevant": 2560
+  "relevant": 2558
  },
  "roles": [
   {
@@ -8067,18 +8067,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Operations Data Analyst Intern",
-   "location": "Bethpage, NY",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Operations-Data-Analyst-NY-11714/1449510400/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -37683,18 +37671,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply",
-   "first_seen": "2026-11-07T07:59:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zoox",
-   "title": "AI Workflows & Safety Decision Making Intern",
-   "location": "Foster City, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply",
    "first_seen": "2026-11-07T07:59:16Z"
   },
   {
