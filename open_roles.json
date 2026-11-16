@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T06:30:21Z",
+ "generated_at": "2026-11-16T06:45:16Z",
  "counts": {
   "target": 590,
-  "relevant": 2603
+  "relevant": 2600
  },
  "roles": [
   {
@@ -12235,18 +12235,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "Boston Scientific",
-   "title": "R&D Product Development Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813850819",
-   "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "Botpress Technologies",
    "title": "Software Development Intern",
@@ -13694,7 +13682,7 @@
    "season": "Winter 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2",
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524",
    "first_seen": "2026-10-20T23:14:58Z"
   },
   {
@@ -31425,18 +31413,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Royal Bank of Canada",
-   "title": "Developer Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206",
-   "first_seen": "2026-10-26T22:57:43Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
    "title": "Quantitative Technology Services Co-op - Software Developer",
    "location": "Montreal, QC, Canada",
    "season": "Winter 2027",
@@ -31504,18 +31480,6 @@
    "source": "simplify",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "AI Engineer Co-op - Global Equities",
-   "location": "Toronto, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2",
-   "first_seen": "2026-11-04T07:40:10Z"
   },
   {
    "tier": "B",
