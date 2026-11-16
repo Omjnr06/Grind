@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T14:30:22Z",
+ "generated_at": "2026-11-16T14:45:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2586
+  "relevant": 2585
  },
  "roles": [
   {
@@ -31311,18 +31311,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Md",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "Developer Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
