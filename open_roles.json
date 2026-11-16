@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T21:00:23Z",
+ "generated_at": "2026-11-16T21:15:17Z",
  "counts": {
   "target": 585,
-  "relevant": 2561
+  "relevant": 2560
  },
  "roles": [
   {
@@ -23020,18 +23020,6 @@
    "source": "simplify",
    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "L3Harris Technologies",
-   "title": "Software Engineering Intern",
-   "location": "Bristol, PA",
-   "season": "Summer",
-   "sponsorship": "U.S. Citizenship is Required",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/15J",
-   "first_seen": "2026-11-01T13:46:06Z"
   },
   {
    "tier": "B",
