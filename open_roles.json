@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T13:00:24Z",
+ "generated_at": "2026-11-16T13:15:19Z",
  "counts": {
   "target": 588,
-  "relevant": 2590
+  "relevant": 2589
  },
  "roles": [
   {
@@ -13624,18 +13624,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/c2",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "Machine Learning Engineer Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
-   "first_seen": "2026-10-22T21:30:42Z"
   },
   {
    "tier": "B",
