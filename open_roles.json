@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T10:00:33Z",
+ "generated_at": "2026-11-16T10:15:17Z",
  "counts": {
-  "target": 590,
-  "relevant": 2590
+  "target": 588,
+  "relevant": 2591
  },
  "roles": [
   {
@@ -2167,18 +2167,6 @@
   },
   {
    "tier": "A",
-   "track": "swe",
-   "company": "Google",
-   "title": "Forward Deployed Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
    "track": "pm",
    "company": "Google",
    "title": "Associate Product Manager Intern",
@@ -3736,18 +3724,6 @@
    "source": "speedyapply",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
    "first_seen": "2026-09-12T17:06:07Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Microsoft",
-   "title": "Researcher Intern - Coreai",
-   "location": "Redmond, WA / Mountain View, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "A",
@@ -27268,6 +27244,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/12i",
    "first_seen": "2026-10-31T13:53:54Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "Research Intern",
+   "location": "Santa Clara, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
