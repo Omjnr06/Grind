@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T05:00:23Z",
+ "generated_at": "2026-11-16T05:15:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2613
+  "relevant": 2606
  },
  "roles": [
   {
@@ -10881,18 +10881,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Bank of Montreal",
-   "title": "AI Developer Co-op",
-   "location": "Toronto, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1y4",
-   "first_seen": "2026-11-13T00:00:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bank of Montreal",
    "title": "Quantitative Trading Analyst Co-op",
    "location": "Toronto, ON, Canada",
    "season": "Summer 2027",
@@ -13221,30 +13209,6 @@
    "tier": "B",
    "track": "swe",
    "company": "CareSource",
-   "title": "Cybersecurity Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1je",
-   "first_seen": "2026-11-05T22:27:01Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CareSource",
-   "title": "Data Analyst Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1jg",
-   "first_seen": "2026-11-05T22:27:01Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CareSource",
    "title": "Configuration and Automation Intern",
    "location": "Remote / United States",
    "season": "Summer",
@@ -13720,30 +13684,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/ep",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "AI Scientist Co-op",
-   "location": "Toronto, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/T1",
-   "first_seen": "2026-10-26T22:57:43Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "Data Analyst Co-op",
-   "location": "Toronto, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Wy",
-   "first_seen": "2026-10-27T22:35:58Z"
   },
   {
    "tier": "B",
@@ -29193,18 +29133,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Plusgrade",
-   "title": "UI/UX Design and Frontend Engineer Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1gp",
-   "first_seen": "2026-11-04T15:45:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Plusgrade",
    "title": "Applied AI Engineer Intern",
    "location": "Toronto, Canada",
    "season": "Summer",
@@ -31588,18 +31516,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Qc",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "AI Engineer Co-op, Capital Markets, Global Equities",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1fV",
-   "first_seen": "2026-11-04T07:40:10Z"
   },
   {
    "tier": "B",
