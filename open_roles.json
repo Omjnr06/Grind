@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T09:15:27Z",
+ "generated_at": "2026-11-16T09:43:00Z",
  "counts": {
   "target": 590,
-  "relevant": 2592
+  "relevant": 2590
  },
  "roles": [
   {
@@ -27273,18 +27273,6 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
-   "title": "Research Intern",
-   "location": "Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
    "title": "Research Intern - Electronic Design Automation",
    "location": "Santa Clara, CA",
    "season": "Summer 2027",
@@ -31419,18 +31407,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "Data Engineer Intern - Amplify 2027",
-   "location": "Vancouver, BC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
