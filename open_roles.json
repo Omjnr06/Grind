@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T16:30:21Z",
+ "generated_at": "2026-11-16T16:45:18Z",
  "counts": {
-  "target": 590,
-  "relevant": 2573
+  "target": 589,
+  "relevant": 2572
  },
  "roles": [
   {
@@ -2163,18 +2163,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.google.com/about/careers/applications/jobs/results/86733690079453894",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "pm",
-   "company": "Google",
-   "title": "Associate Product Manager Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/103464941339452102",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -13684,18 +13672,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/c2",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "Junior Insights & Analytics Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099",
-   "first_seen": "2026-10-27T18:40:07Z"
   },
   {
    "tier": "B",
@@ -36818,7 +36794,7 @@
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W",
    "first_seen": "2026-11-12T15:45:18Z"
   },
   {
