@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T15:30:27Z",
+ "generated_at": "2026-11-16T15:45:31Z",
  "counts": {
-  "target": 587,
-  "relevant": 2582
+  "target": 586,
+  "relevant": 2567
  },
  "roles": [
   {
@@ -4132,18 +4132,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1a9",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Intern, Core SI Compiler & Runtime",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1aa",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "A",
@@ -19208,174 +19196,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175424?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175423?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175427?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175421?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - The Core Quantitative Strats",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175426?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Investment Banking",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175428?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Engineering",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/170644?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171566?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171535?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Multiple Teams",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171563?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Associate Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171552?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171550?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171533?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/171547?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Google",
    "title": "Forward Deployed Engineering Intern",
    "location": "Middletown, RI",
@@ -31053,18 +30873,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Rodan Energy Solutions",
-   "title": "Data Operations Engineer AI Co-op - Winter 2027",
-   "location": "Mississauga, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rodanenergysolutionsinc.applytojob.com/apply/baC6tVrSpB/Data-Operations-Engineer-AI-Coop-Student-Winter-2027",
-   "first_seen": "2026-11-04T21:37:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rodan Energy Solutions",
    "title": "AI Solutions Co-op",
    "location": "Mississauga, ON, Canada",
    "season": "Winter 2027",
@@ -34233,6 +34041,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Tesla",
+   "title": "Software Engineer Intern, Core SI Compiler & Runtime",
+   "location": "Marlborough, MA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1aa",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Chassis Integration Engineer Intern, Vehicle Firmware",
    "location": "Piscataway, NJ",
    "season": "Winter",
@@ -36496,18 +36316,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ey",
    "first_seen": "2026-11-04T01:23:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Vanderlande Industries",
-   "title": "Supply Chain Data & Analytics Intern",
-   "location": "Remote in USA / Marietta, GA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708",
-   "first_seen": "2026-11-11T23:45:17Z"
   },
   {
    "tier": "B",
