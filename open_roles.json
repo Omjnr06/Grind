@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T01:00:24Z",
+ "generated_at": "2026-11-16T01:15:16Z",
  "counts": {
   "target": 590,
   "relevant": 2610
@@ -3945,6 +3945,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
+   "title": "Distributed Systems Software Engineer Intern, Energy Engineering",
+   "location": "Chicago, IL / Brookfield, WI",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1a1",
+   "first_seen": "2026-10-29T16:03:48Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Software Integration Engineer Intern, Service Tooling",
    "location": "Fremont, CA",
    "season": "Winter",
@@ -4096,30 +4108,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1b7",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Distributed Systems Software Engineer Intern, Energy Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1a1",
-   "first_seen": "2026-10-29T16:03:48Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Integration Engineer Intern, High Voltage Systems",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1a2",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "A",
@@ -4792,6 +4780,18 @@
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/285202",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
+   "location": "Palo Alto, CA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/285508",
+   "first_seen": "2026-10-29T16:03:48Z"
   },
   {
    "tier": "A",
@@ -21669,18 +21669,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Intel",
-   "title": "AI Software Technical Intern",
-   "location": "US, California, Santa Clara",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544",
-   "first_seen": "2026-10-02T00:12:46Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intel",
    "title": "AI Solution Architect - Graduate Intern",
    "location": "US, California, Santa Clara",
    "season": "Not stated",
@@ -34564,6 +34552,18 @@
    "source": "earlycareers_eu",
    "url": "https://www.linkedin.com/jobs/view/4468571234",
    "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Integration Engineer Intern, High Voltage Systems",
+   "location": "Brookfield, WI",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1a2",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
