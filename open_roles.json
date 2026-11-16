@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T07:00:27Z",
+ "generated_at": "2026-11-16T07:15:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2600
+  "relevant": 2595
  },
  "roles": [
   {
@@ -13459,18 +13459,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "CenturyLink",
-   "title": "AI Product & Business Innovation Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors",
-   "first_seen": "2026-11-11T00:15:19Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "Certa",
    "title": "Frontend Engineer Intern",
@@ -13677,18 +13665,6 @@
    "tier": "B",
    "track": "swe",
    "company": "CIBC",
-   "title": "Application Developer Co-op - Enterprise Technology & Business Management",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524",
-   "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
    "title": "Application/Software Developer Co-op - Capital Markets Technology",
    "location": "Toronto, ON, Canada",
    "season": "Winter 2027",
@@ -13696,30 +13672,6 @@
    "source": "simplify",
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "AI and Quantum Scientist Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "Analyst Co-op - Enterprise Data and Records",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -13743,18 +13695,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052",
-   "first_seen": "2026-10-26T22:57:43Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "AI Scientist Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058",
    "first_seen": "2026-10-26T22:57:43Z"
   },
   {
