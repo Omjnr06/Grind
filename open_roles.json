@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-16T20:00:24Z",
+ "generated_at": "2026-11-16T20:15:32Z",
  "counts": {
-  "target": 586,
+  "target": 585,
   "relevant": 2561
  },
  "roles": [
@@ -4251,18 +4251,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ak",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ao",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
@@ -12820,18 +12808,6 @@
    "source": "speedyapply_intl",
    "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101",
    "first_seen": "2026-10-02T20:59:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Camping World",
-   "title": "Software Engineer Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
-   "first_seen": "2026-11-14T16:15:17Z"
   },
   {
    "tier": "B",
@@ -33976,6 +33952,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/u",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
+   "location": "San Leandro, CA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ao",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
