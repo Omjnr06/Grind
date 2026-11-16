@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T19:00:23Z",
+ "generated_at": "2026-11-16T19:15:18Z",
  "counts": {
-  "target": 587,
-  "relevant": 2564
+  "target": 586,
+  "relevant": 2563
  },
  "roles": [
   {
@@ -4257,42 +4257,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
-   "title": "Software Engineer Intern, Data Transformations",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1al",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "SI Hardware Silicon Validation Engineer Intern, SI Hardware",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1am",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Mobile Application Software Engineer Intern, Energy Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1an",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
    "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
    "location": "Palo Alto, CA",
    "season": "Winter",
@@ -4719,6 +4683,30 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/284436",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Mobile Application Software Engineer Intern - Energy Engineering",
+   "location": "Palo Alto, CA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/284776",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Data Transformations",
+   "location": "Palo Alto, CA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/284925",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -18381,18 +18369,6 @@
    "tier": "B",
    "track": "swe",
    "company": "General Dynamics UK",
-   "title": "Software Engineer Co-op - 8 Months",
-   "location": "Ottawa, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/GDMSI/744000147019949",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "General Dynamics UK",
    "title": "Software Engineering Co-op - 4 - 8 months",
    "location": "Ottawa, ON, Canada",
    "season": "Winter 2027",
@@ -21388,18 +21364,6 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
    "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intuitive Surgical",
-   "title": "Robotics and Controls Engineer Intern",
-   "location": "Sunnyvale, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000160747319",
-   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
@@ -32948,18 +32912,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Stand Together",
-   "title": "Data Analyst Intern, Open the Books",
-   "location": "Vancouver, Canada",
-   "season": "Spring",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ft",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Stantec",
    "title": "Transportation Engineering Intern - Infrastructure (Summer 2027)",
    "location": "Austin, TX, United States",
@@ -33981,6 +33933,30 @@
    "tier": "B",
    "track": "swe",
    "company": "Tesla",
+   "title": "SI Hardware Silicon Validation Engineer Intern, SI Hardware",
+   "location": "Idaho Falls, ID",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1am",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Mobile Application Software Engineer Intern, Energy Engineering",
+   "location": "Lawrenceville, GA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1an",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
    "title": "SoC Firmware Engineer Intern, SI Hardware Infrastructure",
    "location": "Marlborough, MA",
    "season": "Winter",
@@ -34000,6 +33976,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1aa",
    "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Engineer Intern, Data Transformations",
+   "location": "Overland Park, KS",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1al",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -36664,18 +36652,6 @@
    "source": "speedyapply_intl",
    "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W",
    "first_seen": "2026-11-13T19:30:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Visa",
-   "title": "Software Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W",
-   "first_seen": "2026-11-12T15:45:18Z"
   },
   {
    "tier": "B",
