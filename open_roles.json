@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T06:00:23Z",
+ "generated_at": "2026-11-16T06:15:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2604
+  "relevant": 2603
  },
  "roles": [
   {
@@ -4113,18 +4113,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
-   "title": "Data Engineer Intern, Energy",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1a3",
-   "first_seen": "2026-10-29T16:03:48Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
    "title": "RL Engineer Intern, Tesla SI",
    "location": "Palo Alto, CA",
    "season": "Fall",
@@ -4816,6 +4804,18 @@
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/286261",
    "first_seen": "2026-10-29T09:05:59Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Data Engineer Intern - Energy",
+   "location": "Palo Alto, CA",
+   "season": "Spring 2027, Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/287982",
+   "first_seen": "2026-10-29T16:03:48Z"
   },
   {
    "tier": "A",
@@ -13484,18 +13484,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "CenturyLink",
-   "title": "AI & Automation Builders Internship",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors",
-   "first_seen": "2026-11-11T00:15:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Certa",
    "title": "Frontend Engineer Intern",
    "location": "London, UK / Remote in India / SF / Jaipur, Rajasthan, India",
@@ -13792,18 +13780,6 @@
    "source": "simplify",
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099",
    "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "Data Analyst Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1",
-   "first_seen": "2026-10-28T01:41:27Z"
   },
   {
    "tier": "B",
@@ -31509,18 +31485,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Royal Bank of Canada",
-   "title": "AI Engineer Co-op - Global Equities",
-   "location": "Toronto, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
-   "first_seen": "2026-11-04T07:40:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
    "title": "Developer Intern",
    "location": "Toronto, ON, Canada",
    "season": "Summer 2027",
@@ -31540,6 +31504,18 @@
    "source": "simplify",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Royal Bank of Canada",
+   "title": "AI Engineer Co-op - Global Equities",
+   "location": "Toronto, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2",
+   "first_seen": "2026-11-04T07:40:10Z"
   },
   {
    "tier": "B",
@@ -34492,6 +34468,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1a2",
    "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Data Engineer Intern, Energy",
+   "location": "El Segundo, CA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1a3",
+   "first_seen": "2026-10-29T16:03:48Z"
   },
   {
    "tier": "B",
