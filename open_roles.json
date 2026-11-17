@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T06:30:21Z",
+ "generated_at": "2026-11-17T06:45:17Z",
  "counts": {
   "target": 584,
-  "relevant": 2573
+  "relevant": 2571
  },
  "roles": [
   {
@@ -32599,18 +32599,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "Solink",
-   "title": "Software Engineer Co-op - Apps",
-   "location": "Ottawa, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "Sonos",
    "title": "Software Product Manager Intern",
@@ -35920,18 +35908,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1wF",
    "first_seen": "2026-11-12T16:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Trinity Life Sciences",
-   "title": "Data Science Intern",
-   "location": "Waltham, MA / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
-   "first_seen": "2026-11-12T16:15:19Z"
   },
   {
    "tier": "B",
