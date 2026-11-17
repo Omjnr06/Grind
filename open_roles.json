@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T16:15:21Z",
+ "generated_at": "2026-11-17T16:30:22Z",
  "counts": {
   "target": 584,
-  "relevant": 2578
+  "relevant": 2577
  },
  "roles": [
   {
@@ -16389,18 +16389,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Elire",
-   "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
-   "location": "Remote / United States / Minneapolis, MN",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1sV",
-   "first_seen": "2026-11-11T06:00:24Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Elire",
    "title": "AI Software Developer Intern - Multiple Teams",
    "location": "Remote in USA / Minneapolis, MN",
    "season": "Summer 2027",
@@ -27716,6 +27704,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Paccar",
+   "title": "AI-Driven Vehicle Definition Intern",
+   "location": "New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1bj",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Pacific Fusion",
    "title": "Summer 2027 Internship- Software Engineering",
    "location": "San Leandro, CA/Fremont, CA or Los Lunas, NM",
@@ -33628,18 +33628,6 @@
    "source": "simplify",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TD Bank",
-   "title": "Portfolio Analytics Data Analyst Intern/Co-op",
-   "location": "San Francisco, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/aa",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
