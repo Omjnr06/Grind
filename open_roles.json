@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T01:30:27Z",
+ "generated_at": "2026-11-17T01:45:17Z",
  "counts": {
-  "target": 585,
-  "relevant": 2574
+  "target": 584,
+  "relevant": 2575
  },
  "roles": [
   {
@@ -4071,18 +4071,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/285291",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Integration Engineer Intern - Service Tooling",
-   "location": "Fremont, CA",
-   "season": "Winter 2027, Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/286127",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -14632,6 +14620,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1o0",
    "first_seen": "2026-11-09T10:36:56Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Coveo",
+   "title": "Software Developer Intern - Solutions Engineering Core Team",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002",
+   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
