@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T08:00:26Z",
+ "generated_at": "2026-11-17T08:15:20Z",
  "counts": {
-  "target": 583,
-  "relevant": 2576
+  "target": 584,
+  "relevant": 2579
  },
  "roles": [
   {
@@ -6544,6 +6544,18 @@
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7708750900450134325",
    "first_seen": "2026-11-16T23:45:17Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Research Scientist Intern - Privacy Innovation Lab",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7703923326767483141",
+   "first_seen": "2026-11-17T08:15:20Z"
   },
   {
    "tier": "A",
@@ -14672,6 +14684,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Critical Environment Technologies",
+   "title": "Computer Science Co-op",
+   "location": "Delta, BC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://cetci.bamboohr.com/careers/92/",
+   "first_seen": "2026-11-17T08:15:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "CrowdStrike",
    "title": "Sales Data Analytics Intern",
    "location": "Arlington County, Arlington, VA / Sunnyvale, CA",
@@ -17752,6 +17776,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/foundenergy/jobs/4719227006",
    "first_seen": "2026-10-06T02:16:30Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "FPWA",
+   "title": "Data & Fiscal Policy Intern",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://fpwa.bamboohr.com/careers/61/",
+   "first_seen": "2026-11-17T08:15:20Z"
   },
   {
    "tier": "B",
@@ -26548,6 +26584,18 @@
    "source": "zshah101",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772",
    "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NorthStar Earth & Space",
+   "title": "Research Intern - AI for Earth Observation",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2028",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://northstarearthandspace.bamboohr.com/careers/117/",
+   "first_seen": "2026-11-17T08:15:20Z"
   },
   {
    "tier": "B",
