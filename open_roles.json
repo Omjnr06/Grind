@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T02:15:17Z",
+ "generated_at": "2026-11-17T02:30:21Z",
  "counts": {
   "target": 584,
   "relevant": 2575
@@ -33993,6 +33993,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Tesla",
+   "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
+   "location": "Fort Belvoir, VA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ao",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
    "title": "SI Hardware Silicon Validation Engineer Intern, SI Hardware",
    "location": "Idaho Falls, ID",
    "season": "Winter",
@@ -34083,18 +34095,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ay",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
-   "location": "San Leandro, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ao",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
