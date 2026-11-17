@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T14:30:21Z",
+ "generated_at": "2026-11-17T14:45:24Z",
  "counts": {
   "target": 584,
-  "relevant": 2579
+  "relevant": 2578
  },
  "roles": [
   {
@@ -20056,18 +20056,6 @@
    "source": "zshah101",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396",
    "first_seen": "2026-10-14T21:40:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Hiya",
-   "title": "Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947/application?embed=true",
-   "first_seen": "2026-10-27T01:48:12Z"
   },
   {
    "tier": "B",
