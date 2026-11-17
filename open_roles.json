@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T03:15:16Z",
+ "generated_at": "2026-11-17T03:25:19Z",
  "counts": {
-  "target": 584,
+  "target": 585,
   "relevant": 2574
  },
  "roles": [
@@ -3945,6 +3945,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
+   "title": "Software Engineering Intern, People Products",
+   "location": "Berkeley Heights, NJ",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1as",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Factory Firmware Integration Intern - Energy Engineering",
    "location": "Buffalo, NY",
    "season": "Winter 2027, Spring 2027",
@@ -4295,10 +4307,10 @@
    "company": "Tesla",
    "title": "Software Engineering Intern, People Products",
    "location": "Palo Alto, CA",
-   "season": "Summer",
+   "season": "Winter",
    "sponsorship": "Other",
    "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1as",
+   "url": "https://go.vansh.nyc/1at",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
