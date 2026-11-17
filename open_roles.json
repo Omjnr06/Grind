@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T02:30:21Z",
+ "generated_at": "2026-11-17T02:45:18Z",
  "counts": {
   "target": 584,
-  "relevant": 2575
+  "relevant": 2573
  },
  "roles": [
   {
@@ -11475,18 +11475,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
-   "first_seen": "2026-10-30T06:38:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "BitGo",
-   "title": "Software Engineer Intern - Prime Trade",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002",
    "first_seen": "2026-10-30T06:38:22Z"
   },
   {
@@ -23168,18 +23156,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Later",
-   "title": "Data Science Co-op",
-   "location": "Vancouver, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/later/jobs/8889650002",
-   "first_seen": "2026-10-17T18:26:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "LAXIR",
    "title": "Junior Full-Stack Engineer Intern",
    "location": "Remote / United States",
@@ -25708,18 +25684,6 @@
    "source": "zshah101",
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
    "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Motorola Solutions",
-   "title": "Systems Engineering Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657",
-   "first_seen": "2026-11-12T23:45:16Z"
   },
   {
    "tier": "B",
@@ -34636,6 +34600,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005",
    "first_seen": "2026-11-06T17:01:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "The Opus Group",
+   "title": "Interactive Resident",
+   "location": "Remote in USA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-17T02:45:18Z"
   },
   {
    "tier": "B",
