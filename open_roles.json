@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T07:00:33Z",
+ "generated_at": "2026-11-17T07:15:18Z",
  "counts": {
-  "target": 584,
+  "target": 583,
   "relevant": 2571
  },
  "roles": [
@@ -3087,18 +3087,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1872420890835857",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
-   "location": "Redmond, WA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.metacareers.com/jobs/1143164681833409",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
