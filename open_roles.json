@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T19:00:34Z",
+ "generated_at": "2026-11-17T19:15:29Z",
  "counts": {
   "target": 583,
-  "relevant": 2571
+  "relevant": 2569
  },
  "roles": [
   {
@@ -7684,18 +7684,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880",
    "first_seen": "2026-10-29T02:50:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Akuna Capital University",
-   "title": "Quantitative Development & Strategy Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
-   "first_seen": "2026-07-24T09:31:28Z"
   },
   {
    "tier": "B",
@@ -35391,18 +35379,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Together AI",
-   "title": "Research Intern",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
