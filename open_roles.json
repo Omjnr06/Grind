@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T08:15:20Z",
+ "generated_at": "2026-11-17T08:30:21Z",
  "counts": {
-  "target": 584,
-  "relevant": 2579
+  "target": 586,
+  "relevant": 2577
  },
  "roles": [
   {
@@ -4101,6 +4101,54 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
+   "title": "Software Engineer Intern, Maps & Navigation, Robotaxi",
+   "location": "Mississauga, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ax",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Fullstack Software Engineer Intern, Fleetnet",
+   "location": "Mississauga, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ay",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Data Engineer Intern, Fleet Analytics",
+   "location": "Mississauga, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1az",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
+   "location": "Montreal, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1b0",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Software Engineer Intern, Build & Simulation Platform",
    "location": "Montreal, Canada / Toronto, Canada / New York, NY / Ottawa, Canada",
    "season": "Winter",
@@ -4311,30 +4359,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1au",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Intern, Camera & Robotics",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1aw",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1b0",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
@@ -34005,6 +34029,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Tesla",
+   "title": "Software Engineer Intern, Camera & Robotics",
+   "location": "Burnaby, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1aw",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Data Engineer Intern, Energy",
    "location": "El Segundo, CA",
    "season": "Winter",
@@ -34095,42 +34131,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ak",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Data Engineer Intern, Fleet Analytics",
-   "location": "Pittsburgh, PA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1az",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Fullstack Software Engineer Intern, Fleetnet",
-   "location": "Redondo Beach, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ay",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Intern, Maps & Navigation, Robotaxi",
-   "location": "State College, PA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ax",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
