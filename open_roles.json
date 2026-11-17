@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T09:15:19Z",
+ "generated_at": "2026-11-17T09:30:21Z",
  "counts": {
-  "target": 585,
-  "relevant": 2577
+  "target": 584,
+  "relevant": 2578
  },
  "roles": [
   {
@@ -4395,18 +4395,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1b5",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Intern, Vehicle UI Development",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1b6",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
@@ -34059,6 +34047,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1am",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Engineer Intern, Vehicle UI Development",
+   "location": "Idaho Falls, ID",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1b6",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
