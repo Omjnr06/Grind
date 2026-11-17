@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T00:30:23Z",
+ "generated_at": "2026-11-17T00:45:16Z",
  "counts": {
   "target": 586,
-  "relevant": 2574
+  "relevant": 2573
  },
  "roles": [
   {
@@ -20356,18 +20356,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
    "first_seen": "2026-08-31T23:22:36Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Huawei",
-   "title": "Engineer Co-op - Compiler",
-   "location": "Markham, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7",
-   "first_seen": "2026-11-13T03:15:16Z"
   },
   {
    "tier": "B",
