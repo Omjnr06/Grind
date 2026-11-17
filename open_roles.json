@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T22:00:25Z",
+ "generated_at": "2026-11-17T22:15:17Z",
  "counts": {
   "target": 581,
-  "relevant": 2554
+  "relevant": 2551
  },
  "roles": [
   {
@@ -19749,18 +19749,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Highmark Health",
-   "title": "Reimbursement Analyst Intern",
-   "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Reimbursement-Analyst-Undergraduate-Intern_J287154",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Highmark Health",
    "title": "Evaluation Analytics Graduate Intern",
    "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho",
    "season": "Summer 2027",
@@ -24424,18 +24412,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true",
    "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Maxinsights",
-   "title": "Data Operations Intern",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true",
-   "first_seen": "2026-11-13T09:45:16Z"
   },
   {
    "tier": "B",
@@ -32464,18 +32440,6 @@
    "source": "simplify",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
    "first_seen": "2026-10-21T01:36:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Soros Fund Management",
-   "title": "Trading Intern - Middle and Back Office Dev",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003",
-   "first_seen": "2026-11-17T03:15:16Z"
   },
   {
    "tier": "B",
