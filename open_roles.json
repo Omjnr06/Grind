@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T07:30:20Z",
+ "generated_at": "2026-11-17T07:45:18Z",
  "counts": {
   "target": 583,
-  "relevant": 2571
+  "relevant": 2576
  },
  "roles": [
   {
@@ -7712,6 +7712,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "All Options",
+   "title": "Graduate Quantitative Trader Intern",
+   "location": "Austin, TX",
+   "season": "Winter 2027, Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://alloptions.bamboohr.com/careers/85/",
+   "first_seen": "2026-11-17T07:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Allen Control Systems",
    "title": "Android Developer Intern, 2027",
    "location": "Austin, TX",
@@ -8920,6 +8932,18 @@
    "source": "simplify",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007",
    "first_seen": "2026-10-09T20:05:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Angel Host",
+   "title": "AI Product Engineer Intern Co-op",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2026, Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://angelhost.bamboohr.com/careers/123/",
+   "first_seen": "2026-11-17T07:45:18Z"
   },
   {
    "tier": "B",
@@ -11452,6 +11476,42 @@
    "source": "simplify",
    "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Birdseye Security Solutions",
+   "title": "Software Developer Intern",
+   "location": "Mississauga, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/286/",
+   "first_seen": "2026-11-17T07:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Birdseye Security Solutions",
+   "title": "AI Systems Intern",
+   "location": "Mississauga, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/287/",
+   "first_seen": "2026-11-17T07:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Birdseye Security Solutions",
+   "title": "Computer Vision Intern",
+   "location": "Mississauga, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/289/",
+   "first_seen": "2026-11-17T07:45:18Z"
   },
   {
    "tier": "B",
@@ -26625,18 +26685,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
    "title": "Software Developer Co-op",
    "location": "Vancouver, BC, Canada",
    "season": "Winter",
@@ -37396,6 +37444,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
    "first_seen": "2026-08-18T10:17:28Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Xradar",
+   "title": "Software Engineer Co-op",
+   "location": "Burnaby, BC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://xradar.bamboohr.com/careers/203/",
+   "first_seen": "2026-11-17T07:45:18Z"
   },
   {
    "tier": "B",
