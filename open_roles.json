@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T15:30:29Z",
+ "generated_at": "2026-11-17T15:45:16Z",
  "counts": {
   "target": 584,
-  "relevant": 2578
+  "relevant": 2577
  },
  "roles": [
   {
@@ -16497,6 +16497,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Emerson Electric",
+   "title": "Software Engineer Intern",
+   "location": "Austin, TX",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632",
+   "first_seen": "2026-11-17T15:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Emerson Electric",
    "title": "Software Engineering Intern",
    "location": "Austin, TX, United States",
    "season": "Not stated",
@@ -22509,18 +22521,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Kensington",
-   "title": "Marketing Analytics Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kensington",
    "title": "BI/Data Analyst Intern",
    "location": "Toronto, ON, Canada",
    "season": "",
@@ -26704,18 +26704,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
