@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T15:45:16Z",
+ "generated_at": "2026-11-17T16:00:27Z",
  "counts": {
   "target": 584,
   "relevant": 2577
@@ -10432,18 +10432,6 @@
    "source": "zshah101",
    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927",
    "first_seen": "2026-10-14T21:40:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Astro Mechanica",
-   "title": "Software Engineer Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1bg",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
@@ -24280,6 +24268,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1mo",
    "first_seen": "2026-11-07T22:41:38Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Marriott Vacations Worldwide",
+   "title": "Corporate Information Technology Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1bh",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
