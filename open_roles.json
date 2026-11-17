@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T12:30:21Z",
+ "generated_at": "2026-11-17T12:45:19Z",
  "counts": {
   "target": 584,
-  "relevant": 2581
+  "relevant": 2582
  },
  "roles": [
   {
@@ -19468,6 +19468,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Havas",
+   "title": "Data & Analytics Platformer Intern",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Data---Analytics-Platformer_JR0101641",
+   "first_seen": "2026-11-17T12:45:19Z"
   },
   {
    "tier": "B",
