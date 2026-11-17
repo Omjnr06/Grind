@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T05:15:16Z",
+ "generated_at": "2026-11-17T05:30:19Z",
  "counts": {
-  "target": 585,
+  "target": 584,
   "relevant": 2573
  },
  "roles": [
@@ -4323,18 +4323,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1au",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Opticaster Intern, Energy Engineering",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1av",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
@@ -24224,18 +24212,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Marriott Vacations Worldwide",
-   "title": "Corporate Information Technology Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1bh",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Marsh",
    "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
    "location": "Newcastle upon Tyne, UK",
@@ -34119,6 +34095,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1af",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Engineer Opticaster Intern, Energy Engineering",
+   "location": "Wilmington, MA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1av",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
