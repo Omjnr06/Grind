@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T09:30:21Z",
+ "generated_at": "2026-11-17T09:45:17Z",
  "counts": {
   "target": 584,
-  "relevant": 2578
+  "relevant": 2580
  },
  "roles": [
   {
@@ -18032,6 +18032,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Garner Health",
+   "title": "Associate Software Engineer Intern",
+   "location": "NYC",
+   "season": "Fall 2026, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004",
+   "first_seen": "2026-11-17T09:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "GCM Grosvenor",
    "title": "Cybersecurity Intern",
    "location": "Chicago, IL",
@@ -21963,18 +21975,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Jane Street",
-   "title": "Linux Engineer",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/janestreet/jobs/8626260002",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -30076,6 +30076,30 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true",
    "first_seen": "2026-10-28T07:24:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Remanence",
+   "title": "Engineer Intern",
+   "location": "London, UK / Paris, France",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/remanence/07fc4962-bf28-4255-a7d4-3f5d52a4c525/application?embed=true",
+   "first_seen": "2026-11-17T09:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Remanence",
+   "title": "Research Intern",
+   "location": "London, UK / Paris, France",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/remanence/97c87e6c-66d7-4d84-a873-30d286c26ea4/application?embed=true",
+   "first_seen": "2026-11-17T09:45:17Z"
   },
   {
    "tier": "B",
