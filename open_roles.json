@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T11:00:26Z",
+ "generated_at": "2026-11-17T11:15:19Z",
  "counts": {
   "target": 584,
-  "relevant": 2580
+  "relevant": 2581
  },
  "roles": [
   {
@@ -16291,6 +16291,18 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Electronic Arts",
+   "title": "Product Management Intern",
+   "location": "Austin, TX",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Electronic Arts",
    "title": "Data and AI Engineer Intern",
@@ -16347,18 +16359,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Electronic Arts",
-   "title": "Software Engineer Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -17800,6 +17800,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/FSH/baa9ae85-a578-4017-a41a-fc4999a4e077/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "FSP",
+   "title": "Placement Software Developer Intern",
+   "location": "Glasgow, UK / Reading, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://fsp.bamboohr.com/careers/323/",
+   "first_seen": "2026-11-17T11:15:19Z"
   },
   {
    "tier": "B",
@@ -22147,6 +22159,18 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "JP Morgan Chase",
+   "title": "Payments Intern",
+   "location": "London, UK",
+   "season": "Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808799",
+   "first_seen": "2026-11-17T11:15:19Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "JP Morgan Chase",
    "title": "Quantitative Research Intern",
@@ -24363,18 +24387,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Marshall Wace",
-   "title": "Technology Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
