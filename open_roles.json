@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T00:15:19Z",
+ "generated_at": "2026-11-17T00:30:23Z",
  "counts": {
   "target": 586,
-  "relevant": 2575
+  "relevant": 2574
  },
  "roles": [
   {
@@ -4149,6 +4149,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
+   "title": "Software Engineer Intern, Core SI Compiler & Runtime",
+   "location": "Mountain View, CA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1aa",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
    "title": "Software Engineer Intern, Maps & Navigation Validation",
    "location": "Palo Alto, CA",
    "season": "Winter",
@@ -4216,18 +4228,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1a9",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Intern, Infotainment Platforms Validation",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ab",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "A",
@@ -28352,18 +28352,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Pattern",
-   "title": "AI Infrastructure Engineer Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/fv",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "PayPal",
    "title": "Software Engineer Intern",
    "location": "Austin, TX / San Jose, CA / Chicago, IL / Omaha, NE / Scottsdale, AZ",
@@ -34065,18 +34053,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Tesla",
-   "title": "Software Engineer Intern, Core SI Compiler & Runtime",
-   "location": "Marlborough, MA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1aa",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tesla",
    "title": "Software Engineer Intern, Data Transformations",
    "location": "Overland Park, KS",
    "season": "Winter",
@@ -34155,6 +34131,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ai",
+   "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Software Engineer Intern, Infotainment Platforms Validation",
+   "location": "Washington, DC",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ab",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
