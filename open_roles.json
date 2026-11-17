@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T23:45:17Z",
+ "generated_at": "2026-11-17T00:00:28Z",
  "counts": {
-  "target": 587,
-  "relevant": 2550
+  "target": 586,
+  "relevant": 2552
  },
  "roles": [
   {
@@ -4365,30 +4365,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Tesla",
-   "title": "Fullstack Software Engineer Intern, Fleetnet",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ay",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Data Engineer Intern, Fleet Analytics",
-   "location": "Palo Alto, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1az",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
    "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
    "location": "Palo Alto, CA",
    "season": "Winter",
@@ -4623,6 +4599,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/283156",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Data Engineer Intern - Fleet Analytics",
+   "location": "Palo Alto, CA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/283138",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -33856,6 +33844,30 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/u",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Data Engineer Intern, Fleet Analytics",
+   "location": "Pittsburgh, PA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1az",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Fullstack Software Engineer Intern, Fleetnet",
+   "location": "Redondo Beach, CA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ay",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
