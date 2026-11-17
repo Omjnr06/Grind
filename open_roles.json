@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T22:15:17Z",
+ "generated_at": "2026-11-17T22:30:29Z",
  "counts": {
   "target": 581,
-  "relevant": 2551
+  "relevant": 2552
  },
  "roles": [
   {
@@ -29884,6 +29884,18 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply",
    "first_seen": "2026-11-17T03:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Resideo",
+   "title": "Data Science Intern",
+   "location": "Austin, TX / Golden Valley, MN",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1by",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
