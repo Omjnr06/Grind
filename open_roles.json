@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T03:00:23Z",
+ "generated_at": "2026-11-17T03:15:16Z",
  "counts": {
   "target": 584,
-  "relevant": 2573
+  "relevant": 2574
  },
  "roles": [
   {
@@ -11468,18 +11468,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "BitGo",
-   "title": "Software Engineer Intern - Custody",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
-   "first_seen": "2026-10-30T06:38:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "BlackRock",
    "title": "Summer Internship Program, AMERS (all tracks)",
    "location": "New York, NY (multiple US)",
@@ -12567,18 +12555,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Sz",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cadence Solutions",
-   "title": "Software Engineer Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -26685,6 +26661,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Nutanix",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-04T21:37:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nutanix",
    "title": "Software Developer Co-op",
    "location": "Vancouver, BC, Canada",
    "season": "Winter",
@@ -28677,18 +28665,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Plusgrade",
-   "title": "Data Science Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230",
-   "first_seen": "2026-11-12T15:45:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Plusgrade",
    "title": "Applied AI Engineer Intern",
    "location": "Toronto, ON, Canada",
    "season": "",
@@ -29032,6 +29008,18 @@
    "source": "simplify",
    "url": "https://publicisgroupe.jibeapply.com/jobs/173032?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Punchcut",
+   "title": "Design Engineer Intern",
+   "location": "SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://punchcut.bamboohr.com/careers/65/",
+   "first_seen": "2026-11-17T03:15:16Z"
   },
   {
    "tier": "B",
@@ -30064,6 +30052,18 @@
    "source": "earlycareers_eu",
    "url": "https://www.linkedin.com/jobs/view/4465543861",
    "first_seen": "2026-10-19T13:03:50Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Research Innovations",
+   "title": "Department of War SkillBridge Operations SME Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply",
+   "first_seen": "2026-11-17T03:15:16Z"
   },
   {
    "tier": "B",
@@ -32668,6 +32668,18 @@
    "source": "simplify",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
    "first_seen": "2026-10-21T01:36:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Soros Fund Management",
+   "title": "Trading Intern - Middle and Back Office Dev",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003",
+   "first_seen": "2026-11-17T03:15:16Z"
   },
   {
    "tier": "B",
