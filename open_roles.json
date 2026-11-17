@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T21:15:17Z",
+ "generated_at": "2026-11-17T21:30:21Z",
  "counts": {
   "target": 583,
-  "relevant": 2553
+  "relevant": 2554
  },
  "roles": [
   {
@@ -14337,18 +14337,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Constellation Brands",
-   "title": "Full Stack Engineer Intern",
-   "location": "Rochester, NY",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Constellation Brands",
    "title": "AI & Automation Engineering Intern",
    "location": "Rochester, NY",
    "season": "Summer",
@@ -14356,6 +14344,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1h2",
    "first_seen": "2026-11-04T21:37:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Constellation Brands",
+   "title": "Full Stack Engineer Intern",
+   "location": "Rochester, NY",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
@@ -36112,6 +36112,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/usafacts/jobs/4478239009",
    "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Valmont",
+   "title": "Embedded Systems Engineer Intern",
+   "location": "South San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1br",
+   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
