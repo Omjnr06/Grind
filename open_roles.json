@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T21:30:21Z",
+ "generated_at": "2026-11-17T21:45:16Z",
  "counts": {
-  "target": 583,
+  "target": 581,
   "relevant": 2554
  },
  "roles": [
@@ -4051,18 +4051,6 @@
   },
   {
    "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
-   "location": "Fremont, CA",
-   "season": "Spring 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/286986",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
    "track": "pm",
    "company": "Tesla",
    "title": "Internship - Product Management - Megapack Services - Winter/Spring 2027",
@@ -4635,18 +4623,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/284776",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Data Transformations",
-   "location": "Palo Alto, CA",
-   "season": "Winter 2027, Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/284925",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
