@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T14:00:24Z",
+ "generated_at": "2026-11-17T14:15:17Z",
  "counts": {
   "target": 584,
-  "relevant": 2581
+  "relevant": 2580
  },
  "roles": [
   {
@@ -12988,18 +12988,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1wz",
    "first_seen": "2026-11-12T15:45:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CareSource",
-   "title": "Summer Internship Program \u2013 Provider Analytics AI Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481",
-   "first_seen": "2026-11-13T00:15:16Z"
   },
   {
    "tier": "B",
