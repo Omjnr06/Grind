@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T16:00:27Z",
+ "generated_at": "2026-11-17T16:15:21Z",
  "counts": {
   "target": 584,
-  "relevant": 2577
+  "relevant": 2578
  },
  "roles": [
   {
@@ -32680,6 +32680,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003",
    "first_seen": "2026-11-17T03:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Soros Fund Management",
+   "title": "Quantitative Strategist Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+   "first_seen": "2026-11-17T16:15:21Z"
   },
   {
    "tier": "B",
