@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T00:00:28Z",
+ "generated_at": "2026-11-17T00:15:19Z",
  "counts": {
   "target": 586,
-  "relevant": 2552
+  "relevant": 2575
  },
  "roles": [
   {
@@ -7088,18 +7088,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "4AG Robotics",
-   "title": "Robotics Software Co-op",
-   "location": "Salmon Arm, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "a2 innovation lab",
    "title": "internship & training program 2026",
    "location": "on, walloon region, belgium",
@@ -12332,6 +12320,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Brex",
+   "title": "Software Engineer, Intern  (Summer 2027)",
+   "location": "San Francisco, California, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+   "first_seen": "2026-11-11T22:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Bridge Neurotech",
    "title": "Machine Learning Software Engineer Intern",
    "location": "Redwood City, CA",
@@ -15955,6 +15955,30 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Duetti",
+   "title": "Product Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply",
+   "first_seen": "2026-11-17T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Duetti",
+   "title": "Data Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567/apply",
+   "first_seen": "2026-11-17T00:15:19Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Duolingo",
    "title": "Data Scientist Intern",
@@ -17708,6 +17732,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Forterra",
+   "title": "Software Engineer Intern",
+   "location": "Winter Park, FL / Durham, NC / East Palo Alto, CA / Clarksburg, MD / Arlington County, Arlington, VA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+   "first_seen": "2026-11-17T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Fortrea",
    "title": "AIML Rapid Development Studio Intern",
    "location": "Remote in USA",
@@ -18987,6 +19023,150 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://higher.gs.com/roles/175424?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175423?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175427?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175421?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - The Core Quantitative Strats",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/175426?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Engineering",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/170644?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Associate Intern - Multiple Teams",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171566?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171535?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Multiple Teams",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171563?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Associate Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171552?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171550?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171533?type=students",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/171547?type=students",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -24561,6 +24741,18 @@
    "tier": "B",
    "track": "swe",
    "company": "McDonald's",
+   "title": "Global Tech Infrastructure & Operations Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
+   "first_seen": "2026-11-11T23:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "McDonald's",
    "title": "Software Development Engineer Intern",
    "location": "San Jose, CA",
    "season": "Summer",
@@ -26032,6 +26224,30 @@
    "source": "sndsh404",
    "url": "https://job-boards.greenhouse.io/neuralink/jobs/6594422003",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NeuroSpark",
+   "title": "AI Inference & Training Framework Engineer Intern",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
+   "first_seen": "2026-11-17T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NeuroSpark",
+   "title": "AI Hardware Optimization Engineer Intern",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
+   "first_seen": "2026-11-17T00:15:19Z"
   },
   {
    "tier": "B",
@@ -29828,6 +30044,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Reliable Robotics",
+   "title": "Displays Software Engineer Intern",
+   "location": "Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true",
+   "first_seen": "2026-11-17T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Reliable Robotics Corporation",
    "title": "Flight Software Engineer Intern",
    "location": "Mountain View, CA",
@@ -31816,6 +32044,30 @@
    "source": "speedyapply",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689-ai-engineering-software-engineer-internships-summer-2027-masters-?oga=true",
    "first_seen": "2026-10-14T18:13:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ServiceNow",
+   "title": "Forward Deployed Solution Engineer Intern",
+   "location": "Santa Clara, CA / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936020",
+   "first_seen": "2026-11-17T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ServiceNow",
+   "title": "Associate Forward Deployed Solution Engineer Intern",
+   "location": "Santa Clara, CA / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
+   "first_seen": "2026-11-17T00:15:19Z"
   },
   {
    "tier": "B",
@@ -35457,6 +35709,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Toyota Research Institute",
+   "title": "Robotics Intern - World Models - Multimodal Sensing",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply",
+   "first_seen": "2026-11-17T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Toyota Research Institute",
    "title": "Robotics Intern, Human-Machine Interaction Research",
    "location": "Foster City, CA",
    "season": "Summer",
@@ -37660,6 +37924,18 @@
    "source": "simplify",
    "url": "https://jobs.zs.com/jobs/63370?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zurich Insurance",
+   "title": "Data Analytics & AI Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
+   "first_seen": "2026-11-17T00:15:19Z"
   }
  ]
 }
