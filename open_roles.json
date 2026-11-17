@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T23:00:23Z",
+ "generated_at": "2026-11-17T23:15:17Z",
  "counts": {
   "target": 581,
-  "relevant": 2551
+  "relevant": 2550
  },
  "roles": [
   {
@@ -22852,18 +22852,6 @@
    "source": "simplify",
    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "KLA Corporation",
-   "title": "Software Intern",
-   "location": "Milpitas, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2642700",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
