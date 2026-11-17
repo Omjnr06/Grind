@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T10:00:24Z",
+ "generated_at": "2026-11-17T10:15:22Z",
  "counts": {
   "target": 584,
   "relevant": 2580
@@ -14552,18 +14552,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Corning",
-   "title": "Image Analysis Intern",
-   "location": "Corning, NY",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://corningjobs.corning.com/job/Corning-Intern,-Image-Analysis-Summer-2027-NY-14831/1448762800/?ats=successfactors",
-   "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Corpay",
    "title": "Software Developer Co-op",
    "location": "Vancouver, BC, Canada",
@@ -28723,18 +28711,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "Plusgrade",
-   "title": "Applied AI Engineer Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233",
-   "first_seen": "2026-11-12T15:45:18Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "Podium",
    "title": "Product Management Intern",
@@ -33356,6 +33332,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Syntax",
+   "title": "Index Analyst Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply",
+   "first_seen": "2026-11-17T10:15:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Synthesis",
    "title": "Quantitative Research Intern",
    "location": "London, UK",
@@ -34000,6 +33988,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1lv",
    "first_seen": "2026-08-07T13:47:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Terranova",
+   "title": "AI Intern",
+   "location": "Berkeley, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true",
+   "first_seen": "2026-11-17T10:15:22Z"
   },
   {
    "tier": "B",
