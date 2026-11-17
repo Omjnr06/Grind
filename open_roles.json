@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T14:15:17Z",
+ "generated_at": "2026-11-17T14:30:21Z",
  "counts": {
   "target": 584,
-  "relevant": 2580
+  "relevant": 2579
  },
  "roles": [
   {
@@ -31047,18 +31047,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Qb",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "Data Engineer Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Qc",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
