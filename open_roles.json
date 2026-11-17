@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T18:30:22Z",
+ "generated_at": "2026-11-17T18:45:18Z",
  "counts": {
   "target": 583,
-  "relevant": 2573
+  "relevant": 2571
  },
  "roles": [
   {
@@ -32647,18 +32647,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "Soros Fund Management",
-   "title": "Quantitative Strategist Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
-   "first_seen": "2026-11-17T16:15:21Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "SOTI",
    "title": "Associate Product Manager Intern",
@@ -35392,18 +35380,6 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5271149007",
    "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Together AI",
-   "title": "Research Intern - Model Shaping",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
