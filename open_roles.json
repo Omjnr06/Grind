@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T23:30:25Z",
+ "generated_at": "2026-11-17T23:45:15Z",
  "counts": {
-  "target": 581,
-  "relevant": 2550
+  "target": 582,
+  "relevant": 2557
  },
  "roles": [
   {
@@ -2992,6 +2992,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1406585275871250",
    "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
+   "title": "Visiting Researcher Intern - AI Mentorship Program",
+   "location": "Montreal, QC, Canada",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/1110284504699535",
+   "first_seen": "2026-11-17T23:45:15Z"
   },
   {
    "tier": "A",
@@ -7593,6 +7605,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Akuna Capital",
+   "title": "Software Engineer Intern - Python, Summer 2027",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+   "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Akuna Capital",
    "title": "Platform Engineer Intern, Summer 2027",
    "location": "Chicago, IL",
    "season": "Summer 2027",
@@ -10904,6 +10928,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Basis Research Institute",
+   "title": "Research Intern",
+   "location": "Cambridge, MA / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true",
+   "first_seen": "2026-11-17T23:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Bask Health",
    "title": "Software Engineer Intern",
    "location": "Remote / United States",
@@ -12884,18 +12920,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "CareSource",
-   "title": "Clinical Operations Business Analyst Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353",
-   "first_seen": "2026-11-13T00:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "CarGurus",
    "title": "Data Analytics Engineer Intern",
    "location": "San Mateo, CA",
@@ -13876,6 +13900,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/hs",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "City of Campbell River",
+   "title": "Co-op Student - OMS Project - Capital Projects",
+   "location": "Campbell River, BC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733",
+   "first_seen": "2026-11-17T23:45:15Z"
   },
   {
    "tier": "B",
@@ -26469,6 +26505,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Nutanix",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-04T21:37:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nutanix",
    "title": "Software Developer Co-op",
    "location": "Vancouver, BC, Canada",
    "season": "Winter",
@@ -27916,6 +27964,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Parabola",
+   "title": "Engineer Intern",
+   "location": "SF / NYC",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/parabola-io/ec64d31c-ca7e-4633-b279-1589c53d7eb0/application?embed=true",
+   "first_seen": "2026-11-11T23:45:17Z"
   },
   {
    "tier": "B",
@@ -30752,6 +30812,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Ross Video",
+   "title": "Research Assistant Co-op - AI Focus",
+   "location": "Nepean, Ottawa, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-17T23:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Rothesay",
    "title": "Software Engineer Intern",
    "location": "London, UK",
@@ -32704,6 +32776,30 @@
    "source": "zshah101",
    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956",
    "first_seen": "2026-09-23T21:46:08Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Starwood Capital Group",
+   "title": "Agentic Engineering Intern",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-17T23:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Starwood Capital Group",
+   "title": "Data Intern",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-17T23:45:15Z"
   },
   {
    "tier": "B",
