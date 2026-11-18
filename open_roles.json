@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T18:30:22Z",
+ "generated_at": "2026-11-18T18:45:17Z",
  "counts": {
   "target": 585,
-  "relevant": 2551
+  "relevant": 2548
  },
  "roles": [
   {
@@ -22424,18 +22424,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Kensington",
-   "title": "BI/Data Analyst Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007",
-   "first_seen": "2026-11-09T21:03:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Kepler Communications",
    "title": "Software Engineering Intern - January 2027",
    "location": "Toronto, Canada",
@@ -22684,18 +22672,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1mb",
    "first_seen": "2026-11-07T19:03:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kinaxis",
-   "title": "Developer Intern Co-op - Machine Learning",
-   "location": "Remote in Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-05T08:43:29Z"
   },
   {
    "tier": "B",
@@ -37624,18 +37600,6 @@
    "source": "simplify",
    "url": "https://jobs.zs.com/jobs/63370?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zurich Insurance",
-   "title": "Data Analytics & AI Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
-   "first_seen": "2026-11-17T00:15:19Z"
   }
  ]
 }
