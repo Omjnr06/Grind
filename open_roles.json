@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T15:45:20Z",
+ "generated_at": "2026-11-18T16:00:23Z",
  "counts": {
   "target": 585,
-  "relevant": 2550
+  "relevant": 2548
  },
  "roles": [
   {
@@ -34329,36 +34329,12 @@
    "tier": "B",
    "track": "swe",
    "company": "The New York Times",
-   "title": "Android Engineering Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1l6",
-   "first_seen": "2026-11-06T22:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
    "title": "Full-Stack Engineering Intern",
    "location": "New York, NY",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1l7",
-   "first_seen": "2026-11-06T22:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "iOS Engineering Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1l8",
    "first_seen": "2026-11-06T22:04:04Z"
   },
   {
