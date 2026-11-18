@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T11:00:23Z",
+ "generated_at": "2026-11-18T11:15:24Z",
  "counts": {
   "target": 585,
-  "relevant": 2551
+  "relevant": 2550
  },
  "roles": [
   {
@@ -16231,18 +16231,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "Electronic Arts",
-   "title": "Product Management Intern",
-   "location": "Austin, TX",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "Electronic Arts",
    "title": "Data and AI Engineer Intern",
@@ -16576,6 +16564,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/au",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Environmental Defense Fund",
+   "title": "Consumer Energy Analytics Intern",
+   "location": "Remote in USA / St. Petersburg, FL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
+   "first_seen": "2026-11-13T00:15:16Z"
   },
   {
    "tier": "B",
@@ -17200,6 +17200,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Faculte",
+   "title": "Data Science Fellow",
+   "location": "London, UK",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/faculty-fellowship/bedcedbc-334a-4e61-a864-cc3fc1ab544d/application?embed=true",
+   "first_seen": "2026-11-18T11:15:24Z"
   },
   {
    "tier": "B",
@@ -32553,18 +32565,6 @@
    "tier": "B",
    "track": "swe",
    "company": "SOTI",
-   "title": "Software Developer Intern - Server",
-   "location": "Mississauga, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
-   "first_seen": "2026-10-27T01:48:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "SOTI",
    "title": "Software Developer Intern - Android",
    "location": "Mississauga, ON, Canada",
    "season": "Summer 2027",
@@ -37035,18 +37035,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Workday",
-   "title": "Software Development Engineer Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
