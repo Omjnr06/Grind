@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:30:20Z",
+ "generated_at": "2026-11-18T11:45:24Z",
  "counts": {
   "target": 585,
   "relevant": 2550
@@ -17227,6 +17227,18 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Fanatics",
+   "title": "Product Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009",
+   "first_seen": "2026-11-18T11:45:24Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Fanatics",
    "title": "People Intelligence Intern",
@@ -26536,18 +26548,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
