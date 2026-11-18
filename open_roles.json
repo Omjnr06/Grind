@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T03:00:25Z",
+ "generated_at": "2026-11-18T03:15:17Z",
  "counts": {
-  "target": 583,
-  "relevant": 2557
+  "target": 584,
+  "relevant": 2554
  },
  "roles": [
   {
@@ -3688,6 +3688,18 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
    "first_seen": "2026-11-14T00:15:16Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Firmware Security",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+   "first_seen": "2026-11-18T03:15:17Z"
   },
   {
    "tier": "A",
@@ -19305,18 +19317,6 @@
    "tier": "B",
    "track": "swe",
    "company": "GSA Capital",
-   "title": "Software Developer Intern",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/gsacapital/jobs/8570668002",
-   "first_seen": "2026-11-10T18:50:36Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GSA Capital",
    "title": "Quantitative Researcher Intern",
    "location": "London, UK / NYC",
    "season": "",
@@ -29985,18 +29985,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Revel",
-   "title": "Full Stack Software Engineer Intern",
-   "location": "SF / LA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Revel",
    "title": "Forward Deployed Engineer Intern - Software",
    "location": "SF / LA",
    "season": "Summer 2027",
@@ -32464,18 +32452,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/2c",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Sonos",
-   "title": "Software Product Manager Intern",
-   "location": "Seattle, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1",
-   "first_seen": "2026-10-29T16:03:48Z"
   },
   {
    "tier": "B",
