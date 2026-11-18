@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T18:45:17Z",
+ "generated_at": "2026-11-18T19:00:22Z",
  "counts": {
   "target": 585,
-  "relevant": 2548
+  "relevant": 2547
  },
  "roles": [
   {
@@ -9040,18 +9040,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Apera AI",
-   "title": "Machine Learning Applied Scientist Co-op",
-   "location": "Vancouver, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1g0",
-   "first_seen": "2026-11-04T07:40:10Z"
   },
   {
    "tier": "B",
