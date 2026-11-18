@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T21:30:21Z",
+ "generated_at": "2026-11-18T21:45:16Z",
  "counts": {
   "target": 583,
-  "relevant": 2544
+  "relevant": 2543
  },
  "roles": [
   {
@@ -13564,18 +13564,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cirrus Logic",
-   "title": "Applied AI Engineering Intern",
-   "location": "Austin, TX",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply",
-   "first_seen": "2026-11-10T03:30:10Z"
   },
   {
    "tier": "B",
