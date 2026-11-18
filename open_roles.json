@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T10:30:20Z",
+ "generated_at": "2026-11-18T10:42:25Z",
  "counts": {
   "target": 585,
-  "relevant": 2553
+  "relevant": 2551
  },
  "roles": [
   {
@@ -16576,18 +16576,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/au",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Environmental Defense Fund",
-   "title": "Consumer Energy Analytics Intern",
-   "location": "Remote in USA / St. Petersburg, FL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
-   "first_seen": "2026-11-13T00:15:16Z"
   },
   {
    "tier": "B",
@@ -37264,18 +37252,6 @@
    "source": "simplify",
    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zillow",
-   "title": "Software Development Engineer Intern",
-   "location": "Seattle, WA / Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
-   "first_seen": "2026-10-22T07:49:31Z"
   },
   {
    "tier": "B",
