@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T23:30:22Z",
+ "generated_at": "2026-11-18T23:45:15Z",
  "counts": {
   "target": 583,
-  "relevant": 2536
+  "relevant": 2539
  },
  "roles": [
   {
@@ -22592,6 +22592,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Kira Learning",
+   "title": "Software Engineer Intern",
+   "location": "SF",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true",
+   "first_seen": "2026-11-18T23:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "KLA",
    "title": "Software Engineer Intern",
    "location": "Austin, TX",
@@ -29227,6 +29239,18 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
+   "title": "GPU Compiler Development Intern - Interim Engineering Intern - HW",
+   "location": "Markham, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446722198182",
+   "first_seen": "2026-11-18T23:45:15Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "Qualcomm",
    "title": "Security Engineering Intern, Product, Systems, Cyber",
@@ -35512,6 +35536,18 @@
    "source": "zshah101",
    "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
    "first_seen": "2026-10-21T01:36:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Truveta",
+   "title": "Software Engineer Intern",
+   "location": "Seattle, WA",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6249810004",
+   "first_seen": "2026-11-18T23:45:15Z"
   },
   {
    "tier": "B",
