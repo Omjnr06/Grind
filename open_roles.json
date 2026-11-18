@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T00:00:25Z",
+ "generated_at": "2026-11-18T00:15:18Z",
  "counts": {
-  "target": 582,
-  "relevant": 2556
+  "target": 583,
+  "relevant": 2562
  },
  "roles": [
   {
@@ -3340,6 +3340,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1851348099357899",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Frontier Tuning",
+   "location": "Boston, MA / SF / Redmond, WA / NYC / Sunnyvale, CA / Mountain View, CA / Baltimore, MD",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
+   "first_seen": "2026-11-18T00:15:18Z"
   },
   {
    "tier": "A",
@@ -14648,6 +14660,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Crusoe",
+   "title": "Software Engineer Intern",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true",
+   "first_seen": "2026-11-18T00:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Cryptic Vector",
    "title": "Full Stack Developer Intern",
    "location": "San Jose, CA / Milpitas, CA / Research Triangle Park, NC / San Francisco, CA",
@@ -19324,6 +19348,18 @@
    "source": "simplify",
    "url": "https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Data---Analytics-Platformer_JR0101641",
    "first_seen": "2026-11-17T12:45:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Havas",
+   "title": "Junior Google Analytics Platformer Intern",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Google--Analytics--Enablement-Platformer_JR0101727",
+   "first_seen": "2026-11-18T00:15:18Z"
   },
   {
    "tier": "B",
@@ -24195,6 +24231,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Marshall Wace",
+   "title": "Technology Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -35445,6 +35493,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Toyota Research Institute",
+   "title": "Robotics Intern - Agentic Robotics",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply",
+   "first_seen": "2026-11-18T00:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Toyota Research Institute",
    "title": "Robotics Intern, Human-Machine Interaction Research",
    "location": "Foster City, CA",
    "season": "Summer",
@@ -35872,6 +35932,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/dg",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Uber",
+   "title": "Product Management Intern",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983",
+   "first_seen": "2026-11-18T00:15:18Z"
   },
   {
    "tier": "B",
@@ -36748,6 +36820,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1oz",
    "first_seen": "2026-11-09T21:03:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Warp Sciences",
+   "title": "Robot Learning Intern - Robotics Learning",
+   "location": "South SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true",
+   "first_seen": "2026-11-18T00:15:18Z"
   },
   {
    "tier": "B",
