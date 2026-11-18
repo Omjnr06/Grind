@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T17:00:25Z",
+ "generated_at": "2026-11-18T17:15:18Z",
  "counts": {
   "target": 585,
-  "relevant": 2552
+  "relevant": 2551
  },
  "roles": [
   {
@@ -20571,18 +20571,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1",
-   "first_seen": "2026-11-13T03:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Huawei",
-   "title": "Researcher Intern - Multimodal Learning",
-   "location": "Montreal, QC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-learning",
    "first_seen": "2026-11-13T03:15:16Z"
   },
   {
