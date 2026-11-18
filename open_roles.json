@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:00:22Z",
+ "generated_at": "2026-11-18T02:15:21Z",
  "counts": {
   "target": 583,
   "relevant": 2558
@@ -2312,6 +2312,18 @@
   {
    "tier": "A",
    "track": "swe",
+   "company": "Graphcore",
+   "title": "Software Engineer Summer Intern - AI Compute Libraries & Performance 2027",
+   "location": "Bristol, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894868002",
+   "first_seen": "2026-10-21T17:26:19Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
    "company": "Intuit",
    "title": "Software Engineer Intern - Full Stack",
    "location": "Charlotte, NC / NYC / Mountain View, CA / Atlanta, GA / San Diego, CA",
@@ -3039,18 +3051,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1141752241867684",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Multimodal Behavioral AI",
-   "location": "Redmond, WA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.metacareers.com/jobs/1428978125312655",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
