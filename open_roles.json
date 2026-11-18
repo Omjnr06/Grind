@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T23:45:15Z",
+ "generated_at": "2026-11-18T00:00:25Z",
  "counts": {
   "target": 582,
-  "relevant": 2557
+  "relevant": 2556
  },
  "roles": [
   {
@@ -13491,18 +13491,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1bd",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cincinnati Children\u2019s Hospital and Medical Center",
-   "title": "Software Engineering Developer Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1be",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
