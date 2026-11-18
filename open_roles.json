@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T09:30:23Z",
+ "generated_at": "2026-11-18T09:45:18Z",
  "counts": {
-  "target": 584,
-  "relevant": 2556
+  "target": 585,
+  "relevant": 2553
  },
  "roles": [
   {
@@ -2236,6 +2236,18 @@
    "source": "simplify",
    "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Google",
+   "title": "People Analytics Intern",
+   "location": "SF / Chicago, IL / NYC / Mountain View, CA / Atlanta, GA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246",
+   "first_seen": "2026-11-18T09:45:18Z"
   },
   {
    "tier": "A",
@@ -12057,18 +12069,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Boston Consulting Group",
-   "title": "Forward Deployed AI Engineer Intern",
-   "location": "Boston, MA / LA / Chicago, IL / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.bcg.com/global/en/job/59702",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Boston Consulting Group",
    "title": "Forward Deployed AI Scientist Intern",
    "location": "Boston, MA / LA / Chicago, IL / NYC",
    "season": "",
@@ -21464,18 +21464,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Ixian Robotics",
-   "title": "Software Intern",
-   "location": "SF",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233/application?embed=true",
-   "first_seen": "2026-10-28T07:24:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "IXL Learning",
    "title": "Software Engineer Intern",
    "location": "San Mateo, CA",
@@ -30688,18 +30676,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/aq",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "ROCKWOOL Group",
-   "title": "Associate Product Management Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
