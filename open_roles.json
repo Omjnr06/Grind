@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T01:30:21Z",
+ "generated_at": "2026-11-18T01:45:15Z",
  "counts": {
   "target": 583,
-  "relevant": 2560
+  "relevant": 2558
  },
  "roles": [
   {
@@ -31195,18 +31195,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "Salesforce",
-   "title": "Product Management Intern - Product Management",
-   "location": "SF / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
-   "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "Samsara",
    "title": "Software Engineer Intern",
@@ -35164,18 +35152,6 @@
    "source": "speedyapply_intl",
    "url": "https://tmx.wd3.myworkdayjobs.com/en-US/tmx_careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern--DevOps--WinterTerm-_R-6568",
    "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TMX Group",
-   "title": "Analyst Model Validation Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603",
-   "first_seen": "2026-10-28T01:41:27Z"
   },
   {
    "tier": "B",
