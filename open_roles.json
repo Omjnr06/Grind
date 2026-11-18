@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T03:30:21Z",
+ "generated_at": "2026-11-18T03:45:18Z",
  "counts": {
   "target": 584,
-  "relevant": 2554
+  "relevant": 2555
  },
  "roles": [
   {
@@ -19312,6 +19312,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/54",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GSA Capital",
+   "title": "Software Developer Intern",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/gsacapital/jobs/8570668002",
+   "first_seen": "2026-11-10T18:50:36Z"
   },
   {
    "tier": "B",
