@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T20:00:24Z",
+ "generated_at": "2026-11-18T20:15:18Z",
  "counts": {
   "target": 585,
-  "relevant": 2547
+  "relevant": 2544
  },
  "roles": [
   {
@@ -7720,18 +7720,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880",
    "first_seen": "2026-10-29T02:50:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Alexion",
-   "title": "Development Operations AI & Automation Enablement Co-op Intern",
-   "location": "Mississauga, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
-   "first_seen": "2026-11-12T00:15:18Z"
   },
   {
    "tier": "B",
@@ -22400,18 +22388,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Kensington",
-   "title": "Analytics Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007",
-   "first_seen": "2026-10-17T18:26:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Kepler Communications",
    "title": "Software Engineering Intern - January 2027",
    "location": "Toronto, Canada",
@@ -34384,18 +34360,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "Interactive News Engineer Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005",
-   "first_seen": "2026-11-06T17:01:11Z"
   },
   {
    "tier": "B",
