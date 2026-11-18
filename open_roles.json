@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T08:30:31Z",
+ "generated_at": "2026-11-18T08:45:17Z",
  "counts": {
   "target": 584,
-  "relevant": 2558
+  "relevant": 2557
  },
  "roles": [
   {
@@ -31588,18 +31588,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Sr",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Seaspan",
-   "title": "Logistics Support Analysis Intern",
-   "location": "North Vancouver, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160",
-   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
