@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T08:15:17Z",
+ "generated_at": "2026-11-18T08:30:31Z",
  "counts": {
   "target": 584,
-  "relevant": 2559
+  "relevant": 2558
  },
  "roles": [
   {
@@ -21460,18 +21460,6 @@
    "source": "simplify",
    "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Ixian Robotics",
-   "title": "Software Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/138",
-   "first_seen": "2026-11-01T06:30:48Z"
   },
   {
    "tier": "B",
