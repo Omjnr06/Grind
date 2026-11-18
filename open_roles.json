@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T15:00:24Z",
+ "generated_at": "2026-11-18T15:15:20Z",
  "counts": {
   "target": 585,
-  "relevant": 2548
+  "relevant": 2547
  },
  "roles": [
   {
@@ -37000,18 +37000,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4430700009",
    "first_seen": "2026-11-11T23:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Workday",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Toronto, ON, Canada / Vancouver, BC, Canada",
-   "season": "Winter 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
