@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T16:45:18Z",
+ "generated_at": "2026-11-18T17:00:25Z",
  "counts": {
   "target": 585,
-  "relevant": 2553
+  "relevant": 2552
  },
  "roles": [
   {
@@ -34348,18 +34348,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005",
    "first_seen": "2026-11-06T22:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "Interactive News Engineering Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1km",
-   "first_seen": "2026-11-06T17:01:11Z"
   },
   {
    "tier": "B",
