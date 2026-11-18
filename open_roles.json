@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T15:30:23Z",
+ "generated_at": "2026-11-18T15:45:20Z",
  "counts": {
   "target": 585,
-  "relevant": 2547
+  "relevant": 2550
  },
  "roles": [
   {
@@ -13172,6 +13172,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Cerence",
+   "title": "Student Worker Intern",
+   "location": "Remote in UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0006047",
+   "first_seen": "2026-11-18T15:45:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Certa",
    "title": "Frontend Engineer Intern",
    "location": "London, UK / Remote in India / SF / Jaipur, Rajasthan, India",
@@ -24693,6 +24705,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Medpace",
+   "title": "Informatics Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.medpace.com/jobs/13079?icims=1&lang=en-us",
+   "first_seen": "2026-11-18T15:45:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Medpace",
    "title": "Information Security Intern",
    "location": "Montreal, Canada",
    "season": "Spring",
@@ -35524,6 +35548,18 @@
    "source": "simplify",
    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987",
    "first_seen": "2026-10-27T01:48:12Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Trainline",
+   "title": "Engineer Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true",
+   "first_seen": "2026-11-18T15:45:20Z"
   },
   {
    "tier": "B",
