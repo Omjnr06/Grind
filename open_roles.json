@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T08:00:24Z",
+ "generated_at": "2026-11-18T08:15:17Z",
  "counts": {
   "target": 584,
-  "relevant": 2557
+  "relevant": 2559
  },
  "roles": [
   {
@@ -7600,6 +7600,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009",
    "first_seen": "2026-10-16T16:49:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Airbnb",
+   "title": "Software Engineer Intern",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+   "first_seen": "2026-11-18T08:15:17Z"
   },
   {
    "tier": "B",
@@ -26560,6 +26572,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nutanix",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
