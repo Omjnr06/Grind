@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T22:00:24Z",
+ "generated_at": "2026-11-18T22:15:16Z",
  "counts": {
   "target": 583,
-  "relevant": 2543
+  "relevant": 2540
  },
  "roles": [
   {
@@ -13845,18 +13845,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Citi",
-   "title": "Technology Analyst Intern - Application Development",
-   "location": "Mississauga, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
-   "first_seen": "2026-10-24T08:23:46Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Citi",
    "title": "Technology Analyst Intern, Application Development",
    "location": "Redmond, WA",
    "season": "Summer",
@@ -16263,18 +16251,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Electronic Arts",
-   "title": "AI Engineer Intern - Creative Innovations - Character Pipelines",
-   "location": "Vancouver, BC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -22624,18 +22600,6 @@
    "source": "simplify",
    "url": "https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kinaxis",
-   "title": "Developer Co-op Intern - Machine Learning",
-   "location": "Toronto, ON, Canada / Ottawa, ON, Canada / Remote in Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
-   "first_seen": "2026-10-31T07:44:18Z"
   },
   {
    "tier": "B",
