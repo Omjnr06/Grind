@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T23:00:22Z",
+ "generated_at": "2026-11-18T23:15:16Z",
  "counts": {
   "target": 583,
-  "relevant": 2537
+  "relevant": 2534
  },
  "roles": [
   {
@@ -12921,18 +12921,6 @@
    "tier": "B",
    "track": "swe",
    "company": "CARIAD",
-   "title": "Engineer 1 Intern, VLA Planning and Control Deployment",
-   "location": "Mountain View, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1wa",
-   "first_seen": "2026-11-12T07:45:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CARIAD",
    "title": "Engineer 1 Intern - VLA Model Development",
    "location": "Mountain View, CA",
    "season": "",
@@ -15112,18 +15100,6 @@
    "source": "sndsh404",
    "url": "https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Definity Financial",
-   "title": "Direct Channel Operations Co-op Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470",
-   "first_seen": "2026-10-31T01:49:57Z"
   },
   {
    "tier": "B",
@@ -24867,18 +24843,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/orDQAfwe?nl=1&nl=1&fr=false",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Metropolitan Transportation Authority",
-   "title": "Data Analyst Intern - Power Control Center",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/omtWAfw5?nl=1&nl=1&fr=false",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
