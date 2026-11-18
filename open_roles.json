@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T22:30:26Z",
+ "generated_at": "2026-11-18T22:45:15Z",
  "counts": {
   "target": 583,
-  "relevant": 2538
+  "relevant": 2537
  },
  "roles": [
   {
@@ -8996,18 +8996,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Apera AI",
-   "title": "Machine Learning Applied Scientist Co-op",
-   "location": "Vancouver, BC, Canada",
-   "season": "Winter 2027, Spring 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Apple",
    "title": "Design Verification Engineer Intern",
    "location": "Arden Hills, MN",
@@ -15266,7 +15254,7 @@
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://careers.docusign.com/jobs/30478?icims=1",
+   "url": "https://careers.docusign.com/jobs/30481?icims=1",
    "first_seen": "2026-10-22T18:03:53Z"
   },
   {
