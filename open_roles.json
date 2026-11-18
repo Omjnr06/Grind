@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T10:00:25Z",
+ "generated_at": "2026-11-18T10:15:18Z",
  "counts": {
   "target": 585,
   "relevant": 2553
@@ -12063,18 +12063,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Boston Consulting Group",
-   "title": "Forward Deployed AI Scientist Intern",
-   "location": "Boston, MA / LA / Chicago, IL / NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.bcg.com/global/en/job/59703",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -30676,6 +30664,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/aq",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "ROCKWOOL Group",
+   "title": "Associate Product Management Intern",
+   "location": "Chicago, IL",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
