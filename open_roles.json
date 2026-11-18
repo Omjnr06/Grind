@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T13:30:22Z",
+ "generated_at": "2026-11-18T13:45:27Z",
  "counts": {
   "target": 585,
-  "relevant": 2550
+  "relevant": 2549
  },
  "roles": [
   {
@@ -30832,18 +30832,6 @@
    "source": "simplify",
    "url": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false",
    "first_seen": "2026-11-17T23:45:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rothesay",
-   "title": "Software Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
