@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T09:15:17Z",
+ "generated_at": "2026-11-18T09:30:23Z",
  "counts": {
   "target": 584,
-  "relevant": 2557
+  "relevant": 2556
  },
  "roles": [
   {
@@ -35068,18 +35068,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/6n",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Search Data Infra",
-   "location": "West Des Moines, IA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/18n",
-   "first_seen": "2026-11-01T13:46:06Z"
   },
   {
    "tier": "B",
