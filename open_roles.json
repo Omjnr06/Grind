@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T16:00:23Z",
+ "generated_at": "2026-11-18T16:15:32Z",
  "counts": {
   "target": 585,
-  "relevant": 2548
+  "relevant": 2550
  },
  "roles": [
   {
@@ -15724,6 +15724,18 @@
    "source": "simplify",
    "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003",
    "first_seen": "2026-10-21T20:46:05Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DriveWealth",
+   "title": "AI Consulting Associate Program People Analytics Intern",
+   "location": "Chicago, IL / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true",
+   "first_seen": "2026-11-18T16:15:32Z"
   },
   {
    "tier": "B",
@@ -35380,6 +35392,18 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply",
    "first_seen": "2026-11-18T00:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Toyota Research Institute",
+   "title": "Robotics Intern - Prototyping and Robotics Operations",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply",
+   "first_seen": "2026-11-18T16:15:32Z"
   },
   {
    "tier": "B",
