@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T06:15:16Z",
+ "generated_at": "2026-11-18T06:30:19Z",
  "counts": {
   "target": 584,
-  "relevant": 2554
+  "relevant": 2556
  },
  "roles": [
   {
@@ -10148,6 +10148,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "AspenTech",
+   "title": "Software Development Intern, Digital Grid Management",
+   "location": "Cambridge, MA / New York, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1c7",
+   "first_seen": "2026-11-03T07:55:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Assurant",
    "title": "Data Support Analyst Intern",
    "location": "Chicago, IL",
@@ -10624,6 +10636,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/gh",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Auto-Owners Insurance",
+   "title": "IT Security Engineer Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1c6",
+   "first_seen": "2026-11-03T07:55:26Z"
   },
   {
    "tier": "B",
