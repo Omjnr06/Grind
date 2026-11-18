@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T00:30:21Z",
+ "generated_at": "2026-11-18T00:45:26Z",
  "counts": {
   "target": 583,
-  "relevant": 2561
+  "relevant": 2560
  },
  "roles": [
   {
@@ -35248,18 +35248,6 @@
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5271149007",
    "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Together AI",
-   "title": "Systems Research Engineer Intern - GPU Programming",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
