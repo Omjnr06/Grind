@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T00:15:18Z",
+ "generated_at": "2026-11-18T00:30:21Z",
  "counts": {
   "target": 583,
-  "relevant": 2562
+  "relevant": 2561
  },
  "roles": [
   {
@@ -27544,18 +27544,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1dr",
    "first_seen": "2026-11-03T15:38:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Paccar",
-   "title": "AI-Driven Vehicle Definition Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1bj",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
