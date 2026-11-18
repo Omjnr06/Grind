@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T16:30:23Z",
+ "generated_at": "2026-11-18T16:45:18Z",
  "counts": {
   "target": 585,
-  "relevant": 2551
+  "relevant": 2553
  },
  "roles": [
   {
@@ -18825,6 +18825,18 @@
    "tier": "B",
    "track": "swe",
    "company": "GIRO",
+   "title": "Software Developer Intern - Algorithms and Operations Research",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314",
+   "first_seen": "2026-11-18T16:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GIRO",
    "title": "Winter 2027 - Front-End Web Development Intern",
    "location": "Montr\u00e9al, Canada",
    "season": "",
@@ -26584,6 +26596,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nutanix",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
