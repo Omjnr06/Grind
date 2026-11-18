@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T14:30:24Z",
+ "generated_at": "2026-11-18T14:45:17Z",
  "counts": {
   "target": 585,
-  "relevant": 2549
+  "relevant": 2548
  },
  "roles": [
   {
@@ -18777,6 +18777,18 @@
    "tier": "B",
    "track": "swe",
    "company": "GIRO",
+   "title": "Software Development and Artificial Intelligence Intern",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321",
+   "first_seen": "2026-11-18T14:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GIRO",
    "title": "Winter 2027 - Front-End Web Development Intern",
    "location": "Montr\u00e9al, Canada",
    "season": "",
@@ -21268,30 +21280,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1sz",
    "first_seen": "2026-11-11T00:15:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intropic",
-   "title": "Quantrepreneur - Quantitative Development",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intropic",
-   "title": "Quantrepreneur - Engineering",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/intropic/1427876a-fb80-4ee1-96da-79cac32a7803/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
