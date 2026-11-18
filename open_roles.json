@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T22:15:16Z",
+ "generated_at": "2026-11-18T22:30:26Z",
  "counts": {
   "target": 583,
-  "relevant": 2540
+  "relevant": 2538
  },
  "roles": [
   {
@@ -14980,18 +14980,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Xd",
    "first_seen": "2026-10-28T14:12:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Daimler Truck",
-   "title": "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1uo",
-   "first_seen": "2026-11-11T06:30:21Z"
   },
   {
    "tier": "B",
@@ -33196,18 +33184,6 @@
    "source": "zshah101",
    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
    "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "T-Mobile",
-   "title": "Software Engineer Intern, T-Ads",
-   "location": "Remote / United States / Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1qz",
-   "first_seen": "2026-11-10T18:50:36Z"
   },
   {
    "tier": "B",
