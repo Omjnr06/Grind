@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T04:00:22Z",
+ "generated_at": "2026-11-18T04:15:16Z",
  "counts": {
   "target": 584,
-  "relevant": 2555
+  "relevant": 2554
  },
  "roles": [
   {
@@ -7600,18 +7600,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009",
    "first_seen": "2026-10-16T16:49:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Airbnb",
-   "title": "Advanced Analytics Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
-   "first_seen": "2026-11-12T00:15:18Z"
   },
   {
    "tier": "B",
