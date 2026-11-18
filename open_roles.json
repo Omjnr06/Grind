@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:15:20Z",
+ "generated_at": "2026-11-18T19:30:22Z",
  "counts": {
   "target": 585,
   "relevant": 2547
@@ -13953,6 +13953,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Clarios",
+   "title": "Forward Deployed Engineering Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ck",
+   "first_seen": "2026-11-03T07:55:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Clarios",
    "title": "IT Digital/AI Intern",
    "location": "Remote / United States / Canada",
    "season": "Summer",
@@ -16335,18 +16347,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Electronic Arts",
-   "title": "AI Engineer Intern, Creative Innovations, Character Pipelines",
-   "location": "Vancouver, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Jf",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
