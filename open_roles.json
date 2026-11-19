@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T19:30:23Z",
+ "generated_at": "2026-11-19T19:45:15Z",
  "counts": {
   "target": 587,
-  "relevant": 2531
+  "relevant": 2530
  },
  "roles": [
   {
@@ -10708,18 +10708,6 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db",
    "first_seen": "2026-10-13T23:55:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Ballotpedia",
-   "title": "GIS Analyst Intern",
-   "location": "Remote in USA",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/ballotpedia/j/4AF879CDEA/apply",
-   "first_seen": "2026-11-06T02:41:14Z"
   },
   {
    "tier": "B",
