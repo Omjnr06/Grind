@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T17:45:16Z",
+ "generated_at": "2026-11-19T18:00:26Z",
  "counts": {
   "target": 588,
-  "relevant": 2534
+  "relevant": 2533
  },
  "roles": [
   {
@@ -21615,18 +21615,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/43",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Jane Street",
-   "title": "Hardware Engineer (FPGA/ASIC) Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/44",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
