@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T01:15:17Z",
+ "generated_at": "2026-11-19T01:30:21Z",
  "counts": {
   "target": 587,
-  "relevant": 2543
+  "relevant": 2542
  },
  "roles": [
   {
@@ -14992,18 +14992,6 @@
    "source": "sndsh404",
    "url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Daimler Truck",
-   "title": "Software Release Management Intern",
-   "location": "Arlington, VA / Austin, TX",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Xd",
-   "first_seen": "2026-10-28T14:12:27Z"
   },
   {
    "tier": "B",
