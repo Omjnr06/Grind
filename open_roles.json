@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T15:30:21Z",
+ "generated_at": "2026-11-19T15:45:18Z",
  "counts": {
-  "target": 587,
-  "relevant": 2535
+  "target": 588,
+  "relevant": 2534
  },
  "roles": [
   {
@@ -3400,6 +3400,18 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557070382",
    "first_seen": "2026-11-12T00:15:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "location": "Cambridge, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
+   "first_seen": "2026-11-19T15:45:18Z"
   },
   {
    "tier": "A",
@@ -9928,18 +9940,6 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000160961018",
    "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Arondite",
-   "title": "Software Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/arondite/j/D3211449EF/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
