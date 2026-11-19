@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T17:30:19Z",
+ "generated_at": "2026-11-19T17:39:43Z",
  "counts": {
   "target": 588,
-  "relevant": 2535
+  "relevant": 2534
  },
  "roles": [
   {
@@ -24484,18 +24484,6 @@
    "source": "simplify",
    "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Operational-Analysis---Undergraduate-Placement-2027_R37823",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "McDonald's",
-   "title": "Global Tech Infrastructure & Operations Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
-   "first_seen": "2026-11-11T23:45:17Z"
   },
   {
    "tier": "B",
