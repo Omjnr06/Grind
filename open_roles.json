@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T07:30:21Z",
+ "generated_at": "2026-11-19T07:45:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2540
+  "relevant": 2539
  },
  "roles": [
   {
@@ -26512,18 +26512,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
