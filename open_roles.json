@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T02:00:23Z",
+ "generated_at": "2026-11-19T02:15:17Z",
  "counts": {
   "target": 587,
-  "relevant": 2542
+  "relevant": 2541
  },
  "roles": [
   {
@@ -11488,18 +11488,6 @@
    "source": "zshah101",
    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310",
    "first_seen": "2026-10-06T20:38:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bird Construction",
-   "title": "Business Intelligence Student",
-   "location": "Winnipeg, MB, Canada / Calgary, AB, Canada / Edmonton, AB, Canada / Vancouver, BC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
