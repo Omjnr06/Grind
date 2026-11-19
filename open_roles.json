@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T10:30:20Z",
+ "generated_at": "2026-11-19T10:45:17Z",
  "counts": {
-  "target": 588,
-  "relevant": 2536
+  "target": 587,
+  "relevant": 2539
  },
  "roles": [
   {
@@ -147,18 +147,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract",
-   "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
-   "title": "Data Analyst Apprentice",
-   "location": "London, UK",
-   "season": "Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amazon.jobs/en/jobs/10598579/data-analyst-apprentice-42-month-fixed-term-contract",
    "first_seen": "2026-11-06T17:01:11Z"
   },
   {
@@ -14684,6 +14672,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Crystal Dynamics",
+   "title": "Game Design Intern",
+   "location": "Remote in USA",
+   "season": "Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005",
+   "first_seen": "2026-11-19T10:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "CTGT",
    "title": "Software Engineering Intern / Research Intern, Interpretability (Summer 2027)",
    "location": "San Francisco, CA",
@@ -25892,6 +25892,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "NERv Technology Inc. D.B.A. FluidAI Medical",
+   "title": "Data and AI Engineering Associate",
+   "location": "Kitchener, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "NetApp",
    "title": "Software Engineer Intern, Systems",
    "location": "San Francisco, CA",
@@ -26476,6 +26488,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nutanix",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
