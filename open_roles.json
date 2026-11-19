@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T03:30:19Z",
+ "generated_at": "2026-11-19T03:45:21Z",
  "counts": {
   "target": 588,
-  "relevant": 2544
+  "relevant": 2543
  },
  "roles": [
   {
@@ -14512,18 +14512,6 @@
    "source": "simplify",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CoStar Group",
-   "title": "Vision & Learning Intern",
-   "location": "Sunnyvale, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
-   "first_seen": "2026-11-13T02:30:20Z"
   },
   {
    "tier": "B",
