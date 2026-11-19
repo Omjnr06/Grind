@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T19:45:15Z",
+ "generated_at": "2026-11-19T20:00:25Z",
  "counts": {
   "target": 587,
-  "relevant": 2530
+  "relevant": 2529
  },
  "roles": [
   {
@@ -30748,18 +30748,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1jt",
    "first_seen": "2026-11-06T02:41:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "Developer Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Qb",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
