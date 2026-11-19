@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T16:00:32Z",
+ "generated_at": "2026-11-19T16:15:19Z",
  "counts": {
   "target": 588,
-  "relevant": 2534
+  "relevant": 2535
  },
  "roles": [
   {
@@ -23997,6 +23997,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Manulife Financial",
+   "title": "Technology Enablement Analyst Co-op",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1",
+   "first_seen": "2026-11-19T16:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Manulife Financial",
    "title": "Software Engineer Intern",
    "location": "Waterloo, ON, Canada",
    "season": "Summer 2027",
@@ -26464,18 +26476,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
@@ -37468,6 +37468,18 @@
    "source": "simplify",
    "url": "https://jobs.zs.com/jobs/63370?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zurich Insurance",
+   "title": "Data Analytics & AI Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
+   "first_seen": "2026-11-17T00:15:19Z"
   }
  ]
 }
