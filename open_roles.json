@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T19:00:25Z",
+ "generated_at": "2026-11-19T19:15:17Z",
  "counts": {
   "target": 587,
-  "relevant": 2532
+  "relevant": 2531
  },
  "roles": [
   {
@@ -26500,18 +26500,6 @@
    "source": "zshah101",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
    "first_seen": "2026-11-05T16:51:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
-   "title": "Math Libraries Intern",
-   "location": "Canada / Santa Clara, CA / United States",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
-   "first_seen": "2026-11-03T07:55:26Z"
   },
   {
    "tier": "B",
