@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T00:15:17Z",
+ "generated_at": "2026-11-19T00:30:20Z",
  "counts": {
   "target": 587,
-  "relevant": 2544
+  "relevant": 2543
  },
  "roles": [
   {
@@ -23464,18 +23464,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4480337009",
    "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "LinkedIn",
-   "title": "Software Engineer Intern, First Play",
-   "location": "Mountain View, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Y5",
-   "first_seen": "2026-10-28T23:30:45Z"
   },
   {
    "tier": "B",
