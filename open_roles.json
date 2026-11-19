@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T11:00:24Z",
+ "generated_at": "2026-11-19T11:15:16Z",
  "counts": {
   "target": 587,
-  "relevant": 2539
+  "relevant": 2538
  },
  "roles": [
   {
@@ -15573,18 +15573,6 @@
    "tier": "B",
    "track": "swe",
    "company": "DriveWealth",
-   "title": "AI Consulting Associate Program Brokerage Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://boards.greenhouse.io/drivewealth/jobs/8039368003",
-   "first_seen": "2026-11-07T14:43:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DriveWealth",
    "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
    "location": "Chicago, IL",
    "season": "Summer 2027",
@@ -15604,6 +15592,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true",
    "first_seen": "2026-10-28T07:24:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DriveWealth",
+   "title": "AI Consulting Associate Program Brokerage Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true",
+   "first_seen": "2026-11-07T14:43:47Z"
   },
   {
    "tier": "B",
@@ -21352,18 +21352,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ly",
    "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Invesco",
-   "title": "Quantitative Research Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
