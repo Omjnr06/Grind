@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:45:18Z",
+ "generated_at": "2026-11-19T23:00:28Z",
  "counts": {
   "target": 587,
   "relevant": 2527
@@ -8512,6 +8512,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/7u",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "American Express",
+   "title": "Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1dS",
+   "first_seen": "2026-11-03T21:15:13Z"
   },
   {
    "tier": "B",
@@ -20986,7 +20998,7 @@
    "track": "swe",
    "company": "Insulet Corporation",
    "title": "Embedded Software Test Engineering Co-op",
-   "location": "Mountain View, CA",
+   "location": "Menlo Park, CA / Bellevue, WA",
    "season": "Winter",
    "sponsorship": "Does Not Offer Sponsorship",
    "source": "vanshb03",
@@ -27369,6 +27381,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Paccar",
+   "title": "Software Developer Intern",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1dr",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Paccar",
    "title": "Warranty Data Analyst Intern",
    "location": "Miami, FL / Chicago, IL / Atlanta, GA",
    "season": "Summer",
@@ -27376,18 +27400,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cf",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Paccar",
-   "title": "Software Developer Intern",
-   "location": "Montreal, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1dr",
-   "first_seen": "2026-11-03T15:38:15Z"
   },
   {
    "tier": "B",
@@ -29614,7 +29626,7 @@
    "track": "swe",
    "company": "Regeneron Pharmaceuticals",
    "title": "Data Analytics & Digital Tools Co-op (IOPS)",
-   "location": "Remote / United States",
+   "location": "Menlo Park, CA / Bellevue, WA",
    "season": "Winter",
    "sponsorship": "Other",
    "source": "vanshb03",
@@ -35416,18 +35428,6 @@
    "source": "simplify",
    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
    "first_seen": "2026-10-24T08:23:46Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Trinity Life Sciences",
-   "title": "Data Science Intern",
-   "location": "Waltham, MA / New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1wF",
-   "first_seen": "2026-11-12T16:45:17Z"
   },
   {
    "tier": "B",
