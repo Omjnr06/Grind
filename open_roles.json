@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T22:30:25Z",
+ "generated_at": "2026-11-19T22:45:18Z",
  "counts": {
   "target": 587,
-  "relevant": 2528
+  "relevant": 2527
  },
  "roles": [
   {
@@ -7084,18 +7084,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application?embed=true",
    "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "4AG Robotics",
-   "title": "AI Co-op Student",
-   "location": "Salmon Arm, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
