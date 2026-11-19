@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-19T03:00:24Z",
+ "generated_at": "2026-11-19T03:15:16Z",
  "counts": {
-  "target": 587,
+  "target": 588,
   "relevant": 2543
  },
  "roles": [
@@ -3124,6 +3124,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/971210335715482",
    "first_seen": "2026-11-16T23:45:17Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/994911809842621",
+   "first_seen": "2026-11-19T03:15:16Z"
   },
   {
    "tier": "A",
