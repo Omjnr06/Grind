@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T03:15:16Z",
+ "generated_at": "2026-11-19T03:30:19Z",
  "counts": {
   "target": 588,
-  "relevant": 2543
+  "relevant": 2544
  },
  "roles": [
   {
@@ -12651,6 +12651,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1cd",
+   "first_seen": "2026-11-03T07:55:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CAI",
+   "title": "GIS Software Developer Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ce",
    "first_seen": "2026-11-03T07:55:26Z"
   },
   {
