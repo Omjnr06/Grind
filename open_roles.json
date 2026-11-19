@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T22:00:23Z",
+ "generated_at": "2026-11-19T22:15:17Z",
  "counts": {
   "target": 587,
-  "relevant": 2529
+  "relevant": 2528
  },
  "roles": [
   {
@@ -32800,18 +32800,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true",
    "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "SurePoint Ag Systems",
-   "title": "Drone Imaging Agronomy Intern",
-   "location": "Manhattan, KS",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://surepoint.bamboohr.com/careers/109/",
-   "first_seen": "2026-11-17T10:45:23Z"
   },
   {
    "tier": "B",
