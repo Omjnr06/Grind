@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T23:00:28Z",
+ "generated_at": "2026-11-19T23:15:17Z",
  "counts": {
   "target": 587,
-  "relevant": 2527
+  "relevant": 2526
  },
  "roles": [
   {
@@ -10515,18 +10515,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://campus-americas.icims.com/jobs/26246/ai-researcher-%28phd%29%2c-2027-graduate-u.s./job",
-   "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Atlassian",
-   "title": "Product Management Intern",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job",
    "first_seen": "2026-11-05T08:43:29Z"
   },
   {
