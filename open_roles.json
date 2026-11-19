@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T23:30:19Z",
+ "generated_at": "2026-11-19T23:45:22Z",
  "counts": {
   "target": 587,
-  "relevant": 2526
+  "relevant": 2533
  },
  "roles": [
   {
@@ -10916,6 +10916,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Barry's",
+   "title": "Undergraduate Summer Scholar Intern - Data Analyst",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f",
+   "first_seen": "2026-11-19T23:45:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Base Power",
    "title": "Software Engineering Intern",
    "location": "Austin, TX",
@@ -15284,6 +15296,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Docusign",
+   "title": "Product Data Science Intern",
+   "location": "SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.docusign.com/jobs/31092?icims=1&lang=en-us",
+   "first_seen": "2026-11-19T23:45:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Domino Data Lab",
    "title": "Forward Deployed Engineer Intern",
    "location": "New York, NY",
@@ -18584,6 +18608,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Georgian Partners Growth",
+   "title": "Physical AI and Robotics Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true",
+   "first_seen": "2026-11-19T23:45:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "GeoSpectrum Technologies",
    "title": "Software Developer Co-op",
    "location": "San Jose, CA / Boise, ID",
@@ -19496,6 +19532,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "HERE Technologies",
+   "title": "Applied AI Research Intern",
+   "location": "Chicago, IL",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-19T23:45:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Hewlett Packard (HP)",
    "title": "Software Engineering Intern, AIML Platform",
    "location": "San Francisco, CA",
@@ -20044,6 +20092,30 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cg",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Horizon Trading Solutions",
+   "title": "Java Developer Intern",
+   "location": "Montreal, QC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101",
+   "first_seen": "2026-11-19T23:45:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Horizon Trading Solutions",
+   "title": "Java Developer Intern",
+   "location": "Montreal, QC, Canada / Paris, France / Nantes, France / Rennes, France / Hong Kong",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101",
+   "first_seen": "2026-11-19T23:45:22Z"
   },
   {
    "tier": "B",
@@ -26984,18 +27056,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Old Mission",
-   "title": "Software Engineer Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true",
-   "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "OLG",
    "title": "Front End Developer Intern",
    "location": "New York, NY / Miami, FL / Greenwich, CT / Norwalk, CT / San Francisco, CA",
@@ -28720,6 +28780,18 @@
    "source": "simplify",
    "url": "https://publicisgroupe.jibeapply.com/jobs/173032?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Publicis Groupe",
+   "title": "Identity Analytics Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us",
+   "first_seen": "2026-11-19T23:45:22Z"
   },
   {
    "tier": "B",
@@ -32332,6 +32404,18 @@
    "source": "simplify",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
    "first_seen": "2026-10-21T01:36:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Soros Fund Management",
+   "title": "Quantitative Strategist Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+   "first_seen": "2026-11-17T16:15:21Z"
   },
   {
    "tier": "B",
