@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T11:30:20Z",
+ "generated_at": "2026-11-19T11:45:18Z",
  "counts": {
   "target": 587,
-  "relevant": 2538
+  "relevant": 2537
  },
  "roles": [
   {
@@ -15573,6 +15573,18 @@
    "tier": "B",
    "track": "swe",
    "company": "DriveWealth",
+   "title": "AI Consulting Associate Program Brokerage Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://boards.greenhouse.io/drivewealth/jobs/8039368003",
+   "first_seen": "2026-11-07T14:43:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DriveWealth",
    "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
    "location": "Chicago, IL",
    "season": "Summer 2027",
@@ -15592,18 +15604,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true",
    "first_seen": "2026-10-28T07:24:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DriveWealth",
-   "title": "AI Consulting Associate Program Brokerage Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true",
-   "first_seen": "2026-11-07T14:43:47Z"
   },
   {
    "tier": "B",
@@ -33124,18 +33124,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8177938",
    "first_seen": "2026-09-08T20:06:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "T-Mobile",
-   "title": "Data Product Intern",
-   "location": "Bellevue, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
-   "first_seen": "2026-11-12T23:45:16Z"
   },
   {
    "tier": "B",
