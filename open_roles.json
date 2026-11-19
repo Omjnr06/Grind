@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T21:30:20Z",
+ "generated_at": "2026-11-19T21:45:16Z",
  "counts": {
   "target": 587,
-  "relevant": 2534
+  "relevant": 2532
  },
  "roles": [
   {
@@ -25196,18 +25196,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Molina Healthcare",
-   "title": "Customer Experience & Analytics Intern - Undergraduate",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169",
-   "first_seen": "2026-10-31T01:49:57Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Moment Energy",
    "title": "Data Scientist Co-op",
    "location": "Surrey, BC, Canada",
@@ -26416,18 +26404,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NRDC",
-   "title": "Community Science Partnerships Intern",
-   "location": "Santa Monica, CA / Washington, DC / SF / Chicago, IL / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-nrdc.icims.com/jobs/6067/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-16T23:45:17Z"
   },
   {
    "tier": "B",
