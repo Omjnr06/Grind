@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:00:26Z",
+ "generated_at": "2026-11-19T14:15:16Z",
  "counts": {
   "target": 587,
   "relevant": 2535
@@ -2277,24 +2277,24 @@
    "tier": "A",
    "track": "swe",
    "company": "Graphcore",
-   "title": "Software Engineer Intern - AI Compute Libraries & Performance",
-   "location": "Bristol, United Kingdom",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902325002",
-   "first_seen": "2026-10-21T17:26:19Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Graphcore",
    "title": "Firmware Summer Intern 2027",
    "location": "Bristol, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902588002",
+   "first_seen": "2026-10-21T17:26:19Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Graphcore",
+   "title": "Software Engineer Summer Intern - AI Compute Libraries & Performance 2027",
+   "location": "Bristol, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902325002",
    "first_seen": "2026-10-21T17:26:19Z"
   },
   {
