@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T18:15:17Z",
+ "generated_at": "2026-11-19T18:30:20Z",
  "counts": {
   "target": 587,
-  "relevant": 2532
+  "relevant": 2533
  },
  "roles": [
   {
@@ -19083,6 +19083,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1cw",
+   "first_seen": "2026-11-03T07:55:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Gordon Food Service",
+   "title": "Data Science Engineer Intern",
+   "location": "Reston, VA / Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1cu",
    "first_seen": "2026-11-03T07:55:26Z"
   },
   {
