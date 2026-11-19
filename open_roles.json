@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T18:00:26Z",
+ "generated_at": "2026-11-19T18:15:17Z",
  "counts": {
-  "target": 588,
-  "relevant": 2533
+  "target": 587,
+  "relevant": 2532
  },
  "roles": [
   {
@@ -2343,18 +2343,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Intuit",
-   "title": "Finance Transformation & Analytics Intern",
-   "location": "Mountain View, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -16456,18 +16444,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1mr",
    "first_seen": "2026-11-07T22:41:38Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Entrust",
-   "title": "Software Development Intern",
-   "location": "Ottawa, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
