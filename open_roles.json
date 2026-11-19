@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T07:00:20Z",
+ "generated_at": "2026-11-19T07:15:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2541
+  "relevant": 2540
  },
  "roles": [
   {
@@ -9652,18 +9652,6 @@
    "source": "simplify",
    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
    "first_seen": "2026-10-25T06:24:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Aptiv",
-   "title": "Software Engineer Intern",
-   "location": "Kanata, Ottawa, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
