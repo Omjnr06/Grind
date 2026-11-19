@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T04:00:23Z",
+ "generated_at": "2026-11-19T04:15:16Z",
  "counts": {
   "target": 588,
-  "relevant": 2543
+  "relevant": 2541
  },
  "roles": [
   {
@@ -19797,18 +19797,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Hewlett Packard Enterprise",
-   "title": "Cloud Developer Intern",
-   "location": "San Jose, California, United States of America",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
-   "first_seen": "2026-10-06T09:08:59Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Hewlett Packard Enterprise",
    "title": "Embedded Software Engineer Intern",
    "location": "Santa Clara, CA / Richardson, TX",
    "season": "Summer",
@@ -30676,18 +30664,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1qi",
    "first_seen": "2026-11-10T11:44:35Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Roche",
-   "title": "AI & Digitalisation Intern",
-   "location": "Welwyn, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162",
-   "first_seen": "2026-11-12T12:15:16Z"
   },
   {
    "tier": "B",
