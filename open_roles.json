@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T02:30:20Z",
+ "generated_at": "2026-11-19T02:45:16Z",
  "counts": {
   "target": 587,
-  "relevant": 2541
+  "relevant": 2543
  },
  "roles": [
   {
@@ -26529,6 +26529,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Nutanix",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-04T21:37:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nutanix",
    "title": "Software Developer Co-op",
    "location": "Vancouver, BC, Canada",
    "season": "Winter",
@@ -36976,6 +36988,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1gm",
    "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Workstream",
+   "title": "Full Stack Engineer Intern",
+   "location": "Vancouver, BC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+   "first_seen": "2026-11-19T02:45:16Z"
   },
   {
    "tier": "B",
