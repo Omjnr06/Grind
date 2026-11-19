@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T09:30:20Z",
+ "generated_at": "2026-11-19T09:45:18Z",
  "counts": {
   "target": 588,
-  "relevant": 2539
+  "relevant": 2537
  },
  "roles": [
   {
@@ -7600,18 +7600,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1lt",
    "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AfterQuery",
-   "title": "Research Fellow",
-   "location": "SF",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/AfterQuery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -35079,18 +35067,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1po",
-   "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tonic",
-   "title": "Forward Deployed Engineer Co-op - Data De-Identification",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/tonicai/e632d472-fbd2-475a-9878-536c0eacb5e9/application?embed=true",
    "first_seen": "2026-11-10T03:30:10Z"
   },
   {
