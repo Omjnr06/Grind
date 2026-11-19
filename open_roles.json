@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T08:00:22Z",
+ "generated_at": "2026-11-19T08:15:24Z",
  "counts": {
   "target": 588,
   "relevant": 2539
@@ -23073,18 +23073,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Leidos",
-   "title": "Business Systems AI Intern",
-   "location": "6314 Remote/Teleworker US",
-   "season": "Not stated",
-   "sponsorship": "citizens-only",
-   "source": "zshah101",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-   "first_seen": "2026-10-07T00:07:08Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Leidos",
    "title": "Cloud Engineering Intern",
    "location": "6314 Remote/Teleworker US",
    "season": "Summer 2027",
@@ -24028,6 +24016,18 @@
    "source": "zshah101",
    "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508",
    "first_seen": "2026-10-03T00:12:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "MakerMaker",
+   "title": "Research Intern",
+   "location": "SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true",
+   "first_seen": "2026-11-19T08:15:24Z"
   },
   {
    "tier": "B",
