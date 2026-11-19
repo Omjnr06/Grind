@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T00:00:24Z",
+ "generated_at": "2026-11-19T00:15:17Z",
  "counts": {
-  "target": 583,
-  "relevant": 2539
+  "target": 587,
+  "relevant": 2544
  },
  "roles": [
   {
@@ -3405,6 +3405,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Microsoft",
+   "title": "Research Intern - Model Foundations for Knowledge & Reasoning",
+   "location": "Canada / Vancouver, BC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075474",
+   "first_seen": "2026-11-19T00:15:17Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
    "title": "Research Intern - Machine Learning",
    "location": "Montreal, QC, Canada",
    "season": "",
@@ -3688,6 +3700,42 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
    "first_seen": "2026-11-18T03:15:17Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - AI Software Systems",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+   "first_seen": "2026-11-19T00:15:17Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Computer Vision and Deep Learning",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
+   "first_seen": "2026-11-19T00:15:17Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Self-Improving & Secure AI Agents",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075136",
+   "first_seen": "2026-11-19T00:15:17Z"
   },
   {
    "tier": "A",
@@ -18897,6 +18945,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Multiple Teams",
+   "location": "Albany, NY",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://higher.gs.com/roles/189373?type=students",
+   "first_seen": "2026-11-19T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Goldman Sachs",
    "title": "Quantitative Strategist Intern - Multiple Teams",
    "location": "London, UK",
    "season": "Summer 2027",
@@ -19480,6 +19540,30 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/12v",
    "first_seen": "2026-10-31T21:28:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "HERE Technologies",
+   "title": "Data Science Intern",
+   "location": "Chicago, IL",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-19T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "HERE Technologies",
+   "title": "Software Engineer Intern",
+   "location": "Chicago, IL",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-19T00:15:17Z"
   },
   {
    "tier": "B",
@@ -20476,6 +20560,18 @@
    "source": "simplify",
    "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1",
    "first_seen": "2026-11-13T03:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Huawei",
+   "title": "Researcher Intern - Recursive Self-Improvement",
+   "location": "Montreal, QC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi",
+   "first_seen": "2026-11-19T00:15:17Z"
   },
   {
    "tier": "B",
@@ -26469,18 +26565,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
    "title": "Software Developer Co-op",
    "location": "Vancouver, BC, Canada",
    "season": "Winter",
@@ -30572,6 +30656,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Roblox",
+   "title": "Software Engineer Intern - Engine",
+   "location": "Vancouver, BC, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
+   "first_seen": "2026-11-19T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "RoboForce",
    "title": "Machine Learning Engineer Intern, AI & Robotics",
    "location": "Milpitas, CA",
@@ -31149,6 +31245,30 @@
    "tier": "B",
    "track": "swe",
    "company": "Samsung",
+   "title": "Architecture Research Engineer Intern - MoE Placement for Serving at Scale",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003",
+   "first_seen": "2026-11-19T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung",
+   "title": "Architecture Research Engineer Intern - Resilient Collective Communications",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003",
+   "first_seen": "2026-11-19T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung",
    "title": "Intern, Power-Thermal Simulation Software Engineer",
    "location": "San Jose, California, United States",
    "season": "Not stated",
@@ -31564,18 +31684,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1p0",
    "first_seen": "2026-11-09T21:03:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "SeatGeek",
-   "title": "Data Analyst Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://seatgeek.com/jobs/8247554?gh_jid=8247554",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
