@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T13:30:19Z",
+ "generated_at": "2026-11-19T13:45:20Z",
  "counts": {
   "target": 587,
-  "relevant": 2536
+  "relevant": 2535
  },
  "roles": [
   {
@@ -32476,18 +32476,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/ZV",
    "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "SOTI",
-   "title": "Data Scientist Intern",
-   "location": "Mississauga, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
