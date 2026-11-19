@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T12:00:33Z",
+ "generated_at": "2026-11-19T12:15:17Z",
  "counts": {
   "target": 587,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -17908,18 +17908,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/gb",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GE Aerospace",
-   "title": "Data Science Co-op - Flight Analytics Platform",
-   "location": "Austin, TX",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
