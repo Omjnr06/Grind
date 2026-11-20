@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T08:15:18Z",
+ "generated_at": "2026-11-20T08:30:28Z",
  "counts": {
   "target": 591,
-  "relevant": 2535
+  "relevant": 2537
  },
  "roles": [
   {
@@ -16052,6 +16052,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Dynamic Catholic",
+   "title": "Software Developer Intern, Commerce Cloud",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1eB",
+   "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "E2 Consulting Engineers",
    "title": "Data Analyst Intern",
    "location": "Remote / United States",
@@ -19888,6 +19900,18 @@
    "source": "simplify",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987",
    "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Highmark Health",
+   "title": "Vulnerability Management Analyst Undergraduate Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1e9",
+   "first_seen": "2026-11-03T21:15:13Z"
   },
   {
    "tier": "B",
