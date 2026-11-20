@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T20:00:23Z",
+ "generated_at": "2026-11-20T20:15:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2535
+  "relevant": 2534
  },
  "roles": [
   {
@@ -29236,18 +29236,6 @@
    "source": "simplify",
    "url": "https://qualcomm.eightfold.ai/careers/job/446721913898",
    "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Qualcomm",
-   "title": "Machine Learning Engineering Intern",
-   "location": "Markham, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721969461",
-   "first_seen": "2026-11-05T08:43:29Z"
   },
   {
    "tier": "B",
