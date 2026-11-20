@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T12:15:16Z",
+ "generated_at": "2026-11-20T12:30:20Z",
  "counts": {
   "target": 591,
-  "relevant": 2536
+  "relevant": 2537
  },
  "roles": [
   {
@@ -15208,6 +15208,18 @@
    "source": "simplify",
    "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Direct Supply",
+   "title": "AI Engineer Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ep",
+   "first_seen": "2026-09-04T19:01:45Z"
   },
   {
    "tier": "B",
