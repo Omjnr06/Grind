@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:30:19Z",
+ "generated_at": "2026-11-20T06:45:20Z",
  "counts": {
   "target": 591,
   "relevant": 2538
@@ -32611,18 +32611,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "SOTI",
-   "title": "Software Developer Intern",
-   "location": "Mississauga, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "SOTI",
    "title": "Associate Product Manager Intern",
@@ -32644,6 +32632,18 @@
    "source": "simplify",
    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
    "first_seen": "2026-10-27T01:48:12Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "SOTI",
+   "title": "Software Developer Intern",
+   "location": "Mississauga, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
