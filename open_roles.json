@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T14:00:22Z",
+ "generated_at": "2026-11-20T14:15:18Z",
  "counts": {
   "target": 591,
-  "relevant": 2536
+  "relevant": 2535
  },
  "roles": [
   {
@@ -37155,18 +37155,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1bk",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zimmer Biomet Holdings",
-   "title": "Software Developer Co-op",
-   "location": "Montreal, QC, Canada",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers.zimmerbiomet.com/us/en/job/13309",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
