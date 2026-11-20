@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T22:45:16Z",
+ "generated_at": "2026-11-20T23:00:23Z",
  "counts": {
-  "target": 589,
+  "target": 588,
   "relevant": 2533
  },
  "roles": [
@@ -7036,18 +7036,6 @@
    "source": "zshah101",
    "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-3",
    "first_seen": "2026-11-12T20:15:18Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Waymo",
-   "title": "Scenes Intern",
-   "location": "Mountain View, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/IK",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "A",
