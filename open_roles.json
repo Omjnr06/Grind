@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T18:30:20Z",
+ "generated_at": "2026-11-20T18:45:28Z",
  "counts": {
   "target": 590,
-  "relevant": 2532
+  "relevant": 2531
  },
  "roles": [
   {
@@ -21232,18 +21232,6 @@
    "source": "simplify",
    "url": "https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-10-31T07:44:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intermountain Healthcare",
-   "title": "Machine Learning Operations Intern",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318",
-   "first_seen": "2026-11-13T00:15:16Z"
   },
   {
    "tier": "B",
