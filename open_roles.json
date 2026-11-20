@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T19:00:25Z",
+ "generated_at": "2026-11-20T19:15:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2531
+  "relevant": 2530
  },
  "roles": [
   {
@@ -21201,18 +21201,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Intercontinental Exchange",
-   "title": "Software Engineer Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-10-31T07:44:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intercontinental Exchange",
    "title": "Trading System Development Intern",
    "location": "NYC",
    "season": "Summer 2027",
@@ -21231,6 +21219,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-10-31T07:44:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Intercontinental Exchange",
+   "title": "Software Engineer Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-10-31T07:44:18Z"
   },
   {
@@ -24412,18 +24412,6 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff",
    "first_seen": "2026-11-06T22:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Matillion",
-   "title": "Computer Science Intern - Software Engineering with AI",
-   "location": "Manchester, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply",
-   "first_seen": "2026-11-10T18:50:36Z"
   },
   {
    "tier": "B",
