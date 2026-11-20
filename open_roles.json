@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T13:30:29Z",
+ "generated_at": "2026-11-20T13:43:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -24100,18 +24100,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Vt",
    "first_seen": "2026-10-27T13:09:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Manulife Financial",
-   "title": "Technology Enablement Analyst Co-op",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1",
-   "first_seen": "2026-11-19T16:15:19Z"
   },
   {
    "tier": "B",
