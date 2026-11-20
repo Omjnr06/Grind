@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T07:30:19Z",
+ "generated_at": "2026-11-20T07:45:16Z",
  "counts": {
   "target": 591,
-  "relevant": 2535
+  "relevant": 2534
  },
  "roles": [
   {
@@ -14956,18 +14956,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1cn",
    "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cybernetic Labs",
-   "title": "Forward Deployed Engineer Intern",
-   "location": "SF",
-   "season": "Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
