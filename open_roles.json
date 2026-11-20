@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T15:15:19Z",
+ "generated_at": "2026-11-20T15:30:21Z",
  "counts": {
   "target": 591,
-  "relevant": 2534
+  "relevant": 2535
  },
  "roles": [
   {
@@ -16060,6 +16060,18 @@
    "source": "simplify",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822",
    "first_seen": "2026-11-11T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Dynamic Catholic",
+   "title": "Front-End UX Intern",
+   "location": "New York, NY / Malta, NY",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1eA",
+   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
