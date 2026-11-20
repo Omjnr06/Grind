@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T11:15:17Z",
+ "generated_at": "2026-11-20T11:30:22Z",
  "counts": {
   "target": 591,
-  "relevant": 2538
+  "relevant": 2537
  },
  "roles": [
   {
@@ -16360,18 +16360,6 @@
    "source": "zshah101",
    "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/",
    "first_seen": "2026-09-04T19:01:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ENFOS",
-   "title": "Software Engineer Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1eo",
-   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
