@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T00:00:24Z",
+ "generated_at": "2026-11-20T00:15:18Z",
  "counts": {
-  "target": 587,
-  "relevant": 2534
+  "target": 592,
+  "relevant": 2539
  },
  "roles": [
   {
@@ -2132,6 +2132,18 @@
   {
    "tier": "A",
    "track": "swe",
+   "company": "Deliveroo",
+   "title": "Software Engineer Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8398982",
+   "first_seen": "2026-11-20T00:15:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
    "company": "Google",
    "title": "Student Researcher Intern",
    "location": "Grenoble, France / London, UK / Paris, France / Berlin, Germany / Munich, Germany",
@@ -3021,6 +3033,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Meta",
+   "title": "Research Scientist Intern - Multimodal Behavioral AI",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/1428978125312655",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
    "title": "Research Scientist Intern - Robot Foundation Models",
    "location": "Redmond, WA",
    "season": "",
@@ -3112,6 +3136,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/994911809842621",
    "first_seen": "2026-11-19T03:15:16Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
+   "title": "Research Scientist Intern - AI Agents for Autonomous Laboratories",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/29481973694788756",
+   "first_seen": "2026-11-20T00:15:18Z"
   },
   {
    "tier": "A",
@@ -3741,6 +3777,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Microsoft",
+   "title": "Research Intern - Deep Learning Group",
+   "location": "Redmond, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
+   "first_seen": "2026-11-20T00:15:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
    "title": "Research Intern - Research in Software Engineering - ML Systems - Agents",
    "location": "Redmond, WA",
    "season": "",
@@ -3784,6 +3832,18 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+   "location": "Redmond, WA / Mountain View, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
+   "first_seen": "2026-11-20T00:15:18Z"
   },
   {
    "tier": "A",
@@ -8740,6 +8800,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009",
    "first_seen": "2026-10-23T23:59:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amperity",
+   "title": "Software Development Engineer Intern",
+   "location": "Seattle, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://amperity.com/careers?gh_jid=8393990#openpositions",
+   "first_seen": "2026-11-20T00:15:18Z"
   },
   {
    "tier": "B",
@@ -15619,18 +15691,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "DriveWealth",
-   "title": "AI Consulting Associate Program Product Owner Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true",
-   "first_seen": "2026-10-28T07:24:11Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "DriveWealth",
    "title": "AI Engineer Intern, AI Consulting Associate Program",
@@ -16792,6 +16852,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4726901006",
    "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "EUNA Solutions",
+   "title": "Associate AI-Enablement Developer Co-op",
+   "location": "Oakville, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://euna.bamboohr.com/careers/822/",
+   "first_seen": "2026-11-20T00:15:18Z"
   },
   {
    "tier": "B",
@@ -26493,6 +26565,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Nutanix",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-04T21:37:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nutanix",
    "title": "Software Developer Co-op",
    "location": "Vancouver, BC, Canada",
    "season": "Winter",
@@ -28408,6 +28492,18 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
    "first_seen": "2026-11-10T11:44:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Pivotal Software",
+   "title": "Autonomy Intern - Autonomy - Path Planning",
+   "location": "Palo Alto, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply",
+   "first_seen": "2026-11-20T00:15:18Z"
   },
   {
    "tier": "B",
@@ -32392,6 +32488,42 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1u",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Snowflake",
+   "title": "Software Engineer Intern - AI / ML",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true",
+   "first_seen": "2026-11-20T00:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Snowflake",
+   "title": "Software Engineer Intern - Core - Infrastructure & Security",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true",
+   "first_seen": "2026-11-20T00:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Snowflake",
+   "title": "Software Engineer Intern - Database Engineering",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true",
+   "first_seen": "2026-11-20T00:15:18Z"
   },
   {
    "tier": "B",
@@ -36844,18 +36976,6 @@
    "source": "speedyapply",
    "url": "https://wing.com/careers/8872471002?gh_jid=8872471002",
    "first_seen": "2026-10-14T18:13:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Woolpert",
-   "title": "Aviation Modeling & Simulation Intern",
-   "location": "San Rafael, CA / Berkeley, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/woolpert/jobs/4430700009",
-   "first_seen": "2026-11-11T23:45:17Z"
   },
   {
    "tier": "B",
