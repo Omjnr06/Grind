@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T15:45:18Z",
+ "generated_at": "2026-11-20T16:00:24Z",
  "counts": {
   "target": 591,
-  "relevant": 2535
+  "relevant": 2536
  },
  "roles": [
   {
@@ -20008,6 +20008,18 @@
    "source": "simplify",
    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865",
    "first_seen": "2026-10-16T16:49:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Hoffman Construction",
+   "title": "Data Analyst Intern",
+   "location": "Montreal, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1eC",
+   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
