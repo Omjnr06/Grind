@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T23:00:23Z",
+ "generated_at": "2026-11-20T23:15:16Z",
  "counts": {
   "target": 588,
-  "relevant": 2533
+  "relevant": 2531
  },
  "roles": [
   {
@@ -18524,18 +18524,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Genesys",
-   "title": "Web Software Developer Intern - WFM",
-   "location": "Toronto, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
-   "first_seen": "2026-11-15T08:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Geneva Trading",
    "title": "Python Developer Intern",
    "location": "Chicago, IL",
@@ -34336,18 +34324,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005",
    "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "AI Initiatives Fellow",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
