@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:30:22Z",
+ "generated_at": "2026-11-20T11:45:17Z",
  "counts": {
   "target": 591,
   "relevant": 2537
@@ -24753,6 +24753,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Medpace",
+   "title": "Feasibility Informatics Industrial Placement Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.medpace.com/jobs/13130?icims=1&lang=en-us",
+   "first_seen": "2026-11-20T11:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Medpace",
    "title": "Information Security Intern",
    "location": "Montreal, Canada",
    "season": "Spring",
@@ -26536,18 +26548,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
