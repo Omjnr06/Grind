@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T19:30:20Z",
+ "generated_at": "2026-11-20T19:45:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2530
+  "relevant": 2529
  },
  "roles": [
   {
@@ -21219,18 +21219,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-10-31T07:44:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intercontinental Exchange",
-   "title": "Software Engineer Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-10-31T07:44:18Z"
   },
   {
