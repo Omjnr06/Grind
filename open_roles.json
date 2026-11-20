@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T16:00:24Z",
+ "generated_at": "2026-11-20T16:15:18Z",
  "counts": {
   "target": 591,
-  "relevant": 2536
+  "relevant": 2537
  },
  "roles": [
   {
@@ -37036,6 +37036,18 @@
    "source": "simplify",
    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Wurl",
+   "title": "Data Engineer Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4731130006",
+   "first_seen": "2026-11-20T16:15:18Z"
   },
   {
    "tier": "B",
