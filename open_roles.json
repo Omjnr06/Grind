@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T21:32:04Z",
+ "generated_at": "2026-11-20T21:45:18Z",
  "counts": {
   "target": 589,
-  "relevant": 2532
+  "relevant": 2531
  },
  "roles": [
   {
@@ -28720,18 +28720,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1tb",
    "first_seen": "2026-11-11T06:00:24Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Procter & Gamble",
-   "title": "IT Technical Specialist Intern",
-   "location": "Newcastle upon Tyne, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
