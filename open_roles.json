@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T11:00:22Z",
+ "generated_at": "2026-11-20T11:15:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2539
+  "relevant": 2538
  },
  "roles": [
   {
@@ -7652,6 +7652,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "AI Security Institute",
+   "title": "Red Team Researcher Resident - Red Team",
+   "location": "London, UK / Edinburgh, UK / Cardiff, UK / Bristol, UK / Darlington, UK / Birmingham, UK / Salford, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101",
+   "first_seen": "2026-11-20T11:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "AiDASH",
    "title": "Software Engineering Intern, Backend",
    "location": "North Reading, MA / Westborough, MA",
@@ -8020,18 +8032,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/d2",
    "first_seen": "2026-10-21T20:46:05Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altera",
-   "title": "Software Engineer Intern - Factory Apps",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
@@ -26392,18 +26392,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1y5",
    "first_seen": "2026-11-13T00:00:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "North Atlantic Industries",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "Bohemia, NY",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
