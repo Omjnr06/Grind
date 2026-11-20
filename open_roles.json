@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T16:30:20Z",
+ "generated_at": "2026-11-20T16:45:16Z",
  "counts": {
-  "target": 591,
-  "relevant": 2536
+  "target": 590,
+  "relevant": 2535
  },
  "roles": [
   {
@@ -3075,18 +3075,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/2862704290847533",
-   "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Humanoid Control & Dexterous Manipulation",
-   "location": "Redmond, WA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.metacareers.com/jobs/1832390484751700",
    "first_seen": "2026-11-05T08:43:29Z"
   },
   {
@@ -17949,18 +17937,6 @@
    "tier": "B",
    "track": "swe",
    "company": "GE Vernova",
-   "title": "Energy Optimization Software Engineer Intern - Summer 2027",
-   "location": "Bellevue, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1",
-   "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GE Vernova",
    "title": "Project Engineer Intern - Summer 2027",
    "location": "Bellevue, WA",
    "season": "Summer 2027",
@@ -18100,18 +18076,6 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604",
    "first_seen": "2026-10-08T21:45:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Genentech",
-   "title": "Summer Intern - Digital, AI, and Clinical Outcome Assessments",
-   "location": "South SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790",
-   "first_seen": "2026-11-12T00:15:18Z"
   },
   {
    "tier": "B",
@@ -26548,6 +26512,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Nutanix",
+   "title": "Software Engineer Intern",
+   "location": "Cambridge, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
