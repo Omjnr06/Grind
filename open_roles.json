@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T03:15:15Z",
+ "generated_at": "2026-11-20T03:30:19Z",
  "counts": {
   "target": 592,
-  "relevant": 2538
+  "relevant": 2537
  },
  "roles": [
   {
@@ -19948,18 +19948,6 @@
    "source": "simplify",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987",
    "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Highmark Health",
-   "title": "Vulnerability Management Analyst Undergraduate Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1e9",
-   "first_seen": "2026-11-03T21:15:13Z"
   },
   {
    "tier": "B",
