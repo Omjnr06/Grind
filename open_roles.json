@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T16:15:18Z",
+ "generated_at": "2026-11-20T16:30:20Z",
  "counts": {
   "target": 591,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -15904,18 +15904,6 @@
    "source": "simplify",
    "url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
    "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DV Trading",
-   "title": "Data Center Engineer Intern",
-   "location": "Chicago, IL",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/89",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
