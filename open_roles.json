@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T02:30:21Z",
+ "generated_at": "2026-11-20T02:45:15Z",
  "counts": {
-  "target": 592,
-  "relevant": 2537
+  "target": 593,
+  "relevant": 2539
  },
  "roles": [
   {
@@ -3868,6 +3868,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17x",
    "first_seen": "2026-11-01T13:46:06Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - AI Serving Systems and Hardware",
+   "location": "Vancouver, BC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
+   "first_seen": "2026-11-20T02:45:15Z"
   },
   {
    "tier": "A",
@@ -23493,6 +23505,42 @@
    "tier": "B",
    "track": "swe",
    "company": "LinkedIn",
+   "title": "AI/ML Engineer Intern - Generative AI",
+   "location": "Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639",
+   "first_seen": "2026-11-20T02:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LinkedIn",
+   "title": "AI/ML Engineer Intern",
+   "location": "Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808",
+   "first_seen": "2026-11-20T02:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LinkedIn",
+   "title": "Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems",
+   "location": "Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368",
+   "first_seen": "2026-11-20T02:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "LinkedIn",
    "title": "Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA)",
    "location": "Mountain View, CA, United States (Hybrid)",
    "season": "Summer 2027",
@@ -26548,18 +26596,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cm",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Nutanix",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-04T21:37:26Z"
   },
   {
    "tier": "B",
