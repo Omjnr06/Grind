@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T06:15:17Z",
+ "generated_at": "2026-11-20T06:30:19Z",
  "counts": {
-  "target": 592,
+  "target": 591,
   "relevant": 2538
  },
  "roles": [
@@ -4864,18 +4864,6 @@
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/286085",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Localization Specialist Intern",
-   "location": "San Francisco, CA",
-   "season": "Fall",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/3w",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "A",
