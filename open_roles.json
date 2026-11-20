@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T03:00:23Z",
+ "generated_at": "2026-11-20T03:15:15Z",
  "counts": {
-  "target": 593,
-  "relevant": 2539
+  "target": 592,
+  "relevant": 2538
  },
  "roles": [
   {
@@ -3039,18 +3039,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1428978125312655",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Robot Foundation Models",
-   "location": "Redmond, WA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.metacareers.com/jobs/27730225806654441",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -33172,18 +33160,6 @@
    "source": "simplify",
    "url": "https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Sycamore",
-   "title": "Engineer Intern",
-   "location": "Palo Alto, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/sycamore/20c06fdf-9aa4-44b0-9cd1-4e21707a16f3/application?embed=true",
-   "first_seen": "2026-10-28T14:12:27Z"
   },
   {
    "tier": "B",
