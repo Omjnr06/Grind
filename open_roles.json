@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T21:45:18Z",
+ "generated_at": "2026-11-20T22:00:23Z",
  "counts": {
   "target": 589,
-  "relevant": 2531
+  "relevant": 2533
  },
  "roles": [
   {
@@ -15880,6 +15880,30 @@
    "source": "simplify",
    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DuCharme, McMillen & Associates",
+   "title": "IT Quality Assurance Intern",
+   "location": "Palo Alto, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1f3",
+   "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DuCharme, McMillen & Associates",
+   "title": "IT Quality Assurance Intern",
+   "location": "Victor, NY",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1f2",
+   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
