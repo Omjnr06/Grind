@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T08:30:28Z",
+ "generated_at": "2026-11-20T08:45:16Z",
  "counts": {
   "target": 591,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -14944,18 +14944,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1cn",
    "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cybernetic Labs",
-   "title": "Full-Stack Software Engineer Intern - Product",
-   "location": "SF",
-   "season": "Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
