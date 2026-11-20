@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T09:30:20Z",
+ "generated_at": "2026-11-20T09:45:24Z",
  "counts": {
   "target": 591,
-  "relevant": 2536
+  "relevant": 2537
  },
  "roles": [
   {
@@ -7624,6 +7624,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1lt",
    "first_seen": "2026-11-07T01:52:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "AfterQuery",
+   "title": "Research Fellow",
+   "location": "SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/AfterQuery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800/application?embed=true",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
