@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:30:21Z",
+ "generated_at": "2026-11-20T15:45:18Z",
  "counts": {
   "target": 591,
   "relevant": 2535
@@ -15741,18 +15741,6 @@
    "tier": "B",
    "track": "swe",
    "company": "DRW",
-   "title": "Software Developer Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "Summer 2028",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-   "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DRW",
    "title": "Quantitative Trading Analyst Intern",
    "location": "New York City, NY",
    "season": "Summer",
@@ -17524,6 +17512,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002",
    "first_seen": "2026-10-23T21:39:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Flare",
+   "title": "Software Developer Intern",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://flare.bamboohr.com/careers/29/",
+   "first_seen": "2026-11-20T15:45:18Z"
   },
   {
    "tier": "B",
@@ -20596,6 +20596,18 @@
    "source": "simplify",
    "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system",
    "first_seen": "2026-11-13T03:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Huawei",
+   "title": "Researcher Intern - Mathematical Foundations of Differentiable World Models",
+   "location": "Ottawa, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models",
+   "first_seen": "2026-11-20T15:45:18Z"
   },
   {
    "tier": "B",
@@ -32792,30 +32804,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Starwood Capital Group",
-   "title": "Agentic Engineering Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-17T23:45:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Starwood Capital Group",
-   "title": "Data Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-17T23:45:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Stealth Startup | Enterprise AI",
    "title": "Software Engineering Intern",
    "location": "Remote / United States / Canada",
@@ -33112,6 +33100,18 @@
    "source": "simplify",
    "url": "https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-11-05T08:43:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Symbotic",
+   "title": "Software Engineer Intern - Front-End",
+   "location": "Austin, TX",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1",
+   "first_seen": "2026-11-20T15:45:18Z"
   },
   {
    "tier": "B",
