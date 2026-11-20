@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T20:45:27Z",
+ "generated_at": "2026-11-20T21:00:25Z",
  "counts": {
   "target": 589,
-  "relevant": 2534
+  "relevant": 2532
  },
  "roles": [
   {
@@ -29900,18 +29900,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Resideo",
-   "title": "Data Science Intern",
-   "location": "Austin, TX / Golden Valley, MN",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1by",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Resurgent Industries",
    "title": "Embedded Firmware and Controls Engineer - Entry-Level / Intern",
    "location": "Austin, TX",
@@ -36004,18 +35992,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1br",
    "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Valon",
-   "title": "Software Engineer Intern",
-   "location": "New York, NY / San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ey",
-   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
