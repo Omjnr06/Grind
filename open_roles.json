@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T23:47:39Z",
+ "generated_at": "2026-11-20T00:00:24Z",
  "counts": {
   "target": 587,
-  "relevant": 2533
+  "relevant": 2534
  },
  "roles": [
   {
@@ -24088,6 +24088,18 @@
    "source": "simplify",
    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Maricopa Association of Governments",
+   "title": "Socioeconomic Data Intern",
+   "location": "Redmond, WA / Mountain View, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1dx",
+   "first_seen": "2026-11-03T15:38:15Z"
   },
   {
    "tier": "B",
