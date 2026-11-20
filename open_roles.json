@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T23:30:22Z",
+ "generated_at": "2026-11-20T23:45:16Z",
  "counts": {
-  "target": 588,
-  "relevant": 2531
+  "target": 591,
+  "relevant": 2537
  },
  "roles": [
   {
@@ -868,6 +868,18 @@
    "source": "simplify",
    "url": "https://jobs.apple.com/en-us/details/200694477",
    "first_seen": "2026-11-12T08:15:19Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Software Engineer Intern - App Intelligence Experience",
+   "location": "Cambridge, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.apple.com/en-us/details/200696199",
+   "first_seen": "2026-11-20T23:45:16Z"
   },
   {
    "tier": "A",
@@ -2625,6 +2637,18 @@
    "tier": "A",
    "track": "swe",
    "company": "Meta",
+   "title": "Research Scientist Intern - Photorealistic Telepresence",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/1122232790428355",
+   "first_seen": "2026-11-20T23:45:16Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
    "title": "Research Scientist Intern - Generative AI",
    "location": "London, UK / Z\u00fcrich, Switzerland",
    "season": "",
@@ -3760,6 +3784,18 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
    "first_seen": "2026-11-20T00:15:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Quantum Applications",
+   "location": "Redmond, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
+   "first_seen": "2026-11-20T23:45:16Z"
   },
   {
    "tier": "A",
@@ -10738,6 +10774,18 @@
    "track": "swe",
    "company": "Axon",
    "title": "Software Engineer Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8159006003",
+   "first_seen": "2026-11-20T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Axon",
+   "title": "Software Engineer Intern",
    "location": "Seattle, WA / Arlington, VA",
    "season": "Summer",
    "sponsorship": "Other",
@@ -15278,7 +15326,7 @@
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://careers.docusign.com/jobs/30481?icims=1",
+   "url": "https://careers.docusign.com/jobs/30480?icims=1",
    "first_seen": "2026-10-22T18:03:53Z"
   },
   {
@@ -19336,6 +19384,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/gsacapital/jobs/8570661002",
    "first_seen": "2026-11-10T18:50:36Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Gusto",
+   "title": "Economics Research Intern",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8400148",
+   "first_seen": "2026-11-20T23:45:16Z"
   },
   {
    "tier": "B",
@@ -23972,6 +24032,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Mackenzie Investments",
+   "title": "AI Program Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-20T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Macy's",
    "title": "Analytics Intern - Multiple Teams",
    "location": "NYC",
@@ -24643,6 +24715,18 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "MDA Space",
+   "title": "Engineering Student Co-op - AI/ML Specialist",
+   "location": "Sainte-Anne-de-Bellevue, QC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f",
+   "first_seen": "2026-11-20T23:45:16Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "Medline",
    "title": "Product Management Intern - Summer 2027",
@@ -24808,6 +24892,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application?embed=true",
    "first_seen": "2026-10-28T07:24:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Meridian Credit Union",
+   "title": "Data and Artificial Intelligence Student Intern",
+   "location": "Etobicoke, ON, Canada / St. Catharines, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1",
+   "first_seen": "2026-11-20T23:45:16Z"
   },
   {
    "tier": "B",
@@ -35764,6 +35860,18 @@
    "source": "simplify",
    "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10629",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Ulteig",
+   "title": "GIS Intern",
+   "location": "Remote in USA / Minneapolis, MN / Greenwood Village, CO",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa",
+   "first_seen": "2026-11-20T23:45:16Z"
   },
   {
    "tier": "B",
