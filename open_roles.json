@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T17:15:17Z",
+ "generated_at": "2026-11-20T17:30:27Z",
  "counts": {
   "target": 590,
-  "relevant": 2535
+  "relevant": 2534
  },
  "roles": [
   {
@@ -17080,18 +17080,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1lr",
    "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "fab2",
-   "title": "Embedded Software Engineer Intern",
-   "location": "San Francisco, CA / Austin, TX",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/OC",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
