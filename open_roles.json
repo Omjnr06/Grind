@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T20:15:18Z",
+ "generated_at": "2026-11-20T20:30:27Z",
  "counts": {
-  "target": 590,
+  "target": 589,
   "relevant": 2534
  },
  "roles": [
@@ -4995,18 +4995,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/18s",
-   "first_seen": "2026-11-01T13:46:06Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "AI Software Engineer Project Intern, Transaction Platform",
-   "location": "Palo Alto, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/18t",
    "first_seen": "2026-11-01T13:46:06Z"
   },
   {
