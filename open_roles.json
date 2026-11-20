@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T00:30:27Z",
+ "generated_at": "2026-11-20T00:45:16Z",
  "counts": {
   "target": 592,
-  "relevant": 2539
+  "relevant": 2537
  },
  "roles": [
   {
@@ -15676,18 +15676,6 @@
    "source": "simplify",
    "url": "https://boards.greenhouse.io/drivewealth/jobs/8039368003",
    "first_seen": "2026-11-07T14:43:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DriveWealth",
-   "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true",
-   "first_seen": "2026-10-28T07:24:11Z"
   },
   {
    "tier": "B",
@@ -32128,18 +32116,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
    "first_seen": "2026-10-07T05:52:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Signifyd",
-   "title": "Engineering Intern",
-   "location": "Belfast, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
