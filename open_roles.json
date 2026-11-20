@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T14:30:22Z",
+ "generated_at": "2026-11-20T14:45:19Z",
  "counts": {
   "target": 591,
-  "relevant": 2535
+  "relevant": 2534
  },
  "roles": [
   {
@@ -17680,18 +17680,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/5m",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "FTI Consulting",
-   "title": "Data & Analytics Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
