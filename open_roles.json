@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T01:15:16Z",
+ "generated_at": "2026-11-21T01:30:20Z",
  "counts": {
   "target": 592,
-  "relevant": 2558
+  "relevant": 2559
  },
  "roles": [
   {
@@ -9147,6 +9147,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1g1",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apera AI",
+   "title": "Software Developer Co-op, Cloud Infrastructure",
+   "location": "Vancouver, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1g2",
    "first_seen": "2026-11-04T07:40:10Z"
   },
   {
