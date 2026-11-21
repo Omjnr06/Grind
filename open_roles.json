@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T04:30:21Z",
+ "generated_at": "2026-11-21T04:45:19Z",
  "counts": {
   "target": 591,
-  "relevant": 2558
+  "relevant": 2555
  },
  "roles": [
   {
@@ -18117,18 +18117,6 @@
    "tier": "B",
    "track": "swe",
    "company": "GE Vernova",
-   "title": "AI Post-Training and Model Alignment Intern",
-   "location": "Bellevue, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GE Vernova",
    "title": "Power System Intern",
    "location": "Bellevue, WA",
    "season": "Summer 2027",
@@ -21583,18 +21571,6 @@
   },
   {
    "tier": "B",
-   "track": "pm",
-   "company": "ITT",
-   "title": "Product Management Co-op - Spring/Summer 2027",
-   "location": "Seneca Falls, NY",
-   "season": "Spring 2027, Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
    "track": "swe",
    "company": "IXL Learning",
    "title": "Software Engineer Intern",
@@ -22984,18 +22960,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Zl",
    "first_seen": "2026-10-29T21:04:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "KLA Corporation",
-   "title": "Software Engineer Intern",
-   "location": "Austin, TX",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004",
-   "first_seen": "2026-11-03T01:14:25Z"
   },
   {
    "tier": "B",
