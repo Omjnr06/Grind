@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T22:30:25Z",
+ "generated_at": "2026-11-21T22:45:24Z",
  "counts": {
   "target": 591,
-  "relevant": 2550
+  "relevant": 2549
  },
  "roles": [
   {
@@ -16420,18 +16420,6 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Ellipsis Labs",
-   "title": "Software Engineer",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
