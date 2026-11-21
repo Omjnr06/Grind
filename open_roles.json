@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T07:30:21Z",
+ "generated_at": "2026-11-21T07:45:16Z",
  "counts": {
   "target": 591,
-  "relevant": 2554
+  "relevant": 2555
  },
  "roles": [
   {
@@ -18820,6 +18820,18 @@
    "source": "simplify",
    "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314",
    "first_seen": "2026-11-18T16:45:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GIRO",
+   "title": "Front-End Web Development Intern",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317",
+   "first_seen": "2026-11-21T07:45:16Z"
   },
   {
    "tier": "B",
