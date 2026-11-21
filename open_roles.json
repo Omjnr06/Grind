@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T16:00:24Z",
+ "generated_at": "2026-11-21T16:15:23Z",
  "counts": {
   "target": 591,
-  "relevant": 2550
+  "relevant": 2553
  },
  "roles": [
   {
@@ -11420,6 +11420,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "BDO Canada",
+   "title": "Full-Stack Developer Co-op Intern",
+   "location": "Toronto, ON, Canada / Oakville, ON, Canada / Ottawa, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057",
+   "first_seen": "2026-11-21T16:15:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Bedrock Robotics",
    "title": "2027 Internship Software Engineer, Fleet Platform",
    "location": "New York City, NY",
@@ -12736,6 +12748,18 @@
    "source": "speedyapply",
    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1",
    "first_seen": "2026-11-20T20:00:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Cadence Design Systems",
+   "title": "Software Engineer Intern - Circuit Simulation infrastructure",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254",
+   "first_seen": "2026-11-21T16:15:23Z"
   },
   {
    "tier": "B",
@@ -34696,6 +34720,18 @@
    "source": "simplify",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Thomson Reuters",
+   "title": "Research Intern - Multiple Teams",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Intern---Agentic-AI---NLP---ML_JREQ205375",
+   "first_seen": "2026-11-21T16:15:23Z"
   },
   {
    "tier": "B",
