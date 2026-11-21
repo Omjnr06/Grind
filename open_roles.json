@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T03:00:22Z",
+ "generated_at": "2026-11-21T03:15:16Z",
  "counts": {
   "target": 592,
   "relevant": 2559
@@ -19232,6 +19232,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Gorbel",
+   "title": "Front-End Web Developer Co-op",
+   "location": "Victor, NY",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1",
+   "first_seen": "2026-11-21T03:15:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Gordon Food Service",
    "title": "Cloud DevOps Intern",
    "location": "New York, NY / Bethlehem, PA / Holmdel, NJ",
@@ -33220,18 +33232,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1nJ",
    "first_seen": "2026-11-09T10:36:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Stryker",
-   "title": "Software Engineering Intern - Multiple Teams",
-   "location": "Fremont, CA / San Jose, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
