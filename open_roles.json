@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:15:17Z",
+ "generated_at": "2026-11-21T13:30:29Z",
  "counts": {
   "target": 591,
   "relevant": 2550
@@ -26985,6 +26985,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing",
+   "location": "Santa Clara, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1Gd",
+   "first_seen": "2026-11-21T13:30:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "Research Intern",
    "location": "Santa Clara, CA",
    "season": "Summer 2027",
@@ -31828,18 +31840,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Sr",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Seaspan",
-   "title": "Data Engineering Intern",
-   "location": "North Vancouver, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1zc",
-   "first_seen": "2026-11-13T21:45:18Z"
   },
   {
    "tier": "B",
