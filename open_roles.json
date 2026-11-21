@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-21T04:00:22Z",
+ "generated_at": "2026-11-21T04:15:16Z",
  "counts": {
-  "target": 592,
+  "target": 591,
   "relevant": 2558
  },
  "roles": [
@@ -2740,18 +2740,6 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1691709792593561",
    "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Scam and Trust",
-   "location": "Menlo Park, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.metacareers.com/jobs/2355649268510104",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "A",
