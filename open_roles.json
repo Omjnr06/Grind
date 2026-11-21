@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T23:45:16Z",
+ "generated_at": "2026-11-21T00:00:24Z",
  "counts": {
   "target": 591,
-  "relevant": 2537
+  "relevant": 2541
  },
  "roles": [
   {
@@ -13461,6 +13461,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Ciena",
+   "title": "Software Developer Co-op",
+   "location": "Etobicoke, Canada / St. Catharines, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fg",
+   "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Ciena",
    "title": "Software Developer Intern",
    "location": "Montreal, Canada",
    "season": "Winter",
@@ -13528,18 +13540,6 @@
    "source": "simplify",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102",
    "first_seen": "2026-11-12T00:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Ciena",
-   "title": "Software Developer Co-op",
-   "location": "Quebec, Canada / Remote / Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1fg",
-   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
@@ -19316,6 +19316,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "GreatAmerica Financial Services",
+   "title": "Platform Engineering Intern",
+   "location": "Santa Clara, CA / Austin, TX",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fj",
+   "first_seen": "2026-09-18T17:46:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Grey State Apparel",
    "title": "Data Analyst Intern",
    "location": "New York, NY",
@@ -24034,6 +24046,18 @@
    "track": "swe",
    "company": "Mackenzie Investments",
    "title": "AI Program Intern",
+   "location": "Toronto, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1F8",
+   "first_seen": "2026-11-21T00:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Mackenzie Investments",
+   "title": "AI Program Intern",
    "location": "Toronto, ON, Canada",
    "season": "Winter 2027",
    "sponsorship": "Other",
@@ -25053,6 +25077,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Microchip Technology",
+   "title": "ASIC Verification Engineer Intern",
+   "location": "San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1F9",
+   "first_seen": "2026-11-21T00:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Microchip Technology",
    "title": "Engineering Intern, ASIC Verification",
    "location": "Seattle, WA / Austin, TX / San Jose, CA",
    "season": "Summer",
@@ -25312,6 +25348,18 @@
    "source": "simplify",
    "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Moderna",
+   "title": "mRNA Design Engineering Co-op",
+   "location": "Cambridge, MA",
+   "season": "Winter",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fa",
+   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
