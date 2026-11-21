@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T00:45:20Z",
+ "generated_at": "2026-11-21T01:00:34Z",
  "counts": {
   "target": 592,
-  "relevant": 2557
+  "relevant": 2558
  },
  "roles": [
   {
@@ -9128,6 +9128,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Apera AI",
+   "title": "Machine Learning Applied Scientist Co-op",
+   "location": "Vancouver, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1g0",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apera AI",
+   "title": "Software Developer Co-op, Full Stack",
+   "location": "Vancouver, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1g1",
+   "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Apple",
    "title": "Design Verification Engineer Intern",
    "location": "Arden Hills, MN",
@@ -18075,18 +18099,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GE Vernova",
-   "title": "AI Post-Training and Model Alignment Intern, AGI",
-   "location": "Bellevue, WA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/97",
    "first_seen": "2026-10-25T11:51:52Z"
   },
   {
