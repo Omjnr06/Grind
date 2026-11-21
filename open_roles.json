@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T10:00:21Z",
+ "generated_at": "2026-11-21T10:15:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2557
+  "relevant": 2555
  },
  "roles": [
   {
@@ -3501,12 +3501,12 @@
    "tier": "A",
    "track": "swe",
    "company": "Microsoft",
-   "title": "Data Scientist Intern - CoreAI",
+   "title": "Data Scientist Intern, CoreAI",
    "location": "Redmond, WA",
-   "season": "Summer 2027",
+   "season": "Summer",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1wj",
    "first_seen": "2026-11-12T10:45:17Z"
   },
   {
@@ -31882,18 +31882,6 @@
    "track": "swe",
    "company": "Seaspan",
    "title": "Data Engineering Intern",
-   "location": "North Vancouver, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
-   "first_seen": "2026-11-13T23:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Seaspan",
-   "title": "Data Engineering Intern",
    "location": "North Vancouver, Canada",
    "season": "Winter",
    "sponsorship": "Other",
@@ -35524,18 +35512,6 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac/apply",
    "first_seen": "2026-11-13T23:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Toyota Research Institute",
-   "title": "Research Intern - Spatial Intelligence for Robotics",
-   "location": "Cambridge, MA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply",
-   "first_seen": "2026-11-16T16:15:18Z"
   },
   {
    "tier": "B",
