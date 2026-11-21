@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T00:30:19Z",
+ "generated_at": "2026-11-21T00:45:20Z",
  "counts": {
   "target": 592,
-  "relevant": 2558
+  "relevant": 2557
  },
  "roles": [
   {
@@ -7288,6 +7288,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/acluinternships/jobs/8919540002",
    "first_seen": "2026-10-28T01:41:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Acuity Insurance",
+   "title": "Strategic Information Intern",
+   "location": "Remote in USA / Sheboygan, WI",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7",
+   "first_seen": "2026-11-21T00:45:20Z"
   },
   {
    "tier": "B",
@@ -14792,18 +14804,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Crusoe",
-   "title": "Software Engineer Intern",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true",
-   "first_seen": "2026-11-18T00:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Cryptic Vector",
    "title": "Full Stack Developer Intern",
    "location": "San Jose, CA / Milpitas, CA / Research Triangle Park, NC / San Francisco, CA",
@@ -21364,18 +21364,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Zy",
    "first_seen": "2026-10-30T00:55:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intercontinental Exchange",
-   "title": "Data Science Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ice.jibeapply.com/jobs/14113?icims=1",
-   "first_seen": "2026-10-31T07:44:18Z"
   },
   {
    "tier": "B",
