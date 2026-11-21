@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:45:17Z",
+ "generated_at": "2026-11-21T19:00:23Z",
  "counts": {
   "target": 591,
   "relevant": 2553
@@ -12885,24 +12885,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Cambridge Consultants",
-   "title": "Software Engineering Internship - 2027 start",
-   "location": "United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101",
-   "first_seen": "2026-10-02T20:59:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cambridge Consultants",
    "title": "Software Test Engineering Internship - 2027 start",
    "location": "United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995787101",
+   "first_seen": "2026-10-02T20:59:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Cambridge Consultants",
+   "title": "Software Engineering Internship - 2027 start",
+   "location": "United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101",
    "first_seen": "2026-10-02T20:59:14Z"
   },
   {
@@ -26181,24 +26181,24 @@
    "tier": "B",
    "track": "swe",
    "company": "NCR Atleos",
-   "title": "Software Support Internship",
-   "location": "Dundee, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1",
-   "first_seen": "2026-10-13T20:44:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NCR Atleos",
    "title": "Software Engineering Internship",
    "location": "Dundee, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
+   "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NCR Atleos",
+   "title": "Software Support Internship",
+   "location": "Dundee, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1",
    "first_seen": "2026-10-13T20:44:34Z"
   },
   {
@@ -28545,24 +28545,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Peripheral",
-   "title": "I Software Engineer Intern - Infrastructure - Spring 2027",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://app.dover.io/apply/job/4f4baf30-f659-4172-881e-4497b3808ad0/",
-   "first_seen": "2026-11-20T20:00:23Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Peripheral",
    "title": "I Software Engineering Intern - Viewer - Spring 2027",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://app.dover.io/apply/job/1ef74a94-ed4a-44b8-a08a-cc662066cf0c/",
+   "first_seen": "2026-11-20T20:00:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Peripheral",
+   "title": "I Software Engineer Intern - Infrastructure - Spring 2027",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://app.dover.io/apply/job/4f4baf30-f659-4172-881e-4497b3808ad0/",
    "first_seen": "2026-11-20T20:00:23Z"
   },
   {
