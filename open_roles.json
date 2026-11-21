@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T00:15:23Z",
+ "generated_at": "2026-11-21T00:30:19Z",
  "counts": {
   "target": 592,
-  "relevant": 2555
+  "relevant": 2558
  },
  "roles": [
   {
@@ -16497,6 +16497,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Engramme",
+   "title": "Machine Learning Engineer Co-op",
+   "location": "Brookfield, WI / Chicago, IL",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fz",
+   "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Engramme",
    "title": "Back-End Software Engineer Co-op",
    "location": "San Francisco, CA",
    "season": "Winter",
@@ -16515,18 +16527,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1fy",
-   "first_seen": "2026-11-04T01:23:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Engramme",
-   "title": "Machine Learning Engineer Co-op",
-   "location": "San Francisco, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1fz",
    "first_seen": "2026-11-04T01:23:45Z"
   },
   {
@@ -24740,6 +24740,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "McKesson",
+   "title": "CMM Technology Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fp",
+   "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "MDA",
    "title": "Software Engineering Intern",
    "location": "Brampton, Canada",
@@ -30175,6 +30187,18 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "Republic Airways",
+   "title": "Data Analytics Intern",
+   "location": "Remote / United States / Canada / Santa Clara, CA / Charlotte, NC / New York, NY",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fq",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "Research Innovations",
    "title": "Department of War SkillBridge Operations SME Intern",
@@ -31108,6 +31132,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1jt",
    "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Royal Bank of Canada",
+   "title": "AI Engineer Co-op, Capital Markets, Global Equities",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1fV",
+   "first_seen": "2026-11-04T07:40:10Z"
   },
   {
    "tier": "B",
