@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T10:30:22Z",
+ "generated_at": "2026-11-21T10:45:20Z",
  "counts": {
   "target": 591,
-  "relevant": 2555
+  "relevant": 2554
  },
  "roles": [
   {
@@ -17768,18 +17768,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Forterra",
-   "title": "Software Engineer Intern",
-   "location": "Winter Park, FL / Durham, NC / East Palo Alto, CA / Clarksburg, MD / Arlington County, Arlington, VA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
-   "first_seen": "2026-11-17T00:15:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Found Energy",
    "title": "Data Engineer Co-op",
    "location": "Cambridge, MA",
@@ -26608,18 +26596,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1jk",
    "first_seen": "2026-11-05T22:27:01Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Normal Computing",
-   "title": "AI Research Resident - Algorithms Codesign",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
-   "first_seen": "2026-10-27T13:09:29Z"
   },
   {
    "tier": "B",
@@ -35512,6 +35488,18 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac/apply",
    "first_seen": "2026-11-13T23:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Toyota Research Institute",
+   "title": "Research Intern - Spatial Intelligence for Robotics",
+   "location": "Cambridge, MA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply",
+   "first_seen": "2026-11-16T16:15:18Z"
   },
   {
    "tier": "B",
