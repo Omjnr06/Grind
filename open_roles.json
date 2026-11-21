@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T12:00:21Z",
+ "generated_at": "2026-11-21T12:15:15Z",
  "counts": {
   "target": 591,
-  "relevant": 2552
+  "relevant": 2551
  },
  "roles": [
   {
@@ -16412,18 +16412,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Element Fleet Management",
-   "title": "Forward Deployed Engineer Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989",
-   "first_seen": "2026-11-06T02:41:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Ellipsis Labs",
    "title": "Software Engineer - 2027 Interns",
    "location": "New York, New York",
@@ -30309,18 +30297,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
@@ -30352,6 +30328,18 @@
    "source": "sndsh404",
    "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "Seattle, WA / SF / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
