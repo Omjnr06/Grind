@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T06:30:22Z",
+ "generated_at": "2026-11-22T06:45:15Z",
  "counts": {
   "target": 591,
-  "relevant": 2551
+  "relevant": 2550
  },
  "roles": [
   {
@@ -32103,18 +32103,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936020",
-   "first_seen": "2026-11-17T00:15:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ServiceNow",
-   "title": "Associate Forward Deployed Solution Engineer Intern",
-   "location": "Santa Clara, CA / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
    "first_seen": "2026-11-17T00:15:19Z"
   },
   {
