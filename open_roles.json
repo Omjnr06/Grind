@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T06:00:22Z",
+ "generated_at": "2026-11-22T06:15:16Z",
  "counts": {
   "target": 591,
-  "relevant": 2552
+  "relevant": 2551
  },
  "roles": [
   {
@@ -33664,18 +33664,6 @@
    "source": "simplify",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
    "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TD Bank",
-   "title": "Technology Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
