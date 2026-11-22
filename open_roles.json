@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T00:30:22Z",
+ "generated_at": "2026-11-22T00:45:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2554
+  "relevant": 2555
  },
  "roles": [
   {
@@ -27064,6 +27064,18 @@
    "source": "simplify",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
+   "location": "Santa Clara, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
+   "first_seen": "2026-11-22T00:45:17Z"
   },
   {
    "tier": "B",
