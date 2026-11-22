@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T22:00:21Z",
+ "generated_at": "2026-11-22T22:15:16Z",
  "counts": {
   "target": 590,
-  "relevant": 2535
+  "relevant": 2534
  },
  "roles": [
   {
@@ -34504,18 +34504,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Xi",
    "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Thomson Reuters",
-   "title": "Applied Science Intern",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
