@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T22:30:20Z",
+ "generated_at": "2026-11-22T22:45:15Z",
  "counts": {
   "target": 590,
-  "relevant": 2534
+  "relevant": 2533
  },
  "roles": [
   {
@@ -7084,18 +7084,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1qh",
    "first_seen": "2026-11-10T11:44:35Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "10a Labs",
-   "title": "Engineering Fellow",
-   "location": "SF",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
