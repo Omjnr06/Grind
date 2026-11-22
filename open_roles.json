@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:15:15Z",
+ "generated_at": "2026-11-22T17:30:20Z",
  "counts": {
   "target": 589,
   "relevant": 2539
@@ -22653,18 +22653,6 @@
    "tier": "B",
    "track": "swe",
    "company": "KLA",
-   "title": "Software Engineer Intern",
-   "location": "Austin, TX",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1b9",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "KLA",
    "title": "Software Engineering Intern",
    "location": "Austin, TX",
    "season": "Summer 2027",
@@ -28660,6 +28648,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/19m",
    "first_seen": "2026-11-02T18:36:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Plusgrade",
+   "title": "UI/UX Design and Frontend Engineer Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1gp",
+   "first_seen": "2026-11-04T15:45:13Z"
   },
   {
    "tier": "B",
