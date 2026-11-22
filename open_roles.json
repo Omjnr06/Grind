@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T08:00:22Z",
+ "generated_at": "2026-11-22T08:15:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2550
+  "relevant": 2551
  },
  "roles": [
   {
@@ -26013,6 +26013,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NBCUniversal",
+   "title": "Business Data Intern - Film IT",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
+   "first_seen": "2026-11-22T08:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NBCUniversal",
    "title": "Software Engineering Internships - Summer 2027",
    "location": "New York City, NY",
    "season": "",
@@ -31101,6 +31113,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Royal Bank of Canada",
+   "title": "Data Analyst Intern - Wealth Management",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+   "first_seen": "2026-11-22T08:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Royal Bank of Canada",
    "title": "Data Engineer Intern",
    "location": "Vancouver, Canada",
    "season": "Summer",
@@ -34684,18 +34708,6 @@
    "source": "simplify",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Intern---Agentic-AI---NLP---ML_JREQ205375",
    "first_seen": "2026-11-21T16:15:23Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Thomson Reuters",
-   "title": "Applied Science Intern",
-   "location": "London, UK / Switzerland / Zug, Switzerland",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Switzerland-Zug-Zug/Applied-Science-Intern_JREQ204561",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
