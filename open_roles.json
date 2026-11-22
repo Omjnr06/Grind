@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T00:00:24Z",
+ "generated_at": "2026-11-22T00:15:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2549
+  "relevant": 2554
  },
  "roles": [
   {
@@ -23792,6 +23792,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Lumentum",
+   "title": "AI Engineer Co-op Intern",
+   "location": "Ottawa, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778",
+   "first_seen": "2026-11-22T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Lumentum",
+   "title": "SW Developer Support Intern - Program Management Office",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729",
+   "first_seen": "2026-11-22T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Lumerate",
    "title": "Data Associate Intern",
    "location": "Canada / Remote in Canada",
@@ -27328,6 +27352,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/11s",
    "first_seen": "2026-10-31T01:49:57Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "OLG",
+   "title": "Forensic Investigations Intern",
+   "location": "Sault Ste. Marie, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Student---Forensic-Investigations_R26_00701",
+   "first_seen": "2026-11-22T00:15:17Z"
   },
   {
    "tier": "B",
@@ -31384,6 +31420,18 @@
    "source": "simplify",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
    "first_seen": "2026-10-20T23:14:58Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Salesforce",
+   "title": "Product Management Intern - Product Management",
+   "location": "SF / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659",
+   "first_seen": "2026-11-07T01:52:47Z"
   },
   {
    "tier": "B",
@@ -35680,6 +35728,18 @@
    "source": "earlycareers_eu",
    "url": "https://www.linkedin.com/jobs/view/4468915553",
    "first_seen": "2026-10-22T13:18:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TransUnion",
+   "title": "Data Science and Analytics Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
+   "first_seen": "2026-11-22T00:15:17Z"
   },
   {
    "tier": "B",
