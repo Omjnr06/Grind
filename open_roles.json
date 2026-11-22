@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T23:30:19Z",
+ "generated_at": "2026-11-22T23:45:22Z",
  "counts": {
   "target": 590,
-  "relevant": 2533
+  "relevant": 2534
  },
  "roles": [
   {
@@ -15616,6 +15616,18 @@
    "source": "zshah101",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
    "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Draper",
+   "title": "Operational Analysis Intern - Summer 2027",
+   "location": "Cambridge, MA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182",
+   "first_seen": "2026-11-22T23:45:22Z"
   },
   {
    "tier": "B",
