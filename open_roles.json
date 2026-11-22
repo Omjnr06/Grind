@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T16:00:29Z",
+ "generated_at": "2026-11-22T16:15:16Z",
  "counts": {
   "target": 589,
-  "relevant": 2540
+  "relevant": 2539
  },
  "roles": [
   {
@@ -25960,18 +25960,6 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NBCUniversal",
-   "title": "Business Data Intern - Film IT",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
-   "first_seen": "2026-11-22T08:15:17Z"
   },
   {
    "tier": "B",
