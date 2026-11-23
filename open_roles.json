@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T11:15:17Z",
+ "generated_at": "2026-11-23T11:30:19Z",
  "counts": {
   "target": 591,
-  "relevant": 2538
+  "relevant": 2539
  },
  "roles": [
   {
@@ -37012,6 +37012,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4430700009",
    "first_seen": "2026-11-11T23:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Workshop",
+   "title": "Software Engineer Intern",
+   "location": "Westborough, MA / Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1gm",
+   "first_seen": "2026-11-04T15:45:13Z"
   },
   {
    "tier": "B",
