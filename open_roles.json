@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T13:30:20Z",
+ "generated_at": "2026-11-23T13:45:26Z",
  "counts": {
-  "target": 590,
-  "relevant": 2539
+  "target": 589,
+  "relevant": 2538
  },
  "roles": [
   {
@@ -4563,18 +4563,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/281921",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Physics Engine Development Engineer Intern - Optimus",
-   "location": "Palo Alto, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/282147",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -29852,18 +29840,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Red Bull",
-   "title": "Category Intern",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/RedBull/744000160572014",
-   "first_seen": "2026-11-09T10:36:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Red Wing Shoe Company",
    "title": "Data and Analytics Intern",
    "location": "Palo Alto, CA",
@@ -31665,11 +31641,11 @@
    "tier": "B",
    "track": "swe",
    "company": "Scale AI",
-   "title": "Software Engineer Intern - Summer 2027",
+   "title": "Software Engineering Intern - Summer 2027",
    "location": "London, United Kingdom",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
    "first_seen": "2026-09-15T16:54:43Z"
   },
