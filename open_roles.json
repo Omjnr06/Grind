@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T23:30:20Z",
+ "generated_at": "2026-11-23T23:45:15Z",
  "counts": {
-  "target": 589,
-  "relevant": 2532
+  "target": 591,
+  "relevant": 2536
  },
  "roles": [
   {
@@ -52,6 +52,18 @@
    "source": "zshah101",
    "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
    "first_seen": "2026-10-30T22:43:21Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern - Artificial General Intelligence",
+   "location": "Boston, MA / Seattle, WA / Bellevue, WA / Sunnyvale, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+   "first_seen": "2026-11-23T23:45:15Z"
   },
   {
    "tier": "A",
@@ -3112,6 +3124,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/29481973694788756",
    "first_seen": "2026-11-20T00:15:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Spatial-temporal Consistent 4D Generation",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/2357948038329505",
+   "first_seen": "2026-11-23T23:45:15Z"
   },
   {
    "tier": "A",
@@ -9213,24 +9237,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Apple",
-   "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation - WTE",
-   "location": "Munich, Germany",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.apple.com/en-us/details/200689711-1731",
-   "first_seen": "2026-11-11T19:30:23Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Apple",
    "title": "Modeling Software Intern",
    "location": "Munich, Germany",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.apple.com/en-us/details/200690119-1731",
+   "first_seen": "2026-11-11T19:30:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation - WTE",
+   "location": "Munich, Germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200689711-1731",
    "first_seen": "2026-11-11T19:30:23Z"
   },
   {
@@ -10137,18 +10161,6 @@
    "tier": "B",
    "track": "swe",
    "company": "ASML",
-   "title": "Internship - Software Engineer In Test - MOD",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
-   "first_seen": "2026-10-25T18:29:33Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ASML",
    "title": "Internship - Application Software QA Engineer",
    "location": "San Jose, CA",
    "season": "",
@@ -10156,6 +10168,18 @@
    "source": "speedyapply",
    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
    "first_seen": "2026-10-24T08:23:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ASML",
+   "title": "Internship - Software Engineer In Test - MOD",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+   "first_seen": "2026-10-25T18:29:33Z"
   },
   {
    "tier": "B",
@@ -11805,18 +11829,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Blue Origin",
-   "title": "Summer 2027 Software Developer Internship - Undergraduate",
-   "location": "Seattle, WA +2",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425",
-   "first_seen": "2026-09-02T17:08:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Blue Origin",
    "title": "Summer 2027 Avionics Software Internship - Graduate",
    "location": "Seattle, WA +2",
    "season": "",
@@ -11829,12 +11841,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Blue Origin",
-   "title": "Summer 2027 Software Developer Internship - Graduate",
-   "location": "Seattle, WA +3",
+   "title": "Summer 2027 Software Developer Internship - Undergraduate",
+   "location": "Seattle, WA +2",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425",
    "first_seen": "2026-09-02T17:08:21Z"
   },
   {
@@ -11853,6 +11865,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Blue Origin",
+   "title": "Summer 2027 Software Developer Internship - Graduate",
+   "location": "Seattle, WA +3",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Blue Origin",
    "title": "2026 Intern Conversion - Software Development Engineer I",
    "location": "Seattle, WA +8",
    "season": "",
@@ -11860,6 +11884,18 @@
    "source": "speedyapply",
    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275",
    "first_seen": "2026-08-12T14:31:28Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Blueprint AI (Mental Health)",
+   "title": "Product Engineering Intern",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/blueprint-health/j/6C902886A5/apply",
+   "first_seen": "2026-11-23T23:45:15Z"
   },
   {
    "tier": "B",
@@ -14668,6 +14704,18 @@
    "source": "simplify",
    "url": "https://jobs.constellationenergy.com/jobs/138735?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Contoro",
+   "title": "Robotics Software Engineer Intern - Autonomy - Automation",
+   "location": "Austin, TX",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434/application?embed=true",
+   "first_seen": "2026-11-23T23:45:15Z"
   },
   {
    "tier": "B",
@@ -18561,24 +18609,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Geneva Trading",
-   "title": "C++ Developer - Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
-   "first_seen": "2026-09-23T18:36:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Geneva Trading",
    "title": "Python Developer Intern",
    "location": "Chicago, IL",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242196007",
+   "first_seen": "2026-09-23T18:36:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Geneva Trading",
+   "title": "C++ Developer - Intern",
+   "location": "Chicago, IL",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
    "first_seen": "2026-09-23T18:36:47Z"
   },
   {
@@ -19221,24 +19269,24 @@
    "tier": "B",
    "track": "swe",
    "company": "GPC",
-   "title": "Cloud SRE Intern",
-   "location": "Birmingham, AL",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
-   "first_seen": "2026-09-02T17:08:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GPC",
    "title": "Cloud Developer Intern",
    "location": "Birmingham, AL",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133",
+   "first_seen": "2026-09-02T17:08:21Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "GPC",
+   "title": "Cloud SRE Intern",
+   "location": "Birmingham, AL",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
    "first_seen": "2026-09-02T17:08:21Z"
   },
   {
@@ -22089,6 +22137,18 @@
    "tier": "B",
    "track": "swe",
    "company": "JP Morgan Chase",
+   "title": "Applied AI Intern - HR CDAO",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+   "first_seen": "2026-11-23T23:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "JP Morgan Chase",
    "title": "Quant AI Associate Intern",
    "location": "Palo Alto, CA",
    "season": "Summer 2027",
@@ -23236,6 +23296,42 @@
    "source": "simplify",
    "url": "https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-11-05T08:43:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Lifeway",
+   "title": "Front-End Engineer Intern",
+   "location": "Nashville, TN / Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-23T23:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Lifeway",
+   "title": "Summer Internship - Business Intelligence",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-23T23:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Lifeway",
+   "title": "Software Engineer Intern - Full Stack - Back-End",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-23T23:45:15Z"
   },
   {
    "tier": "B",
@@ -26997,24 +27093,24 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
-   "title": "NVIDIA 2027 Internships: Software Engineering",
-   "location": "Santa Clara, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
-   "first_seen": "2026-08-19T13:23:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
    "title": "NVIDIA 2027 Internships: Systems Software Engineering",
    "location": "Santa Clara, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+   "first_seen": "2026-08-19T13:23:07Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "NVIDIA 2027 Internships: Software Engineering",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
    "first_seen": "2026-08-19T13:23:07Z"
   },
   {
@@ -28389,24 +28485,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Peripheral",
-   "title": "I Software Engineer Intern - Infrastructure - Spring 2027",
-   "location": "Toronto, Canada",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://app.dover.io/apply/job/4f4baf30-f659-4172-881e-4497b3808ad0/",
-   "first_seen": "2026-11-20T20:00:23Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Peripheral",
    "title": "I Software Engineering Intern - Viewer - Spring 2027",
    "location": "Toronto, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://app.dover.io/apply/job/1ef74a94-ed4a-44b8-a08a-cc662066cf0c/",
+   "first_seen": "2026-11-20T20:00:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Peripheral",
+   "title": "I Software Engineer Intern - Infrastructure - Spring 2027",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://app.dover.io/apply/job/4f4baf30-f659-4172-881e-4497b3808ad0/",
    "first_seen": "2026-11-20T20:00:23Z"
   },
   {
@@ -30429,24 +30525,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Electrical & Software Systems - Summer 2027 Internships",
-   "location": "Palo Alto, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://us-careers-rivian.icims.com/jobs/34308/job",
-   "first_seen": "2026-11-11T19:45:20Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rivian",
    "title": "Computer Vision Software - Summer 2027 Internships",
    "location": "Palo Alto, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://us-careers-rivian.icims.com/jobs/34315/job",
+   "first_seen": "2026-11-11T19:45:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rivian",
+   "title": "Electrical & Software Systems - Summer 2027 Internships",
+   "location": "Palo Alto, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://us-careers-rivian.icims.com/jobs/34308/job",
    "first_seen": "2026-11-11T19:45:20Z"
   },
   {
@@ -30501,12 +30597,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Design Automation - Spring 2027 Co-Op",
+   "title": "Software Engineering Intern - Product Development Portal - Spring Co-Op",
    "location": "Palo Alto, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://us-careers-rivian.icims.com/jobs/33748/job",
+   "url": "https://us-careers-rivian.icims.com/jobs/33745/job",
    "first_seen": "2026-11-11T19:45:20Z"
   },
   {
@@ -30525,24 +30621,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Product Development Portal - Spring Co-Op",
+   "title": "Software Engineering Intern - Design Automation - Spring 2027 Co-Op",
    "location": "Palo Alto, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://us-careers-rivian.icims.com/jobs/33745/job",
+   "url": "https://us-careers-rivian.icims.com/jobs/33748/job",
    "first_seen": "2026-11-11T19:45:20Z"
   },
   {
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Connected Systems - Summer 2027",
+   "title": "Software Engineering Intern - Applications - Summer 2027",
    "location": "Palo Alto, CA +1",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160",
    "first_seen": "2026-10-23T18:32:26Z"
   },
   {
@@ -30561,12 +30657,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Applications - Summer 2027",
+   "title": "Software Engineering Intern - Connected Systems - Summer 2027",
    "location": "Palo Alto, CA +1",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f",
    "first_seen": "2026-10-23T18:32:26Z"
   },
   {
@@ -30585,12 +30681,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Vehicle Controls - Summer 2027",
+   "title": "Software Engineering Intern - Connected Systems - Summer 2027",
    "location": "Vancouver, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec",
    "first_seen": "2026-10-23T18:32:26Z"
   },
   {
@@ -30609,12 +30705,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Rivian",
-   "title": "Software Engineering Intern - Connected Systems - Summer 2027",
+   "title": "Software Engineering Intern - Vehicle Controls - Summer 2027",
    "location": "Vancouver, Canada",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0",
    "first_seen": "2026-10-23T18:32:26Z"
   },
   {
@@ -32601,6 +32697,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Snowflake",
+   "title": "Software Engineer Intern - AI / ML - Summer 2027",
+   "location": "Menlo Park, CA +1",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+   "first_seen": "2026-11-20T20:00:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Snowflake",
    "title": "Software Engineer Intern - Database Engineering - Summer 2027",
    "location": "Menlo Park, CA +1",
    "season": "",
@@ -32620,30 +32728,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
    "first_seen": "2026-11-20T20:00:23Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Snowflake",
-   "title": "Software Engineer Intern - AI / ML - Summer 2027",
-   "location": "Menlo Park, CA +1",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
-   "first_seen": "2026-11-20T20:00:23Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Snowflake",
-   "title": "Software Engineer Intern - Core - Infrastructure & Security",
-   "location": "Menlo Park, CA / Bellevue, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true",
-   "first_seen": "2026-11-20T00:15:18Z"
   },
   {
    "tier": "B",
@@ -36422,7 +36506,7 @@
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W-2",
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W",
    "first_seen": "2026-11-13T19:30:21Z"
   },
   {
@@ -36824,18 +36908,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Wikimedia Foundation",
-   "title": "Software Engineering Internship Program - 2027",
-   "location": "Remote",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
-   "first_seen": "2026-10-16T16:49:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "William Blair",
    "title": "Agentic AI Development Intern",
    "location": "Chicago, IL",
@@ -36861,24 +36933,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Wing",
-   "title": "Execution & Topology Software Engineering Intern - Summer 2027",
-   "location": "Palo Alto, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://wing.com/careers/8872477002?gh_jid=8872477002",
-   "first_seen": "2026-10-14T18:13:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Wing",
    "title": "Route Planning Software Engineering Intern - Summer 2027",
    "location": "Palo Alto, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://wing.com/careers/8872472002?gh_jid=8872472002",
+   "first_seen": "2026-10-14T18:13:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Wing",
+   "title": "Execution & Topology Software Engineering Intern - Summer 2027",
+   "location": "Palo Alto, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://wing.com/careers/8872477002?gh_jid=8872477002",
    "first_seen": "2026-10-14T18:13:19Z"
   },
   {
@@ -37173,24 +37245,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Zipline",
-   "title": "Firmware Engineer Intern - Summer 2027",
-   "location": "South San Francisco, CA",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply",
-   "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
-   "first_seen": "2026-10-10T20:11:20Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zipline",
    "title": "Firmware Engineer Intern - Spring 2027",
    "location": "South San Francisco, CA",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply",
    "url": "https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003",
+   "first_seen": "2026-10-10T20:11:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zipline",
+   "title": "Firmware Engineer Intern - Summer 2027",
+   "location": "South San Francisco, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
    "first_seen": "2026-10-10T20:11:20Z"
   },
   {
