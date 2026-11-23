@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T09:30:21Z",
+ "generated_at": "2026-11-23T09:45:17Z",
  "counts": {
-  "target": 591,
-  "relevant": 2538
+  "target": 592,
+  "relevant": 2536
  },
  "roles": [
   {
@@ -6652,6 +6652,18 @@
    "source": "simplify",
    "url": "https://lifeattiktok.com/search/7705023349533346101",
    "first_seen": "2026-11-23T03:15:20Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://lifeattiktok.com/search/7675163472469444917",
+   "first_seen": "2026-08-20T13:25:29Z"
   },
   {
    "tier": "A",
@@ -26949,18 +26961,6 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
-   "title": "Research Intern",
-   "location": "Santa Clara, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NVIDIA",
    "title": "Research Intern - Electronic Design Automation",
    "location": "Santa Clara, CA",
    "season": "Summer 2027",
@@ -32571,18 +32571,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Skydio",
-   "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
-   "location": "San Mateo, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
