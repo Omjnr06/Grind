@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T23:00:25Z",
+ "generated_at": "2026-11-23T23:15:16Z",
  "counts": {
   "target": 589,
-  "relevant": 2536
+  "relevant": 2532
  },
  "roles": [
   {
@@ -8992,18 +8992,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Anthropic",
-   "title": "Research Resident",
-   "location": "London, UK / SF",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
-   "first_seen": "2026-11-07T14:43:47Z"
   },
   {
    "tier": "B",
@@ -21309,18 +21297,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Intercontinental Exchange",
-   "title": "Trading System Development Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-10-31T07:44:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intercontinental Exchange",
    "title": "Regulatory Products Intern",
    "location": "NYC",
    "season": "Summer 2027",
@@ -32661,18 +32637,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Snowflake",
-   "title": "Software Engineer Intern - AI / ML",
-   "location": "Menlo Park, CA / Bellevue, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true",
-   "first_seen": "2026-11-20T00:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Snowflake",
    "title": "Software Engineer Intern - Core - Infrastructure & Security",
    "location": "Menlo Park, CA / Bellevue, WA",
    "season": "Summer 2027",
@@ -32704,18 +32668,6 @@
    "source": "simplify",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
    "first_seen": "2026-10-21T01:36:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Soros Fund Management",
-   "title": "Quantitative Strategist Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
-   "first_seen": "2026-11-17T16:15:21Z"
   },
   {
    "tier": "B",
