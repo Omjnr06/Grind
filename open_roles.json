@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T19:00:24Z",
+ "generated_at": "2026-11-23T19:15:17Z",
  "counts": {
   "target": 589,
-  "relevant": 2534
+  "relevant": 2533
  },
  "roles": [
   {
@@ -13583,10 +13583,10 @@
    "company": "Ciena",
    "title": "Services Business Intelligence & Analytics Intern",
    "location": "Montreal, QC, Canada / Ottawa, ON, Canada",
-   "season": "Winter 2027",
+   "season": "Winter",
    "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/cx",
    "first_seen": "2026-10-20T23:14:58Z"
   },
   {
@@ -17248,18 +17248,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Faculte",
-   "title": "Data Science Fellow",
-   "location": "London, UK",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/faculty-fellowship/bedcedbc-334a-4e61-a864-cc3fc1ab544d/application?embed=true",
-   "first_seen": "2026-11-18T11:15:24Z"
   },
   {
    "tier": "B",
