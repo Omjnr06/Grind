@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T17:00:26Z",
+ "generated_at": "2026-11-23T17:15:18Z",
  "counts": {
   "target": 589,
-  "relevant": 2539
+  "relevant": 2537
  },
  "roles": [
   {
@@ -27657,18 +27657,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Palantir",
-   "title": "Forward Deployed Software Engineer Intern - Commercial",
-   "location": "Chicago, IL",
-   "season": "Winter 2027, Spring 2027, Summer 2027, Fall 2027, Winter 2028, Spring 2028",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Palantir",
    "title": "Software Engineer, Internship - Connectivity Platform and Product",
    "location": "New York City, NY",
    "season": "Not stated",
@@ -36196,18 +36184,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true",
    "first_seen": "2026-10-23T18:32:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Verisk",
-   "title": "Software Engineer Intern",
-   "location": "Manchester, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
