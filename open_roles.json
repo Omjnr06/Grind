@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T22:00:22Z",
+ "generated_at": "2026-11-23T22:15:16Z",
  "counts": {
   "target": 589,
-  "relevant": 2538
+  "relevant": 2537
  },
  "roles": [
   {
@@ -21364,18 +21364,6 @@
    "source": "speedyapply",
    "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313919-manufacturing-software-engineering-intern?oga=true",
    "first_seen": "2026-10-29T21:04:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intuitive Surgical",
-   "title": "Robotics Engineer Intern",
-   "location": "Sunnyvale, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
-   "first_seen": "2026-10-28T23:30:45Z"
   },
   {
    "tier": "B",
