@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T10:00:24Z",
+ "generated_at": "2026-11-23T10:15:24Z",
  "counts": {
-  "target": 592,
-  "relevant": 2536
+  "target": 591,
+  "relevant": 2538
  },
  "roles": [
   {
@@ -2188,18 +2188,6 @@
    "source": "sndsh404",
    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
    "first_seen": "2026-07-21T14:55:28Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Google",
-   "title": "Forward Deployed Engineer Intern",
-   "location": "NYC / Sunnyvale, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958",
-   "first_seen": "2026-10-17T18:26:47Z"
   },
   {
    "tier": "A",
@@ -26961,6 +26949,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "Research Intern",
+   "location": "Santa Clara, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "Research Intern - Electronic Design Automation",
    "location": "Santa Clara, CA",
    "season": "Summer 2027",
@@ -32571,6 +32571,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?embed=true",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Skydio",
+   "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+   "location": "San Mateo, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
