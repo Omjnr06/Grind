@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T16:30:25Z",
+ "generated_at": "2026-11-23T16:45:23Z",
  "counts": {
   "target": 589,
-  "relevant": 2540
+  "relevant": 2538
  },
  "roles": [
   {
@@ -27813,18 +27813,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Palantir",
-   "title": "Forward Deployed Software Engineer Intern - Commercial",
-   "location": "NYC",
-   "season": "Winter 2027, Spring 2028, Summer 2028",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Palantir",
    "title": "Privacy and Civil Liberties Software Engineer Intern",
    "location": "NYC",
    "season": "Winter 2027, Spring 2027, Summer 2027, Fall 2027",
@@ -29152,18 +29140,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Qualcomm",
-   "title": "GPU Compiler Intern",
-   "location": "Cambridge, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
-   "first_seen": "2026-11-16T16:15:18Z"
   },
   {
    "tier": "B",
