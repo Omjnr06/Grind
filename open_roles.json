@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T15:30:21Z",
+ "generated_at": "2026-11-23T15:45:17Z",
  "counts": {
   "target": 589,
-  "relevant": 2536
+  "relevant": 2538
  },
  "roles": [
   {
@@ -11564,6 +11564,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Benchling",
+   "title": "Software Engineer Intern",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true",
+   "first_seen": "2026-11-23T15:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Bertelsmann",
    "title": "Data Science Intern",
    "location": "New York, New York (NY), United States",
@@ -18993,18 +19005,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://higher.gs.com/roles/175423?type=students",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Goldman Sachs",
    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
    "location": "London, UK",
    "season": "Summer 2027",
@@ -22072,6 +22072,18 @@
    "source": "simplify",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808799",
    "first_seen": "2026-11-17T11:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "JP Morgan Chase",
+   "title": "Machine Learning Intern - Time Series and Reinforcement Learning",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
+   "first_seen": "2026-11-23T15:45:17Z"
   },
   {
    "tier": "B",
@@ -33651,6 +33663,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/19b",
+   "first_seen": "2026-11-02T18:36:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tecsys",
+   "title": "Developer Intern",
+   "location": "Montreal, QC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/tecsys/j/D61D5FB9AB/apply",
    "first_seen": "2026-11-02T18:36:52Z"
   },
   {
