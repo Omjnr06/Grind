@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T14:00:30Z",
+ "generated_at": "2026-11-23T14:15:21Z",
  "counts": {
   "target": 589,
-  "relevant": 2538
+  "relevant": 2536
  },
  "roles": [
   {
@@ -12225,18 +12225,6 @@
    "tier": "B",
    "track": "swe",
    "company": "BP",
-   "title": "Data Strategist Intern - Global Data Strategists Team",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---New-York---New-York/Data-Strategist-Programme_RQ115837",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "BP",
    "title": "Subsurface Technology Geologist Intern - Subsurface Technology - Geology",
    "location": "Sunbury-on-Thames, UK",
    "season": "Spring 2027",
@@ -14824,18 +14812,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1z6",
    "first_seen": "2026-11-13T20:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CrowdStrike",
-   "title": "Intelligence Launch Intern",
-   "location": "London, UK / Reading, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500",
-   "first_seen": "2026-11-12T23:45:16Z"
   },
   {
    "tier": "B",
