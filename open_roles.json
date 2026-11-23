@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T03:30:20Z",
+ "generated_at": "2026-11-23T03:45:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2539
+  "relevant": 2540
  },
  "roles": [
   {
@@ -10072,6 +10072,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
    "first_seen": "2026-11-23T03:15:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Artefact",
+   "title": "AI Engineer Intern",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002",
+   "first_seen": "2026-11-23T03:45:17Z"
   },
   {
    "tier": "B",
