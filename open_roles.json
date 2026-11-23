@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T03:00:22Z",
+ "generated_at": "2026-11-23T03:15:20Z",
  "counts": {
-  "target": 590,
-  "relevant": 2535
+  "target": 591,
+  "relevant": 2539
  },
  "roles": [
   {
@@ -6645,6 +6645,18 @@
    "tier": "A",
    "track": "swe",
    "company": "TikTok",
+   "title": "Client Security & Data Foundation Software Engineer Intern - BRIC",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lifeattiktok.com/search/7705023349533346101",
+   "first_seen": "2026-11-23T03:15:20Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "TikTok",
    "title": "Site Reliability Engineer Intern - Global SRE - 2027 Summer",
    "location": "San Jose, CA",
    "season": "",
@@ -10024,6 +10036,42 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000160961018",
    "first_seen": "2026-11-10T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Artefact",
+   "title": "AI Strategy Intern",
+   "location": "135 W 26th Street, New York, NY 10001",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002",
+   "first_seen": "2026-11-23T03:15:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Artefact",
+   "title": "AI Engineering Intern",
+   "location": "135 W 26th Street, New York, NY 10001",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
+   "first_seen": "2026-11-23T03:15:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Artefact",
+   "title": "AI Adoption Intern",
+   "location": "135 W 26th Street, New York, NY 10001",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
+   "first_seen": "2026-11-23T03:15:20Z"
   },
   {
    "tier": "B",
@@ -23680,6 +23728,18 @@
    "source": "simplify",
    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729",
    "first_seen": "2026-11-22T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Lumentum",
+   "title": "Data Science & Analytics Intern",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+   "first_seen": "2026-11-23T03:15:20Z"
   },
   {
    "tier": "B",
