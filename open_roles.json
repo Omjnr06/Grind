@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T22:15:16Z",
+ "generated_at": "2026-11-23T22:30:20Z",
  "counts": {
   "target": 589,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -35380,18 +35380,6 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply",
    "first_seen": "2026-11-18T00:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Toyota Research Institute",
-   "title": "Robotics Intern, Human-Machine Interaction Research",
-   "location": "Foster City, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Zx",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
