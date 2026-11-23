@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T17:45:16Z",
+ "generated_at": "2026-11-23T18:00:32Z",
  "counts": {
   "target": 589,
-  "relevant": 2536
+  "relevant": 2535
  },
  "roles": [
   {
@@ -16768,18 +16768,6 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply",
    "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Ericsson",
-   "title": "Technology and AI Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1gz",
-   "first_seen": "2026-11-04T15:45:13Z"
   },
   {
    "tier": "B",
