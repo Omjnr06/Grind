@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T21:15:20Z",
+ "generated_at": "2026-11-23T21:30:20Z",
  "counts": {
   "target": 589,
-  "relevant": 2542
+  "relevant": 2541
  },
  "roles": [
   {
@@ -16268,18 +16268,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "E2 Consulting Engineers",
-   "title": "Data Analyst Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1yp",
-   "first_seen": "2026-11-13T01:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Eclipse Automation",
    "title": "Software Design Co-op - Nuclear",
    "location": "Cambridge, Canada",
@@ -22624,6 +22612,18 @@
    "source": "speedyapply",
    "url": "https://careers-keysight.icims.com/jobs/54805/job",
    "first_seen": "2026-11-11T19:45:20Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Keysight Technologies",
+   "title": "R&D DSP/FPGA Design Automation Intern",
+   "location": "Schaumburg, IL / Chicago, IL",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1hn",
+   "first_seen": "2026-11-05T08:43:29Z"
   },
   {
    "tier": "B",
@@ -31756,18 +31756,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
    "first_seen": "2026-09-10T19:54:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Schonfeld",
-   "title": "DMFI Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Xw",
-   "first_seen": "2026-10-28T14:12:27Z"
   },
   {
    "tier": "B",
