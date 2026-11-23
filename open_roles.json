@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T06:00:23Z",
+ "generated_at": "2026-11-23T06:15:18Z",
  "counts": {
   "target": 591,
-  "relevant": 2540
+  "relevant": 2538
  },
  "roles": [
   {
@@ -35996,18 +35996,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "University of Ottawa",
-   "title": "Research Assistant Intern - Data Analysis",
-   "location": "Ottawa, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185",
-   "first_seen": "2026-11-06T17:01:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "University of Texas at Austin",
    "title": "Graduate Assistant - Data - Dell Medical School",
    "location": "Austin, TX",
@@ -37024,18 +37012,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4430700009",
    "first_seen": "2026-11-11T23:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Workstream",
-   "title": "Full Stack Engineer Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
-   "first_seen": "2026-11-19T02:45:16Z"
   },
   {
    "tier": "B",
