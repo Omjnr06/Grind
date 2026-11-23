@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T05:30:19Z",
+ "generated_at": "2026-11-23T05:45:17Z",
  "counts": {
   "target": 591,
-  "relevant": 2541
+  "relevant": 2540
  },
  "roles": [
   {
@@ -37576,18 +37576,6 @@
    "source": "simplify",
    "url": "https://jobs.zs.com/jobs/63370?icims=1",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zurich Insurance",
-   "title": "Data Analytics & AI Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
-   "first_seen": "2026-11-17T00:15:19Z"
   }
  ]
 }
