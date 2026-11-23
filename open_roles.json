@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T19:45:17Z",
+ "generated_at": "2026-11-23T20:00:23Z",
  "counts": {
   "target": 589,
-  "relevant": 2534
+  "relevant": 2540
  },
  "roles": [
   {
@@ -10099,6 +10099,18 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "ASML",
+   "title": "Machine Learning and Image-Based EUV System Setup Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1h9",
+   "first_seen": "2026-11-05T01:46:59Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "ASML",
    "title": "Imaging Product Engineer Intern",
@@ -18944,6 +18956,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "GM Financial",
+   "title": "Cloud Engineer Intern",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1hc",
+   "first_seen": "2026-11-05T01:46:59Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Golden Analytics",
    "title": "Software Engineer Intern",
    "location": "Toronto, Canada",
@@ -20884,6 +20908,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/12W",
    "first_seen": "2026-11-01T06:30:48Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "IDEMIA",
+   "title": "Information Technology Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1hf",
+   "first_seen": "2026-11-05T01:46:59Z"
   },
   {
    "tier": "B",
@@ -33068,6 +33104,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Strava",
+   "title": "Software Engineering Intern, AI/ML Data Products",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1Hd",
+   "first_seen": "2026-11-23T20:00:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Strava",
+   "title": "Software Engineering Intern, Android, Subscriptions",
+   "location": "San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1He",
+   "first_seen": "2026-11-23T20:00:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Stripe",
    "title": "Software Engineer, Intern (Summer or Winter)",
    "location": "New York, Seattle, South San Francisco HQ",
@@ -33640,6 +33700,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/19b",
    "first_seen": "2026-11-02T18:36:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Teledyne Technologies Incorporated",
+   "title": "Software Engineering Co-op",
+   "location": "San Francisco, CA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ha",
+   "first_seen": "2026-11-05T01:46:59Z"
   },
   {
    "tier": "B",
