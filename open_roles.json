@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T21:30:20Z",
+ "generated_at": "2026-11-23T21:45:16Z",
  "counts": {
   "target": 589,
-  "relevant": 2541
+  "relevant": 2538
  },
  "roles": [
   {
@@ -8079,18 +8079,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Business Enablement Intern",
-   "location": "Long Island City, Queens, NY",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Business-Enablement-NY-11101/1449513600/?ats=successfactors",
    "first_seen": "2026-11-10T23:45:16Z"
   },
   {
@@ -31760,18 +31748,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Schonfeld",
-   "title": "DMFI Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8324611",
-   "first_seen": "2026-10-28T19:32:41Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "SCM",
    "title": "Quantitative Research Analyst Intern",
    "location": "San Jose, CA",
@@ -32715,18 +32691,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true",
-   "first_seen": "2026-11-20T00:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Snowflake",
-   "title": "Software Engineer Intern - Database Engineering",
-   "location": "Menlo Park, CA / Bellevue, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true",
    "first_seen": "2026-11-20T00:15:18Z"
   },
   {
