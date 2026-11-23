@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T16:00:23Z",
+ "generated_at": "2026-11-23T16:15:17Z",
  "counts": {
   "target": 589,
-  "relevant": 2538
+  "relevant": 2539
  },
  "roles": [
   {
@@ -28636,6 +28636,18 @@
    "source": "simplify",
    "url": "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply",
    "first_seen": "2026-11-20T00:15:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Playfly Sports",
+   "title": "Research & Insights Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.playfly.com/careers?gh_jid=4486378009",
+   "first_seen": "2026-11-23T16:15:17Z"
   },
   {
    "tier": "B",
