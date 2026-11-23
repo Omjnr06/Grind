@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T17:30:20Z",
+ "generated_at": "2026-11-23T17:45:16Z",
  "counts": {
   "target": 589,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -27184,18 +27184,6 @@
    "source": "earlycareers_eu",
    "url": "https://www.linkedin.com/jobs/view/4466307687",
    "first_seen": "2026-10-19T13:03:50Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "OCC",
-   "title": "Model Risk Management Intern",
-   "location": "Chicago, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Model-Risk-Management_REQ-4861",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
