@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T18:30:20Z",
+ "generated_at": "2026-11-23T18:45:16Z",
  "counts": {
   "target": 589,
-  "relevant": 2535
+  "relevant": 2534
  },
  "roles": [
   {
@@ -33639,18 +33639,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/19b",
-   "first_seen": "2026-11-02T18:36:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tecsys",
-   "title": "Developer Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/tecsys/j/D61D5FB9AB/apply",
    "first_seen": "2026-11-02T18:36:52Z"
   },
   {
