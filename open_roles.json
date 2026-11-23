@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T01:15:18Z",
+ "generated_at": "2026-11-23T01:30:19Z",
  "counts": {
   "target": 590,
-  "relevant": 2534
+  "relevant": 2532
  },
  "roles": [
   {
@@ -28575,30 +28575,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1gp",
-   "first_seen": "2026-11-04T15:45:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Plusgrade",
-   "title": "Applied AI Engineer Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1gq",
-   "first_seen": "2026-11-04T15:45:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Plusgrade",
-   "title": "Applied AI Test Engineer Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1gu",
    "first_seen": "2026-11-04T15:45:13Z"
   },
   {
