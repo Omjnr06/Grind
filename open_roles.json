@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T10:30:25Z",
+ "generated_at": "2026-11-23T10:45:17Z",
  "counts": {
   "target": 591,
   "relevant": 2538
@@ -7696,6 +7696,18 @@
    "source": "zshah101",
    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
    "first_seen": "2026-11-18T08:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "AJ Bell",
+   "title": "Digital Degree Apprentice - Software Development Pathway",
+   "location": "Manchester, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/AJBell1/744000163169494",
+   "first_seen": "2026-11-23T10:45:17Z"
   },
   {
    "tier": "B",
@@ -29848,18 +29860,6 @@
    "source": "simplify",
    "url": "https://apply.workable.com/reasonable/j/383AD7E2BA/apply",
    "first_seen": "2026-11-13T11:45:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Red Bull",
-   "title": "Shopper Insights Intern",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/RedBull/744000160572389",
-   "first_seen": "2026-11-09T10:36:56Z"
   },
   {
    "tier": "B",
