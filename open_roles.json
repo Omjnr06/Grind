@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T20:45:16Z",
+ "generated_at": "2026-11-23T21:00:22Z",
  "counts": {
   "target": 589,
-  "relevant": 2540
+  "relevant": 2542
  },
  "roles": [
   {
@@ -18584,6 +18584,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Genesys",
+   "title": "Web Software Developer Intern, WFM",
+   "location": "East Syracuse, NY",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1hJ",
+   "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Geneva Trading",
    "title": "C++ Developer - Intern",
    "location": "Chicago, IL",
@@ -28636,6 +28648,18 @@
    "source": "simplify",
    "url": "https://www.playfly.com/careers?gh_jid=4486378009",
    "first_seen": "2026-11-23T16:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "PlayStation Waterloo Co-Op",
+   "title": "Software Developer Co-op",
+   "location": "East Syracuse, NY",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1hk",
+   "first_seen": "2026-11-05T08:43:29Z"
   },
   {
    "tier": "B",
