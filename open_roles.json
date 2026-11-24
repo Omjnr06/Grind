@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:30:22Z",
+ "generated_at": "2026-11-24T21:45:18Z",
  "counts": {
   "target": 590,
   "relevant": 2544
@@ -30309,6 +30309,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rippling",
    "title": "Machine Learning Software Engineer Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
@@ -30339,18 +30351,6 @@
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "Seattle, WA / SF / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
