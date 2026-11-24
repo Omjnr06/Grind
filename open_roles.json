@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T03:30:25Z",
+ "generated_at": "2026-11-24T03:45:17Z",
  "counts": {
   "target": 589,
-  "relevant": 2550
+  "relevant": 2547
  },
  "roles": [
   {
@@ -12621,18 +12621,6 @@
    "tier": "B",
    "track": "swe",
    "company": "CACI",
-   "title": "Software Engineer Intern - Summer 2027",
-   "location": "Remote in USA / Sterling, VA / Denver, CO",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CACI",
    "title": "Software Engineering Co-op/Intern - Summer 2027",
    "location": "Rochester, NY, US",
    "season": "Summer 2027",
@@ -13984,18 +13972,6 @@
    "source": "simplify",
    "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964",
    "first_seen": "2026-10-20T23:14:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Citi",
-   "title": "Technology Placement Analyst Intern - Application Development",
-   "location": "Belfast, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -30172,18 +30148,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1fq",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "pm",
-   "company": "Research Innovations",
-   "title": "Department of War SkillBridge Operations SME Intern",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply",
-   "first_seen": "2026-11-17T03:15:16Z"
   },
   {
    "tier": "B",
