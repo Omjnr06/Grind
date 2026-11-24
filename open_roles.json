@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T23:45:15Z",
+ "generated_at": "2026-11-24T00:00:27Z",
  "counts": {
   "target": 591,
-  "relevant": 2536
+  "relevant": 2534
  },
  "roles": [
   {
@@ -15261,18 +15261,6 @@
    "tier": "B",
    "track": "swe",
    "company": "DataVisor",
-   "title": "Software Engineer Intern",
-   "location": "Vancouver, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1hq",
-   "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DataVisor",
    "title": "Software Engineer Internship - Winter 2027",
    "location": "Vancouver, Canada",
    "season": "",
@@ -18892,18 +18880,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ej",
    "first_seen": "2026-11-04T01:23:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "GlobalFoundries",
-   "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
-   "location": "Austin, TX / Santa Clara, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/hm",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
