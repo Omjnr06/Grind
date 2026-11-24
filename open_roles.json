@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T18:15:26Z",
+ "generated_at": "2026-11-24T18:45:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2547
+  "relevant": 2544
  },
  "roles": [
   {
@@ -16989,18 +16989,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Expedia Group",
-   "title": "Software Development Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Expedia Group",
    "title": "Mobile Engineer Intern",
    "location": "London, UK",
    "season": "Summer 2027",
@@ -25964,18 +25952,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "National Laboratory of the Rockies",
-   "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
-   "first_seen": "2026-11-12T23:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "NatWest Group",
    "title": "Engineering Intern",
    "location": "Bristol, UK",
@@ -33903,18 +33879,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/LLM-Agent-Research-Intern_R108250",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tencent",
-   "title": "Generative AI Research Intern",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
