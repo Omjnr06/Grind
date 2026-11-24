@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T19:00:23Z",
+ "generated_at": "2026-11-24T19:15:18Z",
  "counts": {
   "target": 590,
-  "relevant": 2545
+  "relevant": 2544
  },
  "roles": [
   {
@@ -32967,18 +32967,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Springs Window Fashions",
-   "title": "Software Engineering Intern - Summer 2027",
-   "location": "Long Island City, Queens, NY",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-11-05T08:43:29Z"
   },
   {
