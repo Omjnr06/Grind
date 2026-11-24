@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:15:18Z",
+ "generated_at": "2026-11-24T19:30:20Z",
  "counts": {
   "target": 590,
   "relevant": 2544
@@ -9039,18 +9039,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1g1",
-   "first_seen": "2026-11-04T07:40:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Apera AI",
-   "title": "Software Developer Co-op, Cloud Infrastructure",
-   "location": "Vancouver, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1g2",
    "first_seen": "2026-11-04T07:40:10Z"
   },
   {
@@ -36376,6 +36364,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Ls",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Veryable",
+   "title": "Platform Engineer Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ip",
+   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
