@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T14:00:25Z",
+ "generated_at": "2026-11-24T14:15:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2544
+  "relevant": 2543
  },
  "roles": [
   {
@@ -22132,18 +22132,6 @@
    "source": "simplify",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983",
    "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
-   "title": "Applied AI Intern - HR CDAO",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
-   "first_seen": "2026-11-23T23:45:15Z"
   },
   {
    "tier": "B",
