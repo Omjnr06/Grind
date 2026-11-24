@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-24T09:30:27Z",
+ "generated_at": "2026-11-24T09:45:17Z",
  "counts": {
-  "target": 589,
+  "target": 590,
   "relevant": 2544
  },
  "roles": [
@@ -40,6 +40,18 @@
    "source": "speedyapply",
    "url": "https://www.amazon.jobs/jobs/10517649/apply",
    "first_seen": "2026-11-11T19:45:20Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Business Analyst Intern",
+   "location": "Bellevue, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027",
+   "first_seen": "2026-11-24T09:45:17Z"
   },
   {
    "tier": "A",
@@ -30836,6 +30848,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "RoboForce",
+   "title": "AI Resident",
+   "location": "Milpitas, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/roboforce/jobs/5459229008",
+   "first_seen": "2026-11-24T09:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Roche",
    "title": "2027 Summer Intern - Software Applications and Pipelines - R&D Internal Solutions - Computational Science and Informatics",
    "location": "Santa Clara, CA",
@@ -37492,18 +37516,6 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
    "first_seen": "2026-11-06T02:41:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zoox",
-   "title": "Data Scientist",
-   "location": "Foster City, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
