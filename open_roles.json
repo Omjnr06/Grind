@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T23:00:23Z",
+ "generated_at": "2026-11-24T23:15:16Z",
  "counts": {
   "target": 591,
-  "relevant": 2547
+  "relevant": 2546
  },
  "roles": [
   {
@@ -16804,18 +16804,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006",
    "first_seen": "2026-09-01T22:01:05Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Eulerity",
-   "title": "Finance Data Analyst Intern",
-   "location": "NYC",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/eulerity/jobs/4726901006",
-   "first_seen": "2026-11-04T01:23:45Z"
   },
   {
    "tier": "B",
