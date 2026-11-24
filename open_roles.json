@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T18:45:17Z",
+ "generated_at": "2026-11-24T19:00:23Z",
  "counts": {
   "target": 590,
-  "relevant": 2544
+  "relevant": 2545
  },
  "roles": [
   {
@@ -24040,6 +24040,18 @@
    "source": "simplify",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Lyte AI",
+   "title": "Software Engineering Intern",
+   "location": "Dallas, TX / Washington, DC / Seattle, WA / San Diego, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1in",
+   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
