@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:15:19Z",
+ "generated_at": "2026-11-24T00:30:19Z",
  "counts": {
   "target": 590,
   "relevant": 2541
@@ -57,12 +57,12 @@
    "tier": "A",
    "track": "swe",
    "company": "Amazon",
-   "title": "Software Development Engineer Intern - Artificial General Intelligence",
+   "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
    "location": "Boston, MA / Seattle, WA / Bellevue, WA / Sunnyvale, CA",
    "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
    "first_seen": "2026-11-23T23:45:15Z"
   },
   {
@@ -9873,18 +9873,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Arcesium",
-   "title": "Infrastructure Engineer Intern",
-   "location": "New York",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007",
-   "first_seen": "2026-10-09T20:05:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Arcesium",
    "title": "AI Transformation Intern",
    "location": "New York",
    "season": "Not stated",
@@ -10022,8 +10010,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002",
-   "first_seen": "2026-11-23T03:15:20Z"
+   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958073002",
+   "first_seen": "2026-11-24T00:30:19Z"
   },
   {
    "tier": "B",
@@ -10034,8 +10022,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
-   "first_seen": "2026-11-23T03:15:20Z"
+   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002",
+   "first_seen": "2026-11-23T03:45:17Z"
   },
   {
    "tier": "B",
@@ -10046,8 +10034,8 @@
    "season": "Not stated",
    "sponsorship": "unknown",
    "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
-   "first_seen": "2026-11-23T03:15:20Z"
+   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
+   "first_seen": "2026-11-24T00:30:19Z"
   },
   {
    "tier": "B",
@@ -10058,8 +10046,8 @@
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002",
-   "first_seen": "2026-11-23T03:45:17Z"
+   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
+   "first_seen": "2026-11-23T03:15:20Z"
   },
   {
    "tier": "B",
@@ -11560,6 +11548,18 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
    "first_seen": "2026-08-07T18:28:06Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Benchling",
+   "title": "Software Engineer, Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
+   "first_seen": "2026-11-24T00:30:19Z"
   },
   {
    "tier": "B",
@@ -14697,12 +14697,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Contoro",
-   "title": "Robotics Software Engineer Intern - Autonomy - Automation",
+   "title": "Robotics Software Engineer Intern, Autonomy [Automation]",
    "location": "Austin, TX",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434/application?embed=true",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434",
    "first_seen": "2026-11-23T23:45:15Z"
   },
   {
@@ -20968,6 +20968,18 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/illumio/2bcba5c3-c6e7-407c-92b2-73027594789e",
    "first_seen": "2026-11-10T11:44:35Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Illumio",
+   "title": "AI-Based Scale & Performance Test Automation Intern",
+   "location": "Sunnyvale, California - HQ",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/illumio/78a9e57d-c213-405b-9cf3-6e68109a4ce7",
+   "first_seen": "2026-11-24T00:30:19Z"
   },
   {
    "tier": "B",
@@ -27622,24 +27634,24 @@
    "track": "swe",
    "company": "Oscar Health",
    "title": "Software Engineering Intern",
+   "location": "New York, New York, United States",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8407472",
+   "first_seen": "2026-11-24T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Oscar Health",
+   "title": "Software Engineering Intern",
    "location": "New York, NY",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1H6",
    "first_seen": "2026-11-23T19:30:21Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Oscar Health",
-   "title": "Software Engineer Intern",
-   "location": "NYC",
-   "season": "Winter 2027, Spring 2028, Summer 2028, Winter 2028",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8407472",
-   "first_seen": "2026-11-24T00:15:19Z"
   },
   {
    "tier": "B",
@@ -33748,18 +33760,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/19b",
    "first_seen": "2026-11-02T18:36:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Teledyne Technologies Incorporated",
-   "title": "Software Engineering Co-op",
-   "location": "San Francisco, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ha",
-   "first_seen": "2026-11-05T01:46:59Z"
   },
   {
    "tier": "B",
