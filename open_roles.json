@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T04:15:22Z",
+ "generated_at": "2026-11-24T04:30:28Z",
  "counts": {
   "target": 589,
-  "relevant": 2547
+  "relevant": 2546
  },
  "roles": [
   {
@@ -29332,18 +29332,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1a0",
    "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Qualcomm",
-   "title": "Machine Learning Engineering Intern",
-   "location": "Markham, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ho",
-   "first_seen": "2026-11-05T08:43:29Z"
   },
   {
    "tier": "B",
