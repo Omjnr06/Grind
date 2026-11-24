@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:00:23Z",
+ "generated_at": "2026-11-24T08:15:17Z",
  "counts": {
   "target": 589,
   "relevant": 2545
@@ -10845,18 +10845,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Barclays",
-   "title": "Technology Developer Intern",
-   "location": "Glasgow, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
-   "first_seen": "2026-11-02T18:36:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Barclays",
    "title": "Customer and Digital Data and Analytics Intern",
    "location": "Glasgow, UK",
    "season": "Summer 2027",
@@ -16804,6 +16792,18 @@
    "source": "simplify",
    "url": "https://eyglobal.yello.co/jobs/KBPFL_z8cg9IBGsgb2xYYA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Esri",
+   "title": "Software Engineer Intern",
+   "location": "Cardiff, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5246038007",
+   "first_seen": "2026-11-24T08:15:17Z"
   },
   {
    "tier": "B",
