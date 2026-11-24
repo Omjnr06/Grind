@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T15:30:21Z",
+ "generated_at": "2026-11-24T15:45:19Z",
  "counts": {
   "target": 590,
-  "relevant": 2542
+  "relevant": 2544
  },
  "roles": [
   {
@@ -17253,6 +17253,18 @@
    "tier": "B",
    "track": "pm",
    "company": "Fanatics",
+   "title": "Product Management Intern - Card Tech",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009",
+   "first_seen": "2026-11-24T15:45:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Fanatics",
    "title": "Product Management Intern",
    "location": "Seattle, WA",
    "season": "Summer 2027",
@@ -20788,6 +20800,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002",
    "first_seen": "2026-11-21T00:15:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "iCapital Network",
+   "title": "SI and Annuities Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002",
+   "first_seen": "2026-11-24T15:45:19Z"
   },
   {
    "tier": "B",
