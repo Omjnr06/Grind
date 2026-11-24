@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T22:30:27Z",
+ "generated_at": "2026-11-24T22:45:16Z",
  "counts": {
   "target": 591,
-  "relevant": 2549
+  "relevant": 2547
  },
  "roles": [
   {
@@ -13024,18 +13024,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1xc",
    "first_seen": "2026-11-12T20:00:24Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CARIAD",
-   "title": "Engineer 1 Intern - VLA Model Development",
-   "location": "Mountain View, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462798008",
-   "first_seen": "2026-11-12T07:45:18Z"
   },
   {
    "tier": "B",
@@ -37156,18 +37144,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1gm",
    "first_seen": "2026-11-04T15:45:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Workstream",
-   "title": "Full Stack Engineer Intern",
-   "location": "Vancouver, BC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
-   "first_seen": "2026-11-19T02:45:16Z"
   },
   {
    "tier": "B",
