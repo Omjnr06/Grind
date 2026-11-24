@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T15:00:26Z",
+ "generated_at": "2026-11-24T15:15:26Z",
  "counts": {
   "target": 590,
-  "relevant": 2543
+  "relevant": 2542
  },
  "roles": [
   {
@@ -22660,18 +22660,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1mb",
    "first_seen": "2026-11-07T19:03:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kinaxis",
-   "title": "AI/ML Researcher Intern",
-   "location": "Remote in Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-05T08:43:29Z"
   },
   {
    "tier": "B",
