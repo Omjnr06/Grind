@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T10:00:22Z",
+ "generated_at": "2026-11-24T10:15:24Z",
  "counts": {
   "target": 590,
-  "relevant": 2544
+  "relevant": 2543
  },
  "roles": [
   {
@@ -12831,18 +12831,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
-   "first_seen": "2026-11-14T16:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Camping World",
-   "title": "Data Analyst Intern - AI & Machine Learning Focus",
-   "location": "Chicago, IL / Lincolnshire, IL",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
    "first_seen": "2026-11-14T16:15:17Z"
   },
   {
