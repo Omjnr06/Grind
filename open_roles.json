@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T03:00:23Z",
+ "generated_at": "2026-11-24T03:15:17Z",
  "counts": {
-  "target": 588,
-  "relevant": 2544
+  "target": 589,
+  "relevant": 2550
  },
  "roles": [
   {
@@ -3796,6 +3796,18 @@
    "source": "speedyapply",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
    "first_seen": "2026-09-12T17:06:07Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Researcher Intern - Coreai",
+   "location": "Redmond, WA / Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "A",
@@ -20911,6 +20923,66 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Illumio",
+   "title": "Product Manager Intern",
+   "location": "Sunnyvale, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true",
+   "first_seen": "2026-11-24T03:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Illumio",
+   "title": "Product Management Intern - Solution Economics",
+   "location": "Sunnyvale, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true",
+   "first_seen": "2026-11-24T03:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Illumio",
+   "title": "Security Platforms Engineer Intern - Security Platforms",
+   "location": "Sunnyvale, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true",
+   "first_seen": "2026-11-24T03:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Illumio",
+   "title": "Technical Product Management Intern",
+   "location": "Sunnyvale, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true",
+   "first_seen": "2026-11-24T03:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Illumio",
+   "title": "Engineering Intern - Architecture Platform",
+   "location": "Sunnyvale, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true",
+   "first_seen": "2026-11-24T03:15:17Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Illumio",
    "title": "Engineering Intern, SRE",
@@ -37048,6 +37120,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1gm",
    "first_seen": "2026-11-04T15:45:13Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Workstream",
+   "title": "Full Stack Engineer Intern",
+   "location": "Vancouver, BC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+   "first_seen": "2026-11-19T02:45:16Z"
   },
   {
    "tier": "B",
