@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T11:00:24Z",
+ "generated_at": "2026-11-24T11:15:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2543
+  "relevant": 2545
  },
  "roles": [
   {
@@ -16388,6 +16388,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Energy Solutions",
+   "title": "Clean Transportation Intern",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229251007",
+   "first_seen": "2026-11-24T11:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Energy Solutions",
+   "title": "Solar Intern",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229243007",
+   "first_seen": "2026-11-24T11:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "ENFOS",
    "title": "Software Engineer Intern (Summer 2027)",
    "location": "Durham, North Carolina, United States; Chicago, Illinois, United States",
@@ -17638,7 +17662,7 @@
    "track": "swe",
    "company": "Forterra",
    "title": "2027 Intern - Software",
-   "location": "East Palo Alto, CA",
+   "location": "Winter Park, FL / Durham, NC / East Palo Alto, CA / Clarksburg, MD / Arlington County, Arlington, VA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
