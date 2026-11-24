@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T13:00:26Z",
+ "generated_at": "2026-11-24T13:15:17Z",
  "counts": {
   "target": 590,
-  "relevant": 2545
+  "relevant": 2544
  },
  "roles": [
   {
@@ -31120,18 +31120,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Md",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Royal Bank of Canada",
-   "title": "Data Analyst Intern - Wealth Management",
-   "location": "Toronto, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
-   "first_seen": "2026-11-22T08:15:17Z"
   },
   {
    "tier": "B",
