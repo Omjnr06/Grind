@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T23:15:16Z",
+ "generated_at": "2026-11-24T23:45:22Z",
  "counts": {
-  "target": 591,
-  "relevant": 2546
+  "target": 592,
+  "relevant": 2547
  },
  "roles": [
   {
@@ -592,6 +592,18 @@
    "source": "sndsh404",
    "url": "https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "Front-End Engineer Intern",
+   "location": "Seattle, WA / Chicago, IL / Bellevue, WA",
+   "season": "Winter 2027, Summer 2027, Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+   "first_seen": "2026-11-24T23:45:22Z"
   },
   {
    "tier": "A",
@@ -8961,12 +8973,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Anduril",
-   "title": "Software Engineer Intern",
+   "title": "2027 Software Engineer Intern",
    "location": "London, United Kingdom",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
    "first_seen": "2026-10-09T20:05:16Z"
   },
   {
@@ -10624,18 +10636,6 @@
    "source": "earlycareers_eu",
    "url": "https://www.linkedin.com/jobs/view/4471994808",
    "first_seen": "2026-10-19T13:03:50Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Aurora Innovation",
-   "title": "Software Engineer Intern, Vehicle Platforms",
-   "location": "Mountain View, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1yu",
-   "first_seen": "2026-11-13T06:15:17Z"
   },
   {
    "tier": "B",
@@ -16808,6 +16808,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Eulerity",
+   "title": "Finance Data Analyst Intern - Finance",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/eulerity/jobs/4731948006",
+   "first_seen": "2026-11-24T23:45:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "EUNA Solutions",
    "title": "Associate AI-Enablement Developer Co-op",
    "location": "Oakville, ON, Canada",
@@ -22580,6 +22592,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Kimball Electronics",
+   "title": "Cybersecurity Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Does Not Offer Sponsorship",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1iy",
+   "first_seen": "2026-11-05T16:51:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Kinaxis",
    "title": "Developer Intern - AI Solutions",
    "location": "Ottawa, ON, Canada",
@@ -22900,6 +22924,18 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5",
    "first_seen": "2026-08-28T23:00:57Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "KPMG",
+   "title": "Junior Risk Analyst Intern",
+   "location": "Toronto, ON, Canada / Victoria, BC, Canada / Saskatoon, SK, Canada / Calgary, AB, Canada / Vaughan, ON, Canada / Hamilton, ON, Canada / Edmonton, AB, Canada / St. John's, NL, Canada / Regina, SK, Canada / London, ON, Canada / Ottawa, ON, Canada / Vancouver, BC, Canada / Prince George, BC, Canada / Fredericton, NB, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us",
+   "first_seen": "2026-11-24T23:45:22Z"
   },
   {
    "tier": "B",
@@ -24664,6 +24700,18 @@
    "source": "simplify",
    "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Operational-Analysis---Undergraduate-Placement-2027_R37823",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "McDonald's",
+   "title": "Global Tech Infrastructure & Operations Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
+   "first_seen": "2026-11-11T23:45:17Z"
   },
   {
    "tier": "B",
@@ -30176,18 +30224,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Revel",
-   "title": "Forward Deployed Engineer Intern - Software",
-   "location": "SF / LA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Rhoda AI",
    "title": "Software Engineer Intern, Inference",
    "location": "Mountain View, CA",
@@ -31228,6 +31264,18 @@
    "source": "simplify",
    "url": "https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967",
    "first_seen": "2026-11-11T23:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Rubrik",
+   "title": "Product Management Intern - Managed Service Provider",
+   "location": "Palo Alto, CA",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766",
+   "first_seen": "2026-11-24T23:45:22Z"
   },
   {
    "tier": "B",
@@ -34664,18 +34712,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "The Semios Group",
-   "title": "Software Developer Co-op",
-   "location": "Vancouver, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/semios/j/4B5D1FB613/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "The Trade Desk",
    "title": "2027 North America Software Engineering Internship",
    "location": "Bellevue; Boulder; Denver; Irvine; New York; Seattle",
@@ -37264,18 +37300,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
    "first_seen": "2026-08-18T10:17:28Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Xradar",
-   "title": "Software Engineer Co-op",
-   "location": "Burnaby, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://xradar.bamboohr.com/careers/203/",
-   "first_seen": "2026-11-17T07:45:18Z"
   },
   {
    "tier": "B",
