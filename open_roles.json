@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T00:00:27Z",
+ "generated_at": "2026-11-24T00:15:19Z",
  "counts": {
-  "target": 591,
-  "relevant": 2534
+  "target": 590,
+  "relevant": 2541
  },
  "roles": [
   {
@@ -2019,18 +2019,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.bytedance.com/en/position/7672392998231050549/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
-   "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-   "location": "Seattle, WA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -17036,6 +17024,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Exowatt",
+   "title": "Software & AI Intern",
+   "location": "Austin, TX",
+   "season": "Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply",
+   "first_seen": "2026-11-24T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Expedia Group",
    "title": "Applied Science Intern",
    "location": "London, UK",
@@ -18880,6 +18880,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ej",
    "first_seen": "2026-11-04T01:23:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Global Relay",
+   "title": "Co-op Software Development Engineer in Test - SDET - Winter 2027",
+   "location": "Vancouver, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6241595004",
+   "first_seen": "2026-07-17T02:04:04Z"
   },
   {
    "tier": "B",
@@ -27620,6 +27632,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Oscar Health",
+   "title": "Software Engineer Intern",
+   "location": "NYC",
+   "season": "Winter 2027, Spring 2028, Summer 2028, Winter 2028",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8407472",
+   "first_seen": "2026-11-24T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Overland AI",
    "title": "Software Engineering Intern",
    "location": "Mississauga, Canada",
@@ -31220,6 +31244,42 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Runna",
+   "title": "Full Stack Engineer Intern - Core App",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/runna/3639d900-9433-4e57-b9f8-ad74340c4bad/application?embed=true",
+   "first_seen": "2026-11-24T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Runna",
+   "title": "Full Stack Engineer Intern - Growth",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1/application?embed=true",
+   "first_seen": "2026-11-24T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Runna",
+   "title": "AI Engineer Intern",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/runna/59bd8bad-51db-4ac3-b557-ff65b6dbb56f/application?embed=true",
+   "first_seen": "2026-11-24T00:15:19Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Ryan",
    "title": "Software Engineer Intern",
    "location": "North York, ON, Canada",
@@ -31576,6 +31636,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927812002",
    "first_seen": "2026-11-05T08:43:29Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung Research America",
+   "title": "Computer Vision Intern",
+   "location": "Mountain View, CA",
+   "season": "Spring 2027, Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002",
+   "first_seen": "2026-11-24T00:15:19Z"
   },
   {
    "tier": "B",
