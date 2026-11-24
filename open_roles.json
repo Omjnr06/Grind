@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-24T01:30:22Z",
+ "generated_at": "2026-11-24T01:45:16Z",
  "counts": {
-  "target": 589,
+  "target": 588,
   "relevant": 2545
  },
  "roles": [
@@ -4539,18 +4539,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/281623",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Core AI Compiler & Runtime",
-   "location": "Palo Alto, CA",
-   "season": "Spring 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.tesla.com/careers/search/job/281951",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
