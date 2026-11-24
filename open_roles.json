@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T16:00:27Z",
+ "generated_at": "2026-11-24T16:15:21Z",
  "counts": {
   "target": 590,
-  "relevant": 2544
+  "relevant": 2545
  },
  "roles": [
   {
@@ -29236,6 +29236,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
+   "title": "GPU Compiler Intern",
+   "location": "Cambridge, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
+   "first_seen": "2026-11-16T16:15:18Z"
   },
   {
    "tier": "B",
