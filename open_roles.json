@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T00:30:19Z",
+ "generated_at": "2026-11-24T00:45:14Z",
  "counts": {
-  "target": 590,
-  "relevant": 2541
+  "target": 589,
+  "relevant": 2545
  },
  "roles": [
   {
@@ -1671,18 +1671,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
-   "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-   "location": "San Jose, CA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -8032,18 +8020,6 @@
    "source": "simplify",
    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
    "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Software Development Intern",
-   "location": "Bethpage, NY",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1so",
-   "first_seen": "2026-11-10T23:45:16Z"
   },
   {
    "tier": "B",
@@ -33184,6 +33160,66 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1He",
    "first_seen": "2026-11-23T20:00:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Strava",
+   "title": "Software Engineer Intern - Android - Subscriptions",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true",
+   "first_seen": "2026-11-24T00:45:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Strava",
+   "title": "Software Engineer Intern - Server - Comms",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application?embed=true",
+   "first_seen": "2026-11-24T00:45:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Strava",
+   "title": "Software Engineer Intern - Server - User Lifecycle",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true",
+   "first_seen": "2026-11-24T00:45:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Strava",
+   "title": "Machine Learning Engineer Intern - AI/ML Data Products",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true",
+   "first_seen": "2026-11-24T00:45:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Strava",
+   "title": "Software Engineer Intern - Server - Next Sports",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true",
+   "first_seen": "2026-11-24T00:45:14Z"
   },
   {
    "tier": "B",
