@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T16:15:21Z",
+ "generated_at": "2026-11-24T16:30:22Z",
  "counts": {
   "target": 590,
-  "relevant": 2545
+  "relevant": 2547
  },
  "roles": [
   {
@@ -29048,6 +29048,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Prospect Equities",
+   "title": "Backend / Frontend Developer Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ia",
+   "first_seen": "2026-11-05T16:51:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "PSP Investments",
    "title": "GenAI and Digital Workplace Intern",
    "location": "Montreal, QC, Canada",
@@ -30952,6 +30964,18 @@
    "source": "simplify",
    "url": "https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027",
    "first_seen": "2026-11-03T01:14:25Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rodan Energy Solutions Inc.",
+   "title": "Data Operations Engineer AI Co-op",
+   "location": "Mississauga, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1ib",
+   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
