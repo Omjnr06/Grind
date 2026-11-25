@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T10:15:16Z",
+ "generated_at": "2026-11-25T10:30:21Z",
  "counts": {
   "target": 593,
-  "relevant": 2542
+  "relevant": 2541
  },
  "roles": [
   {
@@ -24303,18 +24303,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Marvell",
-   "title": "Design for Test Intern",
-   "location": "Morrisville, NC / Santa Clara, CA / Boise, ID / Westborough, MA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Ma",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
