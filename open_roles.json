@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T18:45:16Z",
+ "generated_at": "2026-11-25T19:00:22Z",
  "counts": {
   "target": 592,
-  "relevant": 2542
+  "relevant": 2544
  },
  "roles": [
   {
@@ -33944,6 +33944,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Tenet Healthcare",
+   "title": "Data Engineer Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1jn",
+   "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Tenstorrent",
    "title": "AI Software Intern (USA)",
    "location": "Austin, Texas, United States; Santa Clara, California, United States",
@@ -36856,6 +36868,18 @@
    "source": "simplify",
    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167581004",
    "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Western Alliance Bancorporation",
+   "title": "Platform Engineering Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1jm",
+   "first_seen": "2026-11-05T22:27:01Z"
   },
   {
    "tier": "B",
