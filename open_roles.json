@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T04:15:17Z",
+ "generated_at": "2026-11-25T04:30:21Z",
  "counts": {
   "target": 593,
-  "relevant": 2546
+  "relevant": 2545
  },
  "roles": [
   {
@@ -30999,18 +30999,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Xo",
-   "first_seen": "2026-10-28T14:12:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "RosaicLabs",
-   "title": "AI Accelerator Design Verification Engineer Intern",
-   "location": "Austin, TX / Santa Clara, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Xp",
    "first_seen": "2026-10-28T14:12:27Z"
   },
   {
