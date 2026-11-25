@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T00:00:23Z",
+ "generated_at": "2026-11-25T00:15:20Z",
  "counts": {
-  "target": 592,
-  "relevant": 2547
+  "target": 593,
+  "relevant": 2549
  },
  "roles": [
   {
@@ -3148,6 +3148,18 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/2357948038329505",
    "first_seen": "2026-11-23T23:45:15Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.metacareers.com/jobs/1482835147112669",
+   "first_seen": "2026-11-25T00:15:20Z"
   },
   {
    "tier": "A",
@@ -13972,6 +13984,18 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733",
    "first_seen": "2026-11-17T23:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "City of Campbell River",
+   "title": "OMS Project Co-op - Capital Projects",
+   "location": "Campbell River, BC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848",
+   "first_seen": "2026-11-25T00:15:20Z"
   },
   {
    "tier": "B",
@@ -37635,6 +37659,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply",
+   "first_seen": "2026-11-07T07:59:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "AI Workflows & Safety Decision Making Intern",
+   "location": "Foster City, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply",
    "first_seen": "2026-11-07T07:59:16Z"
   },
   {
