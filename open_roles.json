@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T18:00:23Z",
+ "generated_at": "2026-11-25T18:15:16Z",
  "counts": {
-  "target": 593,
+  "target": 592,
   "relevant": 2542
  },
  "roles": [
@@ -796,18 +796,6 @@
    "source": "simplify",
    "url": "https://amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk",
    "first_seen": "2026-10-26T22:57:43Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
-   "title": "Applied Scientist Intern - Pxt Legends",
-   "location": "United Kingdom",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amazon.jobs/en/jobs/10590070/applied-scientist-pxt-legends",
-   "first_seen": "2026-10-28T01:41:27Z"
   },
   {
    "tier": "A",
