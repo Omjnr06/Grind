@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:15:16Z",
+ "generated_at": "2026-11-25T07:30:21Z",
  "counts": {
   "target": 593,
   "relevant": 2542
@@ -28017,18 +28017,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Palantir Technologies",
-   "title": "Software Engineer Intern, Sovereign AI Systems",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1j0",
-   "first_seen": "2026-11-05T22:27:01Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Palantir Technologies",
    "title": "Software Engineer Intern, Connectivity Platform and Product",
    "location": "New York, NY",
    "season": "Summer",
@@ -28060,6 +28048,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/4o",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Palantir Technologies",
+   "title": "Software Engineer Intern, Sovereign AI Systems",
+   "location": "Santa Clara, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1j0",
+   "first_seen": "2026-11-05T22:27:01Z"
   },
   {
    "tier": "B",
