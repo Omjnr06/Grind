@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T17:30:21Z",
+ "generated_at": "2026-11-25T17:45:18Z",
  "counts": {
   "target": 593,
-  "relevant": 2544
+  "relevant": 2542
  },
  "roles": [
   {
@@ -30741,18 +30741,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Robert Bosch Venture Capital",
-   "title": "Data Analyst & Marketing/Sales Intern",
-   "location": "Denham, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161793229",
-   "first_seen": "2026-11-16T16:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Robert Bosch Venture Capital",
    "title": "Vision-Language-Action Research Intern - Vision-Language-Action",
    "location": "Sunnyvale, CA",
    "season": "",
@@ -31203,18 +31191,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1/application?embed=true",
-   "first_seen": "2026-11-24T00:15:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Runna",
-   "title": "AI Engineer Intern",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/runna/59bd8bad-51db-4ac3-b557-ff65b6dbb56f/application?embed=true",
    "first_seen": "2026-11-24T00:15:19Z"
   },
   {
