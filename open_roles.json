@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T23:00:23Z",
+ "generated_at": "2026-11-25T23:15:16Z",
  "counts": {
   "target": 592,
-  "relevant": 2544
+  "relevant": 2540
  },
  "roles": [
   {
@@ -8908,18 +8908,6 @@
    "source": "speedyapply_intl",
    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
    "first_seen": "2026-09-04T16:18:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Andreessen Horowitz",
-   "title": "Research Intern - Frontier",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://a16z.com/about/jobs/?gh_jid=8046730003",
-   "first_seen": "2026-10-31T07:44:18Z"
   },
   {
    "tier": "B",
@@ -22557,18 +22545,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Kinaxis",
-   "title": "Data Foundations Intern - Data & Analytics",
-   "location": "Ottawa, ON, Canada / Remote in Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-25T01:45:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Kinaxis",
    "title": "Developer Co-op, Machine Learning",
    "location": "Remote / United States",
    "season": "Winter",
@@ -30968,18 +30944,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Ross Video",
-   "title": "Research Assistant Co-op - AI Focus",
-   "location": "Nepean, Ottawa, ON, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false",
-   "first_seen": "2026-11-17T23:45:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Royal Bank of Canada",
    "title": "Developer Intern",
    "location": "Montreal, Canada",
@@ -36856,18 +36820,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1ta",
    "first_seen": "2026-11-11T06:00:24Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "West Monroe",
-   "title": "Data & Analytics Consulting Intern",
-   "location": "Seattle, WA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167581004",
-   "first_seen": "2026-10-13T20:44:34Z"
   },
   {
    "tier": "B",
