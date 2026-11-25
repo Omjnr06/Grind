@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T06:15:18Z",
+ "generated_at": "2026-11-25T06:30:21Z",
  "counts": {
   "target": 593,
-  "relevant": 2544
+  "relevant": 2543
  },
  "roles": [
   {
@@ -16144,18 +16144,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/12u",
    "first_seen": "2026-10-31T21:28:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "EHC",
-   "title": "Data Management Intern",
-   "location": "Birmingham, AL",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Q3",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
