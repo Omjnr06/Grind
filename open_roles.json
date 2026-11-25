@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:30:20Z",
+ "generated_at": "2026-11-25T09:45:17Z",
  "counts": {
   "target": 593,
   "relevant": 2542
@@ -9939,18 +9939,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/ariesglobal/669ab0e1-cbbf-49e4-9136-accbff724f54/application?embed=true",
-   "first_seen": "2026-11-03T01:14:25Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Aries Global",
-   "title": "Software Engineer Intern",
-   "location": "London, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/ariesglobal/f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8/application?embed=true",
    "first_seen": "2026-11-03T01:14:25Z"
   },
   {
@@ -25120,6 +25108,18 @@
    "source": "simplify",
    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oW1PAfw6?nl=1&nl=1&fr=false",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Metropolitan Transportation Authority",
+   "title": "Operations Analytics and Problem Management",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ohfNAfwD?nl=1&nl=1&fr=false",
+   "first_seen": "2026-11-25T09:45:17Z"
   },
   {
    "tier": "B",
