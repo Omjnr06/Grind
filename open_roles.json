@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T06:00:23Z",
+ "generated_at": "2026-11-25T06:15:18Z",
  "counts": {
   "target": 593,
-  "relevant": 2545
+  "relevant": 2544
  },
  "roles": [
   {
@@ -25516,18 +25516,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/13e",
    "first_seen": "2026-11-01T06:30:48Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Moment Energy",
-   "title": "Data Scientist Co-op",
-   "location": "Surrey, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4421775009",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
