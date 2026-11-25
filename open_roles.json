@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T20:45:17Z",
+ "generated_at": "2026-11-25T21:00:24Z",
  "counts": {
   "target": 592,
-  "relevant": 2546
+  "relevant": 2545
  },
  "roles": [
   {
@@ -13372,18 +13372,6 @@
    "source": "zshah101",
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
    "first_seen": "2026-09-04T21:25:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CIBC",
-   "title": "Analyst Intern, Equity Solutions Group",
-   "location": "Foster City, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/8x",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
