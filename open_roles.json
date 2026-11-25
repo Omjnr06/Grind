@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T00:30:20Z",
+ "generated_at": "2026-11-25T00:45:16Z",
  "counts": {
   "target": 593,
-  "relevant": 2549
+  "relevant": 2547
  },
  "roles": [
   {
@@ -8035,18 +8035,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "Altice USA",
-   "title": "Developer Intern - Financial & People Systems",
-   "location": "Bethpage, NY",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Developer,-Financial-&-People-Systems-NY-11714/1449511200/?ats=successfactors",
-   "first_seen": "2026-11-10T23:45:16Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "Altice USA",
    "title": "Product Management Customer Management App Intern",
@@ -12112,18 +12100,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/cr",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Botpress Technologies",
-   "title": "Software Development Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/botpress/j/16C68A50A7/apply",
-   "first_seen": "2026-11-03T21:15:13Z"
   },
   {
    "tier": "B",
@@ -23071,18 +23047,6 @@
   },
   {
    "tier": "B",
-   "track": "swe",
-   "company": "Lazard",
-   "title": "Quantitative Research Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
    "track": "pm",
    "company": "Legrand",
    "title": "Product Management Intern",
@@ -30345,6 +30309,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+   "location": "New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "first_seen": "2026-09-22T19:09:07Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
@@ -30388,18 +30364,6 @@
    "source": "sndsh404",
    "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
    "first_seen": "2026-07-17T02:04:04Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "Seattle, WA / SF / NYC",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
   },
   {
    "tier": "B",
@@ -35800,6 +35764,18 @@
    "source": "simplify",
    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
    "first_seen": "2026-11-22T00:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TransUnion",
+   "title": "Data Analyst Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654",
+   "first_seen": "2026-11-25T00:45:16Z"
   },
   {
    "tier": "B",
