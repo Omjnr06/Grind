@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T03:00:22Z",
+ "generated_at": "2026-11-25T03:15:25Z",
  "counts": {
   "target": 593,
-  "relevant": 2549
+  "relevant": 2551
  },
  "roles": [
   {
@@ -15112,6 +15112,18 @@
    "source": "simplify",
    "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176",
    "first_seen": "2026-10-28T01:41:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Davidson Kempner",
+   "title": "Quantitative Investment Research Intern",
+   "location": "London, UK",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8926928002",
+   "first_seen": "2026-11-25T03:15:25Z"
   },
   {
    "tier": "B",
@@ -31528,6 +31540,18 @@
    "source": "simplify",
    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659",
    "first_seen": "2026-11-07T01:52:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "SambaNova Systems",
+   "title": "Runtime Engineer Intern",
+   "location": "Austin, TX / San Jose, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004",
+   "first_seen": "2026-11-25T03:15:25Z"
   },
   {
    "tier": "B",
