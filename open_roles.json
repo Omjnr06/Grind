@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T04:00:25Z",
+ "generated_at": "2026-11-25T04:15:17Z",
  "counts": {
   "target": 593,
-  "relevant": 2551
+  "relevant": 2546
  },
  "roles": [
   {
@@ -597,12 +597,12 @@
    "tier": "A",
    "track": "swe",
    "company": "Amazon",
-   "title": "Front-End Engineer Intern",
+   "title": "Front-End Engineer Internship \u2013 2027 (US)",
    "location": "Seattle, WA / Chicago, IL / Bellevue, WA",
-   "season": "Winter 2027, Summer 2027, Fall 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
    "first_seen": "2026-11-24T23:45:22Z"
   },
   {
@@ -9981,18 +9981,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Artefact",
-   "title": "AI Strategy Intern",
-   "location": "135 W 26th Street, New York, NY 10001",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958073002",
-   "first_seen": "2026-11-24T00:30:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Artefact",
    "title": "AI Engineering Intern",
    "location": "135 W 26th Street, New York, NY 10001",
    "season": "Not stated",
@@ -10000,18 +9988,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002",
    "first_seen": "2026-11-23T03:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Artefact",
-   "title": "AI Adoption Intern",
-   "location": "135 W 26th Street, New York, NY 10001",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
-   "first_seen": "2026-11-24T00:30:19Z"
   },
   {
    "tier": "B",
@@ -10936,6 +10912,18 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7",
    "first_seen": "2026-07-17T02:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Base Power",
+   "title": "Quantitative Developer Intern",
+   "location": "Austin, TX",
+   "season": "Not stated",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e",
+   "first_seen": "2026-07-22T15:15:34Z"
   },
   {
    "tier": "B",
@@ -12292,18 +12280,6 @@
    "source": "simplify",
    "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Brex",
-   "title": "Software Engineer, Intern  (Summer 2027)",
-   "location": "San Francisco, California, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-   "first_seen": "2026-11-11T22:45:18Z"
   },
   {
    "tier": "B",
@@ -16348,18 +16324,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229243007",
    "first_seen": "2026-11-24T11:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ENFOS",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "location": "Durham, North Carolina, United States; Chicago, Illinois, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/",
-   "first_seen": "2026-09-04T19:01:45Z"
   },
   {
    "tier": "B",
@@ -25881,18 +25845,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Muon Space",
-   "title": "Ground Software Engineering Intern (Summer 2027)",
-   "location": "San Jose, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
-   "first_seen": "2026-10-15T18:18:56Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Muon Space",
    "title": "Software Engineering Intern-Information Systems (Summer 2027)",
    "location": "San Jose, CA",
    "season": "Summer 2027",
@@ -30116,18 +30068,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Renesas Electronics",
-   "title": "Firmware Engineering Intern",
-   "location": "Austin, TEXAS, United States",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000152265599",
-   "first_seen": "2026-09-29T01:14:48Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "reply",
    "title": "graduate ai software developer",
    "location": "london area, united kingdom",
@@ -30832,18 +30772,6 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159363644",
    "first_seen": "2026-11-03T15:38:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Roblox",
-   "title": "[Summer 2027] Software Engineer Intern",
-   "location": "San Mateo, CA, United States",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-   "first_seen": "2026-08-05T18:00:14Z"
   },
   {
    "tier": "B",
@@ -37576,6 +37504,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/9q",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Zoox",
+   "title": "AI Engineering Intern, Operational Safety [Summer 2027]",
+   "location": "Foster City, CA",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+   "first_seen": "2026-11-07T07:59:16Z"
   },
   {
    "tier": "B",
