@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T10:30:21Z",
+ "generated_at": "2026-11-25T10:45:17Z",
  "counts": {
   "target": 593,
-  "relevant": 2541
+  "relevant": 2539
  },
  "roles": [
   {
@@ -17516,18 +17516,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Forterra",
-   "title": "2027 Intern - Software",
-   "location": "Winter Park, FL / Durham, NC / East Palo Alto, CA / Clarksburg, MD / Arlington County, Arlington, VA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
-   "first_seen": "2026-11-17T00:15:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Found Energy",
    "title": "Data Engineer Co-op",
    "location": "Cambridge, MA",
@@ -31444,18 +31432,6 @@
    "source": "speedyapply",
    "url": "https://sec.wd3.myworkdayjobs.com/en-US/samsung_careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018",
    "first_seen": "2026-11-24T22:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Samsung",
-   "title": "Architecture Research Engineer Intern - Resilient Collective Communications",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003",
-   "first_seen": "2026-11-19T00:15:17Z"
   },
   {
    "tier": "B",
