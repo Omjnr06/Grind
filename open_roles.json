@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:30:23Z",
+ "generated_at": "2026-11-25T02:45:15Z",
  "counts": {
   "target": 593,
   "relevant": 2549
@@ -32815,6 +32815,18 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Snowflake",
+   "title": "Product Management Intern",
+   "location": "Menlo Park, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true",
+   "first_seen": "2026-10-30T22:43:21Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Snowflake",
    "title": "Software Engineer Intern, Database Engineering",
@@ -36904,18 +36916,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true",
    "first_seen": "2026-11-18T00:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Waterworth",
-   "title": "Computer Science Co-op",
-   "location": "Victoria, BC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/waterworth/j/D450C48C96/apply",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
