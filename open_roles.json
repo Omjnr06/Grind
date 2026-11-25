@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T14:45:16Z",
+ "generated_at": "2026-11-25T15:00:28Z",
  "counts": {
   "target": 593,
-  "relevant": 2541
+  "relevant": 2542
  },
  "roles": [
   {
@@ -15532,6 +15532,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/en",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Draper",
+   "title": "Simulation Engineering Intern",
+   "location": "Cambridge, MA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1J9",
+   "first_seen": "2026-11-25T15:00:28Z"
   },
   {
    "tier": "B",
