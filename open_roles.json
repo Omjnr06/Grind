@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T18:15:16Z",
+ "generated_at": "2026-11-25T18:30:21Z",
  "counts": {
   "target": 592,
   "relevant": 2542
@@ -14265,18 +14265,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Coinbase",
-   "title": "Data Science Intern, Strategy, Execution, & Analytics Platform",
-   "location": "Remote / United States / Sterling, VA / Denver, CO",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Mu",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Coinbase",
    "title": "Analytics Engineer Intern",
    "location": "San Francisco, CA",
    "season": "Summer",
@@ -26506,7 +26494,7 @@
    "track": "swe",
    "company": "Nordson",
    "title": "Software Intern",
-   "location": "San Francisco, CA",
+   "location": "Austin, TX / San Jose, CA",
    "season": "Summer",
    "sponsorship": "Other",
    "source": "vanshb03",
@@ -33772,6 +33760,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/ha",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TD Bank",
+   "title": "Software Engineer Co-op",
+   "location": "Toronto, Canada / Mississauga, Canada / London, Canada",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1jl",
+   "first_seen": "2026-11-05T22:27:01Z"
   },
   {
    "tier": "B",
