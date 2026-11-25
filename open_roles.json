@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T12:00:24Z",
+ "generated_at": "2026-11-25T12:15:19Z",
  "counts": {
   "target": 593,
-  "relevant": 2542
+  "relevant": 2541
  },
  "roles": [
   {
@@ -19540,18 +19540,6 @@
    "source": "zshah101",
    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
    "first_seen": "2026-11-04T01:23:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Hewlett Packard (HP)",
-   "title": "Software Systems Intern - HP IQ",
-   "location": "San Francisco, California, United States of America",
-   "season": "Fall 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
-   "first_seen": "2026-10-29T02:50:53Z"
   },
   {
    "tier": "B",
