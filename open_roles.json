@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T01:30:21Z",
+ "generated_at": "2026-11-25T01:45:16Z",
  "counts": {
   "target": 593,
-  "relevant": 2548
+  "relevant": 2551
  },
  "roles": [
   {
@@ -22641,6 +22641,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Kinaxis",
+   "title": "Data Foundations Intern - Data & Analytics",
+   "location": "Ottawa, ON, Canada / Remote in Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-11-25T01:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Kinaxis",
    "title": "Developer Co-op, Machine Learning",
    "location": "Remote / United States",
    "season": "Winter",
@@ -31593,6 +31605,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Samsung",
+   "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+   "first_seen": "2026-11-25T01:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Samsung",
    "title": "Intern, Power-Thermal Simulation Software Engineer",
    "location": "San Jose, California, United States",
    "season": "Not stated",
@@ -33352,6 +33376,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true",
    "first_seen": "2026-10-28T23:30:45Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Super",
+   "title": "Data Engineer Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?embed=true",
+   "first_seen": "2026-11-25T01:45:16Z"
   },
   {
    "tier": "B",
