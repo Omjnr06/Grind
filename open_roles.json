@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T02:00:24Z",
+ "generated_at": "2026-11-25T02:15:18Z",
  "counts": {
   "target": 593,
-  "relevant": 2551
+  "relevant": 2549
  },
  "roles": [
   {
@@ -12117,18 +12117,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Botpress Technologies",
-   "title": "Software Developer Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/botpress/j/9B3CB646E8/apply",
-   "first_seen": "2026-11-03T21:15:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Botpress Technologies",
    "title": "Software Developer Intern - WINTER 2027",
    "location": "Montr\u00e9al, Canada",
    "season": "",
@@ -12364,18 +12352,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/fb",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Brooks Running",
-   "title": "Run Performance Graduate Intern - Run Research Team",
-   "location": "Seattle, WA",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -13960,18 +13936,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/hs",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "City of Campbell River",
-   "title": "Co-op Student - OMS Project - Capital Projects",
-   "location": "Campbell River, BC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733",
-   "first_seen": "2026-11-17T23:45:15Z"
   },
   {
    "tier": "B",
@@ -34744,6 +34708,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/the-robotics-company/a85ed44f-f321-42fb-ad09-f67f930e6cde/application?embed=true",
    "first_seen": "2026-10-28T19:32:41Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "The Tech Interactive",
+   "title": "STEM Impact & Data Reporting Intern",
+   "location": "San Jose, CA",
+   "season": "Winter 2027, Spring 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ats.rippling.com/the-tech/jobs/1681a3cc-c0d0-4161-8fcc-6edac78f0475",
+   "first_seen": "2026-11-25T02:15:18Z"
   },
   {
    "tier": "B",
