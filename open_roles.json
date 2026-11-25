@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T23:30:28Z",
+ "generated_at": "2026-11-25T23:45:16Z",
  "counts": {
-  "target": 592,
-  "relevant": 2540
+  "target": 593,
+  "relevant": 2550
  },
  "roles": [
   {
@@ -4876,6 +4876,18 @@
    "source": "simplify",
    "url": "https://www.tesla.com/careers/search/job/290756",
    "first_seen": "2026-11-21T00:15:23Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Tesla",
+   "title": "Robotics Audio DSP Engineer Intern",
+   "location": "Palo Alto, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://www.tesla.com/careers/search/job/291227",
+   "first_seen": "2026-11-25T23:45:16Z"
   },
   {
    "tier": "A",
@@ -12788,6 +12800,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Cantor Fitzgerald",
+   "title": "Technology Summer Intern - Development",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630",
+   "first_seen": "2026-11-25T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Capgemini",
    "title": "Digital and Technology Solutions Degree Apprentice - Engineering",
    "location": "Telford, UK",
@@ -14972,6 +14996,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Dandy",
+   "title": "Software Engineering Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Databricks",
    "title": "Student Fellows Program",
    "location": "data and AI fellowship",
@@ -15244,6 +15280,30 @@
    "source": "simplify",
    "url": "https://careers.docusign.com/jobs/30480?icims=1",
    "first_seen": "2026-10-22T18:03:53Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Docusign",
+   "title": "Product Manager Intern",
+   "location": "Seattle, WA / SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.docusign.com/jobs/32541?icims=1&lang=en-us",
+   "first_seen": "2026-11-25T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Docusign",
+   "title": "Product Manager Intern - Abuse Protection",
+   "location": "Seattle, WA / SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://careers.docusign.com/jobs/32212?icims=1&lang=en-us",
+   "first_seen": "2026-11-25T23:45:16Z"
   },
   {
    "tier": "B",
@@ -15621,6 +15681,30 @@
    "tier": "B",
    "track": "swe",
    "company": "DriveWealth",
+   "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true",
+   "first_seen": "2026-10-28T07:24:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "DriveWealth",
+   "title": "AI Consulting Associate Program Product Owner Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true",
+   "first_seen": "2026-10-28T07:24:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DriveWealth",
    "title": "AI Engineer Intern, AI Consulting Associate Program",
    "location": "Chicago, IL / NYC",
    "season": "Summer",
@@ -15664,6 +15748,18 @@
    "source": "simplify",
    "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003",
    "first_seen": "2026-10-21T20:46:05Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DriveWealth",
+   "title": "AI Consulting Associate Program People Analytics Intern",
+   "location": "Chicago, IL / NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true",
+   "first_seen": "2026-11-18T16:15:32Z"
   },
   {
    "tier": "B",
@@ -31772,6 +31868,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Schonfeld",
+   "title": "Business Analytics Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "SCM",
    "title": "Quantitative Research Analyst Intern",
    "location": "San Jose, CA",
@@ -32948,6 +33056,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Staples",
+   "title": "Full Stack Software Engineer Intern",
+   "location": "Austin, TX",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145",
+   "first_seen": "2026-11-25T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Stealth Startup | Enterprise AI",
    "title": "Software Engineering Intern",
    "location": "Remote / United States / Canada",
@@ -33771,6 +33891,18 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/19b",
+   "first_seen": "2026-11-02T18:36:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Tecsys",
+   "title": "Developer Intern",
+   "location": "Montreal, QC, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.workable.com/tecsys/j/B6D2B7128A/apply",
    "first_seen": "2026-11-02T18:36:52Z"
   },
   {
