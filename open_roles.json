@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T01:15:17Z",
+ "generated_at": "2026-11-25T01:30:21Z",
  "counts": {
   "target": 593,
-  "relevant": 2547
+  "relevant": 2548
  },
  "roles": [
   {
@@ -9052,6 +9052,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1g1",
    "first_seen": "2026-11-04T07:40:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "APEX Analytix",
+   "title": "Data Analyst Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1il",
+   "first_seen": "2026-11-05T16:51:11Z"
   },
   {
    "tier": "B",
