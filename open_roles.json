@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T11:30:20Z",
+ "generated_at": "2026-11-25T11:45:16Z",
  "counts": {
   "target": 593,
-  "relevant": 2541
+  "relevant": 2542
  },
  "roles": [
   {
@@ -23056,6 +23056,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Lendable",
+   "title": "Credit Analyst Intern",
+   "location": "London, UK",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/lendable/eabb1e2a-86c3-48e6-836c-af967e0e71d2/application?embed=true",
+   "first_seen": "2026-11-25T11:45:16Z"
   },
   {
    "tier": "B",
