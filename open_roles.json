@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T06:30:21Z",
+ "generated_at": "2026-11-25T06:45:20Z",
  "counts": {
   "target": 593,
-  "relevant": 2543
+  "relevant": 2542
  },
  "roles": [
   {
@@ -14356,18 +14356,6 @@
    "source": "zshah101",
    "url": "https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891",
    "first_seen": "2026-09-09T17:48:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ConnectPrep",
-   "title": "Data Analyst Intern",
-   "location": "Remote in USA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
