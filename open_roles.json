@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T19:45:20Z",
+ "generated_at": "2026-11-25T20:00:34Z",
  "counts": {
   "target": 592,
-  "relevant": 2544
+  "relevant": 2546
  },
  "roles": [
   {
@@ -17769,6 +17769,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Garmin",
+   "title": "IT DevOps Administrator Intern",
+   "location": "Austin, TX / San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1jp",
+   "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Garmin",
    "title": "Software Engineer Intern",
    "location": "Markham, Canada",
    "season": "Summer",
@@ -21832,6 +21844,18 @@
    "source": "simplify",
    "url": "https://johndeere.eightfold.ai/careers/job/137481983166",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Johns Hopkins APL",
+   "title": "Maritime Software Development Intern, Ocean Systems and Engineering",
+   "location": "San Jose, CA",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1jq",
+   "first_seen": "2026-11-06T02:41:14Z"
   },
   {
    "tier": "B",
@@ -29193,6 +29217,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Qualcomm",
+   "title": "Telemetry Firmware, Driver and Tools Developer Intern",
+   "location": "Austin, TX / San Jose, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1jr",
+   "first_seen": "2026-11-06T02:41:14Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
    "title": "GPU Compiler Intern",
    "location": "Cambridge, UK",
    "season": "",
@@ -29308,18 +29344,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1hp",
    "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Qualcomm",
-   "title": "Telemetry Firmware, Driver and Tools Developer Intern",
-   "location": "Markham, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1jr",
-   "first_seen": "2026-11-06T02:41:14Z"
   },
   {
    "tier": "B",
