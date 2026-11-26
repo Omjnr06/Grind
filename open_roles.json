@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T23:45:16Z",
+ "generated_at": "2026-11-26T00:00:30Z",
  "counts": {
   "target": 593,
-  "relevant": 2550
+  "relevant": 2552
  },
  "roles": [
   {
@@ -12969,6 +12969,18 @@
    "tier": "B",
    "track": "swe",
    "company": "CareSource",
+   "title": "Cybersecurity Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1je",
+   "first_seen": "2026-11-05T22:27:01Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CareSource",
    "title": "Data Analyst Intern",
    "location": "Remote / United States",
    "season": "Summer",
@@ -17644,6 +17656,18 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
    "first_seen": "2026-08-15T02:29:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Fresenius Medical Care",
+   "title": "Embedded Software Co-op",
+   "location": "Seattle, WA / San Francisco, CA",
+   "season": "Winter",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1jc",
+   "first_seen": "2026-11-05T22:27:01Z"
   },
   {
    "tier": "B",
