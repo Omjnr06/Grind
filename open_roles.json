@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T19:30:21Z",
+ "generated_at": "2026-11-26T19:45:18Z",
  "counts": {
   "target": 593,
-  "relevant": 2560
+  "relevant": 2559
  },
  "roles": [
   {
@@ -10588,18 +10588,6 @@
    "source": "simplify",
    "url": "https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job",
    "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Atoms",
-   "title": "Software Engineer Intern",
-   "location": "Seattle, WA",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://job-boards.greenhouse.io/atoms/jobs/8356071002",
-   "first_seen": "2026-10-17T18:26:47Z"
   },
   {
    "tier": "B",
