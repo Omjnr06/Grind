@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T11:30:21Z",
+ "generated_at": "2026-11-26T11:45:18Z",
  "counts": {
   "target": 593,
-  "relevant": 2558
+  "relevant": 2559
  },
  "roles": [
   {
@@ -36508,6 +36508,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true",
    "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Verisk",
+   "title": "Integration Analyst Intern",
+   "location": "London, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213",
+   "first_seen": "2026-11-26T11:45:18Z"
   },
   {
    "tier": "B",
