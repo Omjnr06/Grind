@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T00:15:18Z",
+ "generated_at": "2026-11-26T00:30:21Z",
  "counts": {
   "target": 593,
-  "relevant": 2555
+  "relevant": 2554
  },
  "roles": [
   {
@@ -21964,18 +21964,6 @@
    "source": "simplify",
    "url": "https://johndeere.eightfold.ai/careers/job/137481983166",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Johns Hopkins APL",
-   "title": "Maritime Software Development Intern, Ocean Systems and Engineering",
-   "location": "San Jose, CA",
-   "season": "Spring",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1jq",
-   "first_seen": "2026-11-06T02:41:14Z"
   },
   {
    "tier": "B",
