@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T02:30:24Z",
+ "generated_at": "2026-11-26T02:45:24Z",
  "counts": {
   "target": 593,
-  "relevant": 2554
+  "relevant": 2556
  },
  "roles": [
   {
@@ -27592,6 +27592,30 @@
    "source": "simplify",
    "url": "https://boards.greenhouse.io/opensesame/jobs/8313424",
    "first_seen": "2026-10-23T18:32:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "OpenSesame",
+   "title": "Software Engineer Intern",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://boards.greenhouse.io/opensesame/jobs/8418272",
+   "first_seen": "2026-11-26T02:45:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "OpenSesame",
+   "title": "Product Intern",
+   "location": "Remote in USA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://boards.greenhouse.io/opensesame/jobs/8418204",
+   "first_seen": "2026-11-26T02:45:24Z"
   },
   {
    "tier": "B",
