@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T15:30:21Z",
+ "generated_at": "2026-11-26T15:45:23Z",
  "counts": {
   "target": 593,
-  "relevant": 2559
+  "relevant": 2561
  },
  "roles": [
   {
@@ -15212,6 +15212,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "DEPT",
+   "title": "AI Engineer Trainee - AI Engineer Traineeship",
+   "location": "Netherlands / United Kingdom",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/dept/jobs/8414501",
+   "first_seen": "2026-11-26T15:45:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "DiDi Global",
    "title": "Research Intern - Scene Understanding and Planning",
    "location": "San Jose, CA",
@@ -22192,6 +22204,18 @@
    "source": "simplify",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983",
    "first_seen": "2026-10-28T01:41:27Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "JP Morgan Chase",
+   "title": "Applied AI Intern - HR CDAO",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+   "first_seen": "2026-11-23T23:45:15Z"
   },
   {
    "tier": "B",
