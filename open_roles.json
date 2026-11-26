@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T03:30:20Z",
+ "generated_at": "2026-11-26T03:45:17Z",
  "counts": {
   "target": 593,
-  "relevant": 2559
+  "relevant": 2558
  },
  "roles": [
   {
@@ -37815,18 +37815,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Zoox",
-   "title": "Student Worker - Data Analyst",
-   "location": "San Mateo, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9/apply",
    "first_seen": "2026-10-26T18:56:03Z"
   }
  ]
