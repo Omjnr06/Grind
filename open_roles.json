@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T19:45:18Z",
+ "generated_at": "2026-11-26T20:00:22Z",
  "counts": {
   "target": 593,
-  "relevant": 2559
+  "relevant": 2560
  },
  "roles": [
   {
@@ -26056,6 +26056,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Wm",
    "first_seen": "2026-10-27T22:35:58Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "National Interstate Insurance",
+   "title": "Claims Technical Intern",
+   "location": "Vancouver, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1kH",
+   "first_seen": "2026-11-06T22:04:04Z"
   },
   {
    "tier": "B",
