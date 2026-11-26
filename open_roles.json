@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T03:00:22Z",
+ "generated_at": "2026-11-26T03:15:18Z",
  "counts": {
   "target": 593,
-  "relevant": 2556
+  "relevant": 2557
  },
  "roles": [
   {
@@ -8980,6 +8980,18 @@
    "source": "speedyapply_intl",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
    "first_seen": "2026-10-09T20:05:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Angel Host",
+   "title": "AI Product Engineer Intern Co-op",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2026, Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://angelhost.bamboohr.com/careers/123/",
+   "first_seen": "2026-11-17T07:45:18Z"
   },
   {
    "tier": "B",
