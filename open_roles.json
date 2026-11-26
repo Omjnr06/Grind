@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:45:16Z",
+ "generated_at": "2026-11-26T21:00:23Z",
  "counts": {
   "target": 593,
   "relevant": 2560
@@ -7816,6 +7816,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880",
    "first_seen": "2026-10-29T02:50:53Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Alaska Airlines",
+   "title": "Software Engineer Intern",
+   "location": "Bellevue, WA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1kc",
+   "first_seen": "2026-11-06T17:01:11Z"
   },
   {
    "tier": "B",
@@ -32440,18 +32452,6 @@
    "source": "zshah101",
    "url": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15",
    "first_seen": "2026-11-01T06:30:48Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Shure",
-   "title": "Application Software Development Intern",
-   "location": "Bellevue, WA",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1kb",
-   "first_seen": "2026-11-05T08:43:29Z"
   },
   {
    "tier": "B",
