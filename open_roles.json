@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T01:30:20Z",
+ "generated_at": "2026-11-26T01:45:18Z",
  "counts": {
-  "target": 594,
+  "target": 593,
   "relevant": 2554
  },
  "roles": [
@@ -2728,18 +2728,6 @@
    "source": "simplify",
    "url": "https://www.metacareers.com/jobs/1691709792593561",
    "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Meta",
-   "title": "Research Scientist Intern - AI Infra",
-   "location": "Menlo Park, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.metacareers.com/jobs/4603165899971826",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "A",
