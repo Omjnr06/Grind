@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T03:15:18Z",
+ "generated_at": "2026-11-26T03:30:20Z",
  "counts": {
   "target": 593,
-  "relevant": 2557
+  "relevant": 2559
  },
  "roles": [
   {
@@ -21352,6 +21352,30 @@
    "source": "simplify",
    "url": "https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-10-31T07:44:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Intercontinental Exchange, Inc.",
+   "title": "Infrastructure Observability Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1k5",
+   "first_seen": "2026-11-06T17:01:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Intercontinental Exchange, Inc.",
+   "title": "Software Engineering Intern",
+   "location": "Remote / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1k6",
+   "first_seen": "2026-11-06T17:01:11Z"
   },
   {
    "tier": "B",
