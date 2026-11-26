@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T00:00:30Z",
+ "generated_at": "2026-11-26T00:15:18Z",
  "counts": {
   "target": 593,
-  "relevant": 2552
+  "relevant": 2555
  },
  "roles": [
   {
@@ -8923,6 +8923,18 @@
   },
   {
    "tier": "B",
+   "track": "pm",
+   "company": "Ancestry",
+   "title": "Product Manager Co-op - DNA to Family History - Bridges",
+   "location": "Remote in USA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Manager-Co-op---DNA-to-Family-History--Bridges-_R003505",
+   "first_seen": "2026-11-26T00:15:18Z"
+  },
+  {
+   "tier": "B",
    "track": "swe",
    "company": "Anduril",
    "title": "Software Engineer Intern",
@@ -14188,6 +14200,18 @@
    "source": "speedyapply",
    "url": "https://cna.wd1.myworkdayjobs.com/en-US/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107",
    "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CodeRabbit",
+   "title": "Software Engineer Intern",
+   "location": "SF",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application?embed=true",
+   "first_seen": "2026-11-26T00:15:18Z"
   },
   {
    "tier": "B",
@@ -21496,6 +21520,18 @@
    "source": "speedyapply",
    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Austin-TX/Software-Engineering-Intern_J2472697",
    "first_seen": "2026-11-22T19:30:18Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Jack Henry",
+   "title": "Enterprise Pricing & Data Analytics Intern",
+   "location": "Allen, TX / Birmingham, AL / Monett, MO / Lenexa, KS / Springfield, MO / Overland Park, KS",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jackhenry.avature.net/careers/JobDetail/17682",
+   "first_seen": "2026-11-26T00:15:18Z"
   },
   {
    "tier": "B",
