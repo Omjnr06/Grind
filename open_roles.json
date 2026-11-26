@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T00:30:21Z",
+ "generated_at": "2026-11-26T00:45:17Z",
  "counts": {
-  "target": 593,
+  "target": 594,
   "relevant": 2554
  },
  "roles": [
@@ -3796,6 +3796,18 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
    "first_seen": "2026-11-20T23:45:16Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "location": "Redmond, WA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557097217",
+   "first_seen": "2026-11-26T00:45:17Z"
   },
   {
    "tier": "A",
