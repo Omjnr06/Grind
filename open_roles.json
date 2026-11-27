@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T05:30:21Z",
+ "generated_at": "2026-11-27T05:45:17Z",
  "counts": {
   "target": 592,
-  "relevant": 2558
+  "relevant": 2557
  },
  "roles": [
   {
@@ -13852,18 +13852,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/3a",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Citadel",
-   "title": "Sector Data Scientist Intern",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
