@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T14:00:27Z",
+ "generated_at": "2026-11-27T14:15:19Z",
  "counts": {
   "target": 589,
-  "relevant": 2540
+  "relevant": 2539
  },
  "roles": [
   {
@@ -22137,18 +22137,6 @@
    "tier": "B",
    "track": "swe",
    "company": "JP Morgan Chase",
-   "title": "Applied AI Intern - HR CDAO",
-   "location": "NYC",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
-   "first_seen": "2026-11-23T23:45:15Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JP Morgan Chase",
    "title": "Quant AI Associate Intern",
    "location": "Palo Alto, CA",
    "season": "Summer 2027",
@@ -31017,11 +31005,11 @@
    "tier": "B",
    "track": "swe",
    "company": "Roku",
-   "title": "Software Engineer Intern",
+   "title": "Software Engineering Internship Program - Summer 2027",
    "location": "Manchester, United Kingdom",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
    "url": "https://www.weareroku.com/jobs/8345967?gh_jid=8345967",
    "first_seen": "2026-11-04T15:45:13Z"
   },
