@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T19:00:24Z",
+ "generated_at": "2026-11-27T19:15:16Z",
  "counts": {
   "target": 588,
-  "relevant": 2534
+  "relevant": 2533
  },
  "roles": [
   {
@@ -34491,18 +34491,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://apply.workable.com/focusrite/j/EB05509AE0/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The Focusrite Group",
-   "title": "Software Developer Placement Intern",
-   "location": "Letchworth Garden City, UK",
-   "season": "Winter 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/focusrite/j/BFA6731604/apply",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
