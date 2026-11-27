@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T09:15:17Z",
+ "generated_at": "2026-11-27T09:30:22Z",
  "counts": {
   "target": 589,
-  "relevant": 2555
+  "relevant": 2552
  },
  "roles": [
   {
@@ -7581,18 +7581,6 @@
    "tier": "B",
    "track": "swe",
    "company": "AfterQuery",
-   "title": "Software Engineering Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1li",
-   "first_seen": "2026-11-07T01:52:47Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "AfterQuery",
    "title": "AI/ML Research Intern",
    "location": "San Francisco, CA",
    "season": "Summer",
@@ -7624,6 +7612,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/AfterQuery/68053d93-6d15-4b4a-8a04-65aa5646feb2/application?embed=true",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "AfterQuery",
+   "title": "Software Engineering Intern",
+   "location": "South San Francisco, CA",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1li",
+   "first_seen": "2026-11-07T01:52:47Z"
   },
   {
    "tier": "B",
@@ -9988,18 +9988,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
    "first_seen": "2026-11-23T03:15:20Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ASML",
-   "title": "EUV Data Science and Analytics Intern",
-   "location": "Austin, TX",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1yZ",
-   "first_seen": "2026-11-13T22:30:22Z"
   },
   {
    "tier": "B",
@@ -14536,18 +14524,6 @@
    "source": "simplify",
    "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CoStar Group",
-   "title": "Vision & Learning Intern",
-   "location": "Mississauga, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1yq",
-   "first_seen": "2026-11-13T02:30:20Z"
   },
   {
    "tier": "B",
@@ -34792,18 +34768,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Oo",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The New York Times",
-   "title": "Backend Engineering Intern",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1lg",
-   "first_seen": "2026-11-06T22:04:04Z"
   },
   {
    "tier": "B",
