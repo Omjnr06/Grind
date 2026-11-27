@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T10:30:27Z",
+ "generated_at": "2026-11-27T10:45:16Z",
  "counts": {
   "target": 589,
-  "relevant": 2551
+  "relevant": 2550
  },
  "roles": [
   {
@@ -17608,18 +17608,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true",
    "first_seen": "2026-11-11T03:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Forterra",
-   "title": "2027 Intern - Software",
-   "location": "Winter Park, FL / Durham, NC / East Palo Alto, CA / Clarksburg, MD / Arlington County, Arlington, VA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
-   "first_seen": "2026-11-17T00:15:19Z"
   },
   {
    "tier": "B",
