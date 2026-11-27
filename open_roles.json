@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T06:30:20Z",
+ "generated_at": "2026-11-27T06:45:17Z",
  "counts": {
-  "target": 592,
+  "target": 585,
   "relevant": 2557
  },
  "roles": [
@@ -1461,78 +1461,6 @@
    "tier": "A",
    "track": "swe",
    "company": "ByteDance",
-   "title": "Student Researcher - Large Language Model",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
-   "title": "Student Researcher - Vision Foundation Model",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7623543230203939077/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
-   "title": "Student Researcher - Multimodal Interaction and World Model",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7623547506849679621/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
-   "title": "Student Researcher - Speech Foundation Model",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7623550540616108293/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
-   "title": "Student Researcher",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
-   "title": "Student Researcher - Large Language Model - Seed",
-   "location": "San Jose, CA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7623539152655632693/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
    "title": "Applied Scientist Intern",
    "location": "San Jose, CA",
    "season": "",
@@ -1948,18 +1876,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17K",
    "first_seen": "2026-11-01T13:46:06Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "ByteDance",
-   "title": "Student Researcher - AI Foundation Model Infrastructure",
-   "location": "Seattle, WA",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "A",
