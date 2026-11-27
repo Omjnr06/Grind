@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T02:30:21Z",
+ "generated_at": "2026-11-27T02:45:15Z",
  "counts": {
   "target": 592,
-  "relevant": 2555
+  "relevant": 2561
  },
  "roles": [
   {
@@ -10605,6 +10605,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Atoms",
+   "title": "Software Engineer Intern",
+   "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002",
+   "first_seen": "2026-11-27T02:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Atoms",
    "title": "AI Research Intern  (BS/MS)",
    "location": "SF / Mountain View, CA",
    "season": "Not stated",
@@ -20852,6 +20864,54 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "ICONIQ Capital",
+   "title": "Data & Analytics Intern",
+   "location": "NYC",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973",
+   "first_seen": "2026-11-27T02:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ICONIQ Capital",
+   "title": "AI Engineer Intern",
+   "location": "NYC",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455",
+   "first_seen": "2026-11-27T02:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ICONIQ Capital",
+   "title": "Engineering Intern",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8394060",
+   "first_seen": "2026-11-27T02:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "ICONIQ Capital",
+   "title": "Data Science Intern - Science",
+   "location": "SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972",
+   "first_seen": "2026-11-27T02:45:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "ID.me",
    "title": "Analytics Engineer Intern",
    "location": "Mountain View, CA",
@@ -29140,6 +29200,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17w",
    "first_seen": "2026-11-01T13:46:06Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "PQShield",
+   "title": "Software Engineer Intern",
+   "location": "Oxford, UK",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101",
+   "first_seen": "2026-11-27T02:45:15Z"
   },
   {
    "tier": "B",
