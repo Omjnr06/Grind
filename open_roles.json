@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T19:30:21Z",
+ "generated_at": "2026-11-27T19:45:16Z",
  "counts": {
   "target": 588,
-  "relevant": 2533
+  "relevant": 2531
  },
  "roles": [
   {
@@ -20481,18 +20481,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Huawei",
-   "title": "Engineer Co-op - Intelligent Real-Time Operating System",
-   "location": "Ottawa, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system",
-   "first_seen": "2026-11-13T03:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Huawei",
    "title": "Researcher Intern - Mathematical Foundations of Differentiable World Models",
    "location": "Ottawa, ON, Canada",
    "season": "",
@@ -34480,18 +34468,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1oa",
    "first_seen": "2026-10-02T20:59:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "The Focusrite Group",
-   "title": "Production Systems Developer Intern",
-   "location": "High Wycombe, UK",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://apply.workable.com/focusrite/j/EB05509AE0/apply",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
