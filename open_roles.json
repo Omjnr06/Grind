@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T09:00:31Z",
+ "generated_at": "2026-11-27T09:15:17Z",
  "counts": {
   "target": 589,
-  "relevant": 2554
+  "relevant": 2555
  },
  "roles": [
   {
@@ -10233,18 +10233,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Astera Labs",
-   "title": "CyberSecurity Engineer Intern",
-   "location": "San Jose, CA",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005",
-   "first_seen": "2026-10-13T07:54:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Astera Labs",
    "title": "SG&A AI Implementation Intern",
    "location": "San Jose, CA",
    "season": "Not stated",
@@ -10569,11 +10557,11 @@
    "tier": "B",
    "track": "swe",
    "company": "Atoms",
-   "title": "Software Engineer Intern",
+   "title": "Software Engineering Intern - 2027 Summer Term",
    "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
    "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
+   "sponsorship": "unknown",
+   "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002",
    "first_seen": "2026-11-27T02:45:15Z"
   },
@@ -12777,6 +12765,30 @@
    "tier": "B",
    "track": "swe",
    "company": "Cantor Fitzgerald",
+   "title": "BGC\u2019s 2027 US Technology Summer Internship \u2013 Infrastructure",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631",
+   "first_seen": "2026-11-27T09:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Cantor Fitzgerald",
+   "title": "Cantor 2027 Technology Infrastructure & Automation Internship",
+   "location": "New York, NY, United States",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250648",
+   "first_seen": "2026-11-27T09:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Cantor Fitzgerald",
    "title": "Technology Summer Intern - Development",
    "location": "NYC",
    "season": "Summer 2027",
@@ -14200,6 +14212,18 @@
    "source": "zshah101",
    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
    "first_seen": "2026-09-09T00:36:31Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Coinbase",
+   "title": "Security Engineer Intern",
+   "location": "Hybrid - New York, NY",
+   "season": "Summer 2027",
+   "sponsorship": "unknown",
+   "source": "zshah101",
+   "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
+   "first_seen": "2026-11-27T09:15:17Z"
   },
   {
    "tier": "B",
@@ -15652,6 +15676,54 @@
    "source": "simplify",
    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479",
    "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DriveWealth",
+   "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern, Summer 2027",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec",
+   "first_seen": "2026-11-27T09:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DriveWealth",
+   "title": "AI Consulting Associate Program (AI CAP) Engineering Intern, Summer 2027",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a",
+   "first_seen": "2026-11-27T09:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "DriveWealth",
+   "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern, Summer 2027",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16",
+   "first_seen": "2026-11-27T09:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "DriveWealth",
+   "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern, Summer 2027",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "no-sponsorship",
+   "source": "zshah101",
+   "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87",
+   "first_seen": "2026-11-27T09:15:17Z"
   },
   {
    "tier": "B",
@@ -19804,18 +19876,6 @@
    "source": "speedyapply",
    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
    "first_seen": "2026-10-13T20:44:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Hewlett Packard Enterprise",
-   "title": "Firmware Engineering Intern",
-   "location": "Sunnyvale, California, United States of America",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
-   "first_seen": "2026-10-13T15:24:11Z"
   },
   {
    "tier": "B",
@@ -24964,18 +25024,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1wn",
    "first_seen": "2026-11-12T11:30:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "MegazoneCloud",
-   "title": "Data Engineer Co-op 2027",
-   "location": "Rochester, NY",
-   "season": "Summer 2027",
-   "sponsorship": "no-sponsorship",
-   "source": "zshah101",
-   "url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa",
-   "first_seen": "2026-09-12T14:04:47Z"
   },
   {
    "tier": "B",
@@ -30441,36 +30489,12 @@
    "tier": "B",
    "track": "swe",
    "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-   "location": "New York, NY",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rippling",
    "title": "Data Science Intern - Summer 2027",
    "location": "San Francisco, CA",
    "season": "Summer 2027",
    "sponsorship": "unknown",
    "source": "zshah101",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "first_seen": "2026-09-22T19:09:07Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Rippling",
-   "title": "Full Stack Software Engineer Intern - Summer 2027",
-   "location": "San Francisco, CA",
-   "season": "Summer 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "first_seen": "2026-09-22T19:09:07Z"
   },
   {
@@ -34120,18 +34144,6 @@
    "source": "speedyapply",
    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794",
    "first_seen": "2026-09-28T21:30:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Tencent",
-   "title": "Data Science Intern",
-   "location": "US-California-Palo Alto",
-   "season": "Not stated",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
-   "first_seen": "2026-10-12T09:29:49Z"
   },
   {
    "tier": "B",
