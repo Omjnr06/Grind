@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T15:00:25Z",
+ "generated_at": "2026-11-27T15:15:17Z",
  "counts": {
   "target": 589,
-  "relevant": 2538
+  "relevant": 2537
  },
  "roles": [
   {
@@ -30975,18 +30975,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963",
-   "first_seen": "2026-11-04T15:45:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Roku",
-   "title": "AI Engineering Intern",
-   "location": "Manchester, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954",
    "first_seen": "2026-11-04T15:45:13Z"
   },
   {
