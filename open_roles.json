@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T23:00:23Z",
+ "generated_at": "2026-11-27T23:15:16Z",
  "counts": {
   "target": 585,
-  "relevant": 2532
+  "relevant": 2530
  },
  "roles": [
   {
@@ -20181,18 +20181,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Huawei",
-   "title": "Engineer Co-op - Openjiuwen AI Agent Platform",
-   "location": "Markham, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform",
-   "first_seen": "2026-11-13T03:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Huawei",
    "title": "Audio Researcher Intern - Speech & Acoustic AI",
    "location": "Markham, ON, Canada",
    "season": "",
@@ -20439,18 +20427,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning",
-   "first_seen": "2026-11-13T03:15:16Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Huawei",
-   "title": "Researcher Co-op - AI Computing System",
-   "location": "Vancouver, BC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1",
    "first_seen": "2026-11-13T03:15:16Z"
   },
   {
