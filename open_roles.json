@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T04:15:18Z",
+ "generated_at": "2026-11-27T04:30:19Z",
  "counts": {
   "target": 592,
-  "relevant": 2563
+  "relevant": 2560
  },
  "roles": [
   {
@@ -13833,18 +13833,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Cisco",
-   "title": "AI Operations Engineer I Intern",
-   "location": "San Jose, CA / Milpitas, CA / Rtp, NC / San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ec",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Cisco",
    "title": "Security Consulting Engineer I Intern",
    "location": "Seattle, WA / Sunnyvale, CA",
    "season": "Summer",
@@ -25436,18 +25424,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Micron Technology",
-   "title": "Design Engineer Intern, Pathfinding",
-   "location": "San Jose, CA / Folsom, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/d7",
-   "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Microsoft",
    "title": "Software Engineer Intern",
    "location": "Aliso Viejo, CA",
@@ -35464,18 +35440,6 @@
    "source": "speedyapply_intl",
    "url": "https://tmx.wd3.myworkdayjobs.com/en-US/tmx_careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/DevOps-Analyst-Intern_R-6724",
    "first_seen": "2026-11-18T20:30:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TMX Group",
-   "title": "Jr. Security Analyst Student Intern",
-   "location": "Toronto, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1gt",
-   "first_seen": "2026-11-04T15:45:13Z"
   },
   {
    "tier": "B",
