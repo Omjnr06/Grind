@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T20:45:23Z",
+ "generated_at": "2026-11-27T21:00:32Z",
  "counts": {
   "target": 587,
-  "relevant": 2531
+  "relevant": 2532
  },
  "roles": [
   {
@@ -213,24 +213,24 @@
    "tier": "A",
    "track": "swe",
    "company": "Amazon",
-   "title": "2027 Software Dev Engineer Intern - Embedded Systems - UK",
-   "location": "London, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://www.amazon.jobs/jobs/10588998/apply",
-   "first_seen": "2026-10-27T18:40:07Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Machine Learning - UK",
    "location": "London, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://www.amazon.jobs/jobs/10588762/apply",
+   "first_seen": "2026-10-27T18:40:07Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Amazon",
+   "title": "2027 Software Dev Engineer Intern - Embedded Systems - UK",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10588998/apply",
    "first_seen": "2026-10-27T18:40:07Z"
   },
   {
@@ -2265,18 +2265,6 @@
    "tier": "A",
    "track": "swe",
    "company": "Graphcore",
-   "title": "Firmware Summer Intern 2027",
-   "location": "Bristol, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902588002",
-   "first_seen": "2026-10-21T17:26:19Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "Graphcore",
    "title": "Cloud Platform Summer Intern 2027",
    "location": "Bristol, United Kingdom",
    "season": "",
@@ -2284,6 +2272,18 @@
    "source": "speedyapply_intl",
    "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902072002",
    "first_seen": "2026-11-20T20:00:23Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Graphcore",
+   "title": "Firmware Summer Intern 2027",
+   "location": "Bristol, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902588002",
+   "first_seen": "2026-10-21T17:26:19Z"
   },
   {
    "tier": "A",
@@ -8025,6 +8025,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Amazon",
+   "title": "2027 Software Dev Engineer Internship - AWS EC2",
+   "location": "Berlin, Germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://www.amazon.jobs/jobs/10615428/apply",
+   "first_seen": "2026-11-27T21:00:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Amazon",
    "title": "2027 Software Dev Engineer Intern - Germany",
    "location": "Berlin, Germany",
    "season": "",
@@ -9237,6 +9249,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Apple",
+   "title": "Apple Applied AI & Software Engineering Intern - Finance GBS - Shanghai",
+   "location": "Shanghai, China",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.apple.com/en-us/details/200691508-3715",
+   "first_seen": "2026-11-27T21:00:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Apple",
    "title": "Software Engineer Intern - Full-Stack & AI Agents - Shanghai",
    "location": "Shanghai, China",
    "season": "",
@@ -10120,30 +10144,6 @@
    "source": "simplify",
    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1",
    "first_seen": "2026-10-16T16:49:19Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Assurant",
-   "title": "Software Engineering Intern",
-   "location": "Remote - India",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://assurant.wd1.myworkdayjobs.com/en-US/external_limited_posting/job/India-Virtual/Software-Engineering-Intern_R-116381",
-   "first_seen": "2026-11-26T21:30:20Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Assurant",
-   "title": "Software Engineer - Intern",
-   "location": "Remote - India",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://assurant.wd1.myworkdayjobs.com/en-US/external_limited_posting/job/India-Virtual/Software-Engineer---Intern_R-116432",
-   "first_seen": "2026-11-26T21:30:20Z"
   },
   {
    "tier": "B",
@@ -21585,18 +21585,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Jane Street",
-   "title": "Software Engineer Summer Internship",
-   "location": "London, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://www.janestreet.com/join-jane-street/position/8589868002",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Jane Street",
    "title": "Machine Learning Researcher Intern",
    "location": "New York, NY",
    "season": "Summer",
@@ -25209,6 +25197,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Microsoft",
+   "title": "Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities",
+   "location": "Cairo, Egypt",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073162",
+   "first_seen": "2026-11-27T21:00:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Microsoft",
    "title": "Cloud Solution Architect - Erada Internship",
    "location": "Doha, Qatar",
    "season": "",
@@ -25221,18 +25221,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Microsoft",
-   "title": "Software Engineer Internship Opportunities",
-   "location": "Dublin, Ireland",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773",
-   "first_seen": "2026-11-10T03:30:10Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Microsoft",
    "title": "Cloud Solution Architecture INTERN",
    "location": "Germany",
    "season": "",
@@ -25240,18 +25228,6 @@
    "source": "speedyapply_intl",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041287",
    "first_seen": "2026-11-10T21:39:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Microsoft",
-   "title": "Software Engineering INTERN",
-   "location": "Mexico",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556999316",
-   "first_seen": "2026-09-17T17:21:53Z"
   },
   {
    "tier": "B",
@@ -25276,6 +25252,18 @@
    "source": "speedyapply",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
    "first_seen": "2026-09-12T17:06:07Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Software Engineering INTERN",
+   "location": "Stuttgart, Germany",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076037",
+   "first_seen": "2026-11-27T21:00:32Z"
   },
   {
    "tier": "B",
@@ -25989,18 +25977,6 @@
    "tier": "B",
    "track": "swe",
    "company": "NBCUniversal",
-   "title": "Technology Intern, NBC News Group",
-   "location": "New York, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1os",
-   "first_seen": "2026-11-09T21:03:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NBCUniversal",
    "title": "Advertising & Partnerships: Data Science Internship \u2013 Summer 2027",
    "location": "New York, NY, United States",
    "season": "Summer 2027",
@@ -26061,24 +26037,24 @@
    "tier": "B",
    "track": "swe",
    "company": "NCR Atleos",
-   "title": "Software Engineering Internship",
-   "location": "Dundee, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
-   "first_seen": "2026-10-13T20:44:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "NCR Atleos",
    "title": "Software Support Internship",
    "location": "Dundee, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1",
+   "first_seen": "2026-10-13T20:44:34Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NCR Atleos",
+   "title": "Software Engineering Internship",
+   "location": "Dundee, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern_emea/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1",
    "first_seen": "2026-10-13T20:44:34Z"
   },
   {
@@ -28930,7 +28906,7 @@
    "track": "swe",
    "company": "PQShield",
    "title": "Software Engineer Intern",
-   "location": "Oxford, UK",
+   "location": "Remote - United Kingdom",
    "season": "Summer 2027",
    "sponsorship": "Other",
    "source": "simplify",
@@ -29272,6 +29248,30 @@
    "source": "simplify",
    "url": "https://qualcomm.eightfold.ai/careers/job/446722247294",
    "first_seen": "2026-11-21T00:15:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
+   "title": "FY27 Intern - Software - Systems Engineering Team - Data Center Group- 6 months - Cambridge",
+   "location": "Cambridge, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://careers.qualcomm.com/careers/job/446722247294",
+   "first_seen": "2026-11-27T21:00:32Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
+   "title": "FY27 Intern - RF Systems / Software Engineering - 6 months - Farnborough",
+   "location": "Farnborough, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://careers.qualcomm.com/careers/job/446722197636",
+   "first_seen": "2026-11-27T21:00:32Z"
   },
   {
    "tier": "B",
@@ -29632,6 +29632,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1pw",
    "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Qualcomm",
+   "title": "FY27 Intern - Firmware Engineering Internship - Canada - 16 months",
+   "location": "Toronto, Canada",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://careers.qualcomm.com/careers/job/446722038614",
+   "first_seen": "2026-11-27T21:00:32Z"
   },
   {
    "tier": "B",
@@ -31137,24 +31149,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Runna",
-   "title": "Full Stack Engineer Intern - Growth",
-   "location": "London, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1",
-   "first_seen": "2026-11-24T22:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Runna",
    "title": "Full Stack Engineer Intern - Core App",
    "location": "London, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/runna/3639d900-9433-4e57-b9f8-ad74340c4bad",
+   "first_seen": "2026-11-24T22:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Runna",
+   "title": "Full Stack Engineer Intern - Growth",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1",
    "first_seen": "2026-11-24T22:15:17Z"
   },
   {
@@ -33525,24 +33537,24 @@
    "tier": "B",
    "track": "swe",
    "company": "Talos",
-   "title": "Software Engineer Intern - Trading",
-   "location": "London, United Kingdom",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
-   "first_seen": "2026-09-17T17:21:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Talos",
    "title": "Software Engineer Intern - Infrastructure",
    "location": "London, United Kingdom",
    "season": "",
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935",
+   "first_seen": "2026-09-17T17:21:53Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Talos",
+   "title": "Software Engineer Intern - Trading",
+   "location": "London, United Kingdom",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
    "first_seen": "2026-09-17T17:21:53Z"
   },
   {
@@ -33981,18 +33993,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Terranova",
-   "title": "Embedded Systems Intern",
-   "location": "Berkeley, CA",
-   "season": "Spring",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1lu",
-   "first_seen": "2026-07-22T15:15:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Terranova",
    "title": "AI Intern",
    "location": "Berkeley, CA",
    "season": "",
@@ -34000,6 +34000,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true",
    "first_seen": "2026-11-17T10:15:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Terranova",
+   "title": "Embedded Systems Intern",
+   "location": "Berkeley, CA",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://jobs.ashbyhq.com/Terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da",
+   "first_seen": "2026-07-22T15:15:34Z"
   },
   {
    "tier": "B",
@@ -34929,6 +34941,18 @@
    "tier": "B",
    "track": "swe",
    "company": "TikTok",
+   "title": "Backend Engineer Intern - TikTok Shop - Europe - 2027 Start",
+   "location": "Singapore",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
+   "url": "https://lifeattiktok.com/search/7668567025010690357",
+   "first_seen": "2026-08-05T14:43:11Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "TikTok",
    "title": "Site Reliability Engineer Intern - Global SRE- GMPT - 2027 Start",
    "location": "Singapore",
    "season": "",
@@ -34947,18 +34971,6 @@
    "sponsorship": "",
    "source": "speedyapply_intl",
    "url": "https://lifeattiktok.com/search/7668566238498408709",
-   "first_seen": "2026-08-05T14:43:11Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Backend Engineer Intern - TikTok Shop - Europe - 2027 Start",
-   "location": "Singapore",
-   "season": "",
-   "sponsorship": "",
-   "source": "speedyapply_intl",
-   "url": "https://lifeattiktok.com/search/7668567025010690357",
    "first_seen": "2026-08-05T14:43:11Z"
   },
   {
