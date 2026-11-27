@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T21:15:18Z",
+ "generated_at": "2026-11-27T21:30:19Z",
  "counts": {
   "target": 585,
-  "relevant": 2533
+  "relevant": 2534
  },
  "roles": [
   {
@@ -33976,6 +33976,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Terranova",
+   "title": "Software Engineering Intern",
+   "location": "Berkeley, CA",
+   "season": "Spring",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1lv",
+   "first_seen": "2026-08-07T13:47:34Z"
   },
   {
    "tier": "B",
