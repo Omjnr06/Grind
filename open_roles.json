@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T12:15:27Z",
+ "generated_at": "2026-11-27T12:30:22Z",
  "counts": {
   "target": 589,
-  "relevant": 2549
+  "relevant": 2543
  },
  "roles": [
   {
@@ -9453,18 +9453,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Applied Materials",
-   "title": "Data Science Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Ya",
-   "first_seen": "2026-10-28T23:30:45Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Applied Materials",
    "title": "Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)",
    "location": "Santa Clara, CA",
    "season": "Summer 2027",
@@ -10720,18 +10708,6 @@
    "source": "zshah101",
    "url": "https://job-boards.greenhouse.io/axq/jobs/6181069004",
    "first_seen": "2026-09-03T19:49:32Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Bank of Montreal",
-   "title": "Quantitative Trading Analyst Co-op",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Z0",
-   "first_seen": "2026-10-29T16:03:48Z"
   },
   {
    "tier": "B",
@@ -12256,18 +12232,6 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/bridgeneurotech/50041fa1-417b-4269-8675-8c8746ed93bf/application?embed=true",
    "first_seen": "2026-10-28T01:41:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Broadridge",
-   "title": "Technology Intern",
-   "location": "New York, NY / Edgewood, NY / Newark, NJ",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Y0",
-   "first_seen": "2026-10-28T23:30:45Z"
   },
   {
    "tier": "B",
@@ -19965,18 +19929,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Hitachi",
-   "title": "Software Analyst Intern",
-   "location": "Toronto, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Wz",
-   "first_seen": "2026-10-27T22:35:58Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Hitachi",
    "title": "AI Intern Supply Chain",
    "location": "Toronto, ON, Canada",
    "season": "Winter 2027",
@@ -20248,18 +20200,6 @@
    "source": "simplify",
    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Business-Analyst-Intern_UNI4893-1",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "HP Inc.",
-   "title": "Software Systems Intern, IQ",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Yz",
-   "first_seen": "2026-10-29T02:50:53Z"
   },
   {
    "tier": "B",
@@ -22060,18 +22000,6 @@
    "source": "zshah101",
    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919",
    "first_seen": "2026-09-15T22:32:54Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Johnson Controls",
-   "title": "Software Engineering Co-op",
-   "location": "San Francisco, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Yb",
-   "first_seen": "2026-10-28T23:30:45Z"
   },
   {
    "tier": "B",
