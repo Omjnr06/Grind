@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T22:00:22Z",
+ "generated_at": "2026-11-27T22:15:20Z",
  "counts": {
   "target": 585,
-  "relevant": 2534
+  "relevant": 2533
  },
  "roles": [
   {
@@ -11415,18 +11415,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://birdseyeaccount.bamboohr.com/careers/286/",
-   "first_seen": "2026-11-17T07:45:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Birdseye Security Solutions",
-   "title": "AI Systems Intern",
-   "location": "Mississauga, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://birdseyeaccount.bamboohr.com/careers/287/",
    "first_seen": "2026-11-17T07:45:18Z"
   },
   {
