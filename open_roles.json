@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T20:15:16Z",
+ "generated_at": "2026-11-27T20:30:22Z",
  "counts": {
-  "target": 588,
+  "target": 587,
   "relevant": 2531
  },
  "roles": [
@@ -5476,18 +5476,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/187",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Local Service",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/189",
-   "first_seen": "2026-11-01T13:46:06Z"
   },
   {
    "tier": "A",
