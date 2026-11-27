@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T16:15:19Z",
+ "generated_at": "2026-11-27T16:30:28Z",
  "counts": {
   "target": 589,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -14055,18 +14055,6 @@
    "sponsorship": "Does Not Offer Sponsorship",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1c9",
-   "first_seen": "2026-11-03T07:55:26Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CNA Insurance",
-   "title": "Cybersecurity Intern, Technology",
-   "location": "Chicago, IL",
-   "season": "Summer",
-   "sponsorship": "Does Not Offer Sponsorship",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1cc",
    "first_seen": "2026-11-03T07:55:26Z"
   },
   {
