@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T08:15:18Z",
+ "generated_at": "2026-11-27T08:30:20Z",
  "counts": {
   "target": 589,
-  "relevant": 2555
+  "relevant": 2554
  },
  "roles": [
   {
@@ -36328,18 +36328,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/fq",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "US Internships Public Careers Site",
-   "title": "Undergraduate Frontend Software Engineering Intern",
-   "location": "Los Angeles, CA / San Mateo, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1xb",
-   "first_seen": "2026-11-12T20:00:24Z"
   },
   {
    "tier": "B",
