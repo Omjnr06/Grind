@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T18:30:22Z",
+ "generated_at": "2026-11-27T18:45:17Z",
  "counts": {
   "target": 588,
-  "relevant": 2536
+  "relevant": 2534
  },
  "roles": [
   {
@@ -19497,37 +19497,13 @@
    "tier": "B",
    "track": "swe",
    "company": "HERE Technologies",
-   "title": "Data Science Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-19T00:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "HERE Technologies",
    "title": "Software Engineer Intern",
    "location": "Chicago, IL",
    "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false",
+   "sponsorship": "",
+   "source": "speedyapply",
+   "url": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job",
    "first_seen": "2026-11-19T00:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "HERE Technologies",
-   "title": "Applied AI Research Intern",
-   "location": "Chicago, IL",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-19T23:45:22Z"
   },
   {
    "tier": "B",
