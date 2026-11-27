@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T07:00:25Z",
+ "generated_at": "2026-11-27T07:15:22Z",
  "counts": {
-  "target": 585,
-  "relevant": 2557
+  "target": 589,
+  "relevant": 2556
  },
  "roles": [
   {
@@ -1550,7 +1550,7 @@
    "season": "",
    "sponsorship": "Other",
    "source": "simplify",
-   "url": "https://jobs.bytedance.com/en/position/7670318960697952517/detail",
+   "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -1768,6 +1768,42 @@
    "source": "simplify",
    "url": "https://jobs.bytedance.com/en/position/7702155940239264005/detail",
    "first_seen": "2026-10-31T01:49:57Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "ByteDance",
+   "title": "Student Researcher - Seed Model - LLM",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.bytedance.com/en/position/7623539152655632693/detail",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "ByteDance",
+   "title": "Student Researcher - Seed Model - Speech",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.bytedance.com/en/position/7623550540616108293/detail",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "ByteDance",
+   "title": "Student Researcher - Seed Model - Vision",
+   "location": "San Jose, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.bytedance.com/en/position/7623543230203939077/detail",
+   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "A",
@@ -2007,6 +2043,18 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.bytedance.com/en/position/7670329439609850165/detail",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "ByteDance",
+   "title": "Student Researcher Intern",
+   "location": "Seattle, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.bytedance.com/en/position/7623552947364317445/detail",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
@@ -14092,18 +14140,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9",
    "first_seen": "2026-11-26T21:30:20Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CodeRabbit",
-   "title": "Software Engineer Intern",
-   "location": "SF",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application?embed=true",
-   "first_seen": "2026-11-26T00:15:18Z"
   },
   {
    "tier": "B",
