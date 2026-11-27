@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T14:15:19Z",
+ "generated_at": "2026-11-27T14:30:23Z",
  "counts": {
   "target": 589,
-  "relevant": 2539
+  "relevant": 2538
  },
  "roles": [
   {
@@ -21904,18 +21904,6 @@
    "source": "speedyapply_intl",
    "url": "https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/",
    "first_seen": "2026-10-29T21:04:34Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "JM Family Enterprises",
-   "title": "Data Engineering Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1jd",
-   "first_seen": "2026-11-05T22:27:01Z"
   },
   {
    "tier": "B",
