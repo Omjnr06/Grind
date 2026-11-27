@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T13:15:16Z",
+ "generated_at": "2026-11-27T13:30:24Z",
  "counts": {
   "target": 589,
-  "relevant": 2543
+  "relevant": 2540
  },
  "roles": [
   {
@@ -7948,18 +7948,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/hw",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Altera",
-   "title": "Software Engineer Intern, Factory Apps",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/ZA",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
@@ -17936,18 +17924,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "GE Aerospace",
-   "title": "Artificial Intelligence Intern",
-   "location": "Remote / United States",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/19l",
-   "first_seen": "2026-11-02T18:36:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "GE Vernova",
    "title": "Grid Foundational Models Intern - AGI",
    "location": "Bellevue, WA",
@@ -25396,18 +25372,6 @@
    "source": "speedyapply_intl",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041284",
    "first_seen": "2026-11-10T21:39:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Midland States Bank",
-   "title": "Security Analyst Intern",
-   "location": "Toronto, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/13d",
-   "first_seen": "2026-11-01T06:30:48Z"
   },
   {
    "tier": "B",
