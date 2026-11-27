@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T11:15:17Z",
+ "generated_at": "2026-11-27T11:30:23Z",
  "counts": {
   "target": 589,
-  "relevant": 2551
+  "relevant": 2549
  },
  "roles": [
   {
@@ -30032,18 +30032,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Rakuten International",
-   "title": "eReader Quality Assurance Intern",
-   "location": "Toronto, Canada",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/SF",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Rambus",
    "title": "CAD Engineer Intern",
    "location": "San Jose, CA",
@@ -32631,18 +32619,6 @@
    "sponsorship": "Other",
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Si",
-   "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Skydio",
-   "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools",
-   "location": "Mississauga, Canada",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/Sj",
    "first_seen": "2026-10-26T18:56:03Z"
   },
   {
