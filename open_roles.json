@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T22:30:28Z",
+ "generated_at": "2026-11-27T22:45:16Z",
  "counts": {
   "target": 585,
-  "relevant": 2533
+  "relevant": 2532
  },
  "roles": [
   {
@@ -9706,8 +9706,8 @@
    "track": "swe",
    "company": "Aquatic Capital",
    "title": "Software Engineer Intern (Summer 2027)",
-   "location": "London, UK / Chicago, IL",
-   "season": "Summer 2027",
+   "location": "Chicago, IL",
+   "season": "",
    "sponsorship": "",
    "source": "sndsh404",
    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
@@ -9718,8 +9718,8 @@
    "track": "swe",
    "company": "Aquatic Capital",
    "title": "Quantitative Researcher Intern (Summer 2027)",
-   "location": "London, UK / Chicago, IL",
-   "season": "Summer 2027",
+   "location": "Chicago, IL",
+   "season": "",
    "sponsorship": "",
    "source": "sndsh404",
    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
@@ -11415,18 +11415,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://birdseyeaccount.bamboohr.com/careers/286/",
-   "first_seen": "2026-11-17T07:45:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Birdseye Security Solutions",
-   "title": "Computer Vision Intern",
-   "location": "Mississauga, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://birdseyeaccount.bamboohr.com/careers/289/",
    "first_seen": "2026-11-17T07:45:18Z"
   },
   {
