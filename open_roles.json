@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T17:45:16Z",
+ "generated_at": "2026-11-27T18:00:27Z",
  "counts": {
-  "target": 589,
+  "target": 588,
   "relevant": 2537
  },
  "roles": [
@@ -5668,18 +5668,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/18z",
    "first_seen": "2026-11-01T13:46:06Z"
-  },
-  {
-   "tier": "A",
-   "track": "swe",
-   "company": "TikTok",
-   "title": "Software Engineer Project Intern, Platform Efficiency",
-   "location": "San Jose, CA",
-   "season": "Winter",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/190",
-   "first_seen": "2026-11-01T22:24:58Z"
   },
   {
    "tier": "A",
