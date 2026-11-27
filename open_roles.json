@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T05:15:17Z",
+ "generated_at": "2026-11-27T05:30:21Z",
  "counts": {
   "target": 592,
-  "relevant": 2560
+  "relevant": 2558
  },
  "roles": [
   {
@@ -12981,18 +12981,6 @@
    "tier": "B",
    "track": "swe",
    "company": "CareSource",
-   "title": "Cybersecurity Intern",
-   "location": "Remote / United States",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1je",
-   "first_seen": "2026-11-05T22:27:01Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "CareSource",
    "title": "Data Analyst Intern",
    "location": "Remote / United States",
    "season": "Summer",
@@ -17440,18 +17428,6 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4605724006",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Figure AI",
-   "title": "Deployment Engineering Intern",
-   "location": "San Jose, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/8a",
-   "first_seen": "2026-10-25T11:51:52Z"
   },
   {
    "tier": "B",
