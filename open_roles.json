@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T23:30:21Z",
+ "generated_at": "2026-11-27T23:45:16Z",
  "counts": {
-  "target": 585,
+  "target": 586,
   "relevant": 2530
  },
  "roles": [
@@ -988,6 +988,18 @@
    "source": "simplify",
    "url": "https://jobs.apple.com/en-us/details/200694489",
    "first_seen": "2026-11-12T08:15:19Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Apple",
+   "title": "Software Engineer Interview Intern - Apple Services",
+   "location": "London, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://jobs.apple.com/en-us/details/200696753",
+   "first_seen": "2026-11-27T23:45:16Z"
   },
   {
    "tier": "A",
