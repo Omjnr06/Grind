@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T18:00:27Z",
+ "generated_at": "2026-11-27T18:15:16Z",
  "counts": {
   "target": 588,
-  "relevant": 2537
+  "relevant": 2536
  },
  "roles": [
   {
@@ -30945,23 +30945,11 @@
    "tier": "B",
    "track": "swe",
    "company": "Roku",
-   "title": "AI Engineering Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947",
-   "first_seen": "2026-11-04T15:45:13Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Roku",
-   "title": "Software Engineer Intern",
+   "title": "Software Engineering Internship Program - Summer 2027",
    "location": "Cambridge, United Kingdom",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
+   "season": "",
+   "sponsorship": "",
+   "source": "speedyapply_intl",
    "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963",
    "first_seen": "2026-11-04T15:45:13Z"
   },
