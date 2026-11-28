@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T00:30:22Z",
+ "generated_at": "2026-11-28T00:45:16Z",
  "counts": {
   "target": 587,
-  "relevant": 2533
+  "relevant": 2535
  },
  "roles": [
   {
@@ -15116,6 +15116,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Dimensional Fund Advisors",
+   "title": "Strategy Research Intern",
+   "location": "Austin, TX",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120",
+   "first_seen": "2026-11-28T00:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Direct Supply",
    "title": "AI Engineer Intern",
    "location": "Remote / United States",
@@ -20548,6 +20560,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/17t",
    "first_seen": "2026-11-01T13:46:06Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "iA Financial Group",
+   "title": "AI Specialist Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://ia.wd3.myworkdayjobs.com/Professional/job/Toronto-Ontario/AI-Specialist_JR10028300",
+   "first_seen": "2026-11-28T00:45:16Z"
   },
   {
    "tier": "B",
