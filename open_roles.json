@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T13:30:21Z",
+ "generated_at": "2026-11-28T13:45:24Z",
  "counts": {
   "target": 587,
-  "relevant": 2593
+  "relevant": 2592
  },
  "roles": [
   {
@@ -20512,18 +20512,6 @@
    "source": "simplify",
    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Business-Analyst-Intern_UNI4893-1",
    "first_seen": "2026-10-26T18:56:03Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "HP Inc.",
-   "title": "Software Quality Assurance Intern",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802",
-   "first_seen": "2026-10-29T02:50:53Z"
   },
   {
    "tier": "B",
