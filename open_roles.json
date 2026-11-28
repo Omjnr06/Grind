@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T07:00:25Z",
+ "generated_at": "2026-11-28T07:15:16Z",
  "counts": {
   "target": 587,
-  "relevant": 2600
+  "relevant": 2596
  },
  "roles": [
   {
@@ -12884,18 +12884,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Canadian Tire",
-   "title": "Business Operations Analyst Student - Winter 2027",
-   "location": "Welland, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928",
-   "first_seen": "2026-11-12T00:15:18Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Cantor Fitzgerald",
    "title": "Technology Summer Internship - Development",
    "location": "London, UK",
@@ -19917,18 +19905,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Hewlett Packard (HP)",
-   "title": "Software Engineering Intern - HP IQ",
-   "location": "San Francisco, California, United States of America",
-   "season": "Fall 2027",
-   "sponsorship": "unknown",
-   "source": "zshah101",
-   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
-   "first_seen": "2026-10-29T02:50:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Hewlett Packard (HP)",
    "title": "Software Engineering Intern, AIML Platform - HP IQ",
    "location": "San Francisco, California, United States of America",
    "season": "Fall 2027",
@@ -20571,18 +20547,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802",
-   "first_seen": "2026-10-29T02:50:53Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "HP Inc.",
-   "title": "Software Engineer Intern",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
    "first_seen": "2026-10-29T02:50:53Z"
   },
   {
@@ -33808,18 +33772,6 @@
    "source": "speedyapply",
    "url": "https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b",
    "first_seen": "2026-11-24T22:15:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Strava",
-   "title": "Software Engineer Intern - Server - User Lifecycle",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true",
-   "first_seen": "2026-11-24T00:45:14Z"
   },
   {
    "tier": "B",
