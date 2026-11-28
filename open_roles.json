@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T06:30:19Z",
+ "generated_at": "2026-11-28T06:45:16Z",
  "counts": {
   "target": 587,
-  "relevant": 2602
+  "relevant": 2600
  },
  "roles": [
   {
@@ -33824,18 +33824,6 @@
   {
    "tier": "B",
    "track": "swe",
-   "company": "Strava",
-   "title": "Machine Learning Engineer Intern - AI/ML Data Products",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true",
-   "first_seen": "2026-11-24T00:45:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
    "company": "Stripe",
    "title": "Software Engineer, Intern (Summer or Winter)",
    "location": "New York, Seattle, South San Francisco HQ",
@@ -35044,18 +35032,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/hj",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Thales",
-   "title": "Tools and Process Development Intern",
-   "location": "Montreal, QC, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1",
-   "first_seen": "2026-10-24T08:23:46Z"
   },
   {
    "tier": "B",
