@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T14:00:23Z",
+ "generated_at": "2026-11-28T14:15:24Z",
  "counts": {
   "target": 587,
-  "relevant": 2592
+  "relevant": 2591
  },
  "roles": [
   {
@@ -8512,18 +8512,6 @@
    "source": "simplify",
    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585",
    "first_seen": "2026-11-05T08:43:29Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Amgen",
-   "title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
-   "location": "Remote in USA",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625",
-   "first_seen": "2026-11-13T23:45:17Z"
   },
   {
    "tier": "B",
