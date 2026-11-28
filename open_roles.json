@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T03:15:17Z",
+ "generated_at": "2026-11-28T03:30:21Z",
  "counts": {
   "target": 587,
-  "relevant": 2604
+  "relevant": 2606
  },
  "roles": [
   {
@@ -20180,6 +20180,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Highgate",
+   "title": "Data Services Intern",
+   "location": "Toronto, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1m0",
+   "first_seen": "2026-11-07T14:43:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Highmark Health",
    "title": "Evaluation Analytics Graduate Intern",
    "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho",
@@ -21148,6 +21160,18 @@
    "source": "simplify",
    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "IDEMIA",
+   "title": "Service Platform Engineering Intern",
+   "location": "Montreal, Canada",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1m1",
+   "first_seen": "2026-11-07T14:43:47Z"
   },
   {
    "tier": "B",
