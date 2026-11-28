@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T05:15:17Z",
+ "generated_at": "2026-11-28T05:30:21Z",
  "counts": {
   "target": 587,
-  "relevant": 2601
+  "relevant": 2602
  },
  "roles": [
   {
@@ -7444,6 +7444,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/12y",
    "first_seen": "2026-11-01T06:30:48Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Aechelon Technology",
+   "title": "Junior Software Engineer Intern, RTK",
+   "location": "Austin, TX / Santa Clara, CA / Hillsboro, OR / Fort Collins, CO",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1m3",
+   "first_seen": "2026-11-07T14:43:47Z"
   },
   {
    "tier": "B",
