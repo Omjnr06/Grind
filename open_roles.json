@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T10:00:23Z",
+ "generated_at": "2026-11-28T10:15:17Z",
  "counts": {
   "target": 587,
-  "relevant": 2596
+  "relevant": 2595
  },
  "roles": [
   {
@@ -36232,18 +36232,6 @@
    "source": "simplify",
    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987",
    "first_seen": "2026-10-27T01:48:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Trainline",
-   "title": "Engineer Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true",
-   "first_seen": "2026-11-18T15:45:20Z"
   },
   {
    "tier": "B",
