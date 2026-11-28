@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T00:00:31Z",
+ "generated_at": "2026-11-28T00:15:15Z",
  "counts": {
-  "target": 586,
-  "relevant": 2530
+  "target": 587,
+  "relevant": 2534
  },
  "roles": [
   {
@@ -3400,6 +3400,18 @@
    "source": "simplify",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
    "first_seen": "2026-11-19T15:45:18Z"
+  },
+  {
+   "tier": "A",
+   "track": "swe",
+   "company": "Microsoft",
+   "title": "Research Intern - Distributed AI systems for agentic workflows",
+   "location": "Cambridge, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557106762",
+   "first_seen": "2026-11-28T00:15:15Z"
   },
   {
    "tier": "A",
@@ -12872,6 +12884,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "CARFAX Canada",
+   "title": "Developer Co-op",
+   "location": "London, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://carfaxcanada.bamboohr.com/careers/84/",
+   "first_seen": "2026-11-28T00:15:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "CarGurus",
    "title": "Data Analytics Engineer Intern",
    "location": "San Mateo, CA",
@@ -21148,6 +21172,42 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/gl",
    "first_seen": "2026-10-25T11:51:52Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Intercept",
+   "title": "Analytics & Intelligence Co-op",
+   "location": "Toronto, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://intercept.bamboohr.com/careers/50/",
+   "first_seen": "2026-11-28T00:15:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Intercept",
+   "title": "Product Co-op",
+   "location": "Toronto, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://intercept.bamboohr.com/careers/48/",
+   "first_seen": "2026-11-28T00:15:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Intercept",
+   "title": "Solutions Engineer Co-op",
+   "location": "Toronto, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://intercept.bamboohr.com/careers/49/",
+   "first_seen": "2026-11-28T00:15:15Z"
   },
   {
    "tier": "B",
