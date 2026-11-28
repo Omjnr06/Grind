@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T01:00:22Z",
+ "generated_at": "2026-11-28T01:15:17Z",
  "counts": {
   "target": 587,
-  "relevant": 2535
+  "relevant": 2561
  },
  "roles": [
   {
@@ -8936,6 +8936,42 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Anglian Water",
+   "title": "AI and Automation Apprentice",
+   "location": "Huntingdon, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/AI-and-Automation-Apprentice_R41264",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Anglian Water",
+   "title": "Data Engineer Apprentice",
+   "location": "Lincoln, UK / Huntingdon, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Data-Engineer-Apprentice_R41298",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Anglian Water",
+   "title": "Data Science Degree Apprentice",
+   "location": "Peterborough, UK / Lincoln, UK",
+   "season": "Fall 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Peterborough/Data-Science-Degree-Apprentice_R41268-2",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Anthelion Capital",
    "title": "Quant Developer / Quant Research Intern",
    "location": "NYC",
@@ -11576,6 +11612,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Bloomberg Industry Group",
+   "title": "Engineering Intern",
+   "location": "Arlington County, Arlington, VA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Engineering-Intern_145703",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Blue Origin",
    "title": "Software Developer Intern (Spring 2027)",
    "location": "Seattle, WA (multiple US)",
@@ -12453,6 +12501,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Cadence Design Systems",
+   "title": "Software Engineer Intern - Circuit Simulation",
+   "location": "Austin, TX",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Cadence Design Systems",
    "title": "Software Engineer Intern - Circuit Simulation infrastructure",
    "location": "San Jose, CA",
    "season": "",
@@ -12508,6 +12568,18 @@
    "source": "simplify",
    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
    "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "CAE",
+   "title": "Business Intelligence and Applied AI Intern - Sustainable Procurement",
+   "location": "Montreal, QC, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-157-Business-Intelligence-and-Applied-AI-Intern---Sustainable-Procurement_124528",
+   "first_seen": "2026-11-28T01:15:17Z"
   },
   {
    "tier": "B",
@@ -12628,6 +12700,18 @@
    "source": "simplify",
    "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748",
    "first_seen": "2026-11-13T23:45:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Canadian Tire",
+   "title": "Software Development Student Intern",
+   "location": "Toronto, ON, Canada",
+   "season": "Winter 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Software-Development-Student--4-Months----Winter-2027_JR168222",
+   "first_seen": "2026-11-28T01:15:17Z"
   },
   {
    "tier": "B",
@@ -18261,6 +18345,18 @@
    "tier": "B",
    "track": "swe",
    "company": "General Motors",
+   "title": "Software Engineer Intern - AV/AI Platform",
+   "location": "Sunnyvale, CA / Warren, MI",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "General Motors",
    "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
    "location": "Sunnyvale, California, United States of America",
    "season": "Summer 2027",
@@ -22653,6 +22749,18 @@
    "tier": "B",
    "track": "swe",
    "company": "KLA",
+   "title": "PROLITH Applications Intern",
+   "location": "Austin, TX",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/PROLITH-Applications-Intern_2643111-1",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "KLA",
    "title": "Software Engineer Intern, C++, Linux",
    "location": "Cambridge, MA",
    "season": "Summer",
@@ -22792,6 +22900,30 @@
    "source": "simplify",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Image-Processing-Intern_2642159",
    "first_seen": "2026-10-30T00:55:22Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "KLA",
+   "title": "Software Applications Engineer Intern",
+   "location": "Milpitas, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "KLA",
+   "title": "Marketing Analyst Intern",
+   "location": "Milpitas, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Marketing-Analyst-Intern_2642982",
+   "first_seen": "2026-11-28T01:15:17Z"
   },
   {
    "tier": "B",
@@ -23080,6 +23212,18 @@
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/lendable/eabb1e2a-86c3-48e6-836c-af967e0e71d2/application?embed=true",
    "first_seen": "2026-11-25T11:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Leonardo",
+   "title": "Software Engineer Intern",
+   "location": "Basildon, UK",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283",
+   "first_seen": "2026-11-28T01:15:17Z"
   },
   {
    "tier": "B",
@@ -24424,6 +24568,30 @@
    "source": "speedyapply",
    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
    "first_seen": "2026-09-05T15:31:30Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Marvell",
+   "title": "Applied AI/ML Research Scientist Intern",
+   "location": "Santa Clara, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Marvell",
+   "title": "AI Infrastructure Engineer Intern",
+   "location": "Santa Clara, CA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829",
+   "first_seen": "2026-11-28T01:15:17Z"
   },
   {
    "tier": "B",
@@ -26709,6 +26877,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "AI Compiler and Kernel Intern",
+   "location": "Austin, TX",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+   "first_seen": "2026-11-03T15:38:15Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "Research and Engineering Intern - Agentic Systems Intelligence",
    "location": "Austin, TX / Redmond, WA / Santa Clara, CA",
    "season": "Summer 2027",
@@ -26745,6 +26925,18 @@
    "tier": "B",
    "track": "swe",
    "company": "NVIDIA",
+   "title": "Math Libraries Intern",
+   "location": "Canada / Santa Clara, CA / United States",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
+   "first_seen": "2026-11-03T07:55:26Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
    "title": "Systems Research Intern - Observability",
    "location": "Canada / Santa Clara, CA / United States",
    "season": "Summer 2027",
@@ -26752,6 +26944,66 @@
    "source": "simplify",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
    "first_seen": "2026-11-10T03:30:10Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "Accounting AI Solution Engineer Intern",
+   "location": "Canada / Santa Clara, CA / United States",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "Finance AI Engineer Intern",
+   "location": "Canada / Santa Clara, CA / United States",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "Software Engineer Intern - Simulation Technology",
+   "location": "Canada / Santa Clara, CA / United States",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "AI and Quant Devtech Engineering Intern",
+   "location": "Canada / Santa Clara, CA / United States",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "NVIDIA",
+   "title": "Developer Technology Intern",
+   "location": "Canada / Santa Clara, CA / United States",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
+   "first_seen": "2026-11-28T01:15:17Z"
   },
   {
    "tier": "B",
@@ -31652,6 +31904,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Saputo",
+   "title": "Packaging Data and Sustainability Intern",
+   "location": "Montreal, QC, Canada / Saint-Leonard, Montreal, QC, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Saint-Leonard-QC/Stagiaire--dveloppement-durable-et-emballage_JR68362",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Sardine",
    "title": "Engineering Intern",
    "location": "Remote / United States / Canada",
@@ -32743,6 +33007,18 @@
   },
   {
    "tier": "B",
+   "track": "swe",
+   "company": "SOTI",
+   "title": "Software Developer Intern",
+   "location": "Mississauga, ON, Canada",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
+   "first_seen": "2026-10-26T18:56:03Z"
+  },
+  {
+   "tier": "B",
    "track": "pm",
    "company": "SOTI",
    "title": "Associate Product Manager Intern",
@@ -32764,18 +33040,6 @@
    "source": "simplify",
    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
    "first_seen": "2026-10-27T01:48:12Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "SOTI",
-   "title": "Software Developer Intern",
-   "location": "Mississauga, ON, Canada",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
-   "first_seen": "2026-10-26T18:56:03Z"
   },
   {
    "tier": "B",
@@ -32944,6 +33208,30 @@
    "source": "simplify",
    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145",
    "first_seen": "2026-11-25T23:45:16Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "State Street",
+   "title": "AI Engineer Intern",
+   "location": "Cambridge, MA",
+   "season": "Winter 2027, Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801273",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "State Street",
+   "title": "Product Internship - Data Intelligence",
+   "location": "Cambridge, MA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340",
+   "first_seen": "2026-11-28T01:15:17Z"
   },
   {
    "tier": "B",
@@ -33453,6 +33741,18 @@
    "tier": "B",
    "track": "swe",
    "company": "T-Mobile",
+   "title": "Software Engineer Intern",
+   "location": "Bellevue, WA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ380511",
+   "first_seen": "2026-11-28T01:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "T-Mobile",
    "title": "Summer 2027 Software Engineering Internship",
    "location": "Bellevue, WA",
    "season": "",
@@ -33532,6 +33832,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1l9",
    "first_seen": "2026-11-06T22:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "T-Mobile",
+   "title": "Software Engineer Intern",
+   "location": "Frisco, TX / Bellevue, WA / Overland Park, KS",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380459",
+   "first_seen": "2026-11-28T01:15:17Z"
   },
   {
    "tier": "B",
