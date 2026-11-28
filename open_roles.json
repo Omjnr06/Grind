@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T01:15:17Z",
+ "generated_at": "2026-11-28T01:30:20Z",
  "counts": {
   "target": 587,
-  "relevant": 2561
+  "relevant": 2562
  },
  "roles": [
   {
@@ -10012,18 +10012,6 @@
    "source": "zshah101",
    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
    "first_seen": "2026-11-13T22:30:22Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "ASML",
-   "title": "Machine Learning and Image-Based EUV System Setup Intern",
-   "location": "San Francisco, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1h9",
-   "first_seen": "2026-11-05T01:46:59Z"
   },
   {
    "tier": "B",
@@ -34856,6 +34844,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "The New York Times",
+   "title": "Backend Engineering Intern",
+   "location": "Santa Clara, CA / Canada / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1lg",
+   "first_seen": "2026-11-06T22:04:04Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "The Opus Group",
    "title": "Interactive Resident",
    "location": "Remote in USA",
@@ -35980,6 +35980,18 @@
    "source": "simplify",
    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
    "first_seen": "2026-10-24T08:23:46Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Trimble",
+   "title": "AI Automation Intern",
+   "location": "Santa Clara, CA / Canada / United States",
+   "season": "Summer",
+   "sponsorship": "Other",
+   "source": "vanshb03",
+   "url": "https://go.vansh.nyc/1lh",
+   "first_seen": "2026-11-07T01:52:47Z"
   },
   {
    "tier": "B",
