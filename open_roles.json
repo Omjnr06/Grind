@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T00:15:15Z",
+ "generated_at": "2026-11-28T00:30:22Z",
  "counts": {
   "target": 587,
-  "relevant": 2534
+  "relevant": 2533
  },
  "roles": [
   {
@@ -21352,18 +21352,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/ch",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Invesco",
-   "title": "Real Estate Intern, Data Science",
-   "location": "Corning, NY",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1ly",
-   "first_seen": "2026-11-07T01:52:47Z"
   },
   {
    "tier": "B",
