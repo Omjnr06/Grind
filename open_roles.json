@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T03:30:21Z",
+ "generated_at": "2026-11-28T03:45:15Z",
  "counts": {
   "target": 587,
-  "relevant": 2606
+  "relevant": 2601
  },
  "roles": [
   {
@@ -15717,18 +15717,6 @@
    "tier": "B",
    "track": "swe",
    "company": "DraftKings",
-   "title": "Data Science Intern",
-   "location": "London, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1",
-   "first_seen": "2026-11-13T15:45:17Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "DraftKings",
    "title": "Software Engineering Intern - Summer 2027",
    "location": "London, United Kingdom",
    "season": "",
@@ -21604,18 +21592,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/e1",
    "first_seen": "2026-10-25T11:51:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Intel",
-   "title": "Compiler Engineer Intern",
-   "location": "Toronto, ON, Canada",
-   "season": "",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
-   "first_seen": "2026-10-17T18:26:47Z"
   },
   {
    "tier": "B",
@@ -33825,18 +33801,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Strava",
-   "title": "Software Engineer Intern - Android - Subscriptions",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true",
-   "first_seen": "2026-11-24T00:45:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Strava",
    "title": "Software Engineer Intern - Server - User Lifecycle",
    "location": "SF",
    "season": "Summer 2027",
@@ -33855,18 +33819,6 @@
    "sponsorship": "Other",
    "source": "simplify",
    "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true",
-   "first_seen": "2026-11-24T00:45:14Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Strava",
-   "title": "Software Engineer Intern - Server - Next Sports",
-   "location": "SF",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true",
    "first_seen": "2026-11-24T00:45:14Z"
   },
   {
@@ -37276,18 +37228,6 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/Xh",
    "first_seen": "2026-10-28T14:12:27Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Visa",
-   "title": "Software Engineer Intern",
-   "location": "Cambridge, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
-   "first_seen": "2026-11-12T15:45:18Z"
   },
   {
    "tier": "B",
