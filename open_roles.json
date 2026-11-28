@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T02:30:21Z",
+ "generated_at": "2026-11-28T02:45:23Z",
  "counts": {
   "target": 587,
-  "relevant": 2601
+  "relevant": 2606
  },
  "roles": [
   {
@@ -10857,18 +10857,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Barclays",
-   "title": "Customer and Digital Data and Analytics Intern",
-   "location": "Glasgow, UK",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278",
-   "first_seen": "2026-10-31T13:53:54Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Barclays",
    "title": "2027 Technology Developer Summer Internship Programme Knutsford",
    "location": "Knutsford, United Kingdom",
    "season": "",
@@ -12789,6 +12777,18 @@
    "tier": "B",
    "track": "swe",
    "company": "Camping World",
+   "title": "BI & AI Analyst Intern",
+   "location": "Chicago, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/BI---AI-Analyst-Intern_26_09294",
+   "first_seen": "2026-11-28T02:45:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Camping World",
    "title": "Data Engineering Intern",
    "location": "Chicago, IL / Lincolnshire, IL",
    "season": "Summer 2027",
@@ -12796,6 +12796,30 @@
    "source": "simplify",
    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
    "first_seen": "2026-11-14T16:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Camping World",
+   "title": "Data Analyst Intern - AI & Machine Learning Focus",
+   "location": "Chicago, IL / Lincolnshire, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
+   "first_seen": "2026-11-14T16:15:17Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Camping World",
+   "title": "AI Intern",
+   "location": "Chicago, IL / Lincolnshire, IL",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/AI-Intern_26_09088",
+   "first_seen": "2026-11-28T02:45:23Z"
   },
   {
    "tier": "B",
@@ -13120,6 +13144,18 @@
    "source": "vanshb03",
    "url": "https://go.vansh.nyc/1xc",
    "first_seen": "2026-11-12T20:00:24Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Carpenter Technology",
+   "title": "Business Continuity Data Analyst & Reporting Intern",
+   "location": "Reading, PA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Business-Continuity-Data-Analyst---Reporting-Intern_27047",
+   "first_seen": "2026-11-28T02:45:23Z"
   },
   {
    "tier": "B",
@@ -18320,6 +18356,30 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Genentech",
+   "title": "AI for Drug Discovery Intern",
+   "location": "South SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery_202611-129909",
+   "first_seen": "2026-11-28T02:45:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
+   "company": "Genentech",
+   "title": "Software Engineer Intern - Robotics - Lab Automation",
+   "location": "South SF",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832",
+   "first_seen": "2026-11-28T02:45:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "General Dynamics Information Technology",
    "title": "Systems Engineer Intern",
    "location": "Redmond, WA",
@@ -20140,18 +20200,6 @@
    "source": "simplify",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845",
    "first_seen": "2026-10-26T22:57:43Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Highmark Health",
-   "title": "Clinical and Population Health Graduate Intern",
-   "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho",
-   "season": "Summer 2027",
-   "sponsorship": "Other",
-   "source": "simplify",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011",
-   "first_seen": "2026-10-30T00:55:22Z"
   },
   {
    "tier": "B",
@@ -24801,18 +24849,6 @@
    "tier": "B",
    "track": "swe",
    "company": "Marvell",
-   "title": "AI-Native Development Platform Engineer Intern",
-   "location": "Santa Clara, CA",
-   "season": "Summer",
-   "sponsorship": "Other",
-   "source": "vanshb03",
-   "url": "https://go.vansh.nyc/1o3",
-   "first_seen": "2026-10-24T21:18:52Z"
-  },
-  {
-   "tier": "B",
-   "track": "swe",
-   "company": "Marvell",
    "title": "AI Data Science Intern, MS - Summer 2027",
    "location": "Santa Clara, CA",
    "season": "Summer 2027",
@@ -29120,6 +29156,18 @@
   {
    "tier": "B",
    "track": "swe",
+   "company": "Philips",
+   "title": "Marketing Operations Analyst Intern",
+   "location": "Cambridge, MA",
+   "season": "Summer 2027",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Marketing-Operations---Cambridge--MA---Summer-2027_593642",
+   "first_seen": "2026-11-28T02:45:23Z"
+  },
+  {
+   "tier": "B",
+   "track": "swe",
    "company": "Phoebe",
    "title": "Software Engineering Intern",
    "location": "New York City, NY",
@@ -32056,6 +32104,18 @@
    "source": "simplify",
    "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786",
    "first_seen": "2026-11-07T01:52:47Z"
+  },
+  {
+   "tier": "B",
+   "track": "pm",
+   "company": "Samsung",
+   "title": "Technical Product Management Intern - D2C Shopping Experiences - Mobile & Consumer Electronics",
+   "location": "Mountain View, CA",
+   "season": "",
+   "sponsorship": "Other",
+   "source": "simplify",
+   "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020",
+   "first_seen": "2026-11-28T02:45:23Z"
   },
   {
    "tier": "B",
